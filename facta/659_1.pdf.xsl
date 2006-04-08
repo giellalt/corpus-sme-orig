@@ -6,6 +6,7 @@
    
 
 <!-- Add the metainformation manually -->
+<xsl:variable name="filename" select="''"/>
   <xsl:variable name="title" select="'Boazodoallo ođđasat'"/>
   <xsl:variable name="author1_fn" select="''"/>
   <xsl:variable name="author1_ln" select="''"/>
@@ -46,80 +47,52 @@
   <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
-  <xsl:variable name="mainlang" select="'sme'"/>
-  
+<xsl:variable name="template_version" select="' 1.9 '"/>
+<xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
 
-<!-- These id:s are for identifying paragraph/section languages -->
-<!-- Example: <xsl:variable name="id" select="'1234' and '5678'"/> -->
-  <xsl:variable name="smeid" select="''"/>
-  <xsl:variable name="smjid" select="''"/>
-  <xsl:variable name="smaid" select="''"/>
-  <xsl:variable name="nobid" select="''"/>
-  <xsl:variable name="nnoid" select="''"/>
-  <xsl:variable name="sweid" select="''"/>
-  <xsl:variable name="finid" select="''"/>
-  <xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
-  
+
+<!-- The main language of the document -->
+<xsl:variable name="mainlang" select="'sme'"/>
+
+<!-- Other languages, in case of multilingual document. -->
+<!-- Select "1" for the variable multilingual -->
+<!-- and for the languages present -->
+<xsl:variable name="multilingual" select="''"/>
+<xsl:variable name="mlang_sme" select="''"/>
+<xsl:variable name="mlang_smj" select="''"/>
+<xsl:variable name="mlang_sma" select="''"/>
+<xsl:variable name="mlang_nob" select="''"/>
+<xsl:variable name="mlang_nno" select="''"/>
+<xsl:variable name="mlang_swe" select="''"/>
+<xsl:variable name="mlang_fin" select="''"/>
+<xsl:variable name="mlang_ger" select="''"/>
+<xsl:variable name="mlang_eng" select="''"/>
+<xsl:variable name="mlang_oth" select="''"/>
 
 <!-- Tag the specified elements with the specified language: -->
-<!-- Change the language to what is needed. -->
-<!-- The numbers in the expression [@id = '1234'] are generated automatically,
-     see the output from conversion to xml for the correct number for the
-     paragraphs to change. Then add that number below, and rerun the  script. -->
-  <xsl:template match="id('$smeid')">
-    
-    <!-- Add the language specified below to the sections specified above: -->
+<xsl:variable name="smelang" select="'sme'"/>
+<xsl:variable name="smjlang" select="'smj'"/>
+<xsl:variable name="smalang" select="'sma'"/>
+<xsl:variable name="noblang" select="'nob'"/>
+<xsl:variable name="nnolang" select="'nno'"/>
+<xsl:variable name="swelang" select="'swe'"/>
+<xsl:variable name="finlang" select="'fin'"/>
+<xsl:variable name="englang" select="'swe'"/>
+<xsl:variable name="gerlang" select="'fin'"/>
+
+<!-- Add all paragraphs that should have xml:lang=X-->
+<!-- Uncomment the following and add the paths, for example: -->
+<!-- <xsl:template match="/root/section[2]/paragraph[5] |
+                      /root/section[3]/paragraph[2] "> -->
+<!--
+<xsl:template match="">
+    <xsl:element name="p">
     <xsl:attribute name="xml:lang">
-      <xsl:value-of select="$smelang"/>
+        <xsl:value-of select="$smelang"/>
     </xsl:attribute>
     <xsl:apply-templates/>
-  </xsl:template>
-  <xsl:template match="id('$smjid')">
-    
-    <!-- Add the language specified below to the sections specified above: -->
-    <xsl:attribute name="xml:lang">
-      <xsl:value-of select="$smjlang"/>
-    </xsl:attribute>
-    <xsl:apply-templates/>
-  </xsl:template>
-  <xsl:template match="id('$smaid')">
-    
-    <!-- Add the language specified below to the sections specified above: -->
-    <xsl:attribute name="xml:lang">
-      <xsl:value-of select="$smalang"/>
-    </xsl:attribute>
-    <xsl:apply-templates/>
-  </xsl:template>
-  <xsl:template match="id('$nobid')">
-    
-    <!-- Add the language specified below to the sections specified above: -->
-    <xsl:attribute name="xml:lang">
-      <xsl:value-of select="$noblang"/>
-    </xsl:attribute>
-    <xsl:apply-templates/>
-  </xsl:template>
-  <xsl:template match="id('$nnoid')">
-    
-    <!-- Add the language specified below to the sections specified above: -->
-    <xsl:attribute name="xml:lang">
-      <xsl:value-of select="$nnolang"/>
-    </xsl:attribute>
-    <xsl:apply-templates/>
-  </xsl:template>
-  <xsl:template match="id('$sweid')">
-    
-    <!-- Add the language specified below to the sections specified above: -->
-    <xsl:attribute name="xml:lang">
-      <xsl:value-of select="$swelang"/>
-    </xsl:attribute>
-    <xsl:apply-templates/>
-  </xsl:template>
-  <xsl:template match="id('$finid')">
-    
-    <!-- Add the language specified below to the sections specified above: -->
-    <xsl:attribute name="xml:lang">
-      <xsl:value-of select="$finlang"/>
-    </xsl:attribute>
-    <xsl:apply-templates/>
-  </xsl:template>
+</xsl:element>
+ </xsl:template>
+-->
+
 </xsl:stylesheet>
