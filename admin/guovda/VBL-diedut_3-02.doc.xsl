@@ -18,7 +18,7 @@
 <xsl:variable name="filename" select="''"/>
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="'Anne Marit'"/>
-<xsl:variable name="author1_ln" select="Triumf''"/>
+<xsl:variable name="author1_ln" select="'Triumf'"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author1_nat" select="''"/>
@@ -57,7 +57,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.3 $'"/>
 
 
 <!-- The main language of the document -->
