@@ -57,7 +57,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.3 $'"/>
 
 
 <!-- The main language of the document -->
@@ -66,13 +66,13 @@
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
 <!-- and for the languages present -->
-<xsl:variable name="multilingual" select="''"/>
-<xsl:variable name="mlang_sme" select="''"/>
+<xsl:variable name="multilingual" select="'1'"/>
+<xsl:variable name="mlang_sme" select="'1'"/>
 <xsl:variable name="mlang_smj" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
 <xsl:variable name="mlang_nob" select="''"/>
 <xsl:variable name="mlang_nno" select="''"/>
-<xsl:variable name="mlang_swe" select="''"/>
+<xsl:variable name="mlang_swe" select="'1'"/>
 <xsl:variable name="mlang_fin" select="''"/>
 <xsl:variable name="mlang_ger" select="''"/>
 <xsl:variable name="mlang_eng" select="''"/>
