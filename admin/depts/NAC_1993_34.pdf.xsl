@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version="1.0"?>
 <!-- Format query results for display -->
-<xsl:stylesheet version="1.0" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'NAC_1993_94.pdf'"/>
-  <xsl:variable name="title" select="'1.Vuoigatvuohta Finnmárkku eatnamiidda ja čáziide ja daid hálddašeapmi'"/>
+  <xsl:variable name="title" select="'1.Vuoigatvuohta Finnm&#xE1;rkku eatnamiidda ja &#x10D;&#xE1;ziide ja daid h&#xE1;ldda&#x161;eapmi'"/>
   <xsl:variable name="author1_fn" select="'Tor'"/>
   <xsl:variable name="author1_ln" select="'Falch'"/>
   <xsl:variable name="author1_gender" select="'m'"/>
@@ -17,7 +16,7 @@
   <xsl:variable name="author2_born" select="''"/>
   <xsl:variable name="author2_nat" select="'nor'"/>
   <xsl:variable name="author3_fn" select="'Ingunn'"/>
-  <xsl:variable name="author3_ln" select="'Åsgård Bendiksen'"/>
+  <xsl:variable name="author3_ln" select="'&#xC5;sg&#xE5;rd Bendiksen'"/>
   <xsl:variable name="author3_gender" select="'f'"/>
   <xsl:variable name="author3_born" select="''"/>
   <xsl:variable name="author3_nat" select="'nor'"/>
@@ -40,13 +39,13 @@
   <xsl:variable name="translator_gender" select="'unknown'"/>
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
-  <xsl:variable name="license_type" select="'free'"/>
+  <xsl:variable name="license_type" select="free"/>
   <xsl:variable name="sub_name" select="'Trond Trosterud'"/>
   <xsl:variable name="sub_email" select="'trond.trosterud@hum.uit.no'"/>
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.9 '"/>
-  <xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+  <xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
   <!-- The main language of the document -->
   <xsl:variable name="mainlang" select="'sme'"/>
   <!-- Other languages, in case of multilingual document. -->

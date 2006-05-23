@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version="1.0"?>
 <!-- Format query results for display -->
-<xsl:stylesheet version="1.0" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'gs_2_05.doc'"/>
-  <xsl:variable name="title" select="'Møteprotokoll'"/>
+  <xsl:variable name="title" select="'M&#xF8;teprotokoll'"/>
   <xsl:variable name="author1_fn" select="'Risten'"/>
   <xsl:variable name="author1_ln" select="'Turi'"/>
   <xsl:variable name="author1_gender" select="'f'"/>
@@ -27,7 +26,7 @@
   <xsl:variable name="author4_born" select="''"/>
   <xsl:variable name="author4_nat" select="''"/>
   <xsl:variable name="translated_from" select="''"/>
-  <xsl:variable name="publisher" select="'Sámediggi'"/>
+  <xsl:variable name="publisher" select="'S&#xE1;mediggi'"/>
   <xsl:variable name="publChannel" select="''"/>
   <xsl:variable name="year" select="'2005'"/>
   <xsl:variable name="ISBN" select="''"/>
@@ -40,13 +39,13 @@
   <xsl:variable name="translator_gender" select="'unknown'"/>
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
-  <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'Børre Gaup'"/>
+  <xsl:variable name="license_type" select="free"/>
+  <xsl:variable name="sub_name" select="'B&#xF8;rre Gaup'"/>
   <xsl:variable name="sub_email" select="'boerre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.9 '"/>
-  <xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+  <xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
   <!-- The main language of the document -->
   <xsl:variable name="mainlang" select="'sme'"/>
   <!-- Other languages, in case of multilingual document. -->
