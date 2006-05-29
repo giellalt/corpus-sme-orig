@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version="1.0"?>
 <!-- Format query results for display -->
-<xsl:stylesheet version="1.0" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
    
 
 <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="''"/>
-  <xsl:variable name="title" select="'NJUOLGGADUS RIEVDAMA BIRRA NJUOLGGADUSAS ČAKČAMÁNU 21. BEAIVVI 1979 NR. 7 MII LEA DAN BIRRA AHTE GEAVAHIT SUODJEBIERGASIID GO VUODJÁ MOHTORFIEVRRUIN '"/>
+  <xsl:variable name="title" select="'NJUOLGGADUS RIEVDAMA BIRRA NJUOLGGADUSAS &#x10C;AK&#x10C;AM&#xC1;NU 21. BEAIVVI 1979 NR. 7 MII LEA DAN BIRRA AHTE GEAVAHIT SUODJEBIERGASIID GO VUODJ&#xC1; MOHTORFIEVRRUIN '"/>
   <xsl:variable name="author1_fn" select="''"/>
   <xsl:variable name="author1_ln" select="''"/>
   <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -43,12 +42,12 @@
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'Børre Gaup'"/>
+  <xsl:variable name="sub_name" select="'B&#xF8;rre Gaup'"/>
   <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="'Revision 1.8'"/>
-  <xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+  <xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
 
 
 <!-- The main language of the document -->
