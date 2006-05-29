@@ -39,12 +39,12 @@
   <xsl:variable name="translator_gender" select="'unknown'"/>
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
-  <xsl:variable name="license_type" select="free"/>
+  <xsl:variable name="license_type" select="'free'"/>
   <xsl:variable name="sub_name" select="'B&#xF8;rre Gaup'"/>
   <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
-  <xsl:variable name="template_version" select="'$Revision: 1.2 $'"/>
+  <xsl:variable name="template_version" select="'$Revision: 1.3 $'"/>
   <xsl:variable name="current_version" select="'Revision'"/>
   <!-- The main language of the document -->
   <xsl:variable name="mainlang" select="'sme'"/>
