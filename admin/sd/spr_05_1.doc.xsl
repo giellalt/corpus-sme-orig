@@ -43,10 +43,13 @@
   <xsl:variable select="'borre.gaup@samediggi.no'" name="sub_email"/>
   <xsl:variable select="''" name="wordcount"/>
   <xsl:variable select="'uncomplete'" name="metadata"/>
-  <xsl:variable select="'$Revision: 1.2 $'" name="template_version"/>
+  <xsl:variable select="'$Revision: 1.3 $'" name="template_version"/>
   <xsl:variable select="'Revision'" name="current_version"/>
 <!-- The main language of the document -->  <xsl:variable select="'sme'" name="mainlang"/>
-<!-- Other languages, in case of multilingual document. --><!-- Select "1" for the variable multilingual --><!-- and for the languages present -->  <xsl:variable select="''" name="multilingual"/>
+<!-- Other languages, in case of multilingual document. --><!-- Select "1" for the variable multilingual --><!-- and for the languages present -->  <!--Select "1" for monolingual to turn language recog off-->
+<xsl:variable name="monolingual" select="''"/>
+<xsl:variable name="multilingual" select="''"/>
+
   <xsl:variable select="''" name="mlang_sme"/>
   <xsl:variable select="''" name="mlang_smj"/>
   <xsl:variable select="''" name="mlang_sma"/>
