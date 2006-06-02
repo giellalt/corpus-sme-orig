@@ -7,9 +7,9 @@
 <!-- Add the metainformation manually -->
 <xsl:variable name="filename" select="''"/>
 <xsl:variable name="title" select="''"/>
-<xsl:variable name="author1_fn" select="'Aage'"/>
-<xsl:variable name="author1_ln" select="'Solbakk'"/>
-<xsl:variable name="author1_gender" select="'m'"/>
+<xsl:variable name="author1_fn" select="'Anne Biret'"/>
+<xsl:variable name="author1_ln" select="'Anti'"/>
+<xsl:variable name="author1_gender" select="'f'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author2_fn" select="''"/>
@@ -47,7 +47,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.3 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.4 $'"/>
 
 
 <!-- The main language of the document -->
