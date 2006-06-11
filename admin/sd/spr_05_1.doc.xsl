@@ -43,7 +43,7 @@
   <xsl:variable select="'borre.gaup@samediggi.no'" name="sub_email"/>
   <xsl:variable select="''" name="wordcount"/>
   <xsl:variable select="'uncomplete'" name="metadata"/>
-  <xsl:variable select="'$Revision: 1.3 $'" name="template_version"/>
+  <xsl:variable select="'$Revision: 1.4 $'" name="template_version"/>
   <xsl:variable select="'Revision'" name="current_version"/>
 <!-- The main language of the document -->  <xsl:variable select="'sme'" name="mainlang"/>
 <!-- Other languages, in case of multilingual document. --><!-- Select "1" for the variable multilingual --><!-- and for the languages present -->  <!--Select "1" for monolingual to turn language recog off-->
@@ -79,5 +79,18 @@
 	<xsl:apply-templates/>
 </xsl:element>
  </xsl:template>
+<!-- If the document has parallel texts, select "1" for parallel_texts -->
+<!-- Add the locations of the parallel files to the variables-->
+<xsl:variable name="parallel_texts" select="''"/>
+<xsl:variable name="para_sme" select="''"/>
+<xsl:variable name="para_smj" select="''"/>
+<xsl:variable name="para_sma" select="''"/>
+<xsl:variable name="para_nob" select="''"/>
+<xsl:variable name="para_nno" select="''"/>
+<xsl:variable name="para_swe" select="''"/>
+<xsl:variable name="para_fin" select="''"/>
+<xsl:variable name="para_ger" select="''"/>
+<xsl:variable name="para_eng" select="''"/>
+
 -->  <xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
 </xsl:stylesheet>
