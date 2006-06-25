@@ -49,7 +49,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.11 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.4 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.5 $'"/>
 
 
 <!-- The main language of the document -->
@@ -122,6 +122,8 @@
 <!-- Replace remaining icelanding d:s with Sámi d:s -->
 <xsl:template match="p">
 <xsl:variable name="text" select='current()' />
+<xsl:variable name="type" select='@type' />
+<xsl:variable name="lang" select='@xml:lang' />
 <xsl:element name="p">
             <xsl:if test="$type">
             <xsl:attribute name="type">
