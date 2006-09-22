@@ -44,8 +44,11 @@
   <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
-  <xsl:variable name="template_version" select="'$Revision: 1.4 $'"/>
+  <xsl:variable name="template_version" select="'$Revision: 1.5 $'"/>
   <xsl:variable name="current_version" select="'Revision'"/>
+<!-- Free text field for notes -->
+<xsl:variable name="note" select="''"/>
+
   <!-- The main language of the document -->
   <xsl:variable name="mainlang" select="'sme'"/>
   <!-- Other languages, in case of multilingual document. -->
