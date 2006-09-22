@@ -47,11 +47,11 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.28 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.29 $'"/>
 
 
 <!-- Free text field for notes -->
-<xsl:variable name="note" select="''"/>
+<xsl:variable name="note" select="'Some of the Sami characters are broken. The file is not included in the conversion.'"/>
 
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="'sme'"/>
