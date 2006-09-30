@@ -47,7 +47,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.8 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.9 $'"/>
 
 
 <!-- Free text field for notes -->
@@ -106,7 +106,7 @@
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_nob" select="'hov001-bn.html,hov002-bn.html,hov003-bn.html,hov004-bn.html,hov005-bn.html,hov006-bn.html,hov007-bn.html,hov008-bn.html,hov009-bn.html,hov010-bn.html,hov011-bn.html,hov012-bn.html,hov013-bn.html,ved001-bn.html,ved002-bn.html,ved003-bn.html'"/>
+<xsl:variable name="para_nob" select="'NOU_2001_35.pdf'"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
