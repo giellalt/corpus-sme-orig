@@ -49,7 +49,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.11 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.3 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.4 $'"/>
 
 
 <!-- Free text field for notes -->
@@ -69,7 +69,7 @@
 <xsl:variable name="mlang_sme" select="''"/>
 <xsl:variable name="mlang_smj" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
-<xsl:variable name="mlang_nob" select="'1'"/>
+<xsl:variable name="mlang_nob" select="'sp_1_01.doc'"/>
 <xsl:variable name="mlang_nno" select="''"/>
 <xsl:variable name="mlang_swe" select="''"/>
 <xsl:variable name="mlang_fin" select="''"/>
