@@ -16,13 +16,13 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="''"/>
-<xsl:variable name="title" select="''"/>
-<xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
-<xsl:variable name="author1_gender" select="'unknown'"/>
-<xsl:variable name="author1_born" select="''"/>
-<xsl:variable name="author1_nat" select="''"/>
+<xsl:variable name="filename" select="'meahci suvas bohciidit ságat.doc'"/>
+<xsl:variable name="title" select="'Meahci šuvas bohciidit ságat'"/>
+<xsl:variable name="author1_fn" select="'Synnøve'"/>
+<xsl:variable name="author1_ln" select="'Persen'"/>
+<xsl:variable name="author1_gender" select="'f'"/>
+<xsl:variable name="author1_born" select="'1950'"/>
+<xsl:variable name="author1_nat" select="'nor'"/>
 <xsl:variable name="author2_fn" select="''"/>
 <xsl:variable name="author2_ln" select="''"/>
 <xsl:variable name="author2_gender" select="''"/>
@@ -39,13 +39,13 @@
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisher" select="'Iđut AS'"/>
 <xsl:variable name="publChannel" select="''"/>
-<xsl:variable name="year" select="''"/>
-<xsl:variable name="ISBN" select="''"/>
+<xsl:variable name="year" select="'2005'"/>
+<xsl:variable name="ISBN" select="'82-7601-107-1'"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
-<xsl:variable name="genre" select="''"/>
+<xsl:variable name="genre" select="'ficti'"/>
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
@@ -53,13 +53,13 @@
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
-<xsl:variable name="license_type" select="''"/>
-<xsl:variable name="sub_name" select="''"/>
-<xsl:variable name="sub_email" select="''"/>
-<xsl:variable name="wordcount" select="''"/>
-<xsl:variable name="metadata" select="'uncomplete'"/>
+<xsl:variable name="license_type" select="'standard'"/>
+<xsl:variable name="sub_name" select="'Børre Gaup'"/>
+<xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
+<xsl:variable name="wordcount" select="'1290'"/>
+<xsl:variable name="metadata" select="'complete'"/>
 <xsl:variable name="template_version" select="' 1.14 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
