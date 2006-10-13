@@ -53,13 +53,13 @@
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
-<xsl:variable name="license_type" select="''"/>
+<xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="''"/>
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.14 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.3 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
