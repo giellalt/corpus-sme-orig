@@ -47,11 +47,11 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.6 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.7 $'"/>
 
 
 <!-- Free text field for notes -->
-<xsl:variable name="note" select="''"/>
+<xsl:variable name="note" select="'Document does not have đ-characters at all. Excluded from conversion.'"/>
 
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="''"/>
@@ -113,7 +113,8 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_eng" select="''"/>
 
-<xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
+<!-- <xsl:include href="/usr/local/share/corp/bin/common.xsl"/> -->
+<xsl:include href="/usr/local/share/corp/bin/empty.xsl"/> 
 
 
 </xsl:stylesheet>
