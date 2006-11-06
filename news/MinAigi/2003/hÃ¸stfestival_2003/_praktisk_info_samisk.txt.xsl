@@ -7,7 +7,7 @@
 <!-- Add the metainformation manually -->
 <xsl:variable name="filename" select="''"/>
 <xsl:variable name="title" select="''"/>
-<xsl:variable name="author1_fn" select="'&#xC5;se'"/>
+<xsl:variable name="author1_fn" select="'Åse'"/>
 <xsl:variable name="author1_ln" select="'Pulk'"/>
 <xsl:variable name="author1_gender" select="'f'"/>
 <xsl:variable name="author1_born" select="''"/>
@@ -47,7 +47,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.26 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.27 $'"/>
 
 
 <!-- Free text field for notes -->
@@ -106,7 +106,7 @@
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_nob" select="''"/>
+<xsl:variable name="para_nob" select="'_praktisk_info.txt'"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_fin" select="''"/>

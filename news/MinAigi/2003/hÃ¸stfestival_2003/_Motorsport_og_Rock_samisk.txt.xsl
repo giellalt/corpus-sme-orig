@@ -7,9 +7,9 @@
 <!-- Add the metainformation manually -->
 <xsl:variable name="filename" select="''"/>
 <xsl:variable name="title" select="''"/>
-<xsl:variable name="author1_fn" select="'&#xC5;se'"/>
-<xsl:variable name="author1_ln" select="'Pulk'"/>
-<xsl:variable name="author1_gender" select="'f'"/>
+<xsl:variable name="author1_fn" select="'Alex'"/>
+<xsl:variable name="author1_ln" select="'Scherpf'"/>
+<xsl:variable name="author1_gender" select="'m'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author2_fn" select="''"/>
@@ -28,26 +28,26 @@
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisher" select="'Min Áigi'"/>
 <xsl:variable name="publChannel" select="''"/>
-<xsl:variable name="year" select="''"/>
+<xsl:variable name="year" select="'2003'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
-<xsl:variable name="genre" select="''"/>
+<xsl:variable name="genre" select="'news'"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translator_fn" select="''"/>
-<xsl:variable name="translator_ln" select="''"/>
-<xsl:variable name="translator_gender" select="'unknown'"/>
+<xsl:variable name="translator_fn" select="'Åse'"/>
+<xsl:variable name="translator_ln" select="'Pulk'"/>
+<xsl:variable name="translator_gender" select="'f'"/>
 <xsl:variable name="translator_born" select="''"/>
-<xsl:variable name="translator_nat" select="''"/>
-<xsl:variable name="license_type" select="''"/>
+<xsl:variable name="translator_nat" select="'Norwegian'"/>
+<xsl:variable name="license_type" select="'Standard'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="''"/>
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.26 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.27 $'"/>
 
 
 <!-- Free text field for notes -->
@@ -102,11 +102,11 @@
 
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
-<xsl:variable name="parallel_texts" select="''"/>
+<xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_nob" select="''"/>
+<xsl:variable name="para_nob" select="'_Motorsport_og_Rock_norsk.txt'"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
