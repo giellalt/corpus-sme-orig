@@ -47,11 +47,11 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.29 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.30 $'"/>
 
 
 <!-- Free text field for notes -->
-<xsl:variable name="note" select="''"/>
+<xsl:variable name="note" select="'excluded from conversion because of the character problems'"/>
 
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="'sme'"/>
@@ -132,12 +132,12 @@
             </xsl:attribute>
             </xsl:if>
 
-			<xsl:value-of select="translate($text,'~¿\"','đžč') "/>
+			<xsl:value-of select="translate($text,'~¿','đž') "/>
 </xsl:element>
 </xsl:template>
 
 
-<xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
+<xsl:include href="/usr/local/share/corp/bin/empty.xsl"/>
 
 
 </xsl:stylesheet>
