@@ -47,7 +47,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.7 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.8 $'"/>
 
 
 <!-- Free text field for notes -->
@@ -131,7 +131,7 @@
             <xsl:value-of select="$lang"/>
             </xsl:attribute>
             </xsl:if>
-            <xsl:value-of select="translate($text,'·¡','áÁ') "/>
+            <xsl:value-of select="translate($text,'·¡‡Êÿ','áÁáæØ') "/>
 </xsl:element>
 </xsl:template>
 
