@@ -46,13 +46,18 @@
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.9 '"/>
-  <xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+  <xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
+<!-- Free text field for notes -->
+<xsl:variable name="note" select="'Replaced with better formatted file Salmmat_garvasat.bible.xml'"/>
+
   <!-- The main language of the document -->
   <xsl:variable name="mainlang" select="'sme'"/>
   <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
 <!-- and for the languages present -->
+<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
   <xsl:variable name="multilingual" select="''"/>
+
   <xsl:variable name="mlang_sme" select="''"/>
   <xsl:variable name="mlang_smj" select="''"/>
   <xsl:variable name="mlang_sma" select="''"/>
@@ -73,6 +78,7 @@
   <xsl:variable name="finlang" select="'fin'"/>
   <xsl:variable name="englang" select="'swe'"/>
   <xsl:variable name="gerlang" select="'fin'"/>
+
   <!-- Add all paragraphs that should have xml:lang=X-->
 <!-- Uncomment the following and add the paths, for example: -->
 <!-- <xsl:template match="/root/section[2]/paragraph[5] |
@@ -87,5 +93,19 @@
 </xsl:element>
  </xsl:template>
 -->
-  <xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
+
+<!-- If the document has parallel texts, select "1" for parallel_texts -->
+<!-- Add the locations of the parallel files to the variables-->
+<xsl:variable name="parallel_texts" select="''"/>
+<xsl:variable name="para_sme" select="''"/>
+<xsl:variable name="para_smj" select="''"/>
+<xsl:variable name="para_sma" select="''"/>
+<xsl:variable name="para_nob" select="''"/>
+<xsl:variable name="para_nno" select="''"/>
+<xsl:variable name="para_swe" select="''"/>
+<xsl:variable name="para_fin" select="''"/>
+<xsl:variable name="para_ger" select="''"/>
+<xsl:variable name="para_eng" select="''"/>
+
+  <xsl:include href="/usr/local/share/corp/bin/empty.xsl"/>
 </xsl:stylesheet>
