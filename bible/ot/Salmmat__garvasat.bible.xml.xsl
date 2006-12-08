@@ -46,7 +46,7 @@
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.9 '"/>
-  <xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+  <xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
@@ -83,6 +83,30 @@
 <!-- Uncomment the following and add the paths, for example: -->
 <!-- <xsl:template match="/root/section[2]/paragraph[5] |
                       /root/section[3]/paragraph[2] "> -->
+
+
+<!-- Deleting the / of the psalms ->
+<xsl:template match="p">
+<xsl:variable name="text" select='current()' />
+<xsl:variable name="type" select='@type' />
+<xsl:variable name="lang" select='@xml:lang' />
+<xsl:element name="p">
+<xsl:if test="$type">
+<xsl:attribute name="type">
+<xsl:value-of select="$type"/>
+</xsl:attribute>
+</xsl:if>
+<xsl:if test="$lang">
+<xsl:attribute name="xml:lang">
+<xsl:value-of select="$lang"/>
+</xsl:attribute>
+</xsl:if>
+
+<xsl:value-of select="translate($text,'/','') "/>
+</xsl:element>
+</xsl:template>
+
+
 <!--
 <xsl:template match="">
 	<xsl:element name="p">
