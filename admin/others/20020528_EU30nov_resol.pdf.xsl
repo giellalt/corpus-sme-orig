@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version="1.0"?>
 <!-- Format query results for display -->
-<xsl:stylesheet version="1.0" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
   <xsl:variable name="filename" select="'20020528_EU30nov_resol.pdf'"/>
-  <xsl:variable name="title" select="'SkÃ¡bmamÃ¡nu 30. beaivvi 1998 RÃ¡Äi resoluÅ¡uvdna'"/>
+  <xsl:variable name="title" select="'Sk&#xC3;&#xA1;bmam&#xC3;&#xA1;nu 30. beaivvi 1998 R&#xC3;&#xA1;&#xC4;&#x91;i resolu&#xC5;&#xA1;uvdna'"/>
   <xsl:variable name="author1_fn" select="''"/>
   <xsl:variable name="author1_ln" select="''"/>
   <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -43,12 +42,12 @@
   <xsl:variable name="translator_nat" select="''"/>
   <!-- select license type: free, standard or other -->
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'BÃ¸rre Gaup'"/>
+  <xsl:variable name="sub_name" select="'B&#xC3;&#xB8;rre Gaup'"/>
   <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.14 '"/>
-  <xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+  <xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
   <!-- Free text field for notes -->
   <xsl:variable name="note" select="''"/>
   <!-- The main language of the document -->
@@ -57,7 +56,7 @@
 <!-- Select "1" for the variable multilingual -->
   <xsl:variable name="monolingual" select="''"/>
   <!--lg rec is off!-->
-  <xsl:variable name="multilingual" select="''"/>
+  <xsl:variable name="multilingual" select="'1'"/>
   <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
@@ -66,7 +65,7 @@
   <xsl:variable name="mlang_sme" select="''"/>
   <xsl:variable name="mlang_smj" select="''"/>
   <xsl:variable name="mlang_sma" select="''"/>
-  <xsl:variable name="mlang_nob" select="''"/>
+  <xsl:variable name="mlang_nob" select="'1'"/>
   <xsl:variable name="mlang_nno" select="''"/>
   <xsl:variable name="mlang_swe" select="''"/>
   <xsl:variable name="mlang_fin" select="''"/>

@@ -45,7 +45,7 @@
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.9 '"/>
-  <xsl:variable name="current_version" select="'$Revision: 1.9 $'"/>
+  <xsl:variable name="current_version" select="'$Revision: 1.10 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
@@ -56,7 +56,7 @@
 <!-- and for the languages present -->
   <!--Select "1" for monolingual to turn language recog off-->
 <xsl:variable name="monolingual" select="''"/>
-<xsl:variable name="multilingual" select="''"/>
+<xsl:variable name="multilingual" select="'1'"/>
 
   <xsl:variable name="mlang_sme" select="''"/>
   <xsl:variable name="mlang_smj" select="''"/>
@@ -114,9 +114,9 @@
 <!-- replaced characters and the replacements. -->
 
 <xsl:template match="p">
-<xsl:variable name="text" select='current()' />
-<xsl:variable name="type" select='@type' />
-<xsl:variable name="lang" select='@xml:lang' />
+<xsl:variable name="text" select="current()"/>
+<xsl:variable name="type" select="@type"/>
+<xsl:variable name="lang" select="@xml:lang"/>
 <xsl:element name="p">
             <xsl:if test="$type">
             <xsl:attribute name="type">
@@ -129,7 +129,7 @@
             </xsl:attribute>
             </xsl:if>
 
-			<xsl:value-of select="translate($text,'ðñçóþÑÝýÇÓÐ','đŋčšŽŊŦŧČŠĐ') "/>
+			<xsl:value-of select="translate($text,'&#xF0;&#xF1;&#xE7;&#xF3;&#xFE;&#xD1;&#xDD;&#xFD;&#xC7;&#xD3;&#xD0;','&#x111;&#x14B;&#x10D;&#x161;&#x17D;&#x14A;&#x166;&#x167;&#x10C;&#x160;&#x110;') "/>
 </xsl:element>
 </xsl:template>
 

@@ -47,7 +47,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.9 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.10 $'"/>
 
 
 <!-- Free text field for notes -->
@@ -61,12 +61,12 @@
 <!-- and for the languages present -->
 <!--Select "1" for monolingual to turn language recog off-->
 <xsl:variable name="monolingual" select="''"/>
-<xsl:variable name="multilingual" select="''"/>
+<xsl:variable name="multilingual" select="'1'"/>
 
 <xsl:variable name="mlang_sme" select="''"/>
 <xsl:variable name="mlang_smj" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
-<xsl:variable name="mlang_nob" select="''"/>
+<xsl:variable name="mlang_nob" select="'1'"/>
 <xsl:variable name="mlang_nno" select="''"/>
 <xsl:variable name="mlang_swe" select="''"/>
 <xsl:variable name="mlang_fin" select="''"/>
@@ -118,9 +118,9 @@
 <!-- replaced characters and the replacements. -->
 
 <xsl:template match="p">
-<xsl:variable name="text" select='current()' />
-<xsl:variable name="type" select='@type' />
-<xsl:variable name="lang" select='@xml:lang' />
+<xsl:variable name="text" select="current()"/>
+<xsl:variable name="type" select="@type"/>
+<xsl:variable name="lang" select="@xml:lang"/>
 <xsl:element name="p">
             <xsl:if test="$type">
             <xsl:attribute name="type">
@@ -133,8 +133,7 @@
             </xsl:attribute>
             </xsl:if>
 
-            <xsl:value-of
-            select="translate($text,'Βυοτσηκαντργασλ↵ΥφΙℑφΓ≠“βΣ〈ϖςϕΗΛϑχμιδεΝπ∑ΔΚΟΤΦΜ♣Ρψκ','')"/>
+            <xsl:value-of select="translate($text,'&#x392;&#x3C5;&#x3BF;&#x3C4;&#x3C3;&#x3B7;&#x3BA;&#x3B1;&#x3BD;&#x3C4;&#x3C1;&#x3B3;&#x3B1;&#x3C3;&#x3BB;&#x21B5;&#x3A5;&#x3C6;&#x399;&#x2111;&#x3C6;&#x393;&#x2260;&#x201C;&#x3B2;&#x3A3;&#x3008;&#x3D6;&#x3C2;&#x3D5;&#x397;&#x39B;&#x3D1;&#x3C7;&#x3BC;&#x3B9;&#x3B4;&#x3B5;&#x39D;&#x3C0;&#x2211;&#x394;&#x39A;&#x39F;&#x3A4;&#x3A6;&#x39C;&#x2663;&#x3A1;&#x3C8;&#x3BA;','')"/>
 </xsl:element>
 </xsl:template>
 

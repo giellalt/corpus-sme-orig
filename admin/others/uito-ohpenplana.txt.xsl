@@ -47,11 +47,11 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.7 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.8 $'"/>
 
 
 <!-- Free text field for notes -->
-<xsl:variable name="note" select="'Document does not have đ-characters at all. Excluded from conversion.'"/>
+<xsl:variable name="note" select="'Document does not have &#x111;-characters at all. Excluded from conversion.'"/>
 
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="''"/>
@@ -61,12 +61,12 @@
 <!-- and for the languages present -->
 <!--Select "1" for monolingual to turn language recog off-->
 <xsl:variable name="monolingual" select="''"/>
-<xsl:variable name="multilingual" select="''"/>
+<xsl:variable name="multilingual" select="'1'"/>
 
 <xsl:variable name="mlang_sme" select="''"/>
 <xsl:variable name="mlang_smj" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
-<xsl:variable name="mlang_nob" select="''"/>
+<xsl:variable name="mlang_nob" select="'1'"/>
 <xsl:variable name="mlang_nno" select="''"/>
 <xsl:variable name="mlang_swe" select="''"/>
 <xsl:variable name="mlang_fin" select="''"/>

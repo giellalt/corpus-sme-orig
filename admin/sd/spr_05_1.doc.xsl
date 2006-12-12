@@ -5,7 +5,7 @@
 <!-- Add the metainformation manually -->  <xsl:variable select="'spr01_05.doc'" name="filename"/>
   <xsl:variable select="'SPR beavdegirji 01/05'" name="title"/>
   <xsl:variable select="'Elli Sivi'" name="author1_fn"/>
-  <xsl:variable select="'Näkkäläjärvi Utsi'" name="author1_ln"/>
+  <xsl:variable select="'N&#xE4;kk&#xE4;l&#xE4;j&#xE4;rvi Utsi'" name="author1_ln"/>
   <xsl:variable select="'f'" name="author1_gender"/>
   <xsl:variable select="''" name="author1_born"/>
   <xsl:variable select="'fin'" name="author1_nat"/>
@@ -43,7 +43,7 @@
   <xsl:variable select="'borre.gaup@samediggi.no'" name="sub_email"/>
   <xsl:variable select="''" name="wordcount"/>
   <xsl:variable select="'uncomplete'" name="metadata"/>
-  <xsl:variable select="'$Revision: 1.6 $'" name="template_version"/>
+  <xsl:variable select="'$Revision: 1.7 $'" name="template_version"/>
   <xsl:variable select="'Revision'" name="current_version"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
@@ -57,12 +57,12 @@
 
 <!--Select "1" for monolingual to turn language recog off-->
 <xsl:variable name="monolingual" select="''"/>
-<xsl:variable name="multilingual" select="''"/>
+<xsl:variable name="multilingual" select="'1'"/>
 
   <xsl:variable select="''" name="mlang_sme"/>
   <xsl:variable select="''" name="mlang_smj"/>
   <xsl:variable select="''" name="mlang_sma"/>
-  <xsl:variable select="''" name="mlang_nob"/>
+  <xsl:variable name="mlang_nob" select="'1'"/>
   <xsl:variable select="''" name="mlang_nno"/>
   <xsl:variable select="''" name="mlang_swe"/>
   <xsl:variable select="''" name="mlang_fin"/>
