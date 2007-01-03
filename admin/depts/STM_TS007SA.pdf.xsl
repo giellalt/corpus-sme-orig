@@ -47,14 +47,16 @@
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.16 '"/>
-  <xsl:variable name="current_version" select="'$Revision: 1.5 $'"/>
+  <xsl:variable name="current_version" select="'$Revision: 1.6 $'"/>
   <!-- Free text field for notes -->
   <xsl:variable name="note" select="''"/>
+
   <!-- The main language of the document -->
-  <xsl:variable name="mainlang" select="''"/>
+  <xsl:variable name="mainlang" select="'sme'"/>
+
   <!-- Other languages, in case of multilingual document. -->
-<!-- Select "1" for the variable multilingual -->
-  <xsl:variable name="monolingual" select="'1'"/>
+  <!-- Select "1" for the variable multilingual -->
+  <xsl:variable name="monolingual" select="''"/>
   <!--lg rec is off!-->
   <xsl:variable name="multilingual" select="'1'"/>
   <!--this is default-->
@@ -132,6 +134,11 @@
 			<xsl:value-of select="translate($text,'&#xFFFD;','&#x111;') "/>
 </xsl:element>
 </xsl:template>
+
+<xsl:variable name="main_sizes" select="'10pt,11pt'"/>
+<xsl:variable name="title_sizes" select="'10pt,11pt,13pt'"/>
+<xsl:variable name="title_styles" select="'Bold'"/>
+<xsl:variable name="columns" select="'2'"/>
 
   <xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
 </xsl:stylesheet>
