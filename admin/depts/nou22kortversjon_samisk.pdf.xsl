@@ -28,7 +28,7 @@
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisherv" select="''"/>
 <xsl:variable name="publChannel" select="''"/>
 <xsl:variable name="year" select="''"/>
 <xsl:variable name="ISBN" select="''"/>
@@ -47,7 +47,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.9 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.10 $'"/>
 
 
 <!-- Free text field for notes -->
@@ -118,6 +118,29 @@
 <xsl:variable name="title_styles" select="'Bold,Italic'"/>
 <xsl:variable name="columns" select="'2'"/>
 
+<!-- Change or remove problematic characters from the text. -->
+<!-- add the template to match (here all p:s), and write the -->
+<!-- replaced characters and the replacements. -->
+<xsl:template match="p">
+<xsl:variable name="text" select='current()' />
+<xsl:variable name="type" select='@type' />
+<xsl:variable name="lang" select='@xml:lang' />
+<xsl:element name="p">
+            <xsl:if test="$type">
+            <xsl:attribute name="type">
+            <xsl:value-of select="$type"/>
+            </xsl:attribute>
+            </xsl:if>
+            <xsl:if test="$lang">
+            <xsl:attribute name="xml:lang">
+            <xsl:value-of select="$lang"/>
+            </xsl:attribute>
+            </xsl:if>
+
+			<xsl:value-of select="translate($text,'Ģģ','“”') "/>
+			
+</xsl:element>
+</xsl:template>
 
 <xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
 
