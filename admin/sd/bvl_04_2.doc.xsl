@@ -12,7 +12,7 @@
   <xsl:variable name="author1_nat" select="'nor'"/>
   <xsl:variable name="author2_fn" select="'Maya'"/>
   <xsl:variable name="author2_ln" select="'Turi'"/>
-  <xsl:variable name="author2_gender" select="''"/>
+  <xsl:variable name="author2_gender" select="'f'"/>
   <xsl:variable name="author2_born" select="''"/>
   <xsl:variable name="author2_nat" select="'nor'"/>
   <xsl:variable name="author3_fn" select="''"/>
@@ -45,7 +45,7 @@
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.9 '"/>
-  <xsl:variable name="current_version" select="'$Revision: 1.7 $'"/>
+  <xsl:variable name="current_version" select="'$Revision: 1.8 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
