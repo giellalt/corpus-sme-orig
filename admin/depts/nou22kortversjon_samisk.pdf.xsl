@@ -28,7 +28,7 @@
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
-<xsl:variable name="publisherv" select="''"/>
+<xsl:variable name="publisher" select="''"/>
 <xsl:variable name="publChannel" select="''"/>
 <xsl:variable name="year" select="''"/>
 <xsl:variable name="ISBN" select="''"/>
@@ -47,7 +47,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.10 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.11 $'"/>
 
 
 <!-- Free text field for notes -->
