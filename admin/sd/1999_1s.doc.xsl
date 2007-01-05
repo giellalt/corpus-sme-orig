@@ -49,7 +49,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.14 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.6 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.7 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
@@ -135,7 +135,16 @@
             </xsl:attribute>
             </xsl:if>
 
-			<xsl:value-of select="translate($text,'ð','đ') "/>
+            <xsl:call-template name="globalReplace">
+            <xsl:with-param name="outputString" select="translate($text,'ð','đ')"/>
+            <xsl:with-param name="firstTarget" select="'a??á'"/>
+            <xsl:with-param name="firstReplacement" select="'aŋŋá'"/>
+            <xsl:with-param name="secondTarget" select="'a?i'"/>
+            <xsl:with-param name="secondReplacement" select="'aŋi'"/>
+            <xsl:with-param name="thirdTarget" select="'á?g'"/>
+            <xsl:with-param name="thirdReplacement" select="'áŋg'"/>
+            </xsl:call-template>
+
 </xsl:element>
 </xsl:template>
 -->
