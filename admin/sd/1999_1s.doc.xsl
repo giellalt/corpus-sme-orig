@@ -49,7 +49,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.14 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.8 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.9 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
@@ -118,7 +118,6 @@
 <!-- Change or remove problematic characters from the text. -->
 <!-- add the template to match (here all p:s), and write the -->
 <!-- replaced characters and the replacements. -->
-<!--
 <xsl:template match="p">
 <xsl:variable name="text" select='current()' />
 <xsl:variable name="type" select='@type' />
@@ -138,7 +137,7 @@
             <xsl:call-template name="globalReplace">
             <xsl:with-param name="outputString" select="translate($text,'ð','đ')"/>
             <xsl:with-param name="firstTarget" select="'a??á'"/>
-            <xsl:with-param name="firstReplacement" select="'ANNA'"/>
+            <xsl:with-param name="firstReplacement" select="'aŋŋá'"/>
             <xsl:with-param name="secondTarget" select="'a?i'"/>
             <xsl:with-param name="secondReplacement" select="'aŋi'"/>
             <xsl:with-param name="thirdTarget" select="'á?g'"/>
@@ -147,7 +146,6 @@
 
 </xsl:element>
 </xsl:template>
--->
 
 
 <xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
