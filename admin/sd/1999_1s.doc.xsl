@@ -49,7 +49,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.14 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.12 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.13 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
@@ -134,14 +134,10 @@
             </xsl:attribute>
             </xsl:if>
 
-            <xsl:call-template name="globalReplace">
-            <xsl:with-param name="outputString" select="$text"/>
-            <xsl:with-param name="firstTarget" select="'a??á'"/>
-            <xsl:with-param name="firstReplacement" select="'aŋŋá'"/>
-            <xsl:with-param name="secondTarget" select="'a?i'"/>
-            <xsl:with-param name="secondReplacement" select="'aŋi'"/>
-            <xsl:with-param name="thirdTarget" select="'á?g'"/>
-            <xsl:with-param name="thirdReplacement" select="'áŋg'"/>
+            <xsl:call-template name="globalTextReplace">
+            <xsl:with-param name="inputString" select="$text"/>
+       <xsl:with-param name="target" select="'??á/??a/??e/??i/??o/?a/?á/?e/?i/?o/?u/?g/?k/?l/?r/?t/'"/>
+ <xsl:with-param name="replacement" select="'ŋŋá/ŋŋa/ŋŋe/ŋŋi/ŋŋo/ŋa/ŋá/ŋe/ŋi/ŋo/ŋu/ŋg/ŋk/ŋl/ŋr/ŋt/'"/>
             </xsl:call-template>
 
 </xsl:element>
