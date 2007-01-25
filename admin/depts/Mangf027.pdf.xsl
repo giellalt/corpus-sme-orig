@@ -47,7 +47,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.11 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.12 $'"/>
 
 
 <!-- Free text field for notes -->
@@ -130,14 +130,14 @@
             </xsl:attribute>
             </xsl:if>
 
-            <xsl:call-template name="globalTextReplace">
-               <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target"
-               select="'r vv/'"/>
-               <xsl:with-param name="replacement"
-               select="'rvv/'"/>
-                <xsl:with-param name="continue" select="0"/>
-            </xsl:call-template>
+			<xsl:call-template name="globalTextReplace">
+		    <xsl:with-param name="inputString" select="$text"/>
+		    <xsl:with-param name="target" select="'r vv/'"/>
+		    <xsl:with-param name="replacement" select="'rvv/'"/>
+			<xsl:with-param name="continue" select="0"/>
+
+		    </xsl:call-template>
+
 </xsl:element>
 </xsl:template>
 
