@@ -59,9 +59,10 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.16 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
 <!-- Free text field for notes -->
-<xsl:variable name="note" select="''"/>
+<xsl:variable name="note" select="'Excluded from conversion, because
+the characters were broken.'"/>
 
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="''"/>
@@ -151,7 +152,7 @@
 -->
 
 
-<xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
+<xsl:include href="/usr/local/share/corp/bin/empty.xsl"/>
 
 
 </xsl:stylesheet>
