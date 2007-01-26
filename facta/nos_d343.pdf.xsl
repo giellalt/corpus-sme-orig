@@ -48,11 +48,12 @@
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.9 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.10 $'"/>
 
 
 <!-- Free text field for notes -->
-<xsl:variable name="note" select="''"/>
+<xsl:variable name="note" select="'Excluded from conversion: the only
+Sámi characters that are correct are á and š.'"/>
 
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="'sme'"/>
@@ -114,6 +115,6 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_eng" select="''"/>
 
-<xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
+<xsl:include href="/usr/local/share/corp/bin/empty.xsl"/>
 
 </xsl:stylesheet>
