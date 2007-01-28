@@ -45,7 +45,7 @@
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.9 '"/>
-  <xsl:variable name="current_version" select="'$Revision: 1.14 $'"/>
+  <xsl:variable name="current_version" select="'$Revision: 1.15 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
@@ -105,7 +105,7 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_eng" select="''"/>
 
-<xsl:variable name="main_sizes" select="'9pt,10pt,11pt,12pt,14pt'"/>
+<xsl:variable name="main_sizes" select="'10pt,11pt,12pt,14pt'"/>
 <xsl:variable name="title_sizes" select="'14pt,15pt,16pt,50pt'"/>
 <xsl:variable name="title_styles" select="''"/>
 <xsl:variable name="excluded" select="'4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,189,190,191,192,193,194,195,196,197,198,199,313,314,315,316,317,318'"/>
