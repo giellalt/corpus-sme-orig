@@ -47,7 +47,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.19 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.20 $'"/>
 
 
 <!-- Free text field for notes -->
@@ -113,7 +113,7 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_eng" select="''"/>
 
-<!--
+
 <xsl:template match="p">
 <xsl:variable name="text" select='current()' />
 <xsl:variable name="type" select='@type' />
@@ -134,12 +134,11 @@
 		    <xsl:with-param name="inputString" select="$text"/>
 		    <xsl:with-param name="target" select="'r vv/'"/>
 		    <xsl:with-param name="replacement" select="'rvv/'"/>
-			<xsl:with-param name="continue" select="0"/>
+			<xsl:with-param name="continue" select="1"/>
 		    </xsl:call-template>
 
 </xsl:element>
 </xsl:template>
--->
 
 <xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
 
