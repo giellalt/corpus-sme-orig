@@ -45,7 +45,7 @@
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.9 '"/>
-  <xsl:variable name="current_version" select="'$Revision: 1.16 $'"/>
+  <xsl:variable name="current_version" select="'$Revision: 1.17 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
@@ -137,7 +137,6 @@
             <xsl:with-param name="continue" select="1"/>	
             </xsl:call-template>
 
-			<xsl:value-of select="
 </xsl:element>
 </xsl:template>
 
