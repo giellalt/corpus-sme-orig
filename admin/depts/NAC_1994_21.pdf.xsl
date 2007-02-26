@@ -45,7 +45,7 @@
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.9 '"/>
-  <xsl:variable name="current_version" select="'$Revision: 1.17 $'"/>
+  <xsl:variable name="current_version" select="'$Revision: 1.18 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
@@ -131,9 +131,10 @@
             </xsl:if>
 
             <xsl:call-template name="globalTextReplace">
-               <xsl:with-param name="inputString" select="translate($text,'&#xF0;&#xF1;&#xE7;&#xF3;&#xFE;&#xD1;&#xDD;&#xFD;&#xC7;&#xD3;&#xD0;','&#x111;&#x14B;&#x10D;&#x161;&#x17D;&#x14A;&#x166;&#x167;&#x10C;&#x160;&#x110;') "/>
-  <xsl:with-param name="target"    select="'Adelaer/gaefhes/haes/daen/siidaer/omgaaes/saae/mae/undgaae/taen/taed/'"/>
-<xsl:with-param name="replacement" select="'Adelær/gæfhes/hæs/dæn/siidær/omgaæs/saæ/mæ/undgaæ/tæn/tæd/'"/>
+               <xsl:with-param name="inputString"
+               select="translate($text,'&#xF0;&#xF1;&#xE7;&#xF3;&#xFE;&#xD1;&#xDD;&#xFD;&#xC7;&#xD3;&#xD0;','&#x111;&#x14B;&#x10D;&#x161;&#x17D;&#x14A;&#x166;&#x167;&#x10C;&#x160;&#x110;')"/>
+     <xsl:with-param name="target" select="'Adelaer/gaefhes/haes/daen/siidaer/omgaaes/saae/mae/undgaae/taen/taed/baer/vaer/raer/naes/saer/saet/naer/Nae/'"/>
+<xsl:with-param name="replacement" select="'Adelær/gæfhes/hæs/dæn/siidær/omgaæs/saæ/mæ/undgaæ/tæn/tæd/bær/vær/rær/næs/sær/sæt/nær/Næ/'"/>
             <xsl:with-param name="continue" select="1"/>	
             </xsl:call-template>
 
