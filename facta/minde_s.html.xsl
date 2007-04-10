@@ -46,10 +46,7 @@
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.9 '"/>
-  <xsl:variable name="current_version" select="'$Revision: 1.3 $'"/>
-<!-- Free text field for notes -->
-<xsl:variable name="note" select="''"/>
-
+  <xsl:variable name="current_version" select="'$Revision: 1.4 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
@@ -59,8 +56,6 @@
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
 <xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
-<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
-
 <xsl:variable name="multilingual" select="''"/> <!--this is default-->
 
   <xsl:variable name="mlang_sme" select="''"/>
@@ -81,20 +76,6 @@
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_nob" select="'minde_n.html'"/>
-<xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_swe" select="''"/>
-<xsl:variable name="para_fin" select="''"/>
-<xsl:variable name="para_ger" select="''"/>
-<xsl:variable name="para_eng" select="''"/>
-
-
-<!-- If the document has parallel texts, select "1" for parallel_texts -->
-<!-- Add the locations of the parallel files to the variables-->
-<xsl:variable name="parallel_texts" select="'1'"/>
-<xsl:variable name="para_sme" select="''"/>
-<xsl:variable name="para_smj" select="''"/>
-<xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
