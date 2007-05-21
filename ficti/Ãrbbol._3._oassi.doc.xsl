@@ -48,14 +48,14 @@
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'complete'"/>
   <xsl:variable name="template_version" select="' 1.19 '"/>
-  <xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+  <xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
   <!-- Free text field for notes -->
   <xsl:variable name="note" select="''"/>
   <!-- The main language of the document -->
   <xsl:variable name="mainlang" select="''"/>
   <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-  <xsl:variable name="monolingual" select="''"/>
+  <xsl:variable name="monolingual" select="'1'"/>
   <!--lg rec is off!-->
   <xsl:variable name="multilingual" select="''"/>
   <!--this is default-->
