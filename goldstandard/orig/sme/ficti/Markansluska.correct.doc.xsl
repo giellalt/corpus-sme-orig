@@ -18,9 +18,9 @@
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="''"/>
 <xsl:variable name="title" select="''"/>
-<xsl:variable name="author1_fn" select="''"/>
+<xsl:variable name="author1_fn" select="'annemarja'"/>
 <xsl:variable name="author1_ln" select="''"/>
-<xsl:variable name="author1_gender" select="'unknown'"/>
+<xsl:variable name="author1_gender" select="'f'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author2_fn" select="''"/>
@@ -59,12 +59,12 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.19 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="''"/>
+<xsl:variable name="mainlang" select="'sme'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
@@ -77,7 +77,7 @@
 <xsl:variable name="mlang_sme" select="''"/>
 <xsl:variable name="mlang_smj" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
-<xsl:variable name="mlang_nob" select="''"/>
+<xsl:variable name="mlang_nob" select="'1'"/>
 <xsl:variable name="mlang_nno" select="''"/>
 <xsl:variable name="mlang_swe" select="''"/>
 <xsl:variable name="mlang_fin" select="''"/>
