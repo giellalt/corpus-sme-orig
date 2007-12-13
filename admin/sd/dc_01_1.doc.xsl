@@ -49,7 +49,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.11 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.7 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.8 $'"/>
 
 
 <!-- Free text field for notes -->
@@ -117,7 +117,7 @@
  </xsl:template>
 -->
 
-<xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
+<xsl:include href="/usr/local/share/corp/bin/empty.xsl"/>
 
 
 </xsl:stylesheet>
