@@ -117,6 +117,6 @@
 <xsl:variable name="title_sizes" select="'11pt'"/>
 <xsl:variable name="title_styles" select="''"/>
 
-<xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
+
 
 </xsl:stylesheet>

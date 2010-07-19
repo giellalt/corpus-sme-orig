@@ -87,5 +87,5 @@
 </xsl:element>
  </xsl:template>
 -->
-  <xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
+  
 </xsl:stylesheet>

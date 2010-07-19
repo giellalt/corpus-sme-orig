@@ -120,7 +120,7 @@
 <xsl:variable name="lower" select="'50'"/>
 <xsl:variable name="excluded" select="'1,2,3,4,5,6,32'"/>
 
-<xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
+
 
 
 </xsl:stylesheet>

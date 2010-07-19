@@ -119,6 +119,6 @@
 <xsl:variable name="columns" select="'2'"/>
 
 
-<xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
+
 
 </xsl:stylesheet>

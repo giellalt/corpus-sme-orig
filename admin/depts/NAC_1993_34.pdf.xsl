@@ -110,5 +110,5 @@
 <xsl:variable name="title_sizes" select="'14pt,16pt,18pt'"/>
 <xsl:variable name="title_styles" select="'Bold'"/>
 
-  <xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
+  
 </xsl:stylesheet>
