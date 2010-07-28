@@ -2,9 +2,9 @@ skolenyheter.tromsoskolen.no/Nyheter/GetFile.aspx?ID=2307
 Norge
 5.7.2010
 
-((KAFEA-)$(KAFÉA-) (LÁGIDIEAPMI)$(LÁGIDEAPMI))$KAFÉALÁGIDEAPMI  (2009- 2010)$2009-2010
+((KAFEA- LÁGIDIEAPMI)$KAFÉALÁGIDEAPMI  (2009- 2010)$2009-2010
 
-((OVDDASVÁSTÁDUS LISTTU)$OVDDASVÁSTÁDUSLISTTU)£OVDDASVÁSTÁDUSLISTU GUOVSSAHAS MÁNÁIDGÁRDDIS 
+((OVDDASVÁSTÁDUS LISTTU)$OVDDASVÁSTÁDUSLISTU GUOVSSAHAS MÁNÁIDGÁRDDIS 
 
 
 Sis geas lea ovddasvástádus lágidit kaféa, vižžet (kaféa- kássa)$kaféakássa skuvllas. Doppe leat ee. gohput, servieahtat ja smávvaruđat. Kássas galgá álohit$álohii leat 1000,- smávvaruhtan. Kirsten Alette viežžá smávvaruđaid sámeluohká kontos ja bidjá (kaféa- kássii)$kaféakássii.
@@ -23,14 +23,14 @@ Bruvssa£(Bruvsa), káfe£(káffe), teaja£(teadja), sohkkarat, (muorje- meastu)
 
 váldet$Váldet áinnas oktavuođa jus leaš eahpečielggas.
 
-Váhnenfierpmádagas lea stivračoahkkin čakčamánus 26. b. gos mearriduvvo dáhton goas ((káfea doalut)$kaféadoalut lágiduvvojit. Stivračoahkkima maŋŋel oahpaheaddjit sáddejit ođđa (ovddasvástádus listtu)$ovddasvástáduslisttu váhnemiidda. Jus háliidehpet rievdadit evttohuvvon áiggi dieđihehket midjiide ovdal disdaga čakčamánu  29.b. Váhnemat fertejit gaskaneaset šiehtadit gii bargá maid. Mielddus: ovdamearkan mo juogadit barggu. Giitu!
+Váhnenfierpmádagas lea stivračoahkkin čakčamánus 26. b. gos mearriduvvo dáhton goas (káfea doalut)$kaféadoalut lágiduvvojit. Stivračoahkkima maŋŋel oahpaheaddjit sáddejit ođđa (ovddasvástádus listtu)$ovddasvástáduslisttu váhnemiidda. Jus háliidehpet rievdadit evttohuvvon áiggi dieđihehket midjiide ovdal disdaga čakčamánu  29.b. Váhnemat fertejit gaskaneaset šiehtadit gii bargá maid. Mielddus: ovdamearkan mo juogadit barggu. Giitu!
 
 Dearvuođaiguin
 	
 
 
 
-DIEĐUT  ((KAFEA- (LÁGIDIEAMI$LÁGIDEAMI)$KAFÉALÁGIDEAMI BIRRA  (2009- 2010)$2009-2010
+DIEĐUT  (KAFEA- LÁGIDIEAMI)$KAFÉALÁGIDEAMI BIRRA  (2009- 2010)$2009-2010
 
 RIEVDADUS: 
 
@@ -49,7 +49,7 @@ ovdal$Ovdal lea leamaš nu ahte Sámi váhnenfierpmádat lea leamaš mielde čor
 
 (KAFEA- KÁSSA)$(KAFÉAKÁSSA): (kaféa- kássa)$kaféakássa vižžojuvvo skuvllas. Gii dan viežžá fertebehtet ieža mearridit. Maŋŋel doaluid de galgá (kaféa- kássa)$kaféakássa buktojuvvot skuvlii mánnodagas£(mánnodaga). Jus lea mii nu mii váilu kássas- de fertebehtet čálistit unna girjážii$girjjážii mii lea (ruhta- kássas)$ruhtakássas.
 
-(RUHTA- KÁSSAS)$(RUHTAKÁSSAS): galgá álohit$álohii leat 1000,- . Maŋŋel doaluid, fertebehtet (rehkenastit dietnasa ja čállet)£(rehkenastit dietnasa ja čállit) dan unna girjjážii mii lea (ruhta- kássas)$(ruhtakássas). Dietnasa bidjabehtet  sierra (plastihka- bosi$bussii)$plastihkabussii nu ahte mii skuvllas eat dárbbaš lohkat dáid.
+(RUHTA- KÁSSAS)$(RUHTAKÁSSAS): galgá álohit$álohii leat 1000,- . Maŋŋel doaluid, fertebehtet (rehkenastit dietnasa ja čállet)£(rehkenastit dietnasa ja čállit) dan unna girjjážii mii lea (ruhta- kássas)$(ruhtakássas). Dietnasa bidjabehtet  sierra (plastihka- bosi)$plastihkabussii nu ahte mii skuvllas eat dárbbaš lohkat dáid.
 
 (MÁNÁID- GÁRDDI)$MÁNÁIDGÁRDDI RAHPAN JA LÁSSEN: Dát ášši ii leat vuos čielggas. Ovdal lea leamaš nu ahte muhtin Sámi váhnenfierpmádagas  rahpán$rahpá ja lásse uvssa. 
 
