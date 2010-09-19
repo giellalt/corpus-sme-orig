@@ -3,7 +3,7 @@
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
-  <xsl:variable name="filename" select="'dc_3_05.doc'"/>
+  <xsl:variable name="filename" select="'dc_05_3.doc'"/>
   <xsl:variable name="title" select="'S&#xE1;medikki dievas&#x10D;oahkkin'"/>
   <xsl:variable name="author1_fn" select="'John Osvald'"/>
   <xsl:variable name="author1_ln" select="'Gr&#xF8;nmo'"/>
