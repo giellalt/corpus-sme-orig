@@ -17,47 +17,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.sametinget.no/artikkel.aspx?AId=3828&amp;Print=1'"/>
-<xsl:variable name="title" select="'INFORMASJON OM SØKERBASERTE TILSKUDD TIL KULTURTILTAK FOR BARN OG UNDE OG ANDRE KULTURTILTAK  - Sámediggi Sametinget
-</title></head>
-
-<body id=ctl00_Body style=background-color:white>
-	<form name=aspnetForm method=post action=artikkel.aspx?AId=3828&amp;amp;Print=1 id=aspnetForm style=width:90%>
-<input type=hidden name=__VIEWSTATE id=__VIEWSTATE value=/wEPDwULLTEyNjc4NzYyNTQPZBYCZg9kFgICAw9kFgICAw9kFgICAQ9kFgICAQ9kFgICAQ9kFgJmD2QWAgICD2QWAmYPZBYCZg9kFgJmD2QWCmYPFgIeBFRleHQFlAE8aDEgaWQ9InRpdHRlbCIgY2xhc3M9IklubmhvbGRPdmVyc2tyaWZ0IiA+DQpJTkZPUk1BU0pPTiBPTSBTw5hLRVJCQVNFUlRFIFRJTFNLVUREIFRJTCBLVUxUVVJUSUxUQUsgRk9SIEJBUk4gT0cgVU5ERSBPRyBBTkRSRSBLVUxUVVJUSUxUQUsgDQo8L2gxPg0KZAICDxYCHwAFxwI8ZGl2IGNsYXNzPSJJbm5ob2xkSW5ncmVzcyIgc3R5bGU9IiI+DQo8cD5TYW1ldGluZ2V0IGluZm9ybWVyZXIgb20gYXQsIHAmYXJpbmc7IGdydW5uIGF2IGJlZ3JlbnNlZGUgbWlkbGVyIGkgZm9yaG9sZCB0aWwgc3RvciBzJm9zbGFzaDtrZXJtYXNzZSwgZXIgYnVkc2pldHRwb3N0ZW5lIDIwMDQwICJLdWx0dXJ0aWx0YWsgZm9yIGJhcm4gb2cgdW5nZSIgb2cgMjAwNTAgIkFuZHJlIGt1bHR1cnRpbHRhayIsIG1lZCAmYXJpbmc7cGVuIHMmb3NsYXNoO2tuYWRzZnJpc3QgMS5zZXB0ZW1iZXIsIGFsbGVyZWRlIHRpbGRlbHQgZm9yIGkgJmFyaW5nO3IuPC9wPg0KPC9kaXY+DQpkAgYPFgIfAAXqATxkaXYgY2xhc3M9IklubmhvbGRUZWtzdCIgc3R5bGU9IiI+DQo8cD5EZXQga2FuIG9wcGx5c2VzIGF0IFNhbWV0aW5nZXQgdmlsIGkgbSZhcmluZztuZWRzc2tpZnRldCBkZXNlbWJlciAyMDEwL2phbnVhciAyMDExIGx5c2UgdXQgbnllIHMmb3NsYXNoO2tlcmJhc2VydGUgbWlkbGVyIGZvciAyMDExIHAmYXJpbmc7IFNhbWV0aW5nZXRzIGhqZW1tZXNpZGUgb2cgaSBkYWdzcHJlc3Nlbi48L3A+DQo8L2Rpdj4NCmQCCA9kFgJmD2QWCAIBDxYCHwAFDFB1Ymxpc2VydCBhdmQCAw8PFgIeB1Zpc2libGVoZGQCBQ8WAh8ABRFIb2xtZ3JlbiwgSGFubmUuIGQCDQ8WAh8ABRdTaXN0IGVuZHJldCAgMTQuMDkuMjAxMGQCCg9kFgJmD2QWAmYPFgIfAWgWBgIBDxYCHwFoZAIDDxYCHwFoFgICAQ9kFgJmD2QWBgICD2QWBGYPZBYCZg8QZGQWAGQCAQ9kFgJmDzwrAAkAZAIDD2QWBGYPZBYCAgEPEGRkFgBkAgEPZBYCZg88KwAJAGQCBA9kFgJmD2QWBAIBDw8WBh8AZR4IQ3NzQ2xhc3MFDUJydWtlck1lbGRpbmceBF8hU0ICAmRkAgMPDxYCHwBlZGQCBQ8WAh8BaBYCAgEPZBYKZg88KwAJAGQCAg88KwAJAGQCBA88KwAJAGQCBg88KwAJAGQCCg88KwAJAGRk7fuaPKRROzlvWd7EMoNHeUxxPNc= />
-
-
-<script type=text/javascript>
-//<![CDATA[
-function addLoadEvent(func) {
-var oldonload = window.onload;
-if (typeof window.onload != 'function') {
-window.onload = func;
-} else {
-window.onload = function() {
-if (oldonload) {
-oldonload();
-}
-func();
-}
-}
-}   
-//]]>
-</script>
-<script type=text/javascript>
-var gaJsHost = ((https: == document.location.protocol) ? https://ssl. : http://www.);
-document.write(unescape(%3Cscript src=' + gaJsHost + google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E));
-</script>
-<script type=text/javascript>
-var pageTracker = _gat._getTracker(UA-13172157-1);
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-
-		
-    
-
-<div id=ctl00_MidtSone_ucArtikkel_ctl00_pnlArtikkel class=artikkel artikkelmal_4>
-	<h1 id=tittel class=InnholdOverskrift >
-INFORMASJON OM SØKERBASERTE TILSKUDD TIL KULTURTILTAK FOR BARN OG UNDE OG ANDRE KULTURTILTAK'"/>
+<xsl:variable name="title" select="'INFORMASJON OM SØKERBASERTE TILSKUDD TIL KULTURTILTAK FOR BARN OG UNDE OG ANDRE KULTURTILTAK'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -104,7 +64,7 @@ INFORMASJON OM SØKERBASERTE TILSKUDD TIL KULTURTILTAK FOR BARN OG UNDE OG ANDRE
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="''"/>
+<xsl:variable name="mainlang" select="'sme'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->

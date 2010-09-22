@@ -17,47 +17,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.sametinget.no/artikkel.aspx?AId=3886&amp;Print=1'"/>
-<xsl:variable name="title" select="'Sametingets idrettsstipend – forlenget søknadsfrist 12.10.2010 - Sámediggi Sametinget
-</title></head>
-
-<body id=ctl00_Body style=background-color:white>
-	<form name=aspnetForm method=post action=artikkel.aspx?AId=3886&amp;amp;Print=1 id=aspnetForm style=width:90%>
-<input type=hidden name=__VIEWSTATE id=__VIEWSTATE value=/wEPDwULLTEyNjc4NzYyNTQPZBYCZg9kFgICAw9kFgICAw9kFgICAQ9kFgICAQ9kFgICAQ9kFgJmD2QWAgICD2QWAmYPZBYCZg9kFgJmD2QWDGYPFgIeBFRleHQFdzxoMSBpZD0idGl0dGVsIiBjbGFzcz0iSW5uaG9sZE92ZXJza3JpZnQiID4NClNhbWV0aW5nZXRzIGlkcmV0dHNzdGlwZW5kIOKAkyBmb3JsZW5nZXQgc8O4a25hZHNmcmlzdCAxMi4xMC4yMDEwDQo8L2gxPg0KZAICD2QWAmYPDxYEHghDc3NDbGFzcwUbYXJ0aWtrZWxiaWxkZSBiaWxkZV92ZW5zdHJlHgRfIVNCAgJkFgICAQ8PFgQfAAVmPGltZyBib3JkZXI9IjAiICAgc3JjPSIva3VuZGUvYmlsZGVyL0xpdGVfVGlsc2t1ZGQuanBnIiBhbGlnbj0idG9wIiBhbHQ9IlRpbHNrdWRkIiB0aXRsZT0iVGlsc2t1ZGQiIC8+HgtOYXZpZ2F0ZVVybAUSamF2YXNjcmlwdDp2b2lkKDApFgIeB09uQ2xpY2sFxAF3aW5kb3cub3BlbignL2JpbGRldmlzLmFzcD9CaWxkZUlkPTExMTMmVmlzPXN0b3ImRWtzYWt0PXRydWUnLCdob21lJywndG9vbGJhcj1ubyxsb2NhdGlvbj1ubyxkaXJlY3Rvcmllcz1ubyxzdGF0dXM9bm8sbWVudWJhcj1ubyxzY3JvbGxiYXJzPXllcyxyZXNpemFibGU9eWVzLGNvcHloaXN0b3J5PXllcyxXaWR0aD0xODUsSGVpZ2h0PTczJyk7ZAIEDxYCHwAFhgI8ZGl2IGNsYXNzPSJJbm5ob2xkSW5ncmVzcyIgc3R5bGU9ImZvbnQtd2VpZ2h0OiBib2xkOyI+DQo8cD48c3Ryb25nPlNhbWV0aW5nZXQgbHlzZXIgbWVkIGRldHRlIHV0IGlkcmV0dHNzdGlwZW5kIGZvciBzYW1pc2sgdW5nZG9tLiBNJmFyaW5nO2xldCBtZWQgaWRyZXR0c3RpcGVuZGV0IGVyICZhcmluZzsgbW90aXZlcmUgdW5nZSBpZHJldHRzdXQmb3NsYXNoO3ZlcmUgdGlsIHNhdHNpbmcgcCZhcmluZzsgaWRyZXR0Ljwvc3Ryb25nPjwvcD4NCjwvZGl2Pg0KZAIIDxYCHwAFhwY8ZGl2IGNsYXNzPSJJbm5ob2xkVGVrc3QiIHN0eWxlPSIiPg0KPHA+RGV0IHRpbGRlbGVzIHRvIHN0aXBlbmRlciAmYWdyYXZlOyBrciA1MCAwMDAuIFN0aXBlbmRldCBza2FsIGcmYXJpbmc7IHRpbCBlbmtlbHR1dCZvc2xhc2g7dmVyZS4gRGUgc29tIG1vdHRhciBzdGlwZW5kZXQgbSZhcmluZzsgdiZhZWxpZztyZSBtZWxsb20gMTYgb2cgMjUgJmFyaW5nO3IgZGV0ICZhcmluZztyZXQgc3RpcGVuZGV0IHRpbGRlbGVzLCBvZyBtJmFyaW5nOyB2JmFlbGlnO3JlIHRpbGtueXR0ZXQgZXQgaWRyZXR0c2xhZy8tb3JnYW5pc2Fzam9uLjwvcD4NCjxwPjxzdHJvbmc+UyZvc2xhc2g7a25hZHNmcmlzdCBlciBmb3JsZW5nZXQgdGlsIDEyLiBva3RvYmVyIDIwMTAuPC9zdHJvbmc+PC9wPg0KPHA+PHN0cm9uZz5EaXNzZSBoYXIgdGlkbGlnZXJlIG1vdHRhdHQgc3RpcGVuZDogPC9zdHJvbmc+PC9wPg0KPHA+PHN0cm9uZz4yMDA5OjxiciAvPjwvc3Ryb25nPk1hcnRpbiBIYW5zc2VuIExpbGxldmlrIChmcmlpZHJldHQpPGJyIC8+QWlsYSBFbWlsaWUgU2FycmUgKGh1bmRla2omb3NsYXNoO3JpbmcpPGJyIC8+PGJyIC8+PHN0cm9uZz4yMDA4OjxiciAvPjwvc3Ryb25nPkZpbm4gSCZhcmluZztnZW4gS3JvZ2ggKHNraSk8YnIgLz5PZGQgSXNhayBLYXBwZmplbGwgKGp1ZG8pPGJyIC8+PGJyIC8+PHN0cm9uZz4yMDA3OjxiciAvPjwvc3Ryb25nPk9kYSBPbnN0YWQgVXRzaSAoZnJpaWRyZXR0KTxiciAvPlNpdiBBbmphIE1pZW5uYSAodGFla3dvbmRvKTwvcD4NCjwvZGl2Pg0KZAIKD2QWAmYPZBYIAgEPFgIfAAUMUHVibGlzZXJ0IGF2ZAIDDw8WAh4HVmlzaWJsZWhkZAIFDxYCHwAFEUhvbG1ncmVuLCBIYW5uZS4gZAINDxYCHwAFF1Npc3QgZW5kcmV0ICAxMC4wOS4yMDEwZAIMD2QWAmYPZBYCZg9kFgYCAQ8WAh8FaGQCAw8WAh8FaBYCAgEPZBYCZg9kFgYCAg9kFgRmD2QWAmYPEGRkFgBkAgEPZBYCZg88KwAJAGQCAw9kFgRmD2QWAgIBDxBkZBYAZAIBD2QWAmYPPCsACQBkAgQPZBYCZg9kFgQCAQ8PFgYfAGUfAQUNQnJ1a2VyTWVsZGluZx8CAgJkZAIDDw8WAh8AZWRkAgUPZBYCAgEPZBYKZg88KwAJAGQCAg88KwAJAGQCBA88KwAJAQAPFgQeCERhdGFLZXlzFgAeC18hSXRlbUNvdW50AgFkFgICAQ9kFgYCAQ8PFgIeDUFsdGVybmF0ZVRleHQFCUFydGlra2VsIGRkAgMPDxYEHwNlHwBlZGQCBQ8WAh8ABXggPGEgY2xhc3M9IklubmhvbGRMaW5rIiB0aXRsZT0iIiAgaHJlZj0iL2FydGlra2VsLmFzcHg/TUlkMT0zNDQ4JmFtcDtBSWQ9MzM5NyI+SWRyZXR0c3N0aXBlbmQ6IHMmIzI0ODtrbmFkc2tyaXRlcmllcjwvYT5kAgYPPCsACQBkAgoPPCsACQBkZN5GqmbCMeyPjMqDtE7uu4Dm8tXM />
-
-
-<script type=text/javascript>
-//<![CDATA[
-function addLoadEvent(func) {
-var oldonload = window.onload;
-if (typeof window.onload != 'function') {
-window.onload = func;
-} else {
-window.onload = function() {
-if (oldonload) {
-oldonload();
-}
-func();
-}
-}
-}   
-//]]>
-</script>
-<script type=text/javascript>
-var gaJsHost = ((https: == document.location.protocol) ? https://ssl. : http://www.);
-document.write(unescape(%3Cscript src=' + gaJsHost + google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E));
-</script>
-<script type=text/javascript>
-var pageTracker = _gat._getTracker(UA-13172157-1);
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-
-		
-    
-
-<div id=ctl00_MidtSone_ucArtikkel_ctl00_pnlArtikkel class=artikkel artikkelmal_5>
-	<h1 id=tittel class=InnholdOverskrift >
-Sametingets idrettsstipend – forlenget søknadsfrist 12.10.2010'"/>
+<xsl:variable name="title" select="'Sametingets idrettsstipend – forlenget søknadsfrist 12.10.2010 - Sámediggi Sametinget'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -104,7 +64,7 @@ Sametingets idrettsstipend – forlenget søknadsfrist 12.10.2010'"/>
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="''"/>
+<xsl:variable name="mainlang" select="'sme'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
