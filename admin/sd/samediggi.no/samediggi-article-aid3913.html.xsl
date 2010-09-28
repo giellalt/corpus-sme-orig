@@ -17,47 +17,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.sametinget.no/artikkel.aspx?MId1=1042&amp;AId=3913&amp;Print=1'"/>
-<xsl:variable name="title" select="'Vi streamer plenumsmøtet direkte på nett - diggi.no
-</title></head>
-
-<body id=ctl00_Body style=background-color:white>
-	<form name=aspnetForm method=post action=artikkel.aspx?MId1=1042&amp;amp;AId=3913&amp;amp;Print=1 id=aspnetForm style=width:90%>
-<input type=hidden name=__VIEWSTATE id=__VIEWSTATE value=/wEPDwULLTEyNjc4NzYyNTQPZBYCZg9kFgICAw9kFgICAw9kFgICAQ9kFgICAQ9kFgICAQ9kFgJmD2QWAgICD2QWAmYPZBYCZg9kFgJmD2QWDGYPFgIeBFRleHQFYDxoMSBpZD0idGl0dGVsIiBjbGFzcz0iSW5uaG9sZE92ZXJza3JpZnQiID4NClZpIHN0cmVhbWVyIHBsZW51bXNtw7h0ZXQgZGlyZWt0ZSBww6UgbmV0dA0KPC9oMT4NCmQCAg9kFgJmDw8WBB4IQ3NzQ2xhc3MFG2FydGlra2VsYmlsZGUgYmlsZGVfdmVuc3RyZR4EXyFTQgICZBYCAgEPDxYEHwAFnAE8aW1nIGJvcmRlcj0iMCIgICBzcmM9Ii9rdW5kZS9iaWxkZXIvTGl0ZV9TYW1ldGluZ2V0IC0gc2FtZXRpbmdzYWxlbi5qcGciIGFsaWduPSJ0b3AiIGFsdD0iU2FtZXRpbmdldCAtIHNhbWV0aW5nc2FsZW4iIHRpdGxlPSJTYW1ldGluZ2V0IC0gc2FtZXRpbmdzYWxlbiIgLz4eC05hdmlnYXRlVXJsBRJqYXZhc2NyaXB0OnZvaWQoMCkWAh4HT25DbGljawXFAXdpbmRvdy5vcGVuKCcvYmlsZGV2aXMuYXNwP0JpbGRlSWQ9MTQwJlZpcz1zdG9yJkVrc2FrdD10cnVlJywnaG9tZScsJ3Rvb2xiYXI9bm8sbG9jYXRpb249bm8sZGlyZWN0b3JpZXM9bm8sc3RhdHVzPW5vLG1lbnViYXI9bm8sc2Nyb2xsYmFycz15ZXMscmVzaXphYmxlPXllcyxjb3B5aGlzdG9yeT15ZXMsV2lkdGg9MTAyNCxIZWlnaHQ9NjgzJyk7ZAIEDxYCHwAFhAI8ZGl2IGNsYXNzPSJJbm5ob2xkSW5ncmVzcyIgc3R5bGU9IiI+DQo8cD5GJm9zbGFzaDtsZyBsaW5rZW4gdW5kZXIgb2cgc2UgU2FtZXRpbmdldHMgcGxlbnVtc20mb3NsYXNoO3RlIGRpcmVrdGUgcCZhcmluZzsgbmV0dC48L3A+DQo8cD48YSBocmVmPSJodHRwOi8vc2FtZXRpbmdldC5leHNzLm5vL2JydWtlci9wYWdlcy9saXZlLmFzcHgiPmh0dHA6Ly9zYW1ldGluZ2V0LmV4c3Mubm8vYnJ1a2VyL3BhZ2VzL2xpdmUuYXNweDwvYT48L3A+DQo8L2Rpdj4NCmQCCA8WAh8ABf8GPGRpdiBjbGFzcz0iSW5uaG9sZFRla3N0IiBzdHlsZT0iIj4NCjxwPlNha3NsaXN0ZTo8L3A+DQo8cD4tIDI3LzEwIEtvbnN0aXR1ZXJpbmcuPGJyIC8+PGJyIC8+LSAyOC8xMCBTYW1ldGluZ3NyJmFyaW5nO2RldHMgYmVyZXRuaW5nIG9tIHZpcmtzb21oZXRlbi48YnIgLz48YnIgLz4tIDI5LzEwIFNwJm9zbGFzaDtyc20mYXJpbmc7bCB0aWwgU2FtZXRpbmdzciZhcmluZztkZXQuPGJyIC8+PGJyIC8+LSZuYnNwOzMwLzEwIEt1bm5naiZvc2xhc2g7cmluZyBhdiBueWUgc2FrZXIuPGJyIC8+PGJyIC8+LSAzMS8xMCBTYW1ldGluZ2V0cyBpbm5zcGlsbCB0aWwgcmVpbmRyaWZ0c2F2dGFsZSBmb3IgMjAxMS8yMDEyLjxiciAvPjxiciAvPi0gMzIvMTAgU2FtZXRpbmdldHMgbSZvc2xhc2g7dGVwbGFuIDIwMTEgb2cgMjAxMiAtIGVuZHJpbmdlci48YnIgLz48YnIgLz4tIDMzLzEwIFZlcm5lcHJvc2Vzc2VyIGkgc2FtaXNrZSBvbXImYXJpbmc7ZGVyLiA8YnIgLz48YnIgLz4tIDM0LzEwIE4mYWVsaWc7cmluZ3NhdnRhbGUgZm9yIGR1b2RqaSAwMS5qYW51YXIgLSAzMS5kZXNlbWJlciAyMDExIC0gZ29ka2plbm5pbmcuPGJyIC8+PGJyIC8+LSAzNS8xMCBTdHJhdGVnaXBsYW4gZm9yIHNhbWlzayBraXJrZWxpdi48YnIgLz48YnIgLz4tIDM2LzEwIFJldmlkZXJ0IHNhbWFyYmVpZHNhdnRhbGUgbWVsbG9tIFNhbWV0aW5nZXQgb2cgZnlsa2Vza29tbXVuZW5lIGkgcyZvc2xhc2g7cnNhbWlzayBvbXImYXJpbmc7ZGUgMjAxMC0yMDEzLiZuYnNwOzxiciAvPjxiciAvPi0gMzcvMTAgRGVsZWdlcmluZyBhdiBmdWxsbWFrdCB0aWwgU2FtZXRpbmdzciZhcmluZztkZXQgdGlsIGZhc3RzZXR0ZWxzZSBhdiBpbm5ob2xkIGkgbCZhZWxpZztyZXBsYW5lci4mbmJzcDs8L3A+DQo8L2Rpdj4NCmQCCg9kFgJmD2QWCAIBDxYCHwAFDFB1Ymxpc2VydCBhdmQCAw8PFgIeB1Zpc2libGVoZGQCBQ8WAh8ABRFIb2xtZ3JlbiwgSGFubmUuIGQCDQ8WAh8ABRdTaXN0IGVuZHJldCAgMjguMDkuMjAxMGQCDA9kFgJmD2QWAmYPZBYGAgEPFgIfBWhkAgMPFgIfBWgWAgIBD2QWAmYPZBYGAgIPZBYEZg9kFgJmDxBkZBYAZAIBD2QWAmYPPCsACQBkAgMPZBYEZg9kFgICAQ8QZGQWAGQCAQ9kFgJmDzwrAAkAZAIED2QWAmYPZBYEAgEPDxYGHwBlHwEFDUJydWtlck1lbGRpbmcfAgICZGQCAw8PFgIfAGVkZAIFD2QWAgIBD2QWCmYPPCsACQBkAgIPPCsACQBkAgQPPCsACQEADxYEHghEYXRhS2V5cxYAHgtfIUl0ZW1Db3VudAIBZBYCAgEPZBYGAgEPDxYCHg1BbHRlcm5hdGVUZXh0BQlBcnRpa2tlbCBkZAIDDw8WBB8DZR8AZWRkAgUPFgIfAAWLASA8YSBjbGFzcz0iSW5uaG9sZExpbmsiIHRpdGxlPSIiICBocmVmPSIvYXJ0aWtrZWwuYXNweD9NSWQxPTk1NyZhbXA7QUlkPTM5MDMiPkFydGlra2VsICAtIFNhbWV0aW5nZXRzIHBsZW51bXNtJiMyNDg7dGUg4oCTIHNlcHRlbWJlci4uLjwvYT5kAgYPPCsACQBkAgoPPCsACQBkZJRxfteEV7Bl1E9UK+H1K1BdJ+aj />
-
-
-<script type=text/javascript>
-//<![CDATA[
-function addLoadEvent(func) {
-var oldonload = window.onload;
-if (typeof window.onload != 'function') {
-window.onload = func;
-} else {
-window.onload = function() {
-if (oldonload) {
-oldonload();
-}
-func();
-}
-}
-}   
-//]]>
-</script>
-<script type=text/javascript>
-var gaJsHost = ((https: == document.location.protocol) ? https://ssl. : http://www.);
-document.write(unescape(%3Cscript src=' + gaJsHost + google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E));
-</script>
-<script type=text/javascript>
-var pageTracker = _gat._getTracker(UA-13172157-1);
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-
-		
-    
-
-<div id=ctl00_MidtSone_ucArtikkel_ctl00_pnlArtikkel class=artikkel artikkelmal_5>
-	<h1 id=tittel class=InnholdOverskrift >
-Vi streamer plenumsmøtet direkte på nett'"/>
+<xsl:variable name="title" select="'Vi streamer plenumsmøtet direkte på nett - diggi.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -98,7 +58,7 @@ Vi streamer plenumsmøtet direkte på nett'"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
-<xsl:variable name="template_version" select="'$Revision: 32948 $'"/>
+<xsl:variable name="template_version" select="'$Revision$'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>

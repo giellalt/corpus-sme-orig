@@ -17,47 +17,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.sametinget.no/artikkel.aspx?AId=3902&amp;Print=1'"/>
-<xsl:variable name="title" select="'Seminar om nye tildelingskriterier for Sametingets tospråklighetsmidler - Sámediggi Sametinget
-</title></head>
-
-<body id=ctl00_Body style=background-color:white>
-	<form name=aspnetForm method=post action=artikkel.aspx?AId=3902&amp;amp;Print=1 id=aspnetForm style=width:90%>
-<input type=hidden name=__VIEWSTATE id=__VIEWSTATE value=/wEPDwULLTEyNjc4NzYyNTQPZBYCZg9kFgICAw9kFgICAw9kFgICAQ9kFgICAQ9kFgICAQ9kFgJmD2QWAgICD2QWAmYPZBYCZg9kFgJmD2QWCmYPFgIeBFRleHQFfjxoMSBpZD0idGl0dGVsIiBjbGFzcz0iSW5uaG9sZE92ZXJza3JpZnQiID4NClNlbWluYXIgb20gbnllIHRpbGRlbGluZ3Nrcml0ZXJpZXIgZm9yIFNhbWV0aW5nZXRzIHRvc3Byw6VrbGlnaGV0c21pZGxlcg0KPC9oMT4NCmQCAg8WAh8ABa4CPGRpdiBjbGFzcz0iSW5uaG9sZEluZ3Jlc3MiIHN0eWxlPSIiPg0KPHA+PHN0cm9uZz5TYW1ldGluZ2V0IGFycmFuZ2VyZXIgaSBhbmxlZG5pbmcgcGxlbnVtc3NhbWxpbmdlbiBpIHNlcHRlbWJlciBldCBoYWx2ZGFnc3NlbWluYXIgb20gZGUgbnllIHRpbGRlbGluZ3Nrcml0ZXJpZW5lIGZvciB0b3NwciZhcmluZztrbGlnaGV0c21pZGxlci4gU2VtaW5hcmV0IGZpbm5lciBzdGVkIGkgU2FtZXRpbmdldHMgcGxlbnVtc3NhbCBvbnNkYWcgMjkuMDkuMTAgZnJhIGtsLjA5LjAwIC0gMTIuMDAuPC9zdHJvbmc+PC9wPg0KPC9kaXY+DQpkAgYPFgIfAAWsDTxkaXYgY2xhc3M9IklubmhvbGRUZWtzdCIgc3R5bGU9IiI+DQo8cD5TZW1pbmFyZXQgdmlsIGlubmxlZGVzIGF2IHRvIGZvcnZhbHRuaW5nc2tvbW11bmVyIG9nIFNhbWV0aW5nc3ImYXJpbmc7ZGV0IHZpbCBwcmVzZW50ZXJlIGZvcnNsYWcgdGlsIG55ZSB0aWxkZWxpbmdza3JpdGVyaWVyIGZvciB0b3NwciZhcmluZztrbGlnaGV0c21pZGxlbmUuPC9wPg0KPHA+RGV0IHZpbCBibGkgYW5sZWRuaW5nICZhcmluZzsga29tbWUgbWVkIHNwJm9zbGFzaDtyc20mYXJpbmc7bCBvZyBrb21tZW50YXJlciB0aWwgZGUgbnllIGZvcnNsYWdlbmUgZm9yIHRpbGRlbGluZ3Nrcml0ZXJpZXIuJm5ic3A7PC9wPg0KPHA+RGV0IGVyIGxhZ3Qgb3BwIG15ZSB0aWQgdGlsIGRlYmF0dCBvZyBkaXNrdXNqb24gZGVyIGRldCB2aWwgYmxpIGFubGVkbmluZyAmYXJpbmc7IGtvbW1lIG1lZCBzcCZvc2xhc2g7cnNtJmFyaW5nO2wgb2cga29tbWVudGFyZXIgdGlsIGRlIG55ZSBmb3JzbGFnZW5lIGZvciB0aWxkZWxpbmdza3JpdGVyaWVyLiBTYW1ldGluZ2V0IGgmYXJpbmc7cGVyIHMmYXJpbmc7IG1hbmdlIHNvbSBtdWxpZyBoYXIgYW5sZWRuaW5nIHRpbCAmYXJpbmc7IGRlbHRhIHAmYXJpbmc7IHNlbWluYXJldCBvZyBzZXIgZnJlbSB0aWwgZW4gZ29kIG9nIGtvbnN0cnVrdGl2IGRlYmF0dCBvbSB0ZW1hZXQuPC9wPg0KPHA+VmVsbCBtJm9zbGFzaDt0dC48L3A+DQo8cD4mbmJzcDs8L3A+DQo8cD5Qcm9ncmFtIGZvciBzZW1pbmFyLyZhcmluZztwZW4gaCZvc2xhc2g7cmluZyBvbSBueWUgdGlsZGVsaW5nc2tyaXRlcmllciBmb3IgdG9zcHImYXJpbmc7a2xpZ2hldHNtaWRsZW5lOjwvcD4NCjxwPjA5LjAwIC0gMDkuMTA6IFZlbGtvbW1lbiBhdiBFZ2lsIE9sbGk8L3A+DQo8cD4wOS4xMCAtIDA5LjM1OiBLYXV0b2tlaW5vIGtvbW11bmUgdmVkIE1haWEgSCZhZWxpZzt0dGEgLSB1dGZvcmRyaW5nZXIgaSBmb3Job2xkIHRpbCByYXBwb3J0ZXJpbmdlbiBtZWQgZGFnZW5zIGtyaXRlcmllcjwvcD4NCjxwPjA5LjM1IC0gMDkuNTA6IExhdmFuZ2VuIGtvbW11bmUgdmVkIFZpa3RvciBBbmRiZXJnIC0gSHZpbGtlIHV0Zm9yZHJpbmdlciBoYXIgZW4gbnkga29tbXVuZSBpIGZvcmhvbGQgdGlsIHJhcHBvcnRlcmluZ2VuIG1lZCBkYWdlbnMga3JpdGVyaWVyLjwvcD4NCjxwPjA5LjUwIC0gMTAuMDU6IEthZmZlcGF1c2U8L3A+DQo8cD4xMC4wNSAtIDEwLjUwOiBTYW1ldGluZ3NyJmFyaW5nO2RldCB2ZWQgTWFyaWFubmUgQmFsdG8gLSBmb3JzbGFnIHRpbCZuYnNwO255ZSBrcml0ZXJpZXI8L3A+DQo8cD4xMDo1MCAtIDExLjUwOiBEZWJhdHQvZGlza3Vzam9uIGZyYSBrb21tdW5lci9wbGVudW0gYW5nJmFyaW5nO2VuZGUgZm9yc2xhZyB0aWwgbnllIHRpbGRlbGluZ3Nrcml0ZXJpZXI8L3A+DQo8cD4xMS41MCAtIDEyLjAwOiBPcHBzdW1tZXJpbmcgYXYgZGViYXR0ZW4vYXZzbHV0bmluZyBhdiBTYW1ldGluZ3NyJmFyaW5nO2RldCB2ZWQgTWFyaWFubmUgQmFsdG8uPC9wPg0KPHA+Jm5ic3A7PC9wPg0KPHA+RXZlbnR1ZWxsZSBlbmRyaW5nZXIgaSBwcm9ncmFtbWV0IHZpbCBibGkgb2ZmZW50bGlnZ2pvcnQgcCZhcmluZzsgdiZhcmluZztyZSBuZXR0c2lkZXIuPC9wPg0KPHA+S29udGFrdHBlcnNvbjogUiZhcmluZztkZ2l2ZXIgRW1tYSBNYXJncmV0IFNrJmFyaW5nO2RlbiwgdGxmLiA5OTUgNzQmbmJzcDs1MzMuPC9wPg0KPC9kaXY+DQpkAggPZBYCZg9kFggCAQ8WAh8ABQxQdWJsaXNlcnQgYXZkAgMPDxYCHgdWaXNpYmxlaGRkAgUPFgIfAAURSG9sbWdyZW4sIEhhbm5lLiBkAg0PFgIfAAUXU2lzdCBlbmRyZXQgIDIyLjA5LjIwMTBkAgoPZBYCZg9kFgJmD2QWBgIBDxYCHwFoZAIDDxYCHwFoFgICAQ9kFgJmD2QWBgICD2QWBGYPZBYCZg8QZGQWAGQCAQ9kFgJmDzwrAAkAZAIDD2QWBGYPZBYCAgEPEGRkFgBkAgEPZBYCZg88KwAJAGQCBA9kFgJmD2QWBAIBDw8WBh8AZR4IQ3NzQ2xhc3MFDUJydWtlck1lbGRpbmceBF8hU0ICAmRkAgMPDxYCHwBlZGQCBQ9kFgICAQ9kFgpmDzwrAAkAZAICDzwrAAkAZAIEDzwrAAkBAA8WBB4IRGF0YUtleXMWAB4LXyFJdGVtQ291bnQCAWQWAgIBD2QWBgIBDw8WAh4NQWx0ZXJuYXRlVGV4dAUJQXJ0aWtrZWwgZGQCAw8PFgQeC05hdmlnYXRlVXJsZR8AZWRkAgUPFgIfAAV+IDxhIGNsYXNzPSJJbm5ob2xkTGluayIgdGl0bGU9IiIgIGhyZWY9Ii9hcnRpa2tlbC5hc3B4P0FJZD0zOTAzIj5BcnRpa2tlbCAgLSBTYW1ldGluZ2V0cyBwbGVudW1zbSYjMjQ4O3RlIOKAkyBzZXB0ZW1iZXIuLi48L2E+ZAIGDzwrAAkAZAIKDzwrAAkAZGRHZ2hqVtP1QB84LP+FbUGE35cCCA== />
-
-
-<script type=text/javascript>
-//<![CDATA[
-function addLoadEvent(func) {
-var oldonload = window.onload;
-if (typeof window.onload != 'function') {
-window.onload = func;
-} else {
-window.onload = function() {
-if (oldonload) {
-oldonload();
-}
-func();
-}
-}
-}   
-//]]>
-</script>
-<script type=text/javascript>
-var gaJsHost = ((https: == document.location.protocol) ? https://ssl. : http://www.);
-document.write(unescape(%3Cscript src=' + gaJsHost + google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E));
-</script>
-<script type=text/javascript>
-var pageTracker = _gat._getTracker(UA-13172157-1);
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-
-		
-    
-
-<div id=ctl00_MidtSone_ucArtikkel_ctl00_pnlArtikkel class=artikkel artikkelmal_4>
-	<h1 id=tittel class=InnholdOverskrift >
-Seminar om nye tildelingskriterier for Sametingets tospråklighetsmidler'"/>
+<xsl:variable name="title" select="'Seminar om nye tildelingskriterier for Sametingets tospråklighetsmidler - Sámediggi Sametinget'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -98,7 +58,7 @@ Seminar om nye tildelingskriterier for Sametingets tospråklighetsmidler'"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
-<xsl:variable name="template_version" select="'$Revision: 32948 $'"/>
+<xsl:variable name="template_version" select="'$Revision$'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
