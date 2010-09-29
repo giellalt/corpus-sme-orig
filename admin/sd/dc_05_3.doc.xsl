@@ -4,9 +4,9 @@
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'dc_05_3.doc'"/>
-  <xsl:variable name="title" select="'S&#xE1;medikki dievas&#x10D;oahkkin'"/>
+  <xsl:variable name="title" select="'Sámedikki dievasčoahkkin'"/>
   <xsl:variable name="author1_fn" select="'John Osvald'"/>
-  <xsl:variable name="author1_ln" select="'Gr&#xF8;nmo'"/>
+  <xsl:variable name="author1_ln" select="'Grønmo'"/>
   <xsl:variable name="author1_gender" select="'m'"/>
   <xsl:variable name="author1_born" select="''"/>
   <xsl:variable name="author1_nat" select="'nor'"/>
@@ -25,8 +25,8 @@
   <xsl:variable name="author4_gender" select="''"/>
   <xsl:variable name="author4_born" select="''"/>
   <xsl:variable name="author4_nat" select="''"/>
-  <xsl:variable name="translated_from" select="''"/>
-  <xsl:variable name="publisher" select="'S&#xE1;mediggi'"/>
+  <xsl:variable name="translated_from" select="'nob'"/>
+  <xsl:variable name="publisher" select="'Sámediggi'"/>
   <xsl:variable name="publChannel" select="''"/>
   <xsl:variable name="year" select="'2005'"/>
   <xsl:variable name="ISBN" select="''"/>
@@ -40,7 +40,7 @@
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'B&#xF8;rre Gaup'"/>
+  <xsl:variable name="sub_name" select="'Børre Gaup'"/>
   <xsl:variable name="sub_email" select="'boerre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
