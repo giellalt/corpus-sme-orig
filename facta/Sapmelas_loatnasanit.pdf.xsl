@@ -2,7 +2,7 @@
 <!-- Format query results for display -->
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
-<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/> 
+<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <xsl:variable name="filename" select="''"/>
@@ -54,7 +54,7 @@
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="''"/>
+<xsl:variable name="mainlang" select="'sme'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
@@ -137,7 +137,7 @@
                <xsl:with-param name="inputString" select="$text"/>
 <xsl:with-param name="target" select="'e$/e$-/n$/a$/o$/r$/u$/s$/$/ios/±/n`/¤/u3u/¢/aoou/e1-/ñ/aÀ/ð/a4-/s=/t{/kwa/eT/oaT/aǦ/oǦ/uǦ/c`/'"/>
 <xsl:with-param name="replacement" select="'ē/ē/n̄/ā/ō/r̄/ū/s̄/̄/i̮s/ŋ/ń/đ/ušu/č/ažžu/e̮/ŋ/å/´/a̭/š/ț/kʷa/eδ/oaδ/ä/ö/ü/ć/'"/>
-                <xsl:with-param name="continue" select="0"/>	
+                <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>
 </xsl:template>

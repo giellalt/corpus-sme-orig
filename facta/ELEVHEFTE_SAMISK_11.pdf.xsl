@@ -109,5 +109,5 @@
 <xsl:variable name="title_sizes" select="'14pt'"/>
 <xsl:variable name="title_styles" select="'Bold'"/>
 
-  
+
 </xsl:stylesheet>

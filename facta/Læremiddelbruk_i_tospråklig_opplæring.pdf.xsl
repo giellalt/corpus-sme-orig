@@ -111,6 +111,6 @@
 <xsl:variable name="columns" select="'2'"/>
 
 
-  
+
 
 </xsl:stylesheet>
