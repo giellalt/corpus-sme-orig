@@ -17,12 +17,12 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://skuvla.info/skolehist/tanapioner-s.htm'"/>
-<xsl:variable name="title" select="''"/>
-<xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
-<xsl:variable name="author1_gender" select="'unknown'"/>
+<xsl:variable name="title" select="'Finnmárkku dáruiduhttin šattai sin eallimin'"/>
+<xsl:variable name="author1_fn" select="'Ragnhild'"/>
+<xsl:variable name="author1_ln" select="'Sandøy'"/>
+<xsl:variable name="author1_gender" select="'f'"/>
 <xsl:variable name="author1_born" select="''"/>
-<xsl:variable name="author1_nat" select="''"/>
+<xsl:variable name="author1_nat" select="'no'"/>
 <xsl:variable name="author2_fn" select="''"/>
 <xsl:variable name="author2_ln" select="''"/>
 <xsl:variable name="author2_gender" select="''"/>
@@ -38,7 +38,7 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="publisher" select="'Davvi Girji'"/>
 <xsl:variable name="publChannel" select="''"/>
 <xsl:variable name="year" select="'2010'"/>
@@ -47,11 +47,11 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translator_fn" select="''"/>
-<xsl:variable name="translator_ln" select="''"/>
-<xsl:variable name="translator_gender" select="'unknown'"/>
+<xsl:variable name="translator_fn" select="'Anne Kristine'"/>
+<xsl:variable name="translator_ln" select="'Utsi'"/>
+<xsl:variable name="translator_gender" select="'f'"/>
 <xsl:variable name="translator_born" select="''"/>
-<xsl:variable name="translator_nat" select="''"/>
+<xsl:variable name="translator_nat" select="'no'"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="'Børre Gaup'"/>
@@ -68,7 +68,7 @@
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
+<xsl:variable name="monolingual" select="'1'"/> <!--lg rec is off!-->
 <xsl:variable name="multilingual" select="''"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
