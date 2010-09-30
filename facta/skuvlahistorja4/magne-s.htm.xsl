@@ -17,12 +17,12 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://skuvla.info/skolehist/magne-s.htm'"/>
-<xsl:variable name="title" select="''"/>
-<xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
-<xsl:variable name="author1_gender" select="'unknown'"/>
-<xsl:variable name="author1_born" select="''"/>
-<xsl:variable name="author1_nat" select="''"/>
+<xsl:variable name="title" select="'Ii oktage ipmirdan ahte ohppen'"/>
+<xsl:variable name="author1_fn" select="'Magne'"/>
+<xsl:variable name="author1_ln" select="'Skåden'"/>
+<xsl:variable name="author1_gender" select="'m'"/>
+<xsl:variable name="author1_born" select="'1977'"/>
+<xsl:variable name="author1_nat" select="'no'"/>
 <xsl:variable name="author2_fn" select="''"/>
 <xsl:variable name="author2_ln" select="''"/>
 <xsl:variable name="author2_gender" select="''"/>
@@ -47,9 +47,9 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translator_fn" select="''"/>
-<xsl:variable name="translator_ln" select="''"/>
-<xsl:variable name="translator_gender" select="'unknown'"/>
+<xsl:variable name="translator_fn" select="'Marit'"/>
+<xsl:variable name="translator_ln" select="'Eira Gaino'"/>
+<xsl:variable name="translator_gender" select="'f'"/>
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
@@ -68,7 +68,7 @@
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
+<xsl:variable name="monolingual" select="'1'"/> <!--lg rec is off!-->
 <xsl:variable name="multilingual" select="''"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->

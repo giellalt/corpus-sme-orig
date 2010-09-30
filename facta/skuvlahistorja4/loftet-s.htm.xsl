@@ -17,12 +17,12 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://skuvla.info/skolehist/loftet-s.htm'"/>
-<xsl:variable name="title" select="''"/>
-<xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
-<xsl:variable name="author1_gender" select="'unknown'"/>
-<xsl:variable name="author1_born" select="''"/>
-<xsl:variable name="author1_nat" select="''"/>
+<xsl:variable name="title" select="'Muittut mu álbmotskuvlaáiggis, Deanodaga skuvlastohpolovttas'"/>
+<xsl:variable name="author1_fn" select="'Per Erik'"/>
+<xsl:variable name="author1_ln" select="'Saraksen'"/>
+<xsl:variable name="author1_gender" select="'m'"/>
+<xsl:variable name="author1_born" select="'1901'"/>
+<xsl:variable name="author1_nat" select="'no'"/>
 <xsl:variable name="author2_fn" select="''"/>
 <xsl:variable name="author2_ln" select="''"/>
 <xsl:variable name="author2_gender" select="''"/>
@@ -61,14 +61,14 @@
 <xsl:variable name="template_version" select="'$Revision$'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
-<xsl:variable name="note" select="''"/>
+<xsl:variable name="note" select="'Per Erik Saraksen (1901–1989) doalai dán koseriija Sámi radios 07.05.1971. Son lei ieš čállán dan sámegillii, doaimmahus lea transkriberen dan ođđa čállinvuohkái, rievdatkeahttá su sátneválljema'"/>
 
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="'sme'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
+<xsl:variable name="monolingual" select="'1'"/> <!--lg rec is off!-->
 <xsl:variable name="multilingual" select="''"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
