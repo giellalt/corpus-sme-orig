@@ -17,27 +17,27 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://skuvla.info/skolehist/ssh4-s.htm'"/>
-<xsl:variable name="title" select="''"/>
-<xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
-<xsl:variable name="author1_gender" select="'unknown'"/>
-<xsl:variable name="author1_born" select="''"/>
-<xsl:variable name="author1_nat" select="''"/>
-<xsl:variable name="author2_fn" select="''"/>
-<xsl:variable name="author2_ln" select="''"/>
-<xsl:variable name="author2_gender" select="''"/>
-<xsl:variable name="author2_born" select="''"/>
-<xsl:variable name="author2_nat" select="''"/>
-<xsl:variable name="author3_fn" select="''"/>
-<xsl:variable name="author3_ln" select="''"/>
-<xsl:variable name="author3_gender" select="''"/>
+<xsl:variable name="title" select="'Ovdasátni'"/>
+<xsl:variable name="author1_fn" select="'Elfrid'"/>
+<xsl:variable name="author1_ln" select="'Boine'"/>
+<xsl:variable name="author1_gender" select="'f'"/>
+<xsl:variable name="author1_born" select="'1959'"/>
+<xsl:variable name="author1_nat" select="'no'"/>
+<xsl:variable name="author2_fn" select="'Siri'"/>
+<xsl:variable name="author2_ln" select="'Broch Johansen'"/>
+<xsl:variable name="author2_gender" select="'f'"/>
+<xsl:variable name="author2_born" select="'1967'"/>
+<xsl:variable name="author2_nat" select="'no'"/>
+<xsl:variable name="author3_fn" select="'Svein'"/>
+<xsl:variable name="author3_ln" select="'Lund'"/>
+<xsl:variable name="author3_gender" select="'m'"/>
 <xsl:variable name="author3_born" select="''"/>
-<xsl:variable name="author3_nat" select="''"/>
-<xsl:variable name="author4_fn" select="''"/>
-<xsl:variable name="author4_ln" select="''"/>
-<xsl:variable name="author4_gender" select="''"/>
+<xsl:variable name="author3_nat" select="'no'"/>
+<xsl:variable name="author4_fn" select="'Siv'"/>
+<xsl:variable name="author4_ln" select="'Rasmussen'"/>
+<xsl:variable name="author4_gender" select="'f'"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="author4_nat" select="''"/>
+<xsl:variable name="author4_nat" select="'no'"/>
 <xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="publisher" select="'Davvi Girji'"/>
 <xsl:variable name="publChannel" select="''"/>
@@ -68,7 +68,7 @@
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
+<xsl:variable name="monolingual" select="'1'"/> <!--lg rec is off!-->
 <xsl:variable name="multilingual" select="''"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->

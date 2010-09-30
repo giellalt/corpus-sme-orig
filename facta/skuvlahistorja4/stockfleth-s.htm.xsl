@@ -17,12 +17,12 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://skuvla.info/skolehist/stockfleth-s.htm'"/>
-<xsl:variable name="title" select="''"/>
-<xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
-<xsl:variable name="author1_gender" select="'unknown'"/>
-<xsl:variable name="author1_born" select="''"/>
-<xsl:variable name="author1_nat" select="''"/>
+<xsl:variable name="title" select="'... dat giella maid dal Ipmil leš oktii bidjan sin váimmuid'"/>
+<xsl:variable name="author1_fn" select="'Nils'"/>
+<xsl:variable name="author1_ln" select="'Stockfleth'"/>
+<xsl:variable name="author1_gender" select="'m'"/>
+<xsl:variable name="author1_born" select="'1787'"/>
+<xsl:variable name="author1_nat" select="'no'"/>
 <xsl:variable name="author2_fn" select="''"/>
 <xsl:variable name="author2_ln" select="''"/>
 <xsl:variable name="author2_gender" select="''"/>
@@ -38,7 +38,7 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="'dan'"/>
 <xsl:variable name="publisher" select="'Davvi Girji'"/>
 <xsl:variable name="publChannel" select="''"/>
 <xsl:variable name="year" select="'2010'"/>
@@ -47,9 +47,9 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translator_fn" select="''"/>
-<xsl:variable name="translator_ln" select="''"/>
-<xsl:variable name="translator_gender" select="'unknown'"/>
+<xsl:variable name="translator_fn" select="'Lasse'"/>
+<xsl:variable name="translator_ln" select="'Wigelius'"/>
+<xsl:variable name="translator_gender" select="'m'"/>
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
@@ -68,7 +68,7 @@
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
+<xsl:variable name="monolingual" select="'1'"/> <!--lg rec is off!-->
 <xsl:variable name="multilingual" select="''"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
@@ -92,7 +92,7 @@
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
-<xsl:variable name="para_dan" select="''"/>
+<xsl:variable name="para_dan" select="'stockfleth-n.htm'"/>
 <xsl:variable name="para_eng" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_fkv" select="''"/>
@@ -100,7 +100,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'stockfleth-n.htm'"/>
+<xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
