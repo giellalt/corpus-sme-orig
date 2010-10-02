@@ -27,7 +27,7 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="publisher" select="''"/>
 <xsl:variable name="publChannel" select="''"/>
 <xsl:variable name="year" select="''"/>
@@ -106,7 +106,7 @@
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_nob" select="'NOU_2001_35.pdf'"/>
+<xsl:variable name="para_nob" select="'NOU200120010035000DDDPDFA.pdf'"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
