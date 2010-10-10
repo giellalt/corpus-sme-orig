@@ -56,7 +56,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="'Joseph Fjellgren'"/>
 <xsl:variable name="sub_email" select="'joseph.fjellgren@samediggi.no'"/>
-<xsl:variable name="wordcount" select="''"/>
+<xsl:variable name="wordcount" select="'3651'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.22 '"/>
 <xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
