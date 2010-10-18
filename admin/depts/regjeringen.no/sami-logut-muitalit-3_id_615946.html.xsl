@@ -5,7 +5,8 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://www.regjeringen.no/se/dep/fad/dok/rapporter_planer/rapporter/2010/Sami-logut-muitalit-3.html?id=615946'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/fad/dok/rapporter_planer/rapporter/2010/sami-logut-muitalit-3.html?id=615946'"/>
+<xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="'Sámi logut muitalit 3 - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -47,13 +48,13 @@
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
 <xsl:variable name="wordcount" select="'211'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
-<xsl:variable name="template_version" select="'$Revision$'"/>
+<xsl:variable name="template_version" select="'$Revision: 34357 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="''"/>
+<xsl:variable name="mainlang" select="'sme'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
@@ -82,13 +83,13 @@
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="''"/>
+<xsl:variable name="para_eng" select="'A-good-but-tight-defence-budget.html?id=619069'"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_fkv" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="''"/>
+<xsl:variable name="para_nno" select="'57-milliardar-kroner-meir-til-kommunane.html?id=619784'"/>
 <xsl:variable name="para_nob" select="'samiske-tall-forteller-3.html?id=615946'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
