@@ -6,6 +6,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://regjeringen.no/se/dep/fd/pressesenter/pressemeldinger/2010/---buorre-muhto-avgadis-suodjalusbueahtt.html?id=619069'"/>
+<xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="'- Buorre, muhto čavgadis suodjalusbušeahtta - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -29,7 +30,7 @@
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="publisher" select="''"/>
 <xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
-<xsl:variable name="year" select="''"/>
+<xsl:variable name="year" select="'2010'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
@@ -47,13 +48,13 @@
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
 <xsl:variable name="wordcount" select="'1313'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
-<xsl:variable name="template_version" select="'$Revision$'"/>
+<xsl:variable name="template_version" select="'$Revision: 34357 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="''"/>
+<xsl:variable name="mainlang" select="'sme'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
