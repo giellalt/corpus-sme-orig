@@ -47,7 +47,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translator_fn" select="'Rauna Magga & Petter Johanas'"/>
+<xsl:variable name="translator_fn" select="'Rauna Magga &amp; Petter Johanas'"/>
 <xsl:variable name="translator_ln" select="'Lukkari'"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
 <xsl:variable name="translator_born" select="''"/>
