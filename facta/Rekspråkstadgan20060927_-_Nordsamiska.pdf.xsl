@@ -16,29 +16,29 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="''"/>
+<xsl:variable name="filename" select="'http://www.manskligarattigheter.gov.se/dynamaster/file_archive/081106/94c735be69a2cb78ea57ae0e2a503da7/Rekspr�kstadgan20060927 - Nordsamiska.pdf'"/>
+<xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
-<xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author1_nat" select="''"/>
+<xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author2_fn" select="''"/>
 <xsl:variable name="author2_ln" select="''"/>
 <xsl:variable name="author2_gender" select="''"/>
-<xsl:variable name="author2_born" select="''"/>
 <xsl:variable name="author2_nat" select="''"/>
+<xsl:variable name="author2_born" select="''"/>
 <xsl:variable name="author3_fn" select="''"/>
 <xsl:variable name="author3_ln" select="''"/>
 <xsl:variable name="author3_gender" select="''"/>
-<xsl:variable name="author3_born" select="''"/>
 <xsl:variable name="author3_nat" select="''"/>
+<xsl:variable name="author3_born" select="''"/>
 <xsl:variable name="author4_fn" select="''"/>
 <xsl:variable name="author4_ln" select="''"/>
 <xsl:variable name="author4_gender" select="''"/>
-<xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="publisher" select="''"/>
 <xsl:variable name="publChannel" select="''"/>
 <xsl:variable name="year" select="''"/>
@@ -47,6 +47,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
+<xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -54,11 +55,11 @@
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="'free'"/>
-<xsl:variable name="sub_name" select="''"/>
-<xsl:variable name="sub_email" select="''"/>
-<xsl:variable name="wordcount" select="''"/>
+<xsl:variable name="sub_name" select="'Børre Gaup'"/>
+<xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
+<xsl:variable name="wordcount" select="'271'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
-<xsl:variable name="template_version" select="'$Revision: 32698 $'"/>
+<xsl:variable name="template_version" select="'$Revision$'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
@@ -68,7 +69,7 @@
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
+<xsl:variable name="monolingual" select="'1'"/> <!--lg rec is off!-->
 <xsl:variable name="multilingual" select="''"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
@@ -91,7 +92,7 @@
 
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
-<xsl:variable name="parallel_texts" select="''"/>
+<xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
 <xsl:variable name="para_eng" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
@@ -104,7 +105,7 @@
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
-<xsl:variable name="para_swe" select="''"/>
+<xsl:variable name="para_swe" select="'Rekommendationer_20060927svenska.pdf'"/>
 
 
 <!-- Tag the specified elements with the specified language: -->
