@@ -17,7 +17,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.regjeringen.no/upload/LMD/Vedlegg/Brosjyrer_veiledere_rapporter/Klimamelding_St_meld_39_samisk.pdf'"/>
-<xsl:variable name="title" select="''"/>
+<xsl:variable name="title" select="'St.dieđ. nr. 39 (2008–2009)'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>

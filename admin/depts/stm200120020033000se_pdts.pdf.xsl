@@ -17,7 +17,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.regjeringen.no/upload/kilde/000/stm/20012002/0033/se_/pdts/stm200120020033000se_pdts.pdf'"/>
-<xsl:variable name="title" select="''"/>
+<xsl:variable name="title" select="'St.dieđ. nr. 33 2001– 2002, kap. 19'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
