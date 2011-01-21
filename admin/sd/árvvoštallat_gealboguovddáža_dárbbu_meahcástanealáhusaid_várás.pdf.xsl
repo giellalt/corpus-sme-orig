@@ -54,9 +54,9 @@
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="'free'"/>
-<xsl:variable name="sub_name" select="'free'"/>
-<xsl:variable name="sub_email" select="'Børre Gaup'"/>
-<xsl:variable name="wordcount" select="'borre.gaup@samediggi.no'"/>
+<xsl:variable name="sub_name" select="'Børre Gaup'"/>
+<xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
+<xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision: 32948 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
