@@ -114,7 +114,5 @@
 <xsl:variable name="para_eng" select="''"/>
 
 <!--  -->
-<xsl:include href="/usr/local/share/corp/bin/empty.xsl"/>
-
 
 </xsl:stylesheet>
