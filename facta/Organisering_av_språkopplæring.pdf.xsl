@@ -57,6 +57,7 @@ SÁMI OAHPPOPLÁNAID VUOĐUL
   <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
 <!-- and for the languages present -->
+  <xsl:variable name="monolingual" select="''"/>
   <xsl:variable name="multilingual" select="'1'"/>
   <xsl:variable name="mlang_sme" select="''"/>
   <xsl:variable name="mlang_smj" select="''"/>
@@ -92,5 +93,19 @@ SÁMI OAHPPOPLÁNAID VUOĐUL
 </xsl:element>
  </xsl:template>
 -->
+
+<!-- If the document has parallel texts, select "1" for parallel_texts -->
+<!-- Add the locations of the parallel files to the variables-->
+<xsl:variable name="parallel_texts" select="''"/>
+<xsl:variable name="para_sme" select="''"/>
+<xsl:variable name="para_smj" select="''"/>
+<xsl:variable name="para_sma" select="''"/>
+<xsl:variable name="para_nob" select="''"/>
+<xsl:variable name="para_nno" select="''"/>
+<xsl:variable name="para_swe" select="''"/>
+<xsl:variable name="para_fin" select="''"/>
+<xsl:variable name="para_ger" select="''"/>
+<xsl:variable name="para_eng" select="''"/>
+
 
 </xsl:stylesheet>
