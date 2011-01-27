@@ -6,7 +6,7 @@
   <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
   <xsl:variable name="filename" select="'Iskkadeapmi_sámegiela_geavaheami_birra20.doc'"/>
-  <xsl:variable name="title" select="'Rapporta:  AlmmolaÅ¡ ásahusaid sámegiela geavaheapmi'"/>
+  <xsl:variable name="title" select="'Rapporta:  Almmolaš ásahusaid sámegiela geavaheapmi'"/>
   <xsl:variable name="author1_fn" select="'Ellen'"/>
   <xsl:variable name="author1_ln" select="'Ravna'"/>
   <xsl:variable name="author1_gender" select="'f'"/>
@@ -28,7 +28,7 @@
   <xsl:variable name="author4_born" select="''"/>
   <xsl:variable name="author4_nat" select="''"/>
   <xsl:variable name="translated_from" select="''"/>
-  <xsl:variable name="publisher" select="'Sáme giellaráÄÄi'"/>
+  <xsl:variable name="publisher" select="'Sámi giellaráđđi'"/>
   <xsl:variable name="publChannel" select="''"/>
   <xsl:variable name="year" select="'2006'"/>
   <xsl:variable name="ISBN" select="''"/>
