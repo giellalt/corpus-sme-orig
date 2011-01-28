@@ -5,7 +5,7 @@
   <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
   <xsl:variable name="filename" select="'20020528_EU30nov_resol.pdf'"/>
-  <xsl:variable name="title" select="'Sk&#xC3;&#xA1;bmam&#xC3;&#xA1;nu 30. beaivvi 1998 R&#xC3;&#xA1;&#xC4;&#x91;i resolu&#xC5;&#xA1;uvdna'"/>
+  <xsl:variable name="title" select="'Skábmamánu 30. beaivvi 1998 Ráđi resolušuvdna'"/>
   <xsl:variable name="author1_fn" select="''"/>
   <xsl:variable name="author1_ln" select="''"/>
   <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -42,7 +42,7 @@
   <xsl:variable name="translator_nat" select="''"/>
   <!-- select license type: free, standard or other -->
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'B&#xC3;&#xB8;rre Gaup'"/>
+  <xsl:variable name="sub_name" select="'Børre Gaup'"/>
   <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="'735'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
@@ -62,7 +62,7 @@
 <!-- Select the potential langugages by adding the number "1" in the -->
 <!-- selection frame. If no languages are selected, the document is -->
 <!-- checked for all the languages below. -->
-  <xsl:variable name="mlang_sme" select="''"/>
+  <xsl:variable name="mlang_sme" select="'1'"/>
   <xsl:variable name="mlang_smj" select="''"/>
   <xsl:variable name="mlang_sma" select="''"/>
   <xsl:variable name="mlang_nob" select="'1'"/>

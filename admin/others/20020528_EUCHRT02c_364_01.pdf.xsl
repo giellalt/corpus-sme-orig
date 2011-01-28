@@ -5,7 +5,7 @@
   <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
   <xsl:variable name="filename" select="'20020528_EUCHRT02c_364_01.pdf'"/>
-  <xsl:variable name="title" select="' EUROHP&#xC3;&#x81; UNIOVNNA CHARTER VUO&#xC4;&#x90;&#xC4;&#x90;OVUOIGATVUO&#xC4;&#x90;AID BIRRA (2000/C 364/01)'"/>
+  <xsl:variable name="title" select="' EUROHPÁ UNIOVNNA CHARTER VUOĐĐOVUOIGATVUOĐAID BIRRA (2000/C 364/01)'"/>
   <xsl:variable name="author1_fn" select="''"/>
   <xsl:variable name="author1_ln" select="''"/>
   <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -42,7 +42,7 @@
   <xsl:variable name="translator_nat" select="''"/>
   <!-- select license type: free, standard or other -->
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'B&#xC3;&#xB8;rre Gaup'"/>
+  <xsl:variable name="sub_name" select="'Børre Gaup'"/>
   <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="'2531'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
