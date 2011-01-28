@@ -96,19 +96,30 @@
   <xsl:variable name="finlang" select="'fin'"/>
   <xsl:variable name="englang" select="'swe'"/>
   <xsl:variable name="gerlang" select="'fin'"/>
-  <!-- Add all paragraphs that should have xml:lang=X-->
-<!-- Uncomment the following and add the paths, for example: -->
-<!-- <xsl:template match="/root/section[2]/paragraph[5] |
-                      /root/section[3]/paragraph[2] "> -->
-<!--
-<xsl:template match="">
-	<xsl:element name="p">
-	<xsl:attribute name="xml:lang">
-		<xsl:value-of select="$smelang"/>
-	</xsl:attribute>
-	<xsl:apply-templates/>
+
+<xsl:template match="p">
+<xsl:variable name="text" select='current()' />
+<xsl:variable name="type" select='@type' />
+<xsl:variable name="lang" select='@xml:lang' />
+<xsl:element name="p">
+            <xsl:if test="$type">
+            <xsl:attribute name="type">
+            <xsl:value-of select="$type"/>
+            </xsl:attribute>
+            </xsl:if>
+            <xsl:if test="$lang">
+            <xsl:attribute name="xml:lang">
+            <xsl:value-of select="$lang"/>
+            </xsl:attribute>
+            </xsl:if>
+
+            <xsl:call-template name="globalTextReplace">
+               <xsl:with-param name="inputString" select="$text"/>
+               <xsl:with-param name="target" select="'Riđđu/'"/>
+               <xsl:with-param name="replacement" select="'Ri˜˜u/'"/>
+                <xsl:with-param name="continue" select="0"/>
+            </xsl:call-template>
 </xsl:element>
- </xsl:template>
--->
+</xsl:template>
 
 </xsl:stylesheet>

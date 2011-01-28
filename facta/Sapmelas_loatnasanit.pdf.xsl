@@ -135,8 +135,8 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-<xsl:with-param name="target" select="'e$/e$-/n$/a$/o$/r$/u$/s$/$/ios/±/n`/¤/u3u/¢/aoou/e1-/ñ/aÀ/ð/a4-/s=/t{/kwa/eT/oaT/aǦ/oǦ/uǦ/c`/'"/>
-<xsl:with-param name="replacement" select="'ē/ē/n̄/ā/ō/r̄/ū/s̄/̄/i̮s/ŋ/ń/đ/ušu/č/ažžu/e̮/ŋ/å/´/a̭/š/ț/kʷa/eδ/oaδ/ä/ö/ü/ć/'"/>
+<xsl:with-param name="target" select="'e$/e$-/n$/a$/o$/r$/u$/s$/$/ios/±/n`/¤/u3u/¢/aoou/e1-/ñ/aÀ/ð/a4-/s=/t{/kwa/eT/oaT/aǦ/oǦ/uǦ/c`/ραδιξ/'"/>
+<xsl:with-param name="replacement" select="'ē/ē/n̄/ā/ō/r̄/ū/s̄/̄/i̮s/ŋ/ń/đ/ušu/č/ažžu/e̮/ŋ/å/´/a̭/š/ț/kʷa/eδ/oaδ/ä/ö/ü/ć//'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>

@@ -135,12 +135,29 @@
 </xsl:element>
 </xsl:template>
 
-<!--
-<xsl:variable name="main_sizes" select="'10pt,11pt'"/>
-<xsl:variable name="title_sizes" select="'10pt,11pt,13pt'"/>
-<xsl:variable name="title_styles" select="'Bold'"/>
-<xsl:variable name="columns" select="'2'"/>
--->
+<xsl:template match="p">
+<xsl:variable name="text" select='current()' />
+<xsl:variable name="type" select='@type' />
+<xsl:variable name="lang" select='@xml:lang' />
+<xsl:element name="p">
+            <xsl:if test="$type">
+            <xsl:attribute name="type">
+            <xsl:value-of select="$type"/>
+            </xsl:attribute>
+            </xsl:if>
+            <xsl:if test="$lang">
+            <xsl:attribute name="xml:lang">
+            <xsl:value-of select="$lang"/>
+            </xsl:attribute>
+            </xsl:if>
 
+            <xsl:call-template name="globalTextReplace">
+               <xsl:with-param name="inputString" select="$text"/>
+               <xsl:with-param name="target" select="'St.die˜./'"/>
+               <xsl:with-param name="replacement" select="'St.dieđ./'"/>
+                <xsl:with-param name="continue" select="0"/>
+            </xsl:call-template>
+</xsl:element>
+</xsl:template>
 
 </xsl:stylesheet>

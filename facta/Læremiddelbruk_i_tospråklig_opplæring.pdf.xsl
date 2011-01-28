@@ -110,7 +110,29 @@
 <xsl:variable name="title_styles" select="''"/>
 <xsl:variable name="columns" select="'2'"/>
 
+<xsl:template match="p">
+<xsl:variable name="text" select='current()' />
+<xsl:variable name="type" select='@type' />
+<xsl:variable name="lang" select='@xml:lang' />
+<xsl:element name="p">
+            <xsl:if test="$type">
+            <xsl:attribute name="type">
+            <xsl:value-of select="$type"/>
+            </xsl:attribute>
+            </xsl:if>
+            <xsl:if test="$lang">
+            <xsl:attribute name="xml:lang">
+            <xsl:value-of select="$lang"/>
+            </xsl:attribute>
+            </xsl:if>
 
-
+            <xsl:call-template name="globalTextReplace">
+               <xsl:with-param name="inputString" select="$text"/>
+               <xsl:with-param name="target" select="'±/'"/>
+               <xsl:with-param name="replacement" select="'ŋ/'"/>
+                <xsl:with-param name="continue" select="0"/>
+            </xsl:call-template>
+</xsl:element>
+</xsl:template>
 
 </xsl:stylesheet>
