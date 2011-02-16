@@ -5,9 +5,9 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/smk/preassaguovdda/pressemeldinger/2010/arvodahkadus.html?id=624134'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/fad/fadd/Gilvalanpolitihkka/Almmola-skahppomat.html?id=592102'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Árvodáhkádus: Árvvolaš boarrásiidfuolahusa láhkaásahus - regjeringen.no'"/>
+<xsl:variable name="title" select="'Almmolaš skáhppomat - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -30,7 +30,7 @@
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="publisher" select="''"/>
 <xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
-<xsl:variable name="year" select="'2010'"/>
+<xsl:variable name="year" select="''"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
@@ -46,9 +46,9 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'470'"/>
+<xsl:variable name="wordcount" select="'305'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
-<xsl:variable name="template_version" select="'$Revision: 34357 $'"/>
+<xsl:variable name="template_version" select="'$Revision$'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
@@ -90,7 +90,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'verdighetsgarantien.html?id=624134'"/>
+<xsl:variable name="para_nob" select="'offentlige-anskaffelser.html?id=592102'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
