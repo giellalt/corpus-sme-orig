@@ -160,8 +160,8 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'„/‚/¹/'"/>
-               <xsl:with-param name="replacement" select="'č/Č/ŋ/'"/>
+               <xsl:with-param name="target" select="'jo ihe/jo ihan/die ihuvvožet/blá /boa ui/čoahkkinjo /Stuorradiggedie ahus/vu ui/vuo uin/nissonblá ái/ o a /o ajagi/ie ihuvvon/ahkedie ahus/ asmaht/mánáidblá /O ajuogad/gi a /o asis/gie aha/bie gguid/vu olaš/ča at/ovttaoaivilis Sámediggerá i/deattuhit Sámediggerá i/lohká Sámediggerá i/ipmirda Sámediggerá i/Sámediggerá i ášši/Sámediggerá i,/Sámediggerá i –/ja Sámediggerá i/áigu Sámediggerá i/Sámediggerá i há/Sámediggerá i lea/ rá i / gi at /táhtará i/vttasrá i/rá is/rá ái/jo us/oa us/vuo i/vuo ud/Vi a/u ui/ru a/Ru a/die u/da istaga/Sámirá i ja Sámedikki/vuo uduvv/vuo ul/ča ah/rá iin/o iheaddji/o abuvtta/ešgu et/uo un/vuo o/Vuo o/O a po/á ádall/ie áhus/vuo a/á ehus/vuo u/„/‚/¹/rá i/'"/>
+               <xsl:with-param name="replacement" select="'jođihe/jođihan/dieđihuvvožet/bláđđ/boađui/čoahkkinjođ/Stuorradiggedieđahus/vuđđui/vuođuin/nissonbláđđái/ ođđa /ođđajagi/ieđihuvvon/ahkedieđahus/đasmaht/mánáidbláđđ/Ođđajuogad/giđđa /ođđasis/gieđaha/bieđgguid/vuđolaš/čađat/ovttaoaivilis Sámediggeráđi/deattuhit Sámediggeráđi/lohká Sámediggeráđđi/ipmirda Sámediggeráđi/Sámediggeráđi ášši/Sámediggeráđđi,/Sámediggeráđđi –/ja Sámediggeráđi/áigu Sámediggeráđđi/Sámediggeráđđi há/Sámediggeráđđi lea/ ráđđi / giđđat /táhtaráđđi/vttasráđi/ráđis/ráđđái/jođus/oađus/vuođi/vuođđud/Viđa/uđui/ruđa/Ruđa/dieđu/dađistaga/Sámiráđi ja Sámedikki/vuođđuduvv/vuođul/čađah/ráđiin/ođiheaddji/ođđabuvtta/ešguđet/uođđun/vuođđo/Vuođđo/Ođđa po/áđđádall/ieđáhus/vuođa/áđđehus/vuođđu/č/Č/ŋ/ráđđi/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>
