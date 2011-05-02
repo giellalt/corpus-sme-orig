@@ -117,7 +117,7 @@
  </xsl:template>
 -->
 
-<!--<xsl:include href="/usr/local/share/corp/bin/empty.xsl"/>-->
+<!--<xsl:import href="/usr/local/share/corp/bin/empty.xsl"/>-->
 
 
 </xsl:stylesheet>
