@@ -70,7 +70,7 @@
 <xsl:variable name="mlang_nob" select="'1'"/>
 <xsl:variable name="mlang_nno" select="''"/>
 <xsl:variable name="mlang_swe" select="''"/>
-<xsl:variable name="mlang_fin" select="''"/>
+<xsl:variable name="mlang_fin" select="'1'"/>
 <xsl:variable name="mlang_ger" select="''"/>
 <xsl:variable name="mlang_eng" select="''"/>
 <xsl:variable name="mlang_oth" select="''"/>

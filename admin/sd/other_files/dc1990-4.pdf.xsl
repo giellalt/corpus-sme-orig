@@ -164,6 +164,18 @@
                <xsl:with-param name="replacement" select="'ž/rpl2/rpl3/'"/>
                 <xsl:with-param name="continue" select="0"/>	
             </xsl:call-template>
+            <xsl:call-template name="globalTextReplace">
+               <xsl:with-param name="inputString" select="$text"/>
+               <xsl:with-param name="target" select="'é/str2/str3/'"/>
+               <xsl:with-param name="replacement" select="'č/rpl2/rpl3/'"/>
+                <xsl:with-param name="continue" select="0"/>	
+            </xsl:call-template>
+            <xsl:call-template name="globalTextReplace">
+               <xsl:with-param name="inputString" select="$text"/>
+               <xsl:with-param name="target" select="'í/str2/str3/'"/>
+               <xsl:with-param name="replacement" select="'i/rpl2/rpl3/'"/>
+                <xsl:with-param name="continue" select="0"/>	
+            </xsl:call-template>
 </xsl:element>
 </xsl:template>
 
