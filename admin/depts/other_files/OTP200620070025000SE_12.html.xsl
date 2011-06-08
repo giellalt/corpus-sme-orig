@@ -68,7 +68,7 @@
   <xsl:variable name="mlang_smj" select="''"/>
   <xsl:variable name="mlang_sma" select="''"/>
   <xsl:variable name="mlang_nob" select="'1'"/>
-  <xsl:variable name="mlang_nno" select="''"/>
+  <xsl:variable name="mlang_nno" select="'1'"/>
   <xsl:variable name="mlang_swe" select="''"/>
   <xsl:variable name="mlang_fin" select="''"/>
   <xsl:variable name="mlang_ger" select="''"/>
