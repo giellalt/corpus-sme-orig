@@ -72,7 +72,7 @@
   <xsl:variable name="mlang_swe" select="''"/>
   <xsl:variable name="mlang_fin" select="''"/>
   <xsl:variable name="mlang_ger" select="''"/>
-  <xsl:variable name="mlang_eng" select="''"/>
+  <xsl:variable name="mlang_eng" select="'1'"/>
   <xsl:variable name="mlang_oth" select="''"/>
   <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
