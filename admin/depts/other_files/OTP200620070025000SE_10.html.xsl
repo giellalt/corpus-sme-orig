@@ -115,27 +115,32 @@
 <!-- add the template to match (here all p:s), and write the -->
 <!-- replaced characters and the replacements. -->
 
-<xsl:template match="p">
-<xsl:variable name="text" select="current()"/>
-<xsl:variable name="type" select="@type"/>
-<xsl:variable name="lang" select="@xml:lang"/>
-<xsl:element name="p">
-            <xsl:if test="$type">
+<!-- Ensure that the filter is specific enough such that you only target
+     a reasonable subset of elements. This template will override other
+     processing of templates, such as removing empty elements, and it will
+     as well destroy emphasis markup. Thus, don't target more elements than
+     you need to! -->
+<xsl:template match="p[parent::body][not(./em | ./span)][text()]">
+	<xsl:variable name="text" select="current()"/>
+	<xsl:variable name="type" select="@type"/>
+	<xsl:variable name="lang" select="@xml:lang"/>
+	<xsl:element name="p">
+        <xsl:if test="$type">
             <xsl:attribute name="type">
-            <xsl:value-of select="$type"/>
+	            <xsl:value-of select="$type"/>
             </xsl:attribute>
-            </xsl:if>
-            <xsl:if test="$lang">
+        </xsl:if>
+        <xsl:if test="$lang">
             <xsl:attribute name="xml:lang">
-            <xsl:value-of select="$lang"/>
+	            <xsl:value-of select="$lang"/>
             </xsl:attribute>
-            </xsl:if>
+        </xsl:if>
 
-			<xsl:value-of select="translate($text,'&#xFFFD;','&#x111;') "/>
-</xsl:element>
+		<xsl:value-of select="translate($text,'&#xFFFD;','&#x111;') "/>
+	</xsl:element>
 </xsl:template>
 
-<xsl:template match="p">
+<!--xsl:template match="p">
 <xsl:variable name="text" select='current()' />
 <xsl:variable name="type" select='@type' />
 <xsl:variable name="lang" select='@xml:lang' />
@@ -158,6 +163,6 @@
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>
-</xsl:template>
+</xsl:template-->
 
 </xsl:stylesheet>
