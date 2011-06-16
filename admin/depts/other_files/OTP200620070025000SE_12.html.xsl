@@ -72,7 +72,7 @@
   <xsl:variable name="mlang_swe" select="''"/>
   <xsl:variable name="mlang_fin" select="''"/>
   <xsl:variable name="mlang_ger" select="''"/>
-  <xsl:variable name="mlang_eng" select="'1'"/>
+  <xsl:variable name="mlang_eng" select="''"/>
   <xsl:variable name="mlang_oth" select="''"/>
   <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
@@ -115,7 +115,7 @@
 <!-- add the template to match (here all p:s), and write the -->
 <!-- replaced characters and the replacements. -->
 
-<xsl:template match="p">
+<!--xsl:template match="p">
 <xsl:variable name="text" select="current()"/>
 <xsl:variable name="type" select="@type"/>
 <xsl:variable name="lang" select="@xml:lang"/>
@@ -158,6 +158,6 @@
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>
-</xsl:template>
+</xsl:template-->
 
 </xsl:stylesheet>
