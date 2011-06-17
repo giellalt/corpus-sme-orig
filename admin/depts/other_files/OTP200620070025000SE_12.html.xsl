@@ -116,7 +116,7 @@
 	 paragraphs out of lists: -->
 <xsl:template match="list">
 	<list>
-		<xsl:apply-templates select="p[@type = 'listitem']"/>
+		<xsl:apply-templates select="p[@type = 'listitem'] | list"/>
 	</list>
 	<xsl:apply-templates select="p[@type = 'text']"/>
 </xsl:template>
