@@ -120,7 +120,7 @@
      processing of templates, such as removing empty elements, and it will
      as well destroy emphasis markup. Thus, don't target more elements than
      you need to! -->
-<!--xsl:template match="p[parent::body][not(./em | ./span)][text()]">
+<xsl:template match="p[parent::body][not(./em | ./span)][text()]">
 	<xsl:variable name="text" select="current()"/>
 	<xsl:variable name="type" select="@type"/>
 	<xsl:variable name="lang" select="@xml:lang"/>
@@ -136,11 +136,11 @@
             </xsl:attribute>
         </xsl:if>
 
-		<xsl:value-of select="translate($text,'&#xFFFD;&#xFFFD;','&#x111;') "/>
+		<xsl:value-of select="translate($text,'&#xFFFD;','&#x111;') "/>
 	</xsl:element>
-</xsl:template-->
+</xsl:template>
 
-<xsl:template match="p">
+<!--xsl:template match="p">
 <xsl:variable name="text" select='current()' />
 <xsl:variable name="type" select='@type' />
 <xsl:variable name="lang" select='@xml:lang' />
@@ -158,11 +158,11 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'&#xFFFD;&#xFFFD;'"/>
-               <xsl:with-param name="replacement" select="'&#x111;'"/>
+               <xsl:with-param name="target" select="'St.die˜./'"/>
+               <xsl:with-param name="replacement" select="'St.dieđ./'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>
-</xsl:template>
+</xsl:template-->
 
 </xsl:stylesheet>
