@@ -2,62 +2,62 @@ skolenyheter.tromsoskolen.no/Nyheter/GetFile.aspx?ID=2307
 Norge
 5.7.2010
 
-((KAFEA- LÁGIDIEAPMI)$KAFÉALÁGIDEAPMI  (2009- 2010)$2009-2010
+(KAFEA- LÁGIDIEAPMI)¢(loan,mix|KAFÉALÁGIDEAPMI)  (2009- 2010)¢(num,cmp|2009-2010
 
-((OVDDASVÁSTÁDUS LISTTU)$OVDDASVÁSTÁDUSLISTU GUOVSSAHAS MÁNÁIDGÁRDDIS 
+(OVDDASVÁSTÁDUS LISTTU)¢(noun,cmp|OVDDASVÁSTÁDUSLISTU) GUOVSSAHAS MÁNÁIDGÁRDDIS 
 
 
-Sis geas lea ovddasvástádus lágidit kaféa, vižžet (kaféa- kássa)$kaféakássa skuvllas. Doppe leat ee. gohput, servieahtat ja smávvaruđat. Kássas galgá álohit$álohii leat 1000,- smávvaruhtan. Kirsten Alette viežžá smávvaruđaid sámeluohká kontos ja bidjá (kaféa- kássii)$kaféakássii.
+(Sis geas)£(rel,hab,locpl,locsg,agr|sis geain) lea ovddasvástádus lágidit kaféa, vižžet (kaféa- kássa)¢(noun,cmp|kaféakássa) skuvllas. Doppe leat ee. gohput, servieahtat ja smávvaruđat. Kássas galgá álohit$(adv,ii|álohii) leat 1000,- smávvaruhtan. Kirsten Alette viežžá smávvaruđaid sámeluohká kontos ja bidjá (kaféa- kássii)¢(noun,cmp|kaféakássii).
 
-Sisaboahtu addojuvvo Kirsten Alehttái ja son bidjá ruđa sámeluohká kontui.  Nugo mii leat váhnenčoahkkimis šiehtadan de manná ruhta (skuvla (giđđa- mátkái)$(giđđamátkái))£(skuvlla giđđamátkái).
+Sisaboahtu addojuvvo Kirsten Alehttái ja son bidjá ruđa sámeluohká kontui.  Nugo mii leat váhnenčoahkkimis šiehtadan de manná ruhta skuvla£(noun,attr,gensg,nomsg,case|skuvlla) (giđđa- mátkái)¢(noun,cmp|giđđamátkái).
 
-Mirja ja Line leaba (gulahallan olbmožat€olbmot)$gulahallanolbmot,  ja váldet oktavuođa sudnuin jus dárbbašehket£dárbbašehpet. Jus (kaféa- kássas)$kaféakássas váilu mii dál nu, dieđihehket oahpaheddjiide. Fuom! Jus dat beaivi ii heive didjiide de fertebehtet ieža gaskaneaset£gaskaneattet molsut earáiguin.
+Mirja ja Line leaba (gulahallan olbmožat)¢(noun,cmp|gulahallanolbmožat)€gulahallanolbmot, ja váldet oktavuođa sudnuin jus dárbbašehket£(verb,suf|dárbbašehpet). Jus (kaféa- kássas)¢(noun,cmp|kaféakássas) váilu mii dál$(pcle,a|dal) nu, dieđihehket oahpaheddjiide. Fuom! Jus dat beaivi ii heive didjiide de fertebehtet ieža gaskaneaset£(pp,x,pl3,pl3,px|gaskaneattet) molsut earáiguin.
 
-Sámi váhnenfierpmádaga ovddasteaddji rahpá (Guovssahas mánáidgárddi)£(Guovssahasa mánáidgárddi) uvssaid álohit$álohii go leat doalut. Sis geas lea ovddasvástádus lágidit kaféa bohtet dii. 12.00 ja kaféa rahppasa$rahpasa dii. 13.00.
+Sámi váhnenfierpmádaga ovddasteaddji rahpá (Guovssahas mánáidgárddi)£(prop,attr,gensg,nomsg,case|Guovssahasa mánáidgárddi) uvssaid álohit$(adv,ii|álohii) go leat doalut. (Sis geas)£(rel,hab,locpl,locsg,agr|sis geain) lea ovddasvástádus lágidit kaféa bohtet dii. 12.00 ja kaféa rahppasa¢(verb,conc|rahpasa) dii. 13.00.
 
-Doalut bistte$bistet gitta dii. 16:00. Maŋŋá doaluid fertejit maiddái čorget ovttas sámi (váhnenfierpmádat miellahtuiguin)£(váhnenfierpmádaga miellahtuiguin).
+Doalut bistte¢(verb,mix|bistet) gitta dii. (16:00)¥(pp,missing|16:00 rádjai). Maŋŋá doaluid fertejit maiddái čorget ovttas sámi (váhnenfierpmádat miellahtuiguin)£(noun,attr,gensg,nomsg,case|váhnenfierpmádaga miellahtuiguin).
 
-Sii geat lágidit kaféa fertejit váldit mielde daid maid galget vuovdit omd. Pizza$(pizza), gáhkuid, váffelat£(váffeliid), mállásat£(mállásiid)  jna.  
+Sii geat lágidit kaféa fertejit váldit mielde daid maid galget vuovdit omd. Pizza¢(noun,min|pizza), gáhkuid, váffelat£(noun,obj,genpl,nompl,case|váffeliid), mállásat£(noun,obj,genpl,nompl,case|mállásiid)  jna.  
 
-Bruvssa£(Bruvsa), káfe£(káffe), teaja£(teadja), sohkkarat, (muorje- meastu)$(muorjemeastu), (servieahta)£(servieahtta) jna. leat (kaféa- kássas)$(kaféakássas).
+Bruvssa£(noun,subj,nomsg,gensg,case|Bruvsa), káfe£(noun,subj,nomsg,gensg,case|káffe), teaja£(noun,subj,nomsg,gensg,case|teadja), sohkkarat, (muorje- meastu)¢(noun,cmp|muorjemeastu), (servieahta)£(noun,subj,nomsg,gensg,case|servieahtta) jna. leat (kaféa- kássas)¢(noun,cmp|kaféakássas).
 
-váldet$Váldet áinnas oktavuođa jus leaš eahpečielggas.
+váldet¢(verb,cap|Váldet) áinnas oktavuođa jus leaš eahpečielggas.
 
-Váhnenfierpmádagas lea stivračoahkkin čakčamánus 26. b. gos mearriduvvo dáhton goas (káfea doalut)$kaféadoalut lágiduvvojit. Stivračoahkkima maŋŋel oahpaheaddjit sáddejit ođđa (ovddasvástádus listtu)$ovddasvástáduslisttu váhnemiidda. Jus háliidehpet rievdadit evttohuvvon áiggi dieđihehket midjiide ovdal disdaga čakčamánu  29.b. Váhnemat fertejit gaskaneaset šiehtadit gii bargá maid. Mielddus: ovdamearkan mo juogadit barggu. Giitu!
+Váhnenfierpmádagas lea stivračoahkkin čakčamánus 26. b. gos mearriduvvo dáhton goas (káfea doalut)¢(noun,cmp|kaféadoalut) lágiduvvojit. Stivračoahkkima maŋŋel oahpaheaddjit sáddejit ođđa (ovddasvástádus listtu)$(noun,cmp|ovddasvástáduslisttu) váhnemiidda. Jus háliidehpet rievdadit evttohuvvon áiggi dieđihehket midjiide ovdal disdaga čakčamánu 29.b. Váhnemat fertejit gaskaneaset šiehtadit gii bargá maid. Mielddus: ovdamearkan mo juogadit barggu. Giitu!
 
 Dearvuođaiguin
 	
 
 
 
-DIEĐUT  (KAFEA- LÁGIDIEAMI)$KAFÉALÁGIDEAMI BIRRA  (2009- 2010)$2009-2010
+DIEĐUT  (KAFEA- LÁGIDIEAMI)¢(noun,cmp|KAFÉALÁGIDEAMI) BIRRA  (2009- 2010)¢(num,cmp|2009-2010)
 
 RIEVDADUS: 
 
-Mii eat doala kaféa juovlamánus go dalle ((lea£leat) muđui olu eará barggut)£(leat muđui olu eará barggut). 
+Mii eat doala kaféa juovlamánus go dalle (lea muđui olu eará barggut)£(verb,fin,pl3prs,sg3prs,agr|leat muđui olu eará barggut). 
 
-Skábmamánus leat 4 oahpi$oahppi geas lea ovddasvástádus, jus dalle šaddat omd. Juovlabeavdi$juovlabeavdi£juovlabeavddi lágidit ovttas Sámi váhnenfierpmádagas£(váhnenfierpmádagain)
+Skábmamánus leat 4 oahpi$(noun,conc|oahppi) geas£(rel,hab,locpl,locsg,agr|geain) lea ovddasvástádus, jus dalle šaddat omd. Juovlabeavdi¢(noun,mix,gensg,nomsg|juovlabeavddi) lágidit (ovttas Sámi váhnenfierpmádagas)£(noun,advl,comsg,locsg,case|ovttas Sámi váhnenfierpmádagain)
 
-Guovvamánus leat 4 oahpi$oahppi. Jus lágidit 6.b ovttas Sámi váhnenfierpmádagas£váhnenfierpmádagain
+Guovvamánus leat 4 oahpi$(noun,conc|oahppi). Jus lágidit 6.b (ovttas Sámi váhnenfierpmádagas)£(noun,advl,comsg,locsg,case|ovttas Sámi váhnenfierpmádagain)
 
-Geassemánus leat 4 oahppit$(oahppi). Maŋemus doalut ovdal geasseluomu.
+Geassemánus leat 4 oahppit$(noun,conc|oahppi). Maŋemus doalut ovdal geasseluomu.
 
 ČORGEN:
-Maŋŋel (kaféa doaluid)$kaféadoaluid dalle fertejit (sii geas leat ovddasvástádus)£(sii geas lea ovddasvástásus) čorget seammá bures nu go lei. (Láhtti- moppain)$Láhttemoppain, ruskkaid doalvut, bevddiid ja stuoluid saddjái$sadjái bidjat nu mo lei, jna.
+Maŋŋel (kaféa doaluid)¢(noun,cmp|kaféadoaluid) dalle fertejit (sii geas)£(rel,hab,locpl,locsg,agr|sii geain) (leat ovddasvástádus)£(verb,fin,sg3prs,pl3prs,agr|lea ovddasvástásus) čorget seammá bures nu go lei. (Láhtti- moppain)$(noun,cmp|Láhttemoppain), ruskkaid doalvut, bevddiid ja stuoluid saddjái¢(noun,conc|sadjái) bidjat nu mo lei, jna.
 
-ovdal$Ovdal lea leamaš nu ahte Sámi váhnenfierpmádat lea leamaš mielde čorgemis, jus dát šaddá dán jagi maid ii leat vuos čielgan. 
+ovdal¢(adv,cap|Ovdal) lea leamaš nu ahte Sámi váhnenfierpmádat lea leamaš mielde čorgemis, jus dát šaddá dán jagi maid ii leat vuos čielgan. 
 
-(KAFEA- KÁSSA)$(KAFÉAKÁSSA): (kaféa- kássa)$kaféakássa vižžojuvvo skuvllas. Gii dan viežžá fertebehtet ieža mearridit. Maŋŋel doaluid de galgá (kaféa- kássa)$kaféakássa buktojuvvot skuvlii mánnodagas£(mánnodaga). Jus lea mii nu mii váilu kássas- de fertebehtet čálistit unna girjážii$girjjážii mii lea (ruhta- kássas)$ruhtakássas.
+(KAFEA- KÁSSA)¢(noun,cmp|KAFÉAKÁSSA): (kaféa- kássa)¢(noun,cmp|kaféakássa) vižžojuvvo skuvllas. Gii dan viežžá fertebehtet ieža mearridit. Maŋŋel doaluid de galgá (kaféa- kássa)$¢(noun,cmp|kaféakássa) buktojuvvot skuvlii mánnodagas£(noun,advl,gensg,locsg,case|mánnodaga). Jus lea mii nu mii váilu (kássas-)¢(noun,punct|kássas) de fertebehtet čálistit unna girjážii$(noun,conc|girjjážii) mii lea (ruhta- kássas)¢(noun,cmp|ruhtakássas).
 
-(RUHTA- KÁSSAS)$(RUHTAKÁSSAS): galgá álohit$álohii leat 1000,- . Maŋŋel doaluid, fertebehtet (rehkenastit dietnasa ja čállet)£(rehkenastit dietnasa ja čállit) dan unna girjjážii mii lea (ruhta- kássas)$(ruhtakássas). Dietnasa bidjabehtet  sierra (plastihka- bosi)$plastihkabussii nu ahte mii skuvllas eat dárbbaš lohkat dáid.
+(RUHTA- KÁSSAS)¢(noun,cmp|RUHTAKÁSSAS): galgá álohit$(adv,ii|álohii) leat 1000,- . Maŋŋel doaluid, fertebehtet (rehkenastit dietnasa ja čállet)£(verb,inf,inf,pl3prs,inf|rehkenastit) dietnasa ja čállit) dan unna girjjážii mii lea (ruhta- kássas)¢(noun,cmp|ruhtakássas). Dietnasa bidjabehtet sierra plastihka- bosi¢(noun,mix|bussii)¢(noun,cmp|plastihkabussii) nu ahte mii skuvllas eat dárbbaš lohkat dáid.
 
-(MÁNÁID- GÁRDDI)$MÁNÁIDGÁRDDI RAHPAN JA LÁSSEN: Dát ášši ii leat vuos čielggas. Ovdal lea leamaš nu ahte muhtin Sámi váhnenfierpmádagas  rahpán$rahpá ja lásse uvssa. 
+(MÁNÁID- GÁRDDI)¢(noun,cmp|MÁNÁIDGÁRDDI) RAHPAN JA LÁSSEN: Dát ášši ii leat vuos čielggas. Ovdal lea leamaš nu ahte muhtin Sámi váhnenfierpmádagas rahpán$(verb,suf|rahpá) ja lásse uvssa. 
 
 DÁHTON: mii eat leat vuos ožžon dáhtoniid sámi váhnenfierpmádagas go dát eai leat vuos čielgan. 
 
-MUĐUI: ođđa dieđut bohtet go (buot leat)£(buot lea) čielggas jna.
+MUĐUI: ođđa dieđut bohtet go (buot leat)£(verb,fin,sg3prs,pl3prs,agr|buot lea) čielggas jna.
 
-jus$Jus lea mii dál nu, de váldet oktavuođa minguin skuvllas dahje čállet dan unna girjjážii mii lea (ruhta- kássas)$(ruhtakássas).
+jus¢(cs,cap|Jus) lea mii dál¢(pcle,a|dal) nu, de váldet oktavuođa minguin skuvllas dahje čállet dan unna girjjážii mii lea (ruhta- kássas)¢(noun,cmp|ruhtakássas).
 
 Dearvuođaiguin
 
