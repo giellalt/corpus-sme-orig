@@ -2,26 +2,26 @@ http://www.peda.net/veraja/utsjoki/lukiosaame/oahppit/vuorka
 Finland
 5.7.2010
 
-Sohkabeallekromosonaid$Sohkabeallekromosomaid árbedahkkit
+Sohkabeallekromosonaid$(loan,con|Sohkabeallekromosomaid) árbedahkkit
 
-- ovttasogat ealliin$(elliin), mat leat jogo njiŋŋalasat$njiŋŋálasat dahje varrásat, sohkabealli mearreduvvo$mearriduvvo árbbi mielde.
+- ovttasogat ealliin$(noun,mono|elliin), mat leat jogo njiŋŋalasat$(noun,á|njiŋŋálasat) dahje varrásat, sohkabealli mearreduvvo$(verb,soggi|mearriduvvo) árbbi mielde.
 
-- sohkabeali dagahahtti genat leat dábálaččat sohkabeallekromosonas$(sohkabeallekromosomas). (ožžon nama x- ja y-kromosoma)
+- sohkabeali dagahahtti genat leat dábálaččat sohkabeallekromosonas$(loan,con|sohkabeallekromosomas). (ožžon nama x- ja y-kromosoma)
 
-- (x-kromosona)$x-kromosoma stuorát go y
+- (x-kromosona)$(loan,con|x-kromosoma) stuorát go y
 
-- albmáid genat y-kromosonas$y-kromosomas ja nissoniid x:ás (nissonis xx+22 autosoma, albmás y/x+22, albmá sohkaseallain dáhpáhuvvá meiiosa)
+- albmáid genat y-kromosonas$(loan,con|y-kromosomas) ja nissoniid (x:ás)$(acr,suf|x:s) (nissonis xx+22 autosoma, albmás y/x+22, albmá sohkaseallain dáhpáhuvvá meiiosa)
 
-- lottiin ja beaivelottiin nuppebeliid$(nuppe beliid)
+- lottiin ja beaivelottiin nuppebeliid$(adv,notcmp|nuppe beliid)
 
-- divrriin varrásiin ii leat go okta x-kr$x-kromosoma ja niŋŋalasain$njiŋŋálasain xx, nu ahte (varrásat leat x0-tiippa)£(varrásat leat x0-tiippa).
+- divrriin varrásiin ii leat go okta x-kr ja niŋŋalasain$(noun,á|njiŋŋálasain) xx, nu ahte (varrásat leat x0-tiippa)£(noun,spred,nomsg,nompl,num|varrásat leat x0-tiippat).
 
-- haplodiploidalaš lassáneapmi oaivvilda dan ahte varris riegada$riegáda sagatkeahttes$sagatkeahtes manis partenogenehttalaččat$partenogenehtalaččat (haploida) ja njiŋŋalas$njiŋŋálas ságahuvvon$sagahuvvon manneseallas (diploida)
+- haplodiploidalaš lassáneapmi oaivvilda dan ahte varris riegada$(verb,á|riegáda) sagatkeahttes$(adj,conc|sagatkeahtes) manis partenogenehttalaččat$(loan,conc|partenogenehtalaččat) (haploida) ja njiŋŋalas$(noun,á|njiŋŋálas) ságahuvvon$(verb,a|sagahuvvon) manneseallas (diploida)
 
-- fenotiippalaš s.beali$sohkabeali mearráneammis$mearráneamis biras mearreda$mearrida sohkabeali, omd. liekkasvuohta.
+- fenotiippalaš s.beali mearráneammis$(verb,mix|mearraneamis) biras mearreda$(verb,soggi|mearrida) sohkabeali, omd. liekkasvuohta.
 
-- sohkabeallái laktašuvvan árbbit leat dábálut albmáin go nissoniin, dasgo álot x-kromosonas$x-kromosomas ja y:s ii gávdno fástideaddji.
+- sohkabeallái laktašuvvan árbbit leat dábálut albmáin go nissoniin, dasgo álot x-kromosonas$(loan,con|x-kromosomas) ja y:s ii gávdno fástideaddji.
 
-- ruksesruonáčalmmehisvuohta lea sullii 8%:as$(8 %:s)£(8 %) albmáin muhto (nissonin£nissoniin dušše (0.6 %:s)£(0.6 %)), danin go albmás lea dušše okta x-kromosona$(x-kromosoma), son lea sáhttán árbet dušše nuppi allela ja jus dat lea resessiivalaš$(resessiiva), šaddá son ruksesruonáčalmmeheapmi$ruksesruonáčalmmeheapme£(ruksesruonáčalmmeheapmin), go y-kromosonas$y-kromosomas ii leat gokči dominerejeaddji allela
+- ruksesruonáčalmmehisvuohta lea sullii 8%:as$(acr,suf|8%:s) albmáin muhto ( nissonin¢(noun,suf|nissoniin) dušše (0.6 %:s)£(0.6 %) ), danin go albmás lea dušše okta x-kromosona$(loan,con|x-kromosoma), son lea sáhttán árbet dušše nuppi allela ja jus dat lea resessiivalaš, šaddá son ruksesruonáčalmmeheapmi$(adj,soggi|ruksesruonáčalmmeheapme) £(noun,spred,nomsg,ess,case|ruksesruonáčalmmeheapmin) go y-kromosonas$(loan,con|y-kromosomas) ii leat gokči dominerejeaddji allela
 
-- nissona nuppi x-kromosona$x-kromosoma resessiivalaš$resessiiva allela oitno$oidno dušše beare homotsygohtalaččat (son guoddá dávdda)
+- nissona nuppi x-kromosona$(loan,con|x-kromosoma) resessiivalaš allela oitno$(verb,conc|oidno) dušše beare homotsygohtalaččat (son guoddá dávdda)
