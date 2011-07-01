@@ -4,16 +4,16 @@ Norge
 
 Raporta Vuonnabađa bisánanbáikkis
 
-Numo lávege, de ledje ollu somás doaimmat beatnatvuodjima bisánanabáikkis$bisánanbáikkis Vuonnabađas.
+Numo lávege, de ledje ollu somás doaimmat beatnatvuodjimaxxx bisánanabáikkis$(noun,typo|bisánanbáikkis) Vuonnabađas.
 
 15-03-2007
 
-Stuorravuona oahppit ja oahpaheaddjit ledje erenoamáš áŋgirat geahččaladdat daid ollu doaibmafálaldagaid maid (Várjjat Sámi Musea(VSM))$(Várjjat Sámi Musea (VSM)) lei heivehan. Ledje e.e. njuollabissubáhčimat ja njoarusteapmi$(njoarosteapmi). Čáppa muohtaskulptuvrraid ráhkadeapmi VSM olggobealde lei maiddái ovttasbargu gaskal (Stuorravuona skuvla)£(Stuorravuona skuvlla) ohppiid ja VSM.
+Stuorravuona oahppit ja oahpaheaddjit ledje erenoamáš áŋgirat geahččaladdat daid ollu doaibmafálaldagaid maid Várjjat Sámi Musea(VSM) lei heivehan. Ledje e.e. njuollabissubáhčimat ja njoarusteapmi$(noun,soggi|njoarosteapmi). Čáppa muohtaskulptuvrraid ráhkadeapmi VSM olggobealde lei maiddái ovttasbargu gaskal (skuvla ohppiid)£(noun,attr,gensg,nomsg,case|skuvlla ohppiid) ja VSM.
 
-Maiddái dánge jagi barggai VSM  buori barggu Finnmarksløpet miellágideaddjin. Sii dolle rabasin birranbeaivve$birrabeaivve sihke beatnatvuoddjiide$(beatnatvuddjiide), bargiide ja mediaide. Doppe maiddái besse olbmot vuovdit iešguđátlágán$iešguđetlágán giehtadujiid, ja NIF doalai kafea$(kaféa).  
+Maiddái dánge jagi barggai VSM  buori barggu Finnmarksløpet miellágideaddjin. Sii dolle rabasin birranbeaivve$(adv,con|birrabeaivve) sihke beatnatvuoddjiide$(noun,mono|beatnatvuddjiide), bargiide ja mediaide. Doppe maiddái besse olbmot vuovdit iešguđátlágán$(adj,soggi|iešguđetlágán) giehtadujiid, ja NIF doalai kafea$(loan,vow|kaféa).  
 
-(Rukses ruossas lei nuvttá káfe)£(Rukses ruossas lei nuvttá káffe) ja veahkehedje muđuige, nomo$nugo bearráigeahččat johtolaga bisánanabáikái$(bisánanbáikái).  
+(Rukses ruossas lei nuvttá káfe)£(noun,spred,nomsg,gensg,case|Rukses ruossas lei nuvttá káffe) ja veahkehedje muđuige, nomo$(cs,vowc|numo) bearráigeahččat johtolaga bisánanabáikái$(noun,typo|bisánanbáikái).  
 
-Jus don(dego mun) hálidit$háliidit buori gourmet-gaskabeaivvi, de besset Searvegottevisttis návddašit (boahkke lábbábierggu)$boahkkelábbábierggu ja luossamáli. Maiddái Searvegottevisti lei rabas ijatbeaivve vai olbmot ožžo borramuša. 
+Jus don(dego mun) hálidit$(verb,ii|háliidit) buori gourmet-gaskabeaivvi, de besset Searvegottevisttis návddašit (boahkke lábbábierggu)$(noun,cmp|boahkkelábbábierggu) ja luossamáli. Maiddái Searvegottevisti lei rabas ijatbeaivve vai olbmot ožžo borramuša. 
 
 no-decode
