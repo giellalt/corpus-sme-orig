@@ -135,12 +135,12 @@
             </xsl:attribute>
             </xsl:if>
 
-            <xsl:call-template name="globalTextReplace">
-            <xsl:with-param name="inputString" select="$text"/>
-      <xsl:with-param name="target" select="'??á/??a/??e/??i/??o/?a/?á/?e/?i/?o/?u/?g/?k/?l/?r/?t/'"/>
- <xsl:with-param name="replacement" select="'ŋŋá/ŋŋa/ŋŋe/ŋŋi/ŋŋo/ŋa/ŋá/ŋe/ŋi/ŋo/ŋu/ŋg/ŋk/ŋl/ŋr/ŋt/'"/>
-            </xsl:call-template>
-
+	    <xsl:call-template name="globalTextReplace">
+	      <xsl:with-param name="inputString" select="$text"/>
+	      <xsl:with-param name="target" select="'??á/??a/??e/??i/??o/?a/?á/?e/?i/?o/?u/?g/?k/?l/?r/?t/ð/'"/>
+	      <xsl:with-param name="replacement" select="'ŋŋá/ŋŋa/ŋŋe/ŋŋi/ŋŋo/ŋa/ŋá/ŋe/ŋi/ŋo/ŋu/ŋg/ŋk/ŋl/ŋr/ŋt/đ/'"/>
+	    </xsl:call-template>
+	    
 </xsl:element>
 </xsl:template>
 

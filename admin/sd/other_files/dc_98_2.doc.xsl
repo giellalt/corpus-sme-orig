@@ -119,5 +119,19 @@
 
 
 
+<xsl:template match="p">
+<xsl:variable name="text" select='current()' />
+<xsl:element name="p">
+            <xsl:copy-of select="@*"/>
+            <xsl:call-template name="globalTextReplace">
+               <xsl:with-param name="inputString" select="$text"/>
+               <xsl:with-param name="target" select="'ð/'"/>
+               <xsl:with-param name="replacement" select="'đ/'"/>
+	       <xsl:with-param name="continue" select="0"/>
+            </xsl:call-template>
+</xsl:element>
+</xsl:template>
+
+
 
 </xsl:stylesheet>
