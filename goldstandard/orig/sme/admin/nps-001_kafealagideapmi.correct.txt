@@ -11,7 +11,7 @@ Norge
 
 Sisaboahtu addojuvvo Kirsten Alehttái ja son bidjá ruđa sámeluohká kontui.  Nugo mii leat váhnenčoahkkimis šiehtadan de manná ruhta skuvla£(noun,attr,gensg,nomsg,case|skuvlla) (giđđa- mátkái)¢(noun,cmp|giđđamátkái).
 
-Mirja ja Line leaba (gulahallan olbmožat)¢(noun,cmp|gulahallanolbmožat)€gulahallanolbmot, ja váldet oktavuođa sudnuin jus dárbbašehket£(verb,suf|dárbbašehpet). Jus (kaféa- kássas)¢(noun,cmp|kaféakássas) váilu mii dál$(pcle,a|dal) nu, dieđihehket oahpaheddjiide. Fuom! Jus dat beaivi ii heive didjiide de fertebehtet ieža gaskaneaset£(pp,x,pl3,pl3,px|gaskaneattet) molsut earáiguin.
+Mirja ja Line leaba (gulahallan olbmožat)¢(noun,cmp|gulahallanolbmožat)€gulahallanolbmot, ja váldet oktavuođa sudnuin jus dárbbašehket£(verb,suf|dárbbašehpet). Jus (kaféa- kássas)¢(noun,cmp|kaféakássas) váilu mii dál¢(pcle,a|dal) nu, dieđihehket oahpaheddjiide. Fuom! Jus dat beaivi ii heive didjiide de fertebehtet ieža gaskaneaset£(pp,x,pl3,pl3,px|gaskaneattet) molsut earáiguin.
 
 Sámi váhnenfierpmádaga ovddasteaddji rahpá (Guovssahas mánáidgárddi)£(prop,attr,gensg,nomsg,case|Guovssahasa mánáidgárddi) uvssaid álohit$(adv,ii|álohii) go leat doalut. (Sis geas)£(rel,hab,locpl,locsg,agr|sis geain) lea ovddasvástádus lágidit kaféa bohtet dii. 12.00 ja kaféa rahppasa¢(verb,conc|rahpasa) dii. 13.00.
 
@@ -23,7 +23,7 @@ Bruvssa£(noun,subj,nomsg,gensg,case|Bruvsa), káfe£(noun,subj,nomsg,gensg,case
 
 váldet¢(verb,cap|Váldet) áinnas oktavuođa jus leaš eahpečielggas.
 
-Váhnenfierpmádagas lea stivračoahkkin čakčamánus 26. b. gos mearriduvvo dáhton goas (káfea doalut)¢(noun,cmp|kaféadoalut) lágiduvvojit. Stivračoahkkima maŋŋel oahpaheaddjit sáddejit ođđa (ovddasvástádus listtu)$(noun,cmp|ovddasvástáduslisttu) váhnemiidda. Jus háliidehpet rievdadit evttohuvvon áiggi dieđihehket midjiide ovdal disdaga čakčamánu 29.b. Váhnemat fertejit gaskaneaset šiehtadit gii bargá maid. Mielddus: ovdamearkan mo juogadit barggu. Giitu!
+Váhnenfierpmádagas lea stivračoahkkin čakčamánus 26. b. gos mearriduvvo dáhton goas (káfea doalut)¢(noun,cmp|kaféadoalut) lágiduvvojit. Stivračoahkkima maŋŋel oahpaheaddjit sáddejit ođđa (ovddasvástádus listtu)¢(noun,cmp|ovddasvástáduslisttu) váhnemiidda. Jus háliidehpet rievdadit evttohuvvon áiggi dieđihehket midjiide ovdal disdaga čakčamánu 29.b. Váhnemat fertejit gaskaneaset šiehtadit gii bargá maid. Mielddus: ovdamearkan mo juogadit barggu. Giitu!
 
 Dearvuođaiguin
 	
@@ -40,7 +40,7 @@ Skábmamánus leat 4 oahpi$(noun,conc|oahppi) geas£(rel,hab,locpl,locsg,agr|gea
 
 Guovvamánus leat 4 oahpi$(noun,conc|oahppi). Jus lágidit 6.b (ovttas Sámi váhnenfierpmádagas)£(noun,advl,comsg,locsg,case|ovttas Sámi váhnenfierpmádagain)
 
-Geassemánus leat 4 oahppit$(noun,conc|oahppi). Maŋemus doalut ovdal geasseluomu.
+Geassemánus leat 4 oahppit¢(noun,conc|oahppi). Maŋemus doalut ovdal geasseluomu.
 
 ČORGEN:
 Maŋŋel (kaféa doaluid)¢(noun,cmp|kaféadoaluid) dalle fertejit (sii geas)£(rel,hab,locpl,locsg,agr|sii geain) (leat ovddasvástádus)£(verb,fin,sg3prs,pl3prs,agr|lea ovddasvástásus) čorget seammá bures nu go lei. (Láhtti- moppain)$(noun,cmp|Láhttemoppain), ruskkaid doalvut, bevddiid ja stuoluid saddjái¢(noun,conc|sadjái) bidjat nu mo lei, jna.
