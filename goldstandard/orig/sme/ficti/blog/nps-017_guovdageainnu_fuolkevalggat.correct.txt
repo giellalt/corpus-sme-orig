@@ -4,7 +4,7 @@ Norge
 
 Guovdageainnu fuolkeválggat
 
-Ollugat leat jearran ingo almmohivččii$(verb,soggi|almmuhivččii) kåseriijaid$(loan,vow|koseriijaid) maid Sámi Radios láven lohkat iežan bloggii. Dá boahta$(verb,á|boahtá) okta:
+Ollugat leat jearran ingo almmohivččii£(verb,infin,sg3prs,conneg,agr|almmuhivčče) kåseriijaid$(loan,vow|koseriijaid) maid Sámi Radios láven lohkat iežan bloggii. Dá boahta$(verb,á|boahtá) okta:
 
 Dál de leat suohkanválggat dollojuvvon Norggabeal, ja jienasteaddjit leat mearridan guđemuš politihkkarat sin besset ovddastit boahtte njeallje jagi. Guovdageainnus, gosa mun ain gulan, (lea olbmot)£(verb,fin,sg3,pl3,agr|leat olbmot) buohtastahttan$(verb,á|buohtastahttán) sohkagirjjii$(noun,suf|sohkagirjjiid) válgalisttuiguin, gávnnahan dihte guđe listtus livčče lagamus fuolkkit ja sin de leat jienastan.
 
