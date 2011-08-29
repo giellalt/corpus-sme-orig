@@ -16,9 +16,9 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="''"/>
+<xsl:variable name="filename" select="'http://www.peda.net/img/portal/252759/sohkabeallekromosonaid_arbedahkkit.doc?cs=1106895815'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="''"/>
+<xsl:variable name="title" select="'Sohkabeallekromosomaid árbedahkkit'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -41,11 +41,11 @@
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="publisher" select="''"/>
 <xsl:variable name="publChannel" select="''"/>
-<xsl:variable name="year" select="''"/>
+<xsl:variable name="year" select="'2005'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
-<xsl:variable name="place" select="''"/>
-<xsl:variable name="genre" select="''"/>
+<xsl:variable name="place" select="'http://www.peda.net/veraja/utsjoki/lukiosaame/oahppit/vuorka, Finland'"/>
+<xsl:variable name="genre" select="'facta'"/>
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="translator_fn" select="''"/>
