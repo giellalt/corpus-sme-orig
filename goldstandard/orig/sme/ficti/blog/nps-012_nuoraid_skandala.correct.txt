@@ -1,7 +1,3 @@
-http://johanailo.blogspot.com/
-5.7.2010
-Norge
-
 Nuoraid skandála
 
 (Davvi nuorra-ášši)¢(noun,cap|Davvi Nuorra-ášši) lea gártan ovdamearkan dasá$(pers,á|dasa) ahte¥(cs,redun|) moht$(adv,con|movt) II galgga meannudit váivves áššiid. Ii oktage oro diehtime gean lea ovddasvástadus$(noun,á|ovddasvástádus) go nuoraidorganisašuvdná$(noun,a|nuoraidorganisašuvdna) masii$(verb,conc|massii) coavcci, iige oktage (oro berošteames)£(verb,inf,actloc,actess,case|oro berošteamen) duohtavuođa buktit beaivečuvgii. Dan sadjái bealalaččat$(noun,á|bealálaččat) leat diktan$(verb,á|diktán) márkánságaid$(noun,a|márkanságaid) leavvat, ja dainna lágiin ráŋggaštan$(verb,á|ráŋggáštan) dárbbašmeahttumiid.
@@ -17,5 +13,3 @@ Dađi duođaleabbo lea goitge go ášši lea gártan stuorá$(adj,a|stuora) noa�
 Boađus lea ahte dálá nuorat daidet$(verb,á|dáidet) bálton organisašuvdnabargguin ja ahte sivákeahtes$(adj,a|sivakeahtes) olbmot leat šaddan gillat$(verb,á|gillát) go ii oktage sealgat ášši albmaládje čielggadit. Dan sadjái leat diktan$(verb,á|diktán) márkánságaid$(noun,a|márkanságaid) leavvat, mii dieđusge ráŋggašta$(verb,á|ráŋggášta) iežas dáhpedorpmihis vugiin.
 
 Jus mus jearašeddje$(verb,suf|jearašedje) ráđi, ledjen nuoraid neavvut čuvvovaččat$(adv,diph|čuovvovaččat): jerret Sámedikkis veahki ášši albmaládje guorahallat, vai beaivečuvgii boahta$(verb,á|boahtá) gean sivvá$(noun,a|sivva) duođas lei go ná funet manái$(verb,á|manai). Easkka dalle sáhttit geargat eret dáinna váivves áššiin.
-
-no-decode
