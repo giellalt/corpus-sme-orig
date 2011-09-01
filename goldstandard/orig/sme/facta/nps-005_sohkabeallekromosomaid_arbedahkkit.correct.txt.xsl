@@ -62,7 +62,7 @@
 <xsl:variable name="template_version" select="'$Revision: 43483 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
-<xsl:variable name="note" select="''"/>
+<xsl:variable name="note" select="'Innsamlingsdato: 5.7.2010'"/>
 
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="''"/>
