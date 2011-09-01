@@ -1,7 +1,3 @@
-http://johanailo.blogspot.com/2008/09/biehkuma-vaht.html
-6.7.2010
-Norge
-
 Biehkuma vahát
 
 Ollusiin$(indef,conc|Olusiin), eandalii dáppe lulde, lea dat govva ahte sápmelaš lea riehpu, gii stuoraservodaga vealaheami dihte ii nákce váldit ovddasvástadusa$(noun,á|ovddasvástádusa) iežas dillái£(noun,advl,illsg,locsg,case|dilis). Dáruiduhttin, badjelgeahččanvuohta, oahppováilevašvuohta dehe eará čiekŋalis sivat dat dagahit ahte mii leat dego mánát geat dárbbahit veahki. Dávja$(adv,á|Dávjá) mii goitge ieža leat veahkkin doalaheame oaffargová$(noun,a|oaffargova). Dávja$(adv,á|Dávjá) go ieža juogaládje$(x,notcmp|juoga ládje) meaddit, de dadjat ahte ii leat min sivva go nuo ja ná manna$(verb,á|manná). Ja jus goitge soaita$(verb,á|soaitá) leat min sivva, de gávdnojit álo juogalagan$(x,notcmp|juoga lágan) dološ sivvá$(noun,a|sivva) mainna sáhtte čilget ahte¥(cs,redun| ) manne manái$(verb,a|manai) nu go manái$(verb,a|manai). Lea álo dáčča sivvái$(noun,mix|sivva).
@@ -22,4 +18,4 @@ Muhto mun balan sakka ahte min politihkkarat eai duođas oba hálitge ovddasvás
 
 A-a. Mun jáhkan$(verb,á|jáhkán) gullat eambbo (aht’)$(cc,x|ahte) eambbo biehkuma, mađi eambbo ovddasvástadusa$(noun,á|ovddasvástádusa) šadda$(verb,á|šaddá) sáhka ahte sámi servodat sáhtta$(verb,á|sáhttá) oažžut. Ovddasvástadus$(noun,á|Ovddasvástádus) oainnat ii leat leaika. Ovddasvástadus$(noun,á|Ovddasvástádus) lea lossat.
 
-( Čálus lea almmuhuvvon kåseriijan$(loan,vow|koseriijan) Sámi Radios )
+(Čálus lea almmuhuvvon kåseriijan Sámi Radios)
