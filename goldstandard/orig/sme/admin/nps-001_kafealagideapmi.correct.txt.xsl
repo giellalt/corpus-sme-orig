@@ -18,7 +18,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="''"/>
+<xsl:variable name="filename" select="'http://skolenyheter.tromsoskolen.no/Nyheter/GetFile.aspx?ID=2307'"/>
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -43,10 +43,10 @@
 <xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="publisher" select="''"/>
 <xsl:variable name="publChannel" select="''"/>
-<xsl:variable name="year" select="''"/>
+<xsl:variable name="year" select="'2009'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
-<xsl:variable name="place" select="''"/>
+<xsl:variable name="place" select="'NO'"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translator_fn" select="''"/>
@@ -63,7 +63,7 @@
 <xsl:variable name="template_version" select="'$Revision: 31551 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
-<xsl:variable name="note" select="''"/>
+<xsl:variable name="note" select="'Innsamlingsdato: 5.7.2010'"/>
 
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="'sme'"/>
