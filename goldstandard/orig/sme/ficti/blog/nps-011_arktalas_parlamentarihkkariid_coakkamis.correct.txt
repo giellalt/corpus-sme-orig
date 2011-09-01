@@ -1,7 +1,3 @@
-http://klemetti.blogspot.com/2010/06/arktalas-parlamentarihkkariid-coakkamis.html
-Finland
-7.7.2010
-
 Árktalaš parlamentárihkkariid$(loan,a|parlamentarihkkáriid) čoakkámis
 
 Oslos lei dán giđa maŋimus árktalaš parlamentárihkkariid$(loan,a|parlamentarihkkáriid) bissovaš komitea$(loan,vow|komitéa) čoakkán 7.6.2010. Čoakkán lei ollislaččat geahčadettiin hui beroštahtti ja ávkkálaš. Dánmárkku olgoáššiidministtar€olgoriikaministtar Lene Espersen muitalii čoakkáma álggus Dánmárkku árktalaš ráđi ságadoalli áigodaga ulbmiliin. Árktalaš ráđi jođiheapmi lea dán vuoru dan dáfus hárvenaš, ahte ságadoalliriikka báiki lea guhtta jagi maŋŋálaga davviriikkaid hálddus. Ságadoallivuohta sirdása Norggas Dánmárkui, mas dat sirdása Ruŧŧii jagi geahčen. Dánmárku sávvá gávdnat iežas jođihanáigodaga áigge čovdosa ođđa bissovaš dárkojeddjiid váldimii árktalaš ráđđái. Eatnamat dego Kiinná, Lulli-Korea ja Japána ja organisašuvnnat dego (Eurohpá uniovdna)¢(prop,cap|Eurohpá Uniovdna) leat viggame árktalaš ráđi bissovaš dárkojeaddjin.
@@ -21,6 +17,3 @@ Lean oassálastán dál muhtin árktalaš parlamentárihkkariid$(loan,a|parlamen
 Mu blogga ii leat áibbas áiggálaš dásis bargomátkkiid geažil, muhto máhcan maŋŋel eará mannan vahku čoakkámiidda. Vulgen Oslos njuolga Ohcejohkii sámedikki, birasministeriija, nuortalašráđi, meahcceráđđehusa ja Lappi Ely$(acr,cap|ELY) (ealáhus-, biras- ja johtalusguovddáža) luonddusuodjalangearregiidda ja artihkal 8(j)-bargojoavkku čoakkámii, main muitalan čuovvovaš bloggastan.
 
 Vuottesjávrres$(prop,soggi|Vuottesjávrris) 14.6.2010
-
-
-no-decode
