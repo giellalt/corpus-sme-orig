@@ -1,12 +1,8 @@
-http://www.nesseby.kommune.no/raporta-vuonnabaa-bisananbaikkis.443522.html
-Norge
-6.7.2010
-
 Raporta Vuonnabađa bisánanbáikkis
 
-Numo lávege, de ledje ollu somás doaimmat beatnatvuodjimaxxx bisánanabáikkis$(noun,typo|bisánanbáikkis) Vuonnabađas.
+Numo lávege, de ledje ollu somás doaimmat beatnatvuodjima€(x|beanavuodjima) bisánanabáikkis$(noun,typo|bisánanbáikkis) Vuonnabađas.
 
-15-03-2007
+15-03-2007 Bent Johansen
 
 Stuorravuona oahppit ja oahpaheaddjit ledje erenoamáš áŋgirat geahččaladdat daid ollu doaibmafálaldagaid maid Várjjat Sámi Musea(VSM) lei heivehan. Ledje e.e. njuollabissubáhčimat ja njoarusteapmi$(noun,soggi|njoarosteapmi). Čáppa muohtaskulptuvrraid ráhkadeapmi VSM olggobealde lei maiddái ovttasbargu gaskal (skuvla ohppiid)£(noun,attr,gensg,nomsg,case|skuvlla ohppiid) ja VSM.
 
@@ -15,5 +11,3 @@ Maiddái dánge jagi barggai VSM  buori barggu Finnmarksløpet miellágideaddjin
 (Rukses ruossas lei nuvttá káfe)£(noun,spred,nomsg,gensg,case|Rukses ruossas lei nuvttá káffe) ja veahkehedje muđuige, nomo$(cs,vowc|numo) bearráigeahččat johtolaga bisánanabáikái$(noun,typo|bisánanbáikái).  
 
 Jus don(dego mun) hálidit$(verb,ii|háliidit) buori gourmet-gaskabeaivvi, de besset Searvegottevisttis návddašit (boahkke lábbábierggu)$(noun,cmp|boahkkelábbábierggu) ja luossamáli. Maiddái Searvegottevisti lei rabas ijatbeaivve vai olbmot ožžo borramuša. 
-
-no-decode
