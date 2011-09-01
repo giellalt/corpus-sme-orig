@@ -1,7 +1,3 @@
-http://johanailo.blogspot.com/2009/04/sami-sivilisasuvdna-lea.html
-28.07.2010
-Norge
-
 Sámi sivilisašuvdna heahtedilis
 
 Boraspiret leat dehaleabbo$(adj,á|deháleabbo) go ahte oarjelsámi kultuvra galga$(verb,á|galgá) seailut, oaivvilda 40 proseantta Trønder-Avisa iskadeamis$(noun,conc|iskkadeamis) (loga dás). Oarjelsámi boazodoallu ja giella sáhtta$(verb,á|sáhttá) jávkat stuora guovlluin, muhto sámi servodat ii oro berošteame. Leatgo mii hilgume Elsa Laula Renberg ja Daniel Mortenssona árbbi?
@@ -10,6 +6,4 @@ Oarjesápmelaččat gehččet sámi-tv ja lohket sámi aviissaid, muhto hárve g
 
 (2003s)$(num,suf|2003:s) dutken journalistaoahpu bachelorbarggustan ahte¥(cs,redun| ) man dávja$(adv,á|dávjá) lullisápmelaš ášši oidno sámi tv:s. Čájehuvvui ahte gaskkamearalaččat$(adv,mix|gaskamearálaččat) golla$(verb,á|gollá) guokte vahkku juohke ášši gaskas. Illá jáhkan$(verb,á|jáhkán) dili buorranan$(verb,á|buorránan) namuhanveara dan rájes. Dasgo davvisámi majoritehtta$(noun,conc|majoritehta) orru oalat$(adv,á|oalát) hilgume oarjelsápmelaččaid ráhččamušaid¢(noun,mix|rahčamušaid). Gieskkat$(adv,conc|Gieskat) celkkii Janoš Trosten ahte oarjelsápmelaččat eai ánssaš$(verb,á|ánssáš) seamma rivttiid go davvisápmelaččat. Orru leame ahte Trosten lea oalat$(adv,á|oalát) vajaldahttan$(verb,á|vajáldahttán) ahte oarjelsámis dat álggahuvvui sámi lihkadus (1917s)$(num,suf|1917:s). Oarjelasámiguovttos$(noun,typo|Oarjelsámeguovttos) Elsa Laula Renberg ja Daniel Mortensson leigga njunnožis$(noun,lime|njunnošis) cahkkeheame dola mii galggái$(verb,a|galggai) čatnat sápmelaččaid oktii ja cegget sámi našuvnna (ii fal stáda. Loga definišuvnna dás). Leatgo sámi politihkkarat vuollanan$(verb,á|vuollánan) oktasaš sámi servodaga hukset£(verb,inf,actloc,inf,case|huksemis), muhto geavahit baicca buot návccaid iežaset ruovttogilliide$(noun,mix|ruovttugiliidexxx) háhpohallat?
 
-Sivilisašuvdna definerejuvvo dávja$(adv,á|dávjá) dan vuođul ahte¥(cs,redun| ) moht$(adv,con|movt) dat meannuda iežas geahohepmosiid$(adj,conc|geahnohepmosiid). Jus dat leačča duohta de eat leat beare guhkas¢(adv,á|guhkás) joavdan. 
-
-no-decode
+Sivilisašuvdna definerejuvvo dávja$(adv,á|dávjá) dan vuođul ahte¥(cs,redun| ) moht$(adv,con|movt) dat meannuda iežas geahohepmosiid$(adj,conc|geahnohepmosiid). Jus dat leačča duohta de eat leat beare guhkas¢(adv,á|guhkás) joavdan.
