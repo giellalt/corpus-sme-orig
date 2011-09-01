@@ -1,7 +1,3 @@
-http://johanailo.blogspot.com/
-Norge
-6.7.2010
-
 Soađis dáčča čalmmis ja muorra iežamet čalmmis
 
 Jus lea okta maid£(rel,advl,gensg,locsg,case|mas) mii sápmelaččat leat máilmmi čeahpimussan, de lea vuoigatvuođaid gáibidit. Beaivvalaččat$(adv,á|Beaivválaččat) oidnojit min polihkkarat$(noun,typo|politihkkárat) tv:s hoahkame álgoálbmotrivttiid, ILO 169 ja (ON deklarašuvnnaid)¢(prop,cmp|ON-deklarašuvnnaid) birra. Lávejit nu máilmmi fiidnat$(adj,á|fiidnát) orrome¢(verb,soggi|orrume) diet doahpagat. Gaskkariikkalaččat$(adv,conc|Gaskariikkalaččat) ja solidaralaččat$(loan,á|solidáralaččat). Olmmoš dego govahalla$(verb,á|govahallá) ahte mii sápmelaččat doarrut ovttas buot eará máilmmi vealahuvvon olbmuiguin, báhadahkkiid$(noun,á|bahádahkkiid) vuoigatmeahttunvuođaid vuostta$(adv,mix|vuostá). Mii áŋgiruššat buot sápmelaččaid, indiánaid, inuihtaid ja eará badjelgehččojuvvon olbmuid rivttiid ovddas.
@@ -22,6 +18,4 @@ Danin lea davvisápmelažžii dehaleabbo$(adj,á|deháleabbo) ahte ruovttosuohka
 
 Soaita$(verb,á|Soaitá) leat lunddolaš, iige gánnahivččii$(verb,á|gánnáhivččii) eddot. Muhto jus nu, de fertešii maid dohkkehit ahte dáččat geat orrot guhkkin eret Sámis meannudit sápmelaččaid seamma vuogi mielde, go mii ieža meannudit eará sápmelaččaid. Vai leago nu ahte mii oaidnit soađđasa$(noun,á|soađđása) dáčča čalmmis, muhto eat oainne muora iežamet čalmmis. 
 
-Čálus lea sámeradios gullon kåseriijan$(loan,vow|koseriijan)
-
-no-decode
+Čálus lea sámeradios gullon kåseriijan
