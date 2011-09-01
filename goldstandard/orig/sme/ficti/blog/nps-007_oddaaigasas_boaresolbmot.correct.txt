@@ -1,7 +1,3 @@
-http://johanailo.blogspot.com/2008/09/oaigasa-boaresolbmot.html
-Norge
-6.7.2010
-
 Ođđaáigasaš$(adj,á|Ođđaáigásaš) boaresolbmot
 
 Máilmmis leat guokte olmmošjoavkku geat nagodit additt$(verb,typo|addit) heajos oamedovddu moht$(adv,con|movt) dál ain leaš – mánát ja boarrasat$(adj,á|boarrásat). Vaikko man olu rážastivččiimet$(verb,a|ražastivččiimet) sin ovddas, de eat nagot goasse sin doarvai$(adv,á|doarvái) duhtadit. Álo livččii juoga maid galggašii dahkat ja hoidet, ja álo lea juoga mii báhca¢(verb,á|báhcá) dagatkeahtta$(verb,á|dagatkeahttá). Muhto hárve lea asttu¢(noun,conc,nomsg,gensg|astu), ja áigegárživuohta deadda$(verb,á|deaddá).
@@ -24,4 +20,4 @@ Lea nu ahte dáčča dávja$(adv,á|dávjá) hoahka¢(verb,á|hoahká) boarrasii
 
 Mun goitge in bala ahte šadda$(verb,á|šaddá) divrras dikšut iežamet boarrasiid$(adj,á|boarrásiid). Dan sii gal leat ánssašan$(verb,á|ánssášan) iige gánnat$(verb,á|gánnát) dan biehkut. Mun inge bala ahte gártet beare olu sámi boaresolbmot. Sin mii oainnat dárbbahit. Mun balan beare bealkkahallamis.
 
-( Čálus lea almmuhuvvon kåseriijan$(loan,vow|koseriijan) Sámi Radios )
+(Čálus lea almmuhuvvon kåseriijan$(loan,vow|koseriijan) Sámi Radios)
