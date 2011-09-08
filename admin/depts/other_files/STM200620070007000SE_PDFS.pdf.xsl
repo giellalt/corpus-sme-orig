@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
-<!-- Format query results for display -->
-
-<xsl:stylesheet
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:i18n="http://apache.org/cocoon/i18n/2.1"
-    version="1.0">
-
-<xsl:output method="xml"
-            version="1.0"
-            encoding="UTF-8"
-            indent="yes"
-            doctype-public="-//UIT//DTD Corpus V1.0//EN"
-			doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
+<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.regjeringen.no/Rpub/STM/20062007/007SA/PDFS/STM200620070007000SE_PDFS.pdf'"/>
-<xsl:variable name="title" select="'St.dieđ. nr. 7 (2006–2007)'"/>
+<xsl:variable name="title" select="'St.die&#273;. nr. 7 (2006&#8211;2007)'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -69,7 +58,7 @@
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
 <xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
-<xsl:variable name="multilingual" select="''"/> <!--this is default-->
+<xsl:variable name="multilingual" select="1"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
 <!-- selection frame. If no languages are selected, the document is -->
@@ -82,7 +71,7 @@
 <xsl:variable name="mlang_isl" select="''"/>
 <xsl:variable name="mlang_kal" select="''"/>
 <xsl:variable name="mlang_nno" select="''"/>
-<xsl:variable name="mlang_nob" select="''"/>
+<xsl:variable name="mlang_nob" select="1"/>
 <xsl:variable name="mlang_sma" select="''"/>
 <xsl:variable name="mlang_sme" select="''"/>
 <xsl:variable name="mlang_smj" select="''"/>
@@ -143,9 +132,9 @@
 <!-- replaced characters and the replacements. -->
 
 <xsl:template match="p">
-<xsl:variable name="text" select='current()' />
-<xsl:variable name="type" select='@type' />
-<xsl:variable name="lang" select='@xml:lang' />
+<xsl:variable name="text" select="current()"/>
+<xsl:variable name="type" select="@type"/>
+<xsl:variable name="lang" select="@xml:lang"/>
 <xsl:element name="p">
             <xsl:if test="$type">
             <xsl:attribute name="type">
@@ -160,8 +149,8 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'St.die˜./ð/'"/>
-               <xsl:with-param name="replacement" select="'St.dieđ./đ/'"/>
+               <xsl:with-param name="target" select="'St.die&#732;./&#240;/'"/>
+               <xsl:with-param name="replacement" select="'St.die&#273;./&#273;/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>
