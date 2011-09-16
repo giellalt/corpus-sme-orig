@@ -19,6 +19,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://skolenyheter.tromsoskolen.no/Nyheter/GetFile.aspx?ID=2307'"/>
+<xsl:variable name="text_encoding" select="'UTF-8'"/>
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
