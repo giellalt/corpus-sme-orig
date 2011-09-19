@@ -1,4 +1,4 @@
-(KAFEA- LÁGIDIEAPMI)¢(loan,mix|KAFÉALÁGIDEAPMI)  (2009- 2010)¢(num,cmp|2009-2010)
+(KAFEA- LÁGIDIEAPMI)¢(noun,cmp|KAFEALÁGIDEAPMI)  (2009- 2010)¢(num,cmp|2009-2010)
 
 (OVDDASVÁSTÁDUS LISTTU)¢(noun,cmp|OVDDASVÁSTÁDUSLISTU) GUOVSSAHAS MÁNÁIDGÁRDDIS 
 
@@ -19,14 +19,14 @@ Bruvssa£(noun,subj,nomsg,gensg,case|Bruvsa), káfe£(noun,subj,nomsg,gensg,case
 
 váldet¢(verb,cap|Váldet) áinnas oktavuođa jus leaš eahpečielggas.
 
-Váhnenfierpmádagas lea stivračoahkkin čakčamánus 26. b. gos mearriduvvo dáhton goas (káfea doalut)¢(noun,cmp|kaféadoalut) lágiduvvojit. Stivračoahkkima maŋŋel oahpaheaddjit sáddejit ođđa (ovddasvástádus listtu)¢(noun,cmp|ovddasvástáduslisttu) váhnemiidda. Jus háliidehpet rievdadit evttohuvvon áiggi dieđihehket midjiide ovdal disdaga čakčamánu 29.b. Váhnemat fertejit gaskaneaset šiehtadit gii bargá maid. Mielddus: ovdamearkan mo juogadit barggu. Giitu!
+Váhnenfierpmádagas lea stivračoahkkin čakčamánus 26. b. gos mearriduvvo dáhton goas (káfea$(noun,mix|kaféa) doalut)¢(noun,cmp|kaféadoalut) lágiduvvojit. Stivračoahkkima maŋŋel oahpaheaddjit sáddejit ođđa (ovddasvástádus listtu)¢(noun,cmp|ovddasvástáduslisttu) váhnemiidda. Jus háliidehpet rievdadit evttohuvvon áiggi dieđihehket midjiide ovdal disdaga čakčamánu 29.b. Váhnemat fertejit gaskaneaset šiehtadit gii bargá maid. Mielddus: ovdamearkan mo juogadit barggu. Giitu!
 
 Dearvuođaiguin
 	
 
 
 
-DIEĐUT  (KAFEA- LÁGIDIEAMI)¢(noun,cmp|KAFÉALÁGIDEAMI) BIRRA  (2009- 2010)¢(num,cmp|2009-2010)
+DIEĐUT  (KAFEA- LÁGIDIEAMI)¢(noun,cmp|KAFEALÁGIDEAMI) BIRRA  (2009- 2010)¢(num,cmp|2009-2010)
 
 RIEVDADUS: 
 
