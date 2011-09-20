@@ -12,7 +12,7 @@ Sohkabeallekromosonaid$(loan,con|Sohkabeallekromosomaid) árbedahkkit
 
 - divrriin varrásiin ii leat go okta x-kr ja niŋŋalasain$(noun,á|njiŋŋálasain) xx, nu ahte (varrásat leat x0-tiippa)£(noun,spred,nomsg,nompl,num|varrásat leat x0-tiippat).
 
-- haplodiploidalaš lassáneapmi oaivvilda dan ahte varris riegada$(verb,á|riegáda) sagatkeahttes$(adj,conc|sagatkeahtes) manis partenogenehttalaččat$(loan,conc|partenogenehtalaččat) (haploida) ja njiŋŋalas$(noun,á|njiŋŋálas) ságahuvvon$(verb,a|sagahuvvon) manneseallas (diploida)
+- haplodiploidalaš lassáneapmi oaivvilda dan ahte varris riegada$(verb,á|riegáda) sagatkeahttes$(adj,conc|sagatkeahtes) manis partenogenehttalaččat$(loan,conc|partenogenehtalaččat) (haploida) ja njiŋŋalas$(noun,á|njiŋŋálas) ságahuvvon€(verb,a|sagahuvvon) manneseallas (diploida)
 
 - fenotiippalaš s.beali mearráneammis$(verb,mix|mearraneamis) biras mearreda$(verb,soggi|mearrida) sohkabeali, omd. liekkasvuohta.
 
