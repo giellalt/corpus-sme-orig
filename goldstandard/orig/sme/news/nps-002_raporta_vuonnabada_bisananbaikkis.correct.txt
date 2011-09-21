@@ -6,7 +6,7 @@ Numo lávege, de ledje ollu somás doaimmat beatnatvuodjima€(x|beanavuodjima) 
 
 Stuorravuona oahppit ja oahpaheaddjit ledje erenoamáš áŋgirat geahččaladdat daid ollu doaibmafálaldagaid maid Várjjat Sámi Musea(VSM)$(prop,space|Musea (VSM)) lei heivehan. Ledje e.e. njuollabissubáhčimat ja njoarusteapmi$(noun,soggi|njoarosteapmi). Čáppa muohtaskulptuvrraid ráhkadeapmi VSM olggobealde lei maiddái ovttasbargu gaskal (skuvla ohppiid)£(noun,attr,gensg,nomsg,case|skuvlla ohppiid) ja VSM.
 
-Maiddái dánge jagi barggai VSM  buori barggu Finnmarksløpet miellágideaddjin. Sii dolle rabasin birranbeaivve$(adv,con|birrabeaivve) sihke beatnatvuoddjiide$(noun,mono|beatnatvuddjiide), bargiide ja mediaide. Doppe maiddái besse olbmot vuovdit iešguđátlágán$(adj,soggi|iešguđetlágán) giehtadujiid, ja NIF doalai kafea.  
+Maiddái dánge jagi barggai VSM  buori barggu Finnmarksløpet miellágideaddjin. Sii dolle rabasin birranbeaivve$(adv,cmp|birrabeaivve) sihke beatnatvuoddjiide$(noun,mono|beatnatvuddjiide), bargiide ja mediaide. Doppe maiddái besse olbmot vuovdit iešguđátlágán$(adj,soggi|iešguđetlágán) giehtadujiid, ja NIF doalai kafea.  
 
 (Rukses ruossas lei nuvttá káfe)£(noun,spred,nomsg,gensg,case|Rukses ruossas lei nuvttá káffe) ja veahkehedje muđuige, nomo$(cs,vowc|numo) bearráigeahččat johtolaga bisánanabáikái$(noun,typo|bisánanbáikái).  
 

@@ -12,12 +12,12 @@ Sohkabeallekromosonaid$(loan,con|Sohkabeallekromosomaid) árbedahkkit
 
 - divrriin varrásiin ii leat go okta x-kr ja niŋŋalasain$(noun,á|njiŋŋálasain) xx, nu ahte (varrásat leat x0-tiippa)£(noun,spred,nomsg,nompl,num|varrásat leat x0-tiippat).
 
-- haplodiploidalaš lassáneapmi oaivvilda dan ahte varris riegada$(verb,á|riegáda) sagatkeahttes$(adj,conc|sagatkeahtes) manis partenogenehttalaččat$(loan,conc|partenogenehtalaččat) (haploida) ja njiŋŋalas$(noun,á|njiŋŋálas) ságahuvvon€(verb,a|sagahuvvon) manneseallas (diploida)
+- haplodiploidalaš lassáneapmi oaivvilda dan ahte varris riegada$(verb,á|riegáda) sagatkeahttes$(adj,conc|sagatkeahtes) manis partenogenehttalaččat$(loan,conc|partenogenehtalaččat) (haploida) ja njiŋŋalas$(noun,á|njiŋŋálas) ságahuvvon¢(verb,a|sagahuvvon) manneseallas (diploida)
 
 - fenotiippalaš s.beali mearráneammis$(verb,mix|mearraneamis) biras mearreda$(verb,soggi|mearrida) sohkabeali, omd. liekkasvuohta.
 
 - sohkabeallái laktašuvvan árbbit leat dábálut albmáin go nissoniin, dasgo álot x-kromosonas$(loan,con|x-kromosomas) ja y:s ii gávdno fástideaddji.
 
-- ruksesruonáčalmmehisvuohta lea sullii (8%:as)$(acr,suf|8%:s) albmáin muhto ( nissonin¢(noun,suf|nissoniin) dušše (0.6 %:s)£(0.6 %) ), danin go albmás lea dušše okta x-kromosona$(loan,con|x-kromosoma), son lea sáhttán árbet dušše nuppi allela ja jus dat lea resessiivalaš$(adj,mix|recessiiva), šaddá son ruksesruonáčalmmeheapmi$(adj,soggi|ruksesruonáčalmmeheapme) go y-kromosonas$(loan,con|y-kromosomas) ii leat gokči dominerejeaddji allela
+- ruksesruonáčalmmehisvuohta lea sullii (8%:as)$(num,suf|8%:s) albmáin muhto ( nissonin¢(noun,suf|nissoniin) dušše (0.6 %:s)£(0.6 %) ), danin go albmás lea dušše okta x-kromosona$(loan,con|x-kromosoma), son lea sáhttán árbet dušše nuppi allela ja jus dat lea resessiivalaš$(adj,mix|recessiiva), šaddá son ruksesruonáčalmmeheapmi$(adj,soggi|ruksesruonáčalmmeheapme) go y-kromosonas$(loan,con|y-kromosomas) ii leat gokči dominerejeaddji allela
 
 - nissona nuppi x-kromosona$(loan,con|x-kromosoma) resessiivalaš$(adj,mix|recessiiva) allela oitno$(verb,conc|oidno) dušše beare homotsygohtalaččat (son guoddá dávdda)
