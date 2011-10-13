@@ -1,12 +1,11 @@
-<?xml version="1.0"?>
-<!-- Format query results for display -->
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'dc_3_04.doc'"/>
-  <xsl:variable name="title" select="'Møteprotokoll'"/>
+  <xsl:variable name="title" select="'M&#248;teprotokoll'"/>
   <xsl:variable name="author1_fn" select="'John Osvald'"/>
-  <xsl:variable name="author1_ln" select="'Gr&#xF8;nmo'"/>
+  <xsl:variable name="author1_ln" select="'Gr&#248;nmo'"/>
   <xsl:variable name="author1_gender" select="'m'"/>
   <xsl:variable name="author1_born" select="''"/>
   <xsl:variable name="author1_nat" select="'nor'"/>
@@ -26,7 +25,7 @@
   <xsl:variable name="author4_born" select="''"/>
   <xsl:variable name="author4_nat" select="''"/>
   <xsl:variable name="translated_from" select="''"/>
-  <xsl:variable name="publisher" select="'Sámediggi'"/>
+  <xsl:variable name="publisher" select="'S&#225;mediggi'"/>
   <xsl:variable name="publChannel" select="''"/>
   <xsl:variable name="year" select="'2005'"/>
   <xsl:variable name="ISBN" select="''"/>
@@ -40,7 +39,7 @@
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'Børre Gaup'"/>
+  <xsl:variable name="sub_name" select="'B&#248;rre Gaup'"/>
   <xsl:variable name="sub_email" select="'boerre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="'19590'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
@@ -55,7 +54,7 @@
 <!-- Select "1" for the variable multilingual -->
 <!-- and for the languages present -->
   <!--Select "1" for monolingual to turn language recog off-->
-<xsl:variable name="monolingual" select="''"/>
+<xsl:variable name="monolingual" select="1"/>
 <xsl:variable name="multilingual" select="'1'"/>
 
   <xsl:variable name="mlang_sme" select="''"/>
@@ -106,9 +105,9 @@
 <xsl:variable name="para_eng" select="''"/>
 
 <xsl:template match="p">
-<xsl:variable name="text" select='current()' />
-<xsl:variable name="type" select='@type' />
-<xsl:variable name="lang" select='@xml:lang' />
+<xsl:variable name="text" select="current()"/>
+<xsl:variable name="type" select="@type"/>
+<xsl:variable name="lang" select="@xml:lang"/>
 <xsl:element name="p">
             <xsl:if test="$type">
             <xsl:attribute name="type">
@@ -123,8 +122,8 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'„/”/'"/>
-               <xsl:with-param name="replacement" select="'«/»/'"/>
+               <xsl:with-param name="target" select="'&#8222;/&#8221;/'"/>
+               <xsl:with-param name="replacement" select="'&#171;/&#187;/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>

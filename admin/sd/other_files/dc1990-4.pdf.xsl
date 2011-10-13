@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
-<!-- Format query results for display -->
-
-<xsl:stylesheet 
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:i18n="http://apache.org/cocoon/i18n/2.1"
-    version="1.0">
-
-<xsl:output method="xml" 
-            version="1.0" 
-            encoding="UTF-8" 
-            indent="yes"
-            doctype-public="-//UIT//DTD Corpus V1.0//EN"
-			doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/> 
+<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/> 
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://samediggi.no/Filnedlasting.aspx?MId1=3434&amp;FilId=2421'"/>
-<xsl:variable name="title" select="'ČOAHKKINGIRJI 4/90'"/>
+<xsl:variable name="title" select="'&#268;OAHKKINGIRJI 4/90'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -54,7 +43,7 @@
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="'free'"/>
-<xsl:variable name="sub_name" select="'Børre Gaup'"/>
+<xsl:variable name="sub_name" select="'B&#248;rre Gaup'"/>
 <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
 <xsl:variable name="wordcount" select="'5346'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
@@ -68,7 +57,7 @@
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="'1'"/> <!--lg rec is off!-->
+<xsl:variable name="monolingual" select="1"/> <!--lg rec is off!-->
 <xsl:variable name="multilingual" select="''"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
@@ -143,9 +132,9 @@
 <!-- replaced characters and the replacements. -->
 
 <xsl:template match="p">
-<xsl:variable name="text" select='current()' />
-<xsl:variable name="type" select='@type' />
-<xsl:variable name="lang" select='@xml:lang' />
+<xsl:variable name="text" select="current()"/>
+<xsl:variable name="type" select="@type"/>
+<xsl:variable name="lang" select="@xml:lang"/>
 <xsl:element name="p">
             <xsl:if test="$type">
             <xsl:attribute name="type">
@@ -160,19 +149,19 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'±/str2/str3/'"/>
-               <xsl:with-param name="replacement" select="'ž/rpl2/rpl3/'"/>
+               <xsl:with-param name="target" select="'&#177;/str2/str3/'"/>
+               <xsl:with-param name="replacement" select="'&#382;/rpl2/rpl3/'"/>
                 <xsl:with-param name="continue" select="0"/>	
             </xsl:call-template>
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'é/str2/str3/'"/>
-               <xsl:with-param name="replacement" select="'č/rpl2/rpl3/'"/>
+               <xsl:with-param name="target" select="'&#233;/str2/str3/'"/>
+               <xsl:with-param name="replacement" select="'&#269;/rpl2/rpl3/'"/>
                 <xsl:with-param name="continue" select="0"/>	
             </xsl:call-template>
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'í/str2/str3/'"/>
+               <xsl:with-param name="target" select="'&#237;/str2/str3/'"/>
                <xsl:with-param name="replacement" select="'i/rpl2/rpl3/'"/>
                 <xsl:with-param name="continue" select="0"/>	
             </xsl:call-template>

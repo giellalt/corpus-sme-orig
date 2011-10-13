@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<!-- Format query results for display -->
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'63666_1_P.doc'"/>
-  <xsl:variable name="title" select="'Goh&#x10D;&#x10D;un s&#xE1;medikki 1. dievas&#x10D;oahkkimii 2006'"/>
+  <xsl:variable name="title" select="'Goh&#269;&#269;un s&#225;medikki 1. dievas&#269;oahkkimii 2006'"/>
   <xsl:variable name="author1_fn" select="''"/>
   <xsl:variable name="author1_ln" select="'amso'"/>
   <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -40,7 +39,7 @@
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'B&#xF8;rre Gaup'"/>
+  <xsl:variable name="sub_name" select="'B&#248;rre Gaup'"/>
   <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="'4854'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
@@ -55,7 +54,7 @@
 <!-- Select "1" for the variable multilingual -->
 <!-- and for the languages present -->
   <!--Select "1" for monolingual to turn language recog off-->
-<xsl:variable name="monolingual" select="''"/>
+<xsl:variable name="monolingual" select="1"/>
 <xsl:variable name="multilingual" select="'1'"/>
 
   <xsl:variable name="mlang_sme" select="''"/>

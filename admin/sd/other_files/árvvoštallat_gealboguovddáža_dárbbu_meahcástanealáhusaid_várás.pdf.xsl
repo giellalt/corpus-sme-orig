@@ -1,29 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
-<!-- Format query results for display -->
-
-<xsl:stylesheet 
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:i18n="http://apache.org/cocoon/i18n/2.1"
-    version="1.0">
-
-<xsl:output method="xml" 
-            version="1.0" 
-            encoding="UTF-8" 
-            indent="yes"
-            doctype-public="-//UIT//DTD Corpus V1.0//EN"
-			doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/> 
+<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/> 
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://samediggi.no/filnedlasting.aspx?FilId=2611&amp;ct=.pdf'"/>
-<xsl:variable name="title" select="'Árvvoštallat gealboguovddáža dárbbu meahcástanealáhusaid várás'"/>
+<xsl:variable name="title" select="'&#193;rvvo&#353;tallat gealboguovdd&#225;&#382;a d&#225;rbbu meahc&#225;staneal&#225;husaid v&#225;r&#225;s'"/>
 <xsl:variable name="author1_fn" select="'Magne'"/>
 <xsl:variable name="author1_ln" select="'Svineng'"/>
 <xsl:variable name="author1_gender" select="'m'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author1_nat" select="'NO'"/>
-<xsl:variable name="author2_fn" select="'Veslemøy K.'"/>
+<xsl:variable name="author2_fn" select="'Veslem&#248;y K.'"/>
 <xsl:variable name="author2_ln" select="'Dahl'"/>
 <xsl:variable name="author2_gender" select="'f'"/>
 <xsl:variable name="author2_born" select="''"/>
@@ -54,7 +43,7 @@
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="'free'"/>
-<xsl:variable name="sub_name" select="'Børre Gaup'"/>
+<xsl:variable name="sub_name" select="'B&#248;rre Gaup'"/>
 <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
@@ -68,7 +57,7 @@
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
+<xsl:variable name="monolingual" select="1"/> <!--lg rec is off!-->
 <xsl:variable name="multilingual" select="'1'"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
@@ -102,7 +91,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_nob" select="'Vurdering_av_behovet_for_et_kompetansesenter_for_utmarksnæringer.pdf'"/>
+<xsl:variable name="para_nob" select="'Vurdering_av_behovet_for_et_kompetansesenter_for_utmarksn&#230;ringer.pdf'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
