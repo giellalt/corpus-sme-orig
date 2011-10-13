@@ -3,7 +3,7 @@
 (OVDDASVÁSTÁDUS LISTTU)¢(noun,cmp|OVDDASVÁSTÁDUSLISTU) GUOVSSAHAS MÁNÁIDGÁRDDIS 
 
 
-(Sis geas)£(rel,hab,locpl,locsg,agr|Sii geain) lea ovddasvástádus lágidit kaféa, vižžet (kaféa- kássa)¢(noun,cmp|kaféakássa) skuvllas. Doppe leat ee. gohput, servieahtat ja smávvaruđat. Kássas galgá álohit€(adv,suf|álohii) leat 1000,- smávvaruhtan. Kirsten Alette viežžá smávvaruđaid sámeluohká kontos ja bidjá (kaféa- kássii)¢(noun,cmp|kaféakássii).
+((Sis£(pers,subj,nomsg,locsg,case|Sii) geas)£(rel,hab,locpl,locsg,number|geain) lea ovddasvástádus lágidit kaféa, vižžet) (kaféa- kássa)¢(noun,cmp|kaféakássa) skuvllas. Doppe leat ee. gohput, servieahtat ja smávvaruđat. Kássas galgá álohit€(adv,suf|álohii) leat 1000,- smávvaruhtan. Kirsten Alette viežžá smávvaruđaid sámeluohká kontos ja bidjá (kaféa- kássii)¢(noun,cmp|kaféakássii).
 
 Sisaboahtu addojuvvo Kirsten Alehttái ja son bidjá ruđa sámeluohká kontui.  Nugo mii leat váhnenčoahkkimis šiehtadan de manná ruhta skuvla£(noun,attr,gensg,nomsg,case|skuvlla) (giđđa- mátkái)¢(noun,cmp|giđđamátkái).
 
