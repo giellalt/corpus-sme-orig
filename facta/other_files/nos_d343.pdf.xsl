@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<!-- Format query results for display -->
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
 
@@ -29,7 +28,7 @@
   <xsl:variable name="author4_born" select="''"/>
   <xsl:variable name="author4_nat" select="''"/>
   <xsl:variable name="translated_from" select="'nob'"/>
-  <xsl:variable name="publisher" select="'Statistisk sentralbyr&#xE5;'"/>
+  <xsl:variable name="publisher" select="'Statistisk sentralbyr&#229;'"/>
   <xsl:variable name="publChannel" select="''"/>
   <xsl:variable name="year" select="'2006'"/>
   <xsl:variable name="ISBN" select="''"/>
@@ -43,7 +42,7 @@
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'B&#xF8;rre Gaup'"/>
+  <xsl:variable name="sub_name" select="'B&#248;rre Gaup'"/>
   <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="'57467'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
@@ -52,8 +51,7 @@
 
 
 <!-- Free text field for notes -->
-<xsl:variable name="note" select="'Excluded from conversion: the only
-Sámi characters that are correct are á and š.'"/>
+<xsl:variable name="note" select="'Excluded from conversion: the only S&#225;mi characters that are correct are &#225; and &#353;.'"/>
 
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="'sme'"/>
@@ -63,12 +61,12 @@ Sámi characters that are correct are á and š.'"/>
 <!-- and for the languages present -->
 <!--Select "1" for monolingual to turn language recog off-->
 <xsl:variable name="monolingual" select="''"/>
-<xsl:variable name="multilingual" select="''"/>
+<xsl:variable name="multilingual" select="1"/>
 
 <xsl:variable name="mlang_sme" select="''"/>
 <xsl:variable name="mlang_smj" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
-<xsl:variable name="mlang_nob" select="''"/>
+<xsl:variable name="mlang_nob" select="1"/>
 <xsl:variable name="mlang_nno" select="''"/>
 <xsl:variable name="mlang_swe" select="''"/>
 <xsl:variable name="mlang_fin" select="''"/>

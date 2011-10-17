@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<!-- Format query results for display -->
-<xsl:stylesheet version="1.0" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'sigrunn_s.htm'"/>
-  <xsl:variable name="title" select="'Kárášjoga Bargiidbellodaga doaimma 1934-83 ruovttoluottageahčastat'"/>
+  <xsl:variable name="title" select="'K&#225;r&#225;&#353;joga Bargiidbellodaga doaimma 1934-83 ruovttoluottageah&#269;astat'"/>
   <xsl:variable name="author1_fn" select="'Sigrunn'"/>
-  <xsl:variable name="author1_ln" select="'Rønbeck'"/>
+  <xsl:variable name="author1_ln" select="'R&#248;nbeck'"/>
   <xsl:variable name="author1_gender" select="'f'"/>
   <xsl:variable name="author1_born" select="'1910'"/>
   <xsl:variable name="author1_nat" select="'nor'"/>
@@ -35,13 +33,13 @@
   <xsl:variable name="place" select="'http://girji.info/skolehist/sigrunn-s.htm'"/>
   <xsl:variable name="genre" select="'facta'"/>
   <xsl:variable name="collection" select="''"/>
-  <xsl:variable name="translator_fn" select="'Máret'"/>
-  <xsl:variable name="translator_ln" select="'Sárá'"/>
+  <xsl:variable name="translator_fn" select="'M&#225;ret'"/>
+  <xsl:variable name="translator_ln" select="'S&#225;r&#225;'"/>
   <xsl:variable name="translator_gender" select="'unknown'"/>
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'Børre Gaup'"/>
+  <xsl:variable name="sub_name" select="'B&#248;rre Gaup'"/>
   <xsl:variable name="sub_email" select="'boerre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="'2550'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
@@ -57,11 +55,11 @@
 <!-- and for the languages present -->
 <xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
 
-  <xsl:variable name="multilingual" select="''"/>
+  <xsl:variable name="multilingual" select="1"/>
   <xsl:variable name="mlang_sme" select="''"/>
   <xsl:variable name="mlang_smj" select="''"/>
   <xsl:variable name="mlang_sma" select="''"/>
-  <xsl:variable name="mlang_nob" select="''"/>
+  <xsl:variable name="mlang_nob" select="1"/>
   <xsl:variable name="mlang_nno" select="''"/>
   <xsl:variable name="mlang_swe" select="''"/>
   <xsl:variable name="mlang_fin" select="''"/>

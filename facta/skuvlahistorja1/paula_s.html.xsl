@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<!-- Format query results for display -->
-<xsl:stylesheet version="1.0" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'paula_s.htm'"/>
-  <xsl:variable name="title" select="'Giellásiin bajásšaddan!'"/>
+  <xsl:variable name="title" select="'Giell&#225;siin baj&#225;s&#353;addan!'"/>
   <xsl:variable name="author1_fn" select="'Paula'"/>
   <xsl:variable name="author1_ln" select="'Simonsen'"/>
   <xsl:variable name="author1_gender" select="'f'"/>
@@ -41,7 +39,7 @@
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'Børre Gaup'"/>
+  <xsl:variable name="sub_name" select="'B&#248;rre Gaup'"/>
   <xsl:variable name="sub_email" select="'boerre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="'1933'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
@@ -57,11 +55,11 @@
 <!-- and for the languages present -->
 <xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
 
-  <xsl:variable name="multilingual" select="''"/>
+  <xsl:variable name="multilingual" select="1"/>
   <xsl:variable name="mlang_sme" select="''"/>
   <xsl:variable name="mlang_smj" select="''"/>
   <xsl:variable name="mlang_sma" select="''"/>
-  <xsl:variable name="mlang_nob" select="''"/>
+  <xsl:variable name="mlang_nob" select="1"/>
   <xsl:variable name="mlang_nno" select="''"/>
   <xsl:variable name="mlang_swe" select="''"/>
   <xsl:variable name="mlang_fin" select="''"/>
