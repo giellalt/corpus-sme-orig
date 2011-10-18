@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<!-- Format query results for display -->
-
-<xsl:stylesheet
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:i18n="http://apache.org/cocoon/i18n/2.1"
-    version="1.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:import href="/usr/local/share/corp/bin/common.xsl"/>
 
-<xsl:output method="xml"
-            version="1.0"
-            encoding="UTF-8"
-            indent="yes"
-            doctype-public="-//UIT//DTD Corpus V1.0//EN"
-			doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
+<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
@@ -56,7 +45,7 @@
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="'free'"/>
-<xsl:variable name="sub_name" select="'Børre Gaup'"/>
+<xsl:variable name="sub_name" select="'B&#248;rre Gaup'"/>
 <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
 <xsl:variable name="wordcount" select="'2005'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
@@ -71,7 +60,7 @@
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
 <xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
-<xsl:variable name="multilingual" select="''"/> <!--this is default-->
+<xsl:variable name="multilingual" select="1"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
 <!-- selection frame. If no languages are selected, the document is -->
@@ -84,7 +73,7 @@
 <xsl:variable name="mlang_isl" select="''"/>
 <xsl:variable name="mlang_kal" select="''"/>
 <xsl:variable name="mlang_nno" select="''"/>
-<xsl:variable name="mlang_nob" select="''"/>
+<xsl:variable name="mlang_nob" select="1"/>
 <xsl:variable name="mlang_sma" select="''"/>
 <xsl:variable name="mlang_sme" select="''"/>
 <xsl:variable name="mlang_smj" select="''"/>
@@ -102,7 +91,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="'229265.html'"/>
-<xsl:variable name="para_nob" select="'Foreldrepenger+til+far+ved+fødsel+og+adopsjon.html'"/>
+<xsl:variable name="para_nob" select="'Foreldrepenger+til+far+ved+f&#248;dsel+og+adopsjon.html'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
