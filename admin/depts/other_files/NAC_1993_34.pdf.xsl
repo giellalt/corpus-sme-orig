@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<!-- Format query results for display -->
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'NAC_1993_94.pdf'"/>
-  <xsl:variable name="title" select="'1.Vuoigatvuohta Finnm&#xE1;rkku eatnamiidda ja &#x10D;&#xE1;ziide ja daid h&#xE1;ldda&#x161;eapmi'"/>
+  <xsl:variable name="title" select="'1.Vuoigatvuohta Finnm&#225;rkku eatnamiidda ja &#269;&#225;ziide ja daid h&#225;ldda&#353;eapmi'"/>
   <xsl:variable name="author1_fn" select="'Tor'"/>
   <xsl:variable name="author1_ln" select="'Falch'"/>
   <xsl:variable name="author1_gender" select="'m'"/>
@@ -16,7 +15,7 @@
   <xsl:variable name="author2_born" select="''"/>
   <xsl:variable name="author2_nat" select="'nor'"/>
   <xsl:variable name="author3_fn" select="'Ingunn'"/>
-  <xsl:variable name="author3_ln" select="'&#xC5;sg&#xE5;rd Bendiksen'"/>
+  <xsl:variable name="author3_ln" select="'&#197;sg&#229;rd Bendiksen'"/>
   <xsl:variable name="author3_gender" select="'f'"/>
   <xsl:variable name="author3_born" select="''"/>
   <xsl:variable name="author3_nat" select="'nor'"/>
@@ -57,12 +56,12 @@
 <!-- and for the languages present -->
   <!--Select "1" for monolingual to turn language recog off-->
 <xsl:variable name="monolingual" select="''"/>
-<xsl:variable name="multilingual" select="'1'"/>
+<xsl:variable name="multilingual" select="1"/>
 
   <xsl:variable name="mlang_sme" select="''"/>
   <xsl:variable name="mlang_smj" select="''"/>
   <xsl:variable name="mlang_sma" select="''"/>
-  <xsl:variable name="mlang_nob" select="'1'"/>
+  <xsl:variable name="mlang_nob" select="1"/>
   <xsl:variable name="mlang_nno" select="''"/>
   <xsl:variable name="mlang_swe" select="''"/>
   <xsl:variable name="mlang_fin" select="''"/>
@@ -77,7 +76,7 @@
   <xsl:variable name="nnolang" select="'nno'"/>
   <xsl:variable name="swelang" select="'swe'"/>
   <xsl:variable name="finlang" select="'fin'"/>
-  <xsl:variable name="englang" select="'swe'"/>
+  <xsl:variable name="englang" select="'eng'"/>
   <xsl:variable name="gerlang" select="'fin'"/>
   <!-- Add all paragraphs that should have xml:lang=X-->
 <!-- Uncomment the following and add the paths, for example: -->
@@ -111,9 +110,9 @@
 <xsl:variable name="title_styles" select="'Bold'"/>
 
 <xsl:template match="p">
-<xsl:variable name="text" select='current()' />
-<xsl:variable name="type" select='@type' />
-<xsl:variable name="lang" select='@xml:lang' />
+<xsl:variable name="text" select="current()"/>
+<xsl:variable name="type" select="@type"/>
+<xsl:variable name="lang" select="@xml:lang"/>
 <xsl:element name="p">
             <xsl:if test="$type">
             <xsl:attribute name="type">
@@ -128,8 +127,8 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'cuoñománu/'"/>
-               <xsl:with-param name="replacement" select="'cuoŋománu/'"/>
+               <xsl:with-param name="target" select="'cuo&#241;om&#225;nu/'"/>
+               <xsl:with-param name="replacement" select="'cuo&#331;om&#225;nu/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>

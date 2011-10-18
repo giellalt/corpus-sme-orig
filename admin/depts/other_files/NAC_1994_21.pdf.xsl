@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<!-- Format query results for display -->
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'NAC_1994_24.pdf'"/>
-  <xsl:variable name="title" select="'Finnm&#xE1;rkku eatnamiid ja &#x10D;&#xE1;z&#xE1;dagaid geavaheapmi historjj&#xE1;la&#x161;'"/>
+  <xsl:variable name="title" select="'Finnm&#225;rkku eatnamiid ja &#269;&#225;z&#225;dagaid geavaheapmi historjj&#225;la&#353;'"/>
   <xsl:variable name="author1_fn" select="'Steinar'"/>
   <xsl:variable name="author1_ln" select="'Pedersen'"/>
   <xsl:variable name="author1_gender" select="'m'"/>
@@ -26,7 +25,7 @@
   <xsl:variable name="author4_born" select="''"/>
   <xsl:variable name="author4_nat" select="'nor'"/>
   <xsl:variable name="translated_from" select="'nob'"/>
-  <xsl:variable name="publisher" select="'St&#xE1;hta h&#xE1;ldd&#xE1;husdoaimmahus'"/>
+  <xsl:variable name="publisher" select="'St&#225;hta h&#225;ldd&#225;husdoaimmahus'"/>
   <xsl:variable name="publChannel" select="''"/>
   <xsl:variable name="year" select="'1994'"/>
   <xsl:variable name="ISBN" select="''"/>
@@ -56,12 +55,12 @@
 <!-- and for the languages present -->
   <!--Select "1" for monolingual to turn language recog off-->
 <xsl:variable name="monolingual" select="''"/>
-<xsl:variable name="multilingual" select="'1'"/>
+<xsl:variable name="multilingual" select="1"/>
 
   <xsl:variable name="mlang_sme" select="''"/>
   <xsl:variable name="mlang_smj" select="''"/>
   <xsl:variable name="mlang_sma" select="''"/>
-  <xsl:variable name="mlang_nob" select="'1'"/>
+  <xsl:variable name="mlang_nob" select="1"/>
   <xsl:variable name="mlang_nno" select="''"/>
   <xsl:variable name="mlang_swe" select="''"/>
   <xsl:variable name="mlang_fin" select="''"/>
@@ -76,7 +75,7 @@
   <xsl:variable name="nnolang" select="'nno'"/>
   <xsl:variable name="swelang" select="'swe'"/>
   <xsl:variable name="finlang" select="'fin'"/>
-  <xsl:variable name="englang" select="'swe'"/>
+  <xsl:variable name="englang" select="'eng'"/>
   <xsl:variable name="gerlang" select="'fin'"/>
   <!-- Add all paragraphs that should have xml:lang=X-->
 <!-- Uncomment the following and add the paths, for example: -->
@@ -131,10 +130,9 @@
             </xsl:if>
 
             <xsl:call-template name="globalTextReplace">
-               <xsl:with-param name="inputString"
-               select="translate($text,'&#xF0;&#xF1;&#xE7;&#xF3;&#xFE;&#xD1;&#xDD;&#xFD;&#xC7;&#xD3;&#xD0;','&#x111;&#x14B;&#x10D;&#x161;&#x17D;&#x14A;&#x166;&#x167;&#x10C;&#x160;&#x110;')"/>
+               <xsl:with-param name="inputString" select="translate($text,'&#240;&#241;&#231;&#243;&#254;&#209;&#221;&#253;&#199;&#211;&#208;','&#273;&#331;&#269;&#353;&#381;&#330;&#358;&#359;&#268;&#352;&#272;')"/>
      <xsl:with-param name="target" select="'Adelaer/gaefhes/haes/daen/siidaer/omgaaes/saae/mae/undgaae/taen/taed/baer/vaer/raer/naes/saer/saet/saet/naer/Nae/raep/vaeg/raen/Fae/Rae/jael/'"/>
-<xsl:with-param name="replacement" select="'Adelær/gæfhes/hæs/dæn/siidær/omgaæs/saæ/mæ/undgaæ/tæn/tæd/bær/vær/rær/næs/sær/sæt/sæd/nær/Næ/ræp/væg/ræn/Fæ/Ræ/jæl/'"/>
+<xsl:with-param name="replacement" select="'Adel&#230;r/g&#230;fhes/h&#230;s/d&#230;n/siid&#230;r/omga&#230;s/sa&#230;/m&#230;/undga&#230;/t&#230;n/t&#230;d/b&#230;r/v&#230;r/r&#230;r/n&#230;s/s&#230;r/s&#230;t/s&#230;d/n&#230;r/N&#230;/r&#230;p/v&#230;g/r&#230;n/F&#230;/R&#230;/j&#230;l/'"/>
             <xsl:with-param name="continue" select="1"/>
             </xsl:call-template>
 

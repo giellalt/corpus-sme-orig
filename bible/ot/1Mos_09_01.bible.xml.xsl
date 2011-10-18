@@ -78,7 +78,7 @@
   <xsl:variable name="nnolang" select="'nno'"/>
   <xsl:variable name="swelang" select="'swe'"/>
   <xsl:variable name="finlang" select="'fin'"/>
-  <xsl:variable name="englang" select="'swe'"/>
+  <xsl:variable name="englang" select="'eng'"/>
   <xsl:variable name="gerlang" select="'fin'"/>
   <!-- Add all paragraphs that should have xml:lang=X-->
 <!-- Uncomment the following and add the paths, for example: -->

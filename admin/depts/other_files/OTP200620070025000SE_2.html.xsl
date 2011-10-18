@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<!-- Format query results for display -->
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
@@ -58,7 +57,7 @@
   <!-- Select "1" for the variable multilingual -->
   <xsl:variable name="monolingual" select="''"/>
   <!--lg rec is off!-->
-  <xsl:variable name="multilingual" select="'1'"/>
+  <xsl:variable name="multilingual" select="1"/>
   <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
@@ -67,7 +66,7 @@
   <xsl:variable name="mlang_sme" select="''"/>
   <xsl:variable name="mlang_smj" select="''"/>
   <xsl:variable name="mlang_sma" select="''"/>
-  <xsl:variable name="mlang_nob" select="'1'"/>
+  <xsl:variable name="mlang_nob" select="1"/>
   <xsl:variable name="mlang_nno" select="''"/>
   <xsl:variable name="mlang_swe" select="''"/>
   <xsl:variable name="mlang_fin" select="''"/>
@@ -94,7 +93,7 @@
   <xsl:variable name="nnolang" select="'nno'"/>
   <xsl:variable name="swelang" select="'swe'"/>
   <xsl:variable name="finlang" select="'fin'"/>
-  <xsl:variable name="englang" select="'swe'"/>
+  <xsl:variable name="englang" select="'eng'"/>
   <xsl:variable name="gerlang" select="'fin'"/>
   <!-- Add all paragraphs that should have xml:lang=X-->
 <!-- Uncomment the following and add the paths, for example: -->
@@ -153,8 +152,8 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'St.die˜./'"/>
-               <xsl:with-param name="replacement" select="'St.dieđ./'"/>
+               <xsl:with-param name="target" select="'St.die&#732;./'"/>
+               <xsl:with-param name="replacement" select="'St.die&#273;./'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>
