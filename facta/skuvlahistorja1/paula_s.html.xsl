@@ -33,11 +33,11 @@
   <xsl:variable name="place" select="'http://girji.info/skolehist/paula-s.htm'"/>
   <xsl:variable name="genre" select="'facta'"/>
   <xsl:variable name="collection" select="''"/>
-  <xsl:variable name="translator_fn" select="'Siri'"/>
-  <xsl:variable name="translator_ln" select="'Broch Johansen'"/>
-  <xsl:variable name="translator_gender" select="'unknown'"/>
-  <xsl:variable name="translator_born" select="''"/>
-  <xsl:variable name="translator_nat" select="''"/>
+  <xsl:variable name="translator_fn" select="'Siri Broch'"/>
+  <xsl:variable name="translator_ln" select="'Johansen'"/>
+  <xsl:variable name="translator_gender" select="'f'"/>
+  <xsl:variable name="translator_born" select="'1967'"/>
+  <xsl:variable name="translator_nat" select="'NO'"/>
   <xsl:variable name="license_type" select="'free'"/>
   <xsl:variable name="sub_name" select="'B&#248;rre Gaup'"/>
   <xsl:variable name="sub_email" select="'boerre.gaup@samediggi.no'"/>
@@ -72,8 +72,8 @@
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_nob" select="'paula_n.html'"/>
-<xsl:variable name="para_nno" select="''"/>
+<xsl:variable name="para_nob" select="''"/>
+<xsl:variable name="para_nno" select="'paula-n.htm'"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
