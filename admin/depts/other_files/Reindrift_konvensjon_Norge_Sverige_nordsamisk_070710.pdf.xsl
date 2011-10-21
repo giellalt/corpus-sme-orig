@@ -102,8 +102,8 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'Reindrift_konvensjon_Norge_Sverige_260209.pdf'"/>
 <xsl:variable name="para_sma" select="'Reindrift_konvensjon_Norge_Sverige_soersamisk_070710.pdf'"/>
-<xsl:variable name="para_sme" select="'Reindrift_konvensjon_Norge_Sverige_lulesamisk_070710.pdf'"/>
-<xsl:variable name="para_smj" select="''"/>
+<xsl:variable name="para_sme" select="''"/>
+<xsl:variable name="para_smj" select="'Reindrift_konvensjon_Norge_Sverige_lulesamisk_070710.pdf'"/>
 <xsl:variable name="para_swe" select="''"/>
 
 
