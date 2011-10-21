@@ -100,7 +100,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'sami_publikasjoner_samisk_tegnsett_og_it_norsk_NO.pdf'"/>
+<xsl:variable name="para_nob" select="'sami_publikasjoner_samisk_tegnsett_og_it_norsk.pdf'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
