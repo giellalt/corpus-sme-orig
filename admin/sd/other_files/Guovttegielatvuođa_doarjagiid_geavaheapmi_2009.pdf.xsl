@@ -89,7 +89,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Evaluering_bruk_av_tospr&#229;klighetsmidlene_2009.pdf'"/>
+<xsl:variable name="para_nob" select="'Evaluering_bruk_av_tospråklighetsmidlene_2009.pdf'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>

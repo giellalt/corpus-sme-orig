@@ -89,7 +89,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Sametingets_strategiske_plan_for_l&#230;remiddelutvikling_2009_2012.pdf'"/>
+<xsl:variable name="para_nob" select="'Sametingets_strategiske_plan_for_læremiddelutvikling_2009_2012.pdf'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>

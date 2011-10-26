@@ -89,7 +89,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Fiske_i_kyst-_og_fjordomr&#229;der_norsk.pdf'"/>
+<xsl:variable name="para_nob" select="'Fiske_i_kyst-_og_fjordområder_norsk.pdf'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
