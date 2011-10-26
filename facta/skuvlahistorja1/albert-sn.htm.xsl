@@ -90,9 +90,9 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'albert-n.html'"/>
+<xsl:variable name="para_nno" select="'albert_n.html'"/>
 <xsl:variable name="para_nob" select="''"/>
-<xsl:variable name="para_sma" select="'albert-s.html'"/>
+<xsl:variable name="para_sma" select="'albert_s.html'"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>

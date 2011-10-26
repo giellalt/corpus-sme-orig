@@ -72,8 +72,8 @@
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_nob" select="'eidheim_n.html'"/>
-<xsl:variable name="para_nno" select="''"/>
+<xsl:variable name="para_nob" select="''"/>
+<xsl:variable name="para_nno" select="'eidheim_n.html'"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_ger" select="''"/>

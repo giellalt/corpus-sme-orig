@@ -85,7 +85,7 @@
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
-<xsl:variable name="para_fin" select="'kuulemisia-kokouksia-ja-lausuntoja.htm'"/>
+<xsl:variable name="para_fin" select="'kuulemisia-kokouksia-ja-lausuntoja.html'"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_eng" select="''"/>
 <xsl:variable name="para_fkv" select="''"/>
