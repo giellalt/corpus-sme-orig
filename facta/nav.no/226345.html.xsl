@@ -71,7 +71,7 @@
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
 <xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
-<xsl:variable name="multilingual" select="''"/> <!--this is default-->
+<xsl:variable name="multilingual" select="'1'"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
 <!-- selection frame. If no languages are selected, the document is -->
@@ -84,7 +84,7 @@
 <xsl:variable name="mlang_isl" select="''"/>
 <xsl:variable name="mlang_kal" select="''"/>
 <xsl:variable name="mlang_nno" select="''"/>
-<xsl:variable name="mlang_nob" select="''"/>
+<xsl:variable name="mlang_nob" select="'1'"/>
 <xsl:variable name="mlang_sma" select="''"/>
 <xsl:variable name="mlang_sme" select="''"/>
 <xsl:variable name="mlang_smj" select="''"/>

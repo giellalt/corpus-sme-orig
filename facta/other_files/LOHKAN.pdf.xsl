@@ -59,13 +59,13 @@
 <!-- Select "1" for the variable multilingual -->
 <!-- and for the languages present -->
 <xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
-  <xsl:variable name="multilingual" select="''"/>
+  <xsl:variable name="multilingual" select="'1'"/>
   <xsl:variable name="mlang_sme" select="''"/>
   <xsl:variable name="mlang_smj" select="''"/>
   <xsl:variable name="mlang_sma" select="''"/>
-  <xsl:variable name="mlang_nob" select="''"/>
+  <xsl:variable name="mlang_nob" select="'1'"/>
   <xsl:variable name="mlang_nno" select="''"/>
-  <xsl:variable name="mlang_swe" select="''"/>
+  <xsl:variable name="mlang_swe" select="'1'"/>
   <xsl:variable name="mlang_fin" select="''"/>
   <xsl:variable name="mlang_ger" select="''"/>
   <xsl:variable name="mlang_eng" select="''"/>
