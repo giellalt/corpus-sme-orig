@@ -51,16 +51,16 @@
   <!-- The main language of the document -->
   <xsl:variable name="mainlang" select="'sme'"/>
   <!-- Other languages, in case of multilingual document. -->
-<!-- Select "1" for the variable multilingual -->
+<!-- Select "'1'" for the variable multilingual -->
 <!-- and for the languages present -->
-  <!--Select "1" for monolingual to turn language recog off-->
+  <!--Select "'1'" for monolingual to turn language recog off-->
 <xsl:variable name="monolingual" select="''"/>
-<xsl:variable name="multilingual" select="1"/>
+<xsl:variable name="multilingual" select="'1'"/>
 
   <xsl:variable name="mlang_sme" select="''"/>
   <xsl:variable name="mlang_smj" select="''"/>
   <xsl:variable name="mlang_sma" select="''"/>
-  <xsl:variable name="mlang_nob" select="1"/>
+  <xsl:variable name="mlang_nob" select="'1'"/>
   <xsl:variable name="mlang_nno" select="''"/>
   <xsl:variable name="mlang_swe" select="''"/>
   <xsl:variable name="mlang_fin" select="''"/>
@@ -91,7 +91,7 @@
 </xsl:element>
  </xsl:template>
 -->
-<!-- If the document has parallel texts, select "1" for parallel_texts -->
+<!-- If the document has parallel texts, select "'1'" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
@@ -104,5 +104,29 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_eng" select="''"/>
 
+<xsl:template match="p[parent::body][not(./em | ./span)][text()]">
+    <xsl:variable name="text" select='current()' />
+    <xsl:variable name="type" select='@type' />
+    <xsl:variable name="lang" select='@xml:lang' />
+    <xsl:element name="p">
+        <xsl:if test="$type">
+            <xsl:attribute name="type">
+                <xsl:value-of select="$type"/>
+            </xsl:attribute>
+        </xsl:if>
+        <xsl:if test="$lang">
+            <xsl:attribute name="xml:lang">
+                <xsl:value-of select="$lang"/>
+            </xsl:attribute>
+        </xsl:if>
+
+        <xsl:call-template name="globalTextReplace">
+           <xsl:with-param name="inputString" select="$text"/>
+           <xsl:with-param name="target" select="'þ/'"/>
+           <xsl:with-param name="replacement" select="'ž/'"/>
+           <xsl:with-param name="continue" select="0"/>
+        </xsl:call-template>
+    </xsl:element>
+</xsl:template>
 
 </xsl:stylesheet>
