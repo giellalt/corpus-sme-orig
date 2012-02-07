@@ -136,8 +136,8 @@
 
 	    <xsl:call-template name="globalTextReplace">
 	      <xsl:with-param name="inputString" select="$text"/>
-	      <xsl:with-param name="target" select="'??&#225;/??a/??e/??i/??o/?a/?&#225;/?e/?i/?o/?u/?g/?k/?l/?r/?t/?g/&#240;/'"/>
-	      <xsl:with-param name="replacement" select="'&#331;&#331;&#225;/&#331;&#331;a/&#331;&#331;e/&#331;&#331;i/&#331;&#331;o/&#331;a/&#331;&#225;/&#331;e/&#331;i/&#331;o/&#331;u/&#331;g/&#331;k/&#331;l/&#331;r/&#331;t/&#331;g/&#273;/'"/>
+	      <xsl:with-param name="target" select="'??&#225;/??a/??e/??i/??o/?a/?&#225;/?e/?i/?o/?u/?g/?k/?l/?r/?t/?g/&#240;/6.kap/!981/'"/>
+	      <xsl:with-param name="replacement" select="'&#331;&#331;&#225;/&#331;&#331;a/&#331;&#331;e/&#331;&#331;i/&#331;&#331;o/&#331;a/&#331;&#225;/&#331;e/&#331;i/&#331;o/&#331;u/&#331;g/&#331;k/&#331;l/&#331;r/&#331;t/&#331;g/&#273;/6. kap/1981/'"/>
 	    </xsl:call-template>
 
 </xsl:element>
