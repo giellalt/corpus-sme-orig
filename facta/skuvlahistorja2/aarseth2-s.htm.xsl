@@ -151,8 +151,8 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'sogalaččat B/'"/>
-               <xsl:with-param name="replacement" select="'sogalaččat. B/'"/>
+               <xsl:with-param name="target" select="'sogalaččat B/) Bohcco biebmu/heapmi, Geologiija/'"/>
+               <xsl:with-param name="replacement" select="'sogalaččat. B/). Bohcco biebmu/heapmi. Geologiija/'"/>
                 <xsl:with-param name="continue" select="-1"/>
             </xsl:call-template>
 </xsl:element>
