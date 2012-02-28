@@ -133,7 +133,7 @@
 <!-- Change or remove problematic characters from the text. -->
 <!-- add the template to match (here all p:s), and write the -->
 <!-- replaced characters and the replacements. -->
-<!--
+
 <xsl:template match="p">
 <xsl:variable name="text" select='current()' />
 <xsl:variable name="type" select='@type' />
@@ -152,12 +152,11 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'str1/str2/str3/'"/>
-               <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
-                <xsl:with-param name="continue" select="0"/>	
+               <xsl:with-param name="target" select="'vuoooo/vuoda/vuoaa/Vuodu/vuodu/vuoddo/vuoddu/vuddu/'"/>
+               <xsl:with-param name="replacement" select="'vuođđo/vuođa/vuođa/Vuođu/vuođu/vuođđo/vuođđu/vuđđu/'"/>
+                <xsl:with-param name="continue" select="0"/>    
             </xsl:call-template>
 </xsl:element>
 </xsl:template>
--->
 
 </xsl:stylesheet>
