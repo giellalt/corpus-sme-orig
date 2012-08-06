@@ -46,7 +46,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
