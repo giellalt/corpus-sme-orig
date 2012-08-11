@@ -1,24 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
-<!-- Format query results for display -->
-
-<xsl:stylesheet
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:i18n="http://apache.org/cocoon/i18n/2.1"
-    version="1.0">
-
-<xsl:output method="xml"
-            version="1.0"
-            encoding="UTF-8"
-            indent="yes"
-            doctype-public="-//UIT//DTD Corpus V1.0//EN"
-			doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
+<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/ad/preassaguovdda/preassadieahusat/2012/almmukoajo-galo-le-binneduvvam-47-millij.html?id=682441'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/fad/preassaguovdda/preassadieahusat/2012/savvat-buori-algoalbmotbeaivvi.html?id=697230'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Álbmotoaju golut njiedjan 4,7 miljárddain - regjeringen.no'"/>
+<xsl:variable name="title" select="'Sávvat buori álgoálbmotbeaivvi - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -57,7 +46,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'602'"/>
+<xsl:variable name="wordcount" select="'291'"/>
 <!-- Set this variable to 1 if the source for this doc is OCR -->
 <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
 <xsl:variable name="ocr" select="''"/>
@@ -97,17 +86,17 @@
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="'david-cameron-in-norway.html_id=684694'"/>
+<xsl:variable name="para_eng" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_fkv" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'styrkjer-arbeidet-med-bevaring-av-kyrkje.html_id=682454'"/>
-<xsl:variable name="para_nob" select="'folketrygdens-utgifter-er-redusert-med-4.html_id=682441'"/>
+<xsl:variable name="para_nno" select="''"/>
+<xsl:variable name="para_nob" select="'gratulerer-med-verdens-urfolksdag.html_id=697230'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
-<xsl:variable name="para_smj" select="'19-gisjugisvuoda-libjjav-oadtju.html_id=685913'"/>
+<xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
 
