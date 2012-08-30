@@ -6,7 +6,7 @@
 
 <!-- Add the metainformation manually -->
 <xsl:variable name="filename" select="''"/>
-<xsl:variable name="title" select="''"/>
+<xsl:variable name="title" select="'LÁHKA 1999-07-02 nr 63: Láhka divššohasvuoigatvuođaid birra (divššohasvuoigatvuođaláhka)'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -27,7 +27,7 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="publisher" select="''"/>
 <xsl:variable name="publChannel" select="''"/>
 <xsl:variable name="year" select="''"/>
@@ -60,13 +60,13 @@
 <!-- Select "1" for the variable multilingual -->
 <!-- and for the languages present -->
 <!--Select "1" for monolingual to turn language recog off-->
-<xsl:variable name="monolingual" select="''"/>
-<xsl:variable name="multilingual" select="'1'"/>
+<xsl:variable name="monolingual" select="'1'"/>
+<xsl:variable name="multilingual" select="''"/>
 
 <xsl:variable name="mlang_sme" select="''"/>
 <xsl:variable name="mlang_smj" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
-<xsl:variable name="mlang_nob" select="'1'"/>
+<xsl:variable name="mlang_nob" select="''"/>
 <xsl:variable name="mlang_nno" select="''"/>
 <xsl:variable name="mlang_swe" select="''"/>
 <xsl:variable name="mlang_fin" select="''"/>
@@ -102,11 +102,11 @@
 
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
-<xsl:variable name="parallel_texts" select="''"/>
+<xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_nob" select="''"/>
+<xsl:variable name="para_nob" select="'Pasientrettighetsloven_hl-19990702-063.html'"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
