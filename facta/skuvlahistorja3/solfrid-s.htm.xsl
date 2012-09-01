@@ -7,9 +7,9 @@
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://skuvla.info/skolehist/solfrid-s.htm'"/>
 <xsl:variable name="title" select="''"/>
-<xsl:variable name="author1_fn" select="'Svein"/>
-<xsl:variable name="author1_ln" select="'Lund"/>
-<xsl:variable name="author1_gender" select="'m"/>
+<xsl:variable name="author1_fn" select="'Svein'"/>
+<xsl:variable name="author1_ln" select="'Lund'"/>
+<xsl:variable name="author1_gender" select="'m'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author2_fn" select="''"/>
@@ -38,7 +38,7 @@
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translator_fn" select="'Jonny'"/>
 <xsl:variable name="translator_ln" select="'Nutti'"/>
-<xsl:variable name="translator_gender" select="''m"/>
+<xsl:variable name="translator_gender" select="'m'"/>
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="'NO'"/>
 <!-- select license type: free, standard or other -->

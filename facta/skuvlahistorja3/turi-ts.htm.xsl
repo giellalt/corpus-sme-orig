@@ -9,7 +9,7 @@
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="'Klemet'"/>
 <xsl:variable name="author1_ln" select="'Nilsen Turi'"/>
-<xsl:variable name="author1_gender" select="'m"/>
+<xsl:variable name="author1_gender" select="'m'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author1_nat" select="'NO'"/>
 <xsl:variable name="author2_fn" select="''"/>

@@ -9,7 +9,7 @@
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="'Siv'"/>
 <xsl:variable name="author1_ln" select="'Rasmussen'"/>
-<xsl:variable name="author1_gender" select="'f"/>
+<xsl:variable name="author1_gender" select="'f'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author2_fn" select="''"/>
@@ -38,7 +38,7 @@
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translator_fn" select="'Sara Ellen J.'"/>
 <xsl:variable name="translator_ln" select="'Hætta'"/>
-<xsl:variable name="translator_gender" select="'f"/>
+<xsl:variable name="translator_gender" select="'f'"/>
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
