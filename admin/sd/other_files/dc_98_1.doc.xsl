@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/> 
@@ -123,8 +123,8 @@
             <xsl:copy-of select="@*"/>
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'&#240;/'"/>
-               <xsl:with-param name="replacement" select="'&#273;/'"/>
+               <xsl:with-param name="target" select="'ð/'"/>
+               <xsl:with-param name="replacement" select="'đ/'"/>
 	       <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>

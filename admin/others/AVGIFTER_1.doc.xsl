@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'AVGIFTER_1.doc'"/>
-  <xsl:variable name="title" select="'Suohkana divvagiid o&#x111;&#x111;a mearit 2006'"/>
+  <xsl:variable name="title" select="'Suohkana divvagiid ođđa mearit 2006'"/>
   <xsl:variable name="author1_fn" select="''"/>
   <xsl:variable name="author1_ln" select="'System'"/>
   <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -31,7 +30,7 @@
   <xsl:variable name="year" select="'2006'"/>
   <xsl:variable name="ISBN" select="''"/>
   <xsl:variable name="ISSN" select="''"/>
-  <xsl:variable name="place" select="'K&#xE5;fjord kommune'"/>
+  <xsl:variable name="place" select="'Kåfjord kommune'"/>
   <xsl:variable name="genre" select="''"/>
   <xsl:variable name="collection" select="''"/>
   <xsl:variable name="translator_fn" select="'Sauli '"/>
@@ -40,7 +39,7 @@
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'Inger Marie &#xC5;sli'"/>
+  <xsl:variable name="sub_name" select="'Inger Marie Åsli'"/>
   <xsl:variable name="sub_email" select="'inger.marie.asli@kafjord.kommune.no'"/>
   <xsl:variable name="wordcount" select="'1033'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>

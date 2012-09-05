@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'NAC_1993_94.pdf'"/>
-  <xsl:variable name="title" select="'1.Vuoigatvuohta Finnm&#225;rkku eatnamiidda ja &#269;&#225;ziide ja daid h&#225;ldda&#353;eapmi'"/>
+  <xsl:variable name="title" select="'1.Vuoigatvuohta Finnmárkku eatnamiidda ja čáziide ja daid hálddašeapmi'"/>
   <xsl:variable name="author1_fn" select="'Tor'"/>
   <xsl:variable name="author1_ln" select="'Falch'"/>
   <xsl:variable name="author1_gender" select="'m'"/>
@@ -15,7 +15,7 @@
   <xsl:variable name="author2_born" select="''"/>
   <xsl:variable name="author2_nat" select="'nor'"/>
   <xsl:variable name="author3_fn" select="'Ingunn'"/>
-  <xsl:variable name="author3_ln" select="'&#197;sg&#229;rd Bendiksen'"/>
+  <xsl:variable name="author3_ln" select="'Åsgård Bendiksen'"/>
   <xsl:variable name="author3_gender" select="'f'"/>
   <xsl:variable name="author3_born" select="''"/>
   <xsl:variable name="author3_nat" select="'nor'"/>
@@ -127,8 +127,8 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'cuo&#241;om&#225;nu/'"/>
-               <xsl:with-param name="replacement" select="'cuo&#331;om&#225;nu/'"/>
+               <xsl:with-param name="target" select="'cuoñománu/'"/>
+               <xsl:with-param name="replacement" select="'cuoŋománu/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>

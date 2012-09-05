@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/> 
@@ -137,7 +137,7 @@
             <xsl:value-of select="$lang"/>
             </xsl:attribute>
             </xsl:if>
-			<xsl:value-of select="translate($text,'&#240;','&#273;') "/>
+			<xsl:value-of select="translate($text,'ð','đ') "/>
 </xsl:element>
 </xsl:template>
 

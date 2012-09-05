@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/> 
@@ -28,7 +28,7 @@
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="translated_from" select="'nob'"/>
-<xsl:variable name="publisher" select="'S&#225;mediggi'"/>
+<xsl:variable name="publisher" select="'Sámediggi'"/>
 <xsl:variable name="publChannel" select="''"/>
 <xsl:variable name="year" select="'2000'"/>
 <xsl:variable name="ISBN" select="''"/>
@@ -43,7 +43,7 @@
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="'free'"/>
-<xsl:variable name="sub_name" select="'B&#248;rre Gaup'"/>
+<xsl:variable name="sub_name" select="'Børre Gaup'"/>
 <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
 <xsl:variable name="wordcount" select="'61662'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
@@ -136,8 +136,8 @@
 
 	    <xsl:call-template name="globalTextReplace">
 	      <xsl:with-param name="inputString" select="$text"/>
-	      <xsl:with-param name="target" select="'??&#225;/??a/??e/??i/??o/?a/?&#225;/?e/?i/?o/?u/?g/?k/?l/?r/?t/?g/&#240;/6.kap/!981/6. Si/sd.died./'"/>
-	      <xsl:with-param name="replacement" select="'&#331;&#331;&#225;/&#331;&#331;a/&#331;&#331;e/&#331;&#331;i/&#331;&#331;o/&#331;a/&#331;&#225;/&#331;e/&#331;i/&#331;o/&#331;u/&#331;g/&#331;k/&#331;l/&#331;r/&#331;t/&#331;g/&#273;/6. kap/1981/6. si/sd.dieđ./'"/>
+	      <xsl:with-param name="target" select="'??á/??a/??e/??i/??o/?a/?á/?e/?i/?o/?u/?g/?k/?l/?r/?t/?g/ð/6.kap/!981/6. Si/sd.died./'"/>
+	      <xsl:with-param name="replacement" select="'ŋŋá/ŋŋa/ŋŋe/ŋŋi/ŋŋo/ŋa/ŋá/ŋe/ŋi/ŋo/ŋu/ŋg/ŋk/ŋl/ŋr/ŋt/ŋg/đ/6. kap/1981/6. si/sd.dieđ./'"/>
 	    </xsl:call-template>
 
 </xsl:element>

@@ -1,6 +1,5 @@
-<?xml version="1.0"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
@@ -8,7 +7,7 @@
 <xsl:variable name="filename" select="''"/>
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="'Maia'"/>
-<xsl:variable name="author1_ln" select="'H&#xE6;tta'"/>
+<xsl:variable name="author1_ln" select="'Hætta'"/>
 <xsl:variable name="author1_gender" select="'f'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author1_nat" select="''"/>
@@ -133,7 +132,7 @@
             </xsl:attribute>
             </xsl:if>
 
-            <xsl:value-of select="translate($text,'&#x392;&#x3C5;&#x3BF;&#x3C4;&#x3C3;&#x3B7;&#x3BA;&#x3B1;&#x3BD;&#x3C4;&#x3C1;&#x3B3;&#x3B1;&#x3C3;&#x3BB;&#x21B5;&#x3A5;&#x3C6;&#x399;&#x2111;&#x3C6;&#x393;&#x2260;&#x201C;&#x3B2;&#x3A3;&#x3008;&#x3D6;&#x3C2;&#x3D5;&#x397;&#x39B;&#x3D1;&#x3C7;&#x3BC;&#x3B9;&#x3B4;&#x3B5;&#x39D;&#x3C0;&#x2211;&#x394;&#x39A;&#x39F;&#x3A4;&#x3A6;&#x39C;&#x2663;&#x3A1;&#x3C8;&#x3BA;','')"/>
+            <xsl:value-of select="translate($text,'Βυοτσηκαντργασλ↵ΥφΙℑφΓ≠“βΣ〈ϖςϕΗΛϑχμιδεΝπ∑ΔΚΟΤΦΜ♣Ρψκ','')"/>
 </xsl:element>
 </xsl:template>
 

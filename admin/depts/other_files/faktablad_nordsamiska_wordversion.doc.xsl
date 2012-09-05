@@ -1,14 +1,13 @@
-<?xml version="1.0"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <xsl:variable name="filename" select="''"/>
-<xsl:variable name="title" select="'N&#xE1;&#x161;&#x161;uvnnala&#x161; unnitlogu&#xE1;lbmogat ja unnitlogugielat'"/>
+<xsl:variable name="title" select="'Náššuvnnalaš unnitloguálbmogat ja unnitlogugielat'"/>
 <xsl:variable name="author1_fn" select="'Johan'"/>
-<xsl:variable name="author1_ln" select="'G&#xF6;ransson'"/>
+<xsl:variable name="author1_ln" select="'Göransson'"/>
 <xsl:variable name="author1_gender" select="'m'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author1_nat" select="''"/>
@@ -127,7 +126,7 @@
 <xsl:variable name="text" select="current()"/>
 <xsl:variable name="type" select="@type"/>
 <xsl:variable name="lang" select="@xml:lang"/>
-			<xsl:value-of select="translate($text,'&#xF0;&#xE8;','&#x111;&#x10D;') "/>
+			<xsl:value-of select="translate($text,'ðè','đč') "/>
 </xsl:for-each>
 </xsl:element>
 </xsl:element>
