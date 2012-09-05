@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
   <xsl:variable name="filename" select="'jorgaluvvon_cielggadeapmi_samisk_original.doc'"/>
-  <xsl:variable name="title" select="'&#268;ielggadeapmi - s&#225;mi oahpahus olggobealde s&#225;megiela h&#225;ldda&#353;anguovllu'"/>
+  <xsl:variable name="title" select="'Čielggadeapmi - sámi oahpahus olggobealde sámegiela hálddašanguovllu'"/>
   <xsl:variable name="author1_fn" select="'Jon Eldar'"/>
   <xsl:variable name="author1_ln" select="'Einejord'"/>
   <xsl:variable name="author1_gender" select="'m'"/>
@@ -41,7 +41,7 @@
   <xsl:variable name="translator_nat" select="''"/>
   <!-- select license type: free, standard or other -->
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'B&#248;rre Gaup'"/>
+  <xsl:variable name="sub_name" select="'Børre Gaup'"/>
   <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="'52112'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
@@ -126,8 +126,8 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'&#170;/'"/>
-               <xsl:with-param name="replacement" select="'&#353;/'"/>
+               <xsl:with-param name="target" select="'ª/'"/>
+               <xsl:with-param name="replacement" select="'š/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>

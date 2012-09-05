@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -7,7 +7,7 @@
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://naturvernforbundet.no/finnmark/informasjon-til-organisasjonen/berit-anne-oskal-kemi-albmotmeahcci-guovdageainnus-vasahusat-bargolavdegottis-article23672-2066.html'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Berit Anne Oskal Kemi: &#193;lbmotmeahcci Guovdageainnus - v&#225;s&#225;husat bargol&#225;vdegottis'"/>
+<xsl:variable name="title" select="'Berit Anne Oskal Kemi: Álbmotmeahcci Guovdageainnus - vásáhusat bargolávdegottis'"/>
 <xsl:variable name="author1_fn" select="'Berit Anne Oskal'"/>
 <xsl:variable name="author1_ln" select="'Kemi'"/>
 <xsl:variable name="author1_gender" select="'f'"/>
@@ -44,7 +44,7 @@
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="'free'"/>
-<xsl:variable name="sub_name" select="'B&#248;rre Gaup'"/>
+<xsl:variable name="sub_name" select="'Børre Gaup'"/>
 <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>

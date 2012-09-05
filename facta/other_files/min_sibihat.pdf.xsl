@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'min_sibihat.pdf'"/>
-  <xsl:variable name="title" select="'Min &#353;ibihat'"/>
+  <xsl:variable name="title" select="'Min šibihat'"/>
   <xsl:variable name="author1_fn" select="'Astrid'"/>
   <xsl:variable name="author1_ln" select="'Aakra'"/>
   <xsl:variable name="author1_gender" select="'f'"/>
@@ -25,21 +25,21 @@
   <xsl:variable name="author4_born" select="''"/>
   <xsl:variable name="author4_nat" select="''"/>
   <xsl:variable name="translated_from" select="'nob'"/>
-  <xsl:variable name="publisher" select="'NRK Oahpahusredak&#353;ovdna'"/>
+  <xsl:variable name="publisher" select="'NRK Oahpahusredakšovdna'"/>
   <xsl:variable name="publChannel" select="''"/>
   <xsl:variable name="year" select="'1997'"/>
   <xsl:variable name="ISBN" select="''"/>
   <xsl:variable name="ISSN" select="''"/>
-  <xsl:variable name="place" select="'http://www.skolenettet.no/nyUpload/Samisk l&#230;ringsnett/Dokumenter/min sibihat.pdf'"/>
+  <xsl:variable name="place" select="'http://www.skolenettet.no/nyUpload/Samisk læringsnett/Dokumenter/min sibihat.pdf'"/>
   <xsl:variable name="genre" select="'facta'"/>
   <xsl:variable name="collection" select="''"/>
-  <xsl:variable name="translator_fn" select="'S&#225;medikki oahpahusossodat'"/>
+  <xsl:variable name="translator_fn" select="'Sámedikki oahpahusossodat'"/>
   <xsl:variable name="translator_ln" select="''"/>
   <xsl:variable name="translator_gender" select="'unknown'"/>
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'B&#248;rre Gaup'"/>
+  <xsl:variable name="sub_name" select="'Børre Gaup'"/>
   <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="'3559'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
