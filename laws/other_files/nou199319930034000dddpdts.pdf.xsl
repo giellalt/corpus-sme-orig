@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -6,7 +6,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.regjeringen.no/upload/kilde/000/nou/1993/0034/ddd/pdts/nou199319930034000dddpdts.pdf'"/>
-<xsl:variable name="title" select="'Vuoigatvuohta Finnm&#225;rkku eatnamiidda ja &#269;&#225;ziide ja daid h&#225;ldda&#353;eapmi'"/>
+<xsl:variable name="title" select="'Vuoigatvuohta Finnmárkku eatnamiidda ja čáziide ja daid hálddašeapmi'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -149,8 +149,8 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'cuo&#241;om&#225;nu/'"/>
-               <xsl:with-param name="replacement" select="'cuo&#331;om&#225;nu/'"/>
+               <xsl:with-param name="target" select="'cuoñománu/'"/>
+               <xsl:with-param name="replacement" select="'cuoŋománu/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>

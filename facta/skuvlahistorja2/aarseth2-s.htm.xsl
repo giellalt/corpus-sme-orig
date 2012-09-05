@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:import href="/usr/local/share/corp/bin/common.xsl"/>
@@ -8,8 +8,8 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'aarseth2-s.htm'"/>
-<xsl:variable name="title" select="'Geah&#269;&#269;aleapmi boazodoallof&#225;gain skuvllas'"/>
-<xsl:variable name="author1_fn" select="'Bj&#248;rn'"/>
+<xsl:variable name="title" select="'Geahččaleapmi boazodoallofágain skuvllas'"/>
+<xsl:variable name="author1_fn" select="'Bjørn'"/>
 <xsl:variable name="author1_ln" select="'Aarseth'"/>
 <xsl:variable name="author1_gender" select="'m'"/>
 <xsl:variable name="author1_born" select="''"/>
@@ -45,7 +45,7 @@
 <xsl:variable name="translator_nat" select="'NO'"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="'free'"/>
-<xsl:variable name="sub_name" select="'B&#248;rre Gaup'"/>
+<xsl:variable name="sub_name" select="'Børre Gaup'"/>
 <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
 <xsl:variable name="wordcount" select="'3226'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
@@ -134,9 +134,9 @@
 <!-- replaced characters and the replacements. -->
 
 <xsl:template match="p">
-<xsl:variable name="text" select='current()' />
-<xsl:variable name="type" select='@type' />
-<xsl:variable name="lang" select='@xml:lang' />
+<xsl:variable name="text" select="current()"/>
+<xsl:variable name="type" select="@type"/>
+<xsl:variable name="lang" select="@xml:lang"/>
 <xsl:element name="p">
             <xsl:if test="$type">
             <xsl:attribute name="type">

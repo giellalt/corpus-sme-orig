@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -6,7 +6,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://skuvla.info/skolehist/fredsvenn-s.htm'"/>
-<xsl:variable name="title" select="'R&#225;fiustibiid fidnogursa F&#225;lesnuoris'"/>
+<xsl:variable name="title" select="'Ráfiustibiid fidnogursa Fálesnuoris'"/>
 <xsl:variable name="author1_fn" select="'Inez'"/>
 <xsl:variable name="author1_ln" select="'Boon'"/>
 <xsl:variable name="author1_gender" select="'f'"/>
@@ -37,13 +37,13 @@
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="translator_fn" select="'Sara Ellen J. Eira'"/>
-<xsl:variable name="translator_ln" select="'Heahtt&#225;'"/>
+<xsl:variable name="translator_ln" select="'Heahttá'"/>
 <xsl:variable name="translator_gender" select="'f'"/>
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="'NO'"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="'free'"/>
-<xsl:variable name="sub_name" select="'B&#248;rre Gaup'"/>
+<xsl:variable name="sub_name" select="'Børre Gaup'"/>
 <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
 <xsl:variable name="wordcount" select="'986'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>

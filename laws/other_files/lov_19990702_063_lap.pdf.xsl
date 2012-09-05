@@ -1,12 +1,11 @@
-<?xml version="1.0"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
 
 
 <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="''"/>
-  <xsl:variable name="title" select="'L&#xE1;hka div&#x161;&#x161;ohasvuoigatvuo&#x111;aid birra (div&#x161;&#x161;ohasvuoigatvuo&#x111;al&#xE1;hka)'"/>
+  <xsl:variable name="title" select="'Láhka divššohasvuoigatvuođaid birra (divššohasvuoigatvuođaláhka)'"/>
   <xsl:variable name="author1_fn" select="''"/>
   <xsl:variable name="author1_ln" select="''"/>
   <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -42,7 +41,7 @@
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'B&#xF8;rre Gaup'"/>
+  <xsl:variable name="sub_name" select="'Børre Gaup'"/>
   <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="'3316'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>

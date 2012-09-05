@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<!-- Format query results for display -->
-<xsl:stylesheet version="1.0" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'LOHKAN.pdf'"/>
-  <xsl:variable name="title" select="'LOHKAN- JA ČÁLLINVÁTTISVUOĐAT
-  SUOMABEAL SÁMESKUVLLAIN
-'"/>
+  <xsl:variable name="title" select="'LOHKAN- JA ČÁLLINVÁTTISVUOĐAT   SUOMABEAL SÁMESKUVLLAIN '"/>
   <xsl:variable name="author1_fn" select="'Anbjørg'"/>
   <xsl:variable name="author1_ln" select="'Holm Varsi'"/>
   <xsl:variable name="author1_gender" select="'f'"/>

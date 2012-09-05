@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -7,7 +7,7 @@
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://skuvla.info/skolehist/lone-s.htm'"/>
 <xsl:variable name="title" select="''"/>
-<xsl:variable name="author1_fn" select="'Lone Synn&#248;ve'"/>
+<xsl:variable name="author1_fn" select="'Lone Synnøve'"/>
 <xsl:variable name="author1_ln" select="'Hegg'"/>
 <xsl:variable name="author1_gender" select="'f'"/>
 <xsl:variable name="author1_born" select="''"/>
@@ -36,7 +36,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translator_fn" select="'Elle M&#225;rj&#225;'"/>
+<xsl:variable name="translator_fn" select="'Elle Márjá'"/>
 <xsl:variable name="translator_ln" select="'Vars'"/>
 <xsl:variable name="translator_gender" select="'f'"/>
 <xsl:variable name="translator_born" select="''"/>

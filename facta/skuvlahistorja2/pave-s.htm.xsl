@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -6,9 +6,9 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://skuvla.info/skolehist/pave-s.htm'"/>
-<xsl:variable name="title" select="'K&#225;r&#225;&#353;joga b&#225;ikk&#225;la&#353; p&#225;va'"/>
-<xsl:variable name="author1_fn" select="'Sigbj&#248;rn'"/>
-<xsl:variable name="author1_ln" select="'H&#248;lmebakk'"/>
+<xsl:variable name="title" select="'Kárášjoga báikkálaš páva'"/>
+<xsl:variable name="author1_fn" select="'Sigbjørn'"/>
+<xsl:variable name="author1_ln" select="'Hølmebakk'"/>
 <xsl:variable name="author1_gender" select="'m'"/>
 <xsl:variable name="author1_born" select="'1922'"/>
 <xsl:variable name="author1_nat" select="'no'"/>
