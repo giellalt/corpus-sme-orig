@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -6,7 +6,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://samediggi.no/Artikkel.aspx?aid=3834&amp;sprak=Samisk&amp;Print=1'"/>
-<xsl:variable name="title" select="'Doarju davvi&#225;lbmogiid kulturgaskkustanguovdd&#225;&#382;a &#225;saheami Ruo&#353;&#353;a bealde - S&#225;mediggi Sametinget'"/>
+<xsl:variable name="title" select="'Doarju davviálbmogiid kulturgaskkustanguovddáža ásaheami Ruošša bealde - Sámediggi Sametinget'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -27,7 +27,7 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="'S&#225;mediggi/Sametinget'"/>
+<xsl:variable name="publisher" select="'Sámediggi/Sametinget'"/>
 <xsl:variable name="publChannel" select="'http://samediggi.no'"/>
 <xsl:variable name="year" select="''"/>
 <xsl:variable name="ISBN" select="''"/>
