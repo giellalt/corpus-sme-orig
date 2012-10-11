@@ -16,10 +16,10 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://www.ffk.no/docs/2107f77a-272b-4b1a-87ab-fd56b55955a6.pdf'"/>
+<xsl:variable name="filename" select="'http://www.ffk.no/docs/68efa10d-69ec-4fdc-bceb-7ad58a675d7e.pdf'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Finnmárkku fylkkagieldda sámi gelbbolašvuođa
-STRATEGIIJAPLÁNA 2011-2014'"/>
+<xsl:variable name="title" select="'STRATEGALAŠ PLÁNA
+fágaskuvllaohppui Finnmárkkus 2011-2014'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -73,8 +73,8 @@ STRATEGIIJAPLÁNA 2011-2014'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
-<xsl:variable name="multilingual" select="'1'"/> <!--this is default-->
+<xsl:variable name="monolingual" select="'1'"/> <!--lg rec is off!-->
+<xsl:variable name="multilingual" select="''"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
 <!-- selection frame. If no languages are selected, the document is -->
@@ -87,7 +87,7 @@ STRATEGIIJAPLÁNA 2011-2014'"/>
 <xsl:variable name="mlang_isl" select="''"/>
 <xsl:variable name="mlang_kal" select="''"/>
 <xsl:variable name="mlang_nno" select="''"/>
-<xsl:variable name="mlang_nob" select="'1'"/>
+<xsl:variable name="mlang_nob" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
 <xsl:variable name="mlang_sme" select="''"/>
 <xsl:variable name="mlang_smj" select="''"/>
@@ -105,7 +105,7 @@ STRATEGIIJAPLÁNA 2011-2014'"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'sp2011-2014-1.pdf'"/>
+<xsl:variable name="para_nob" select="'fp2011-2014.pdf'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
