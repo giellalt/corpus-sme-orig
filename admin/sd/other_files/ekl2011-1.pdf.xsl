@@ -54,10 +54,10 @@
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
-<xsl:variable name="license_type" select="''"/>
-<xsl:variable name="sub_name" select="'free'"/>
-<xsl:variable name="sub_email" select="'Berit Eskonsipo'"/>
-<xsl:variable name="wordcount" select="'berit.nystad.eskonsipo@uit.no'"/>
+<xsl:variable name="license_type" select="'free'"/>
+<xsl:variable name="sub_name" select="'Berit Eskonsipo'"/>
+<xsl:variable name="sub_email" select="'berit.nystad.eskonsipo@uit.no'"/>
+<xsl:variable name="wordcount" select="''"/>
 <!-- Set this variable to 1 if the source for this doc is OCR -->
 <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
 <xsl:variable name="ocr" select="''"/>
