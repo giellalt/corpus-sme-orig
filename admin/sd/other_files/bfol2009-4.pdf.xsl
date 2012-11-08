@@ -6,7 +6,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://innsyn.e-kommune.no/innsyn_sametinget_samisk/wfdocument.aspx?journalpostid=2009030835&amp;dokid=232801&amp;versjon=1&amp;variant=P&amp;ct=RA-PDF'"/>
-<xsl:variable name="title" select="'Čoahkkingirji 04/09'"/>
+<xsl:variable name="title" select="'ﾄ経ahkkingirji 04/09'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -130,7 +130,7 @@
 <!-- Change or remove problematic characters from the text. -->
 <!-- add the template to match (here all p:s), and write the -->
 <!-- replaced characters and the replacements. -->
-<!--
+
 <xsl:template match="p">
 <xsl:variable name="text" select='current()' />
 <xsl:variable name="type" select='@type' />
@@ -149,12 +149,10 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'str1/str2/str3/'"/>
-               <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
-                <xsl:with-param name="continue" select="0"/>	
+               <xsl:with-param name="target" select="'Bajášaddan/'"/>
+               <xsl:with-param name="replacement" select="'Bajásšaddan/'"/>
             </xsl:call-template>
 </xsl:element>
 </xsl:template>
--->
 
 </xsl:stylesheet>

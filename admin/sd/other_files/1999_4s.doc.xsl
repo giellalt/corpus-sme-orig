@@ -136,8 +136,8 @@
 
             <xsl:call-template name="globalTextReplace">
             <xsl:with-param name="inputString" select="$text"/>
-       <xsl:with-param name="target" select="'??á/??a/??e/??i/??o/?a/?á/?e/?i/?o/?u/?g/?k/?l/?r/?t/ð/Ráddeh/vuodul/diedáh/deatal/ráddeh/gohcod/rudaid/vuodu/occod/'"/>
- <xsl:with-param name="replacement" select="'ŋŋá/ŋŋa/ŋŋe/ŋŋi/ŋŋo/ŋa/ŋá/ŋe/ŋi/ŋo/ŋu/ŋg/ŋk/ŋl/ŋr/ŋt/đ/Ráđđeh/vuođul/dieđáh/deaŧal/ráđđeh/gohčod/ruđaid/vuođu/oččod/'"/>
+       <xsl:with-param name="target" select="'??á/??a/??e/??i/??o/?a/?á/?e/?i/?o/?u/?g/?k/?l/?r/?t/ð/Ráddeh/vuodul/diedáh/deatal/ráddeh/gohcod/rudaid/vuodu/occod/rádiid/Coahkkinjodihang/geahccanlávdego/rádit/oddaáig/oaccui/geahcad/coahkkinjodih/'"/>
+ <xsl:with-param name="replacement" select="'ŋŋá/ŋŋa/ŋŋe/ŋŋi/ŋŋo/ŋa/ŋá/ŋe/ŋi/ŋo/ŋu/ŋg/ŋk/ŋl/ŋr/ŋt/đ/Ráđđeh/vuođul/dieđáh/deaŧal/ráđđeh/gohčod/ruđaid/vuođu/oččod/ráđiid/Čoahkkinjođihang/geahččanlávdego/ráđit/ođđaáig/oaččui/geahčad/čoahkkinjođih/'"/>
             </xsl:call-template>
 </xsl:element>
 </xsl:template>
