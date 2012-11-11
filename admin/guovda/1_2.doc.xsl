@@ -101,11 +101,11 @@
 
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
-<xsl:variable name="parallel_texts" select="''"/>
+<xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_nob" select="''"/>
+<xsl:variable name="para_nob" select="'1.doc'"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
@@ -153,8 +153,8 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'ie±aset/o±±o/čuowol¢ árbevrzolaš/EEüšiehtadus/vátńs/árbevQOlaš/w/'"/>
-               <xsl:with-param name="replacement" select="'iežaset/ožžo/čuovvut árbevirolaš/EEO-šiehtadus/váttis/árbevirolaš/vv/'"/>
+               <xsl:with-param name="target" select="'ie±aset/o±±o/čuowol¢ árbevrzolaš/EEüšiehtadus/vátńs/árbevQOlaš/w/oddaáiggi/'"/>
+               <xsl:with-param name="replacement" select="'iežaset/ožžo/čuovvut árbevirolaš/EEO-šiehtadus/váttis/árbevirolaš/vv/ođđaáiggi/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>
