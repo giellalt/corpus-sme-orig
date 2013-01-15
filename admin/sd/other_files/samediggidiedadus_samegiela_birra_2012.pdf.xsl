@@ -18,7 +18,7 @@
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.sametinget.no/content/download/2570/24465/version/1/file/Sámediggedieđáhus+sámegiela+birra+%282012%29.pdf'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="Sámediggedieđáhus sámegiela birra (2012) ''"/>
+<xsl:variable name="title" select="'Sámediggedieđáhus sámegiela birra (2012)'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
