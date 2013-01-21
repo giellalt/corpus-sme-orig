@@ -153,8 +153,8 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'ie±aset/o±±o/čuowol¢ árbevrzolaš/EEüšiehtadus/vátńs/árbevQOlaš/w/oddaáiggi/'"/>
-               <xsl:with-param name="replacement" select="'iežaset/ožžo/čuovvut árbevirolaš/EEO-šiehtadus/váttis/árbevirolaš/vv/ođđaáiggi/'"/>
+               <xsl:with-param name="target" select="'båljo oaööo/ie±aset/o±±o/čuowol¢ árbevrzolaš/EEüšiehtadus/vátńs/árbevQOlaš/w/oddaáiggi/'"/>
+               <xsl:with-param name="replacement" select="'báljo oaččo/iežaset/ožžo/čuovvut árbevirolaš/EEO-šiehtadus/váttis/árbevirolaš/vv/ođđaáiggi/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>
