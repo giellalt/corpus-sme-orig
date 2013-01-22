@@ -91,7 +91,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="'805382789.html'"/>
-<xsl:variable name="para_nob" select="'Klagerettigheter.html'"/>
+<xsl:variable name="para_nob" select="'klagerettigheter.html'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>

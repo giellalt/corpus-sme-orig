@@ -91,7 +91,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="'220239.html'"/>
-<xsl:variable name="para_nob" select="'Medlemskap+i+folketrygden.html'"/>
+<xsl:variable name="para_nob" select="'medlemskap_i_folketrygden.html'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>

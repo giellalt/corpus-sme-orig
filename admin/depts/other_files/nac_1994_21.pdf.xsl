@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF8'?>
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
@@ -97,7 +97,7 @@
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_nob" select="'NOU199419940021000DDDPDFA.pdf'"/>
+<xsl:variable name="para_nob" select="'nou199419940021000dddpdfa.pdf'"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
