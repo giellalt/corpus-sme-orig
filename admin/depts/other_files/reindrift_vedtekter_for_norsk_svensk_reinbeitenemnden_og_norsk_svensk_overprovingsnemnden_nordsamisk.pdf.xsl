@@ -92,7 +92,7 @@
 <xsl:variable name="para_nob" select="'reindrift_vedtekter_for_norsk_svensk_reinbeitenemnden_og_norsk_svensk_overprovingsnemnden_260208.pdf'"/>
 <xsl:variable name="para_sma" select="'reindrift_vedtekter_for_norsk_svensk_reinbeitenemnden_og_norsk_svensk_overprovingsnemnden_soersamisk.pdf'"/>
 <xsl:variable name="para_sme" select="''"/>
-<xsl:variable name="para_smj" select="'Reindrift_Vedtekter_for_Norsk_svensk_reinbeitenemnden_og_Norsk_svensk_overprovingsnemnden_Lulesamisk.pdf'"/>
+<xsl:variable name="para_smj" select="'reindrift_vedtekter_for_norsk_svensk_reinbeitenemnden_og_norsk_svensk_overprovingsnemnden_lulesamisk.pdf'"/>
 <xsl:variable name="para_swe" select="''"/>
 
 

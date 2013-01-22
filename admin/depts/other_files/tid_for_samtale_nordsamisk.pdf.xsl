@@ -80,7 +80,7 @@
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_sme" select="''"/>
-<xsl:variable name="para_smj" select="'Tid_for_samtale_lulesamisk.pdf'"/>
+<xsl:variable name="para_smj" select="'tid_for_samtale_lulesamisk.pdf'"/>
 <xsl:variable name="para_sma" select="'tid_for_samtale_sorsamisk.pdf'"/>
 <xsl:variable name="para_nob" select="'tid_for_samtale_bm_nett.pdf'"/>
 <xsl:variable name="para_nno" select="'tid_for_samtale_nyn_nett.pdf'"/>
