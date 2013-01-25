@@ -1,0 +1,11 @@
+#http://se.wikipedia.org/w/index.php?title=Gro_Harlem_Brundtland&oldid=137847
+#29.11.12
+
+Gro Harlem Brundtland (riegádan cuoŋománu 1939 Bærumas$(prop,suf|Bærumis), Oslos) lea ovddeš norgga politihkkár (Bb). Son leai stádaministtar golmma áigodagas, álggos 1981:as$(num,suf|1981:s), dasto 1986:as$(num,suf|1986:s) 1989:ii$(num,suf|1989:i) ja fas jagiin 1986:as$(num,suf|1986:s) 1996:ii$(num,suf|1996:i). Son leai Norgga vuosttaš (nisson stádaministtar)$(cmp,oktii|nissonstádaministtar)  ja dat vuosttaš (nisson jođiheaddji)$(cmp,oktii|nissonjođiheaddji) Bargiidbellodagas jagiin 1981:as$(num,suf|1986:s) gitta 1992:ii$(num,suf|1992:i).
+
+Eallin ja doaibma
+
+Brundtland riegádii Bærumas$(prop,suf|Bærumis) Gudmund Harlema nieidan. Son logai doavttirin 1963:as$(num,suf|1963:s) Oslo Universitehtas ja Master of Public Health oahpu Harvard-universitehtas USA:s 1965:as$(num,suf|1965:s). Son barggai Dearvvašvuođadirektoráhtas 1966:as$(num,suf|1966:s), ja leai (veahkke váldodoavttirin)$(cmp,oktii|veahkkeváldodoavttirin) Oslo Dearvvašvuođaráđis ( Oslo Helseråd) áigodagas 1968–1974.
+Jagis 1998:as$(num,suf|1998:s) válljejuvvui son generáladirekteuvran$(loan,evra|generáladirektevran) Máilmmi dearvvašvuođaorganisašuvnnas.
+Dan rájes lea Brundland$(prop,conc|Brundtland) earret eará leamaš stivrras ON:a$(acro,suf|ON) lávdegottis UN Foundation ja miellahttun The Elders organisašuvnnas (boarrásiid organisašuvnnas), seammás Health Policy Fellow lahttun Harvard Universitehtas. Son lea maid leamaš miellahttun High Level Panel on Threats, Challenges and Change, nammaduvvon ONa$(acro,suf|ON) generálčállis. Jagis 2007 nammaduvvui son, okta golbmasis, ONa$(acro,suf|ON) dálkkádatgážaldagaid spesiálasáddejuvvon olmmožin. Brundtland lea maid mielalahttun$(typo|miellahttun) Riikkaidgaskasaš komišuvnnas mii guoská váimmusfysálaš heaittiheapmái ja ii-leavvamii.
+Son orru dál Frankriikkas isidiinnis Arne Olav Brundtland. Ođđajagimánus 2006:as$(num,suf|2006:s) evttohuvvui son fas vejolaš kandidáhtan ONa$(acro,suf|ON) generálačállin.
