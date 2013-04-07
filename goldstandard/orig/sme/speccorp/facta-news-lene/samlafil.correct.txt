@@ -928,7 +928,7 @@ Vel 1860- logus máŋggat guovdageaidnoláš$(vowlat,o-u;vowm,á-a|guovdageaidnu
 
 Johtti Sápmelaččat rs ortnii$(conc,rnt-rdn|ordnii) vuosttaš geardde  Márjjábeaivve doaluid jagis 1971. Searvi  vuođđoduvvui$(vowlat,o-u|vuođđuduvvui) guokte jagi ovdal jagis£jagi 1969. 
 
-Oba davviriikkaid vuosttaš juoigankonsearta dollui Heahtás Márjjábeaivve 1972. Juoigit bohte Ruoŧas, Norggas ja Suomas, ja guldaleaddjit ledje mánggat$(conc,ngg-ŋgg|máŋggat) čuođit. #http://www.metsa.fi/sivustot/metsa/se/Vanddardeapmijameahcceturisma/Meahccebearraigeahccu/Sivut/Meahccebearraigeahčču.aspx
+Oba davviriikkaid vuosttaš juoigankonsearta dollui Heahtás Márjjábeaivve 1972. Juoigit bohte Ruoŧas, Norggas ja Suomas, ja guldaleaddjit ledje mánggat$(conc,ngg-ŋgg|máŋggat) čuođit. 
 
 Meahccebearráigeahčču 
 
@@ -1100,7 +1100,7 @@ Bieggamillogažaldat ja ođđa linjat – gos de lea dat „villmark“ maid nu 
 
 Birasgáhttenlihkadus ja álgoálbmogat – ovttasbargit vai vuostálagaid?
 
-Birasgáhttenlihkadus ja sápmelaččat leat hui dávjá vuostálagaid dan dihte go birasgáhttenlihkadusat eai ipmir olbmuid dárbbuid ja kultuvrra, eai ge beroš das maidege. Sin olis lea maid boahtán riidu boazodoalu ja báikegotteolbmuid gaskki go álget sivahallat nuppi nuppi gii lea gii billista meahci, váikko sii álo leat vánddardan daid guovlluin. Ii diekkár riidu leat leamaš ovdal, dalle mis lei buorre ovttasbargu ja ustitlašvuohta.Dat lea nu rievdan dat otná dilli, máŋggas eai daja šat buorre beaivvi ge, in ge dieđe mii lea. Mo galgá oažžut ipmárdusa ahte mii eallit ovttas ja fertet juohkit dan mii mis lea, mo vuodjin galgá leat dohkkalaš$(conc,hkk-hk;vowlat,a-á|dohkálaš) ahte ii leat billisteami. Mun gal sávašin ahte Luonddugáhttenlihttu boađášii dávjjit deike min lusa ja čilget mediaid bokte, ja ahte lea eambbo oktavuohta álbmogiin go dat mii dál lea. Giitu.#http://www.nrk.no/kanal/nrk_sapmi/samegillii/1.8862250
+Birasgáhttenlihkadus ja sápmelaččat leat hui dávjá vuostálagaid dan dihte go birasgáhttenlihkadusat eai ipmir olbmuid dárbbuid ja kultuvrra, eai ge beroš das maidege. Sin olis lea maid boahtán riidu boazodoalu ja báikegotteolbmuid gaskki go álget sivahallat nuppi nuppi gii lea gii billista meahci, váikko sii álo leat vánddardan daid guovlluin. Ii diekkár riidu leat leamaš ovdal, dalle mis lei buorre ovttasbargu ja ustitlašvuohta.Dat lea nu rievdan dat otná dilli, máŋggas eai daja šat buorre beaivvi ge, in ge dieđe mii lea. Mo galgá oažžut ipmárdusa ahte mii eallit ovttas ja fertet juohkit dan mii mis lea, mo vuodjin galgá leat dohkkalaš$(conc,hkk-hk;vowlat,a-á|dohkálaš) ahte ii leat billisteami. Mun gal sávašin ahte Luonddugáhttenlihttu boađášii dávjjit deike min lusa ja čilget mediaid bokte, ja ahte lea eambbo oktavuohta álbmogiin go dat mii dál lea. Giitu.
 
 Olmmošgoddin Árvvesjávrris, Davvi-Ruoŧas lea čuohcan garrasit báikki olbmuide. Sii leat suorganan ja ballet. Gávccilogi ovtta jahkásaš dievdu dat gottahalai$(vowlat,a-á|gottáhalai) ilgadis vugiin ikte.
 Báikki olmmoš, Sara Juusu lohka$(vowlat,a-á|lohká) dáhpáhusa leat suorggahahttin, ja su mielas lei maid nu ilgat go skuvlla uvssat ledje gittá$(vowlat,á-a|gitta) go galggai mánáid viežžat ruoktot.
@@ -1510,7 +1510,7 @@ Beassá maiddái čuovvut Ruskagonagasa ja Garjjá, mii lea ođđa unnit ráidu.
 Govven ruskabáikkis
 Dán čavčča, ovdal go muohttái, lea bádden "Ruskagonagasaja$(cmp,typo|"Ruskagonagasa ja) Gárjjá$(prop,vowc,á-a|Garjjá) ". Ádjánedje guhtta vahku báddet, muhto ii lean dábálaš bádden. Ruskagonagas ii orron dábálaš dálus meahcis, muhto ruskabáikkis. Danin manne buohkat geat barge dainna Leavnnja ruskabáikái báddet.
 
-Ja ođđajagimánus oaidnit got manai dien báddemis.#http://www.nrk.no/kanal/nrk_sapmi/samegillii/1.9371728
+Ja ođđajagimánus oaidnit got manai dien báddemis.
 
 Boazodoalli lei sivaheapmi
 
@@ -2813,7 +2813,7 @@ Prošeavtta leat ruhtadan Interreg IVA-Nord prográmmas ja Suomas Lappi lihttu j
 Ailu Valle & Irene Länsman / Yle Sápmi
 Dán fáttás dássážii:
 Davviriikkalaš giellaguovddáš maŋŋona Suoma dihte beaividuvvon$(der,vowlat,i-á|beaiváduvvon) 10.8. diibmu 10:03
-Sámediggái ođđa giellaáššiid čálli beaividuvvon$(der,vowlat,i-á|beaiváduvvon) 28.9. diibmu 11:45#http://www.samisiida.org/web/index.php?odas=123&giella1=sam
+Sámediggái ođđa giellaáššiid čálli beaividuvvon$(der,vowlat,i-á|beaiváduvvon) 28.9. diibmu 11:45
 
 
 Ohcejoga máŋggagielatvuođa lea ovttaskas olbmo, servodaga ja gieldda resursa
@@ -3007,7 +3007,6 @@ Hánnoluohká ásodagaid ássit mákset ieža elrávnnnji$(typo|elrávnnji). Nor
  
 Máksinmuittuhus
 Jus rehket ii mákso, sáddejuvvo máksinmuittuhus masa biddjo 50,- ruvdnosaš muittuhusdivat. Jus ii vel mákso, sáddejuvvo nubbi máksinmuittuhus, mii maiddái lea inkassovárrehus$(loan,vowc,a-á|inkássovárrehus) ja dat maiddái mielddisbuktá ahte láigolaš bálkestuvvo olggos.
- #http://www.skabmagovat.fi/samifilm/index.php
 Sámi Film - diehtomáddodat sámi ealligovain
 
 Sámi Film –diehtomáddodat lea Sámi Dáidaga Doarjjasearvi rs:vi bajásdoallan diehtovuođđu, mii sisdoallá dieđu sámi ealligovain ja tv-buvttadusain (guhkes ja oanehis ealligovat, animašuvnnat, dokumentárat ja tv-ráiddut). Sámebuvttadussan leat dán diehtomáddodagas lohkan buvttadusaid, main sápmelaččat leat leamaš guovddáš rollas (o.m.d. bagadallin, buvttadeaddjin dahje čállin).
@@ -3106,7 +3105,7 @@ Bondevik oaččui bajáššaddamis jo oktavuođa dan risttalaš oahpoheamilihká
 Ekváhtor lea jurddašuvvon linjá mii manna$(vowlat,a-á|manná) planehta birra polaid gaskkas. Dat linjá juohká planehta olggoža davvi ja lulli beallejorbodagaide. Ekváhtora bokte lea govdodatgráda 0°. Ekváhtora bokte badjána beaivváš senitas guktii jagis (go lea geassejorggáldat ja čakčajorggáldat). Máilmmi ekváhtora guhkkodat lea 40 075,017 km.
 Riikat$(conc,ik-ikk|Riikkat) vuolábealde ekváhtora
 
-Ekváhtora buohta leat buot beaivvit sullii 12 diimmu guhku. Diibmu 12is$(num,suf|12:s) geasse- ja čakčajorggáldagas lea beaivváš njuolga oaivvi bajábealde. Riikat$(conc,ik-ikk|Riikkat) mat leat ekváhtora vuolde leat dábálaččat trohpalaš klimá.#http://se.wikipedia.org/w/index.php?title=Norgga_Boazosápmelaččaid_Riikkasearvi&oldid=137174
+Ekváhtora buohta leat buot beaivvit sullii 12 diimmu guhku. Diibmu 12is$(num,suf|12:s) geasse- ja čakčajorggáldagas lea beaivváš njuolga oaivvi bajábealde. Riikat$(conc,ik-ikk|Riikkat) mat leat ekváhtora vuolde leat dábálaččat trohpalaš klimá.
 
 Norgga Boazosápmelaččaid Riikkasearvi (NBR) lea organisašuvdna norgga boazosápmelaččaide. Searvi álggahuvvui 1947s$(num,suf|1947:s). Álgojagiin ledje eanas lullisápmelaččat geat barge servviin, muhto 70-logu álggus etablerii NBR organisašuvdnastruktuvrra mas lei stivra Finnmárkkus ja čállingoddi Romssas. NBRas$(acro,suf|NBR:s) lea digaštallanriekti stádain dan jahkásaš boazodoallošiehtadusa birra.
 Ulbmil
@@ -3114,7 +3113,7 @@ Ulbmil
 NBR ulbmil lea ovddidahttit boazosápmelaččaid beroštumiid; ekonomalažžat$(loan,conc,žž-čč|ekonomalaččat), fágalažžat$(loan,conc,žž-čč|fágalaččat), sosiálalažžan ja kultuvrralažžat$(conc,žž-čč|kultuvrralaččat). Searvi galgá maid bargat ovddidahttit oktavuođa boazosápmelaččaid gaskas$(conc,sk-skk|gaskkas) ja ahte boazosápmelaččat galget ieža stivret ovdáneami ealáhusas, nu ahte ovdáneapmi geavvá vieruid riekteoainnu mielde, ja daid ealáhusa vuođđojurdagiid mielde.
 Stivra
 
-NBR jođiheaddji lea Nils Henrik Sara ja nubbinjođiheaddji$(cmp,ess-nom|nubbijođiheaddji) lea Inge Even Danielsen. Nils Henrik Sara válljejuvvui jođiheaddjin 2006:s, su ovdal lei Aslak J. Eira jođiheaddji 8 jagi. NBRas$(acro,suf|NBR:s) lea maiddái nuoraidlávdegoddi.#http://se.wikipedia.org/w/index.php?title=Nils_Gaup&oldid=137414
+NBR jođiheaddji lea Nils Henrik Sara ja nubbinjođiheaddji$(cmp,ess-nom|nubbijođiheaddji) lea Inge Even Danielsen. Nils Henrik Sara válljejuvvui jođiheaddjin 2006:s, su ovdal lei Aslak J. Eira jođiheaddji 8 jagi. NBRas$(acro,suf|NBR:s) lea maiddái nuoraidlávdegoddi.
 
 Nils Gaup (riegádan 12. beaivvi Cuoŋománus 1955, Guovdageainnus) lea sámi/norgga filbmarešissevra ja neavttár.
 Biografiija
@@ -3390,11 +3389,11 @@ Goddesáhpán borrá rásiid, suinniid ja sámmála. Goddesáhpán gávdno vuost
 Máŋga šlája boraspiret ja gazzalottit válljejit sáhpánjagiid eanas borrat goddesáhpámiid$(infl,conm,m-n|goddesáhpániid) ja diet šlájat, omd. ruksesrieban ožžot ollu čivggaid goddesáhpánjagiid. Diekkár jagiid ožžot eará eallit ráfi, maid rieban muđui borašii, ja dat besset lassánit. Danne rievddadit maiddái eará elliid logut seammaládje$(cmp,1-2|seamma ládje) go goddesáhpánlogut, ja nu lea goddesáhpán deaŧalaš meahci ekovuogádahkii [1].
 
 Guovssahasa nieida lea sámi dánsafilbma man buvttadeaddji Anstein Mikkelsens$(typo|Mikkelsen) lea ráhkadan. Dan eŋgelasgiel namma lea «Dancing Virgin». Filbma vuittii «Best Shorts Competition» bálkkášumi$(vowlat,á-a|bálkkašumi) miessemánu 10. beaivve 2011.
-Filbma lea ráhkaduvvon dološ sámi myhtas dan birra ahte jápmán buhtisnieiddat dánsejit almmis.#http://se.wikipedia.org/w/index.php?title=Ellen_Inga_O._Hætta&oldid=138367
+Filbma lea ráhkaduvvon dološ sámi myhtas dan birra ahte jápmán buhtisnieiddat dánsejit almmis.
 
 Ellen Inga Brita Olavsdatter Hætta (riegádan geassemánu 17. beaivvi 1953 Guovdageainnus) lea rektor ja politihkkár (O). Son lea leamaš boazodoallohoavda 2001-2011.
 Sus lea examen artium jagis 1973, oahpaheaddjeoahppu 1980, lohkanbadjeoahppu sámegielas 1981, sámegiela vuođđofága 1987, Forsvarets høgskole váldokursa 1992–1993 ja nissonjođiheddjiid kursa Finnmárkku allaskuvla 2000 rájes.[1] Hætta lei oahpaheaddjin Guovdageainnu mánáid- ja nuoraidskuvllas 1973–1987, Sámi oahpahusráđi jođiheaddji 1994–1999 ja Sámedikki ossodatdirektora$(loan,ora-evra|ossodatdirektevra) 1999–2001. 2001 - 2011 lei son Norgga boazodoallohoavda. Dál lea son Sámi joatkka- ja boazodoalloskuvlla jođiheaddji/rektor (Guovdageainnus).
-Hætta lei Guovdageainnu sátnejođiheaddji 1988–1991, Guovdageainnu olgešbellodaga jođiheaddji 1992–1994 ja Gielda- ja guovludepartemeanttas$(cmp,nom-gen|guovlodepartemeanttas) stáhtáčálli$(loan,vowlat,á-a|stáhtačálli) Kjell Magne Bondevik nuppi ráđđehusas 2004–2005. Sus leat maid leamaš ollu eará suohkanlaš ja guovlulaš ámmáhat.#http://se.wikipedia.org/w/index.php?title=Odvar_Nordli&oldid=138363
+Hætta lei Guovdageainnu sátnejođiheaddji 1988–1991, Guovdageainnu olgešbellodaga jođiheaddji 1992–1994 ja Gielda- ja guovludepartemeanttas$(cmp,nom-gen|guovlodepartemeanttas) stáhtáčálli$(loan,vowlat,á-a|stáhtačálli) Kjell Magne Bondevik nuppi ráđđehusas 2004–2005. Sus leat maid leamaš ollu eará suohkanlaš ja guovlulaš ámmáhat.
 
 Odvar Nordli (riegádan skábmamánu 3. beaivvi 1927) lea norgalaš politihkkár (Norgga bargiidbellodagas). Son lea oahppan rehketdoallodárkkisteddji$(vowc,diph|rehketdoallodárkkisteaddji). Son lei Bargiidbellodaga stuoradiggejoavllu$(typo|stuoradiggejoavkku) parlamentáralaš jođiheaddji 1973–1976.Son lei Norgga stáhtaministtarin vihtta jagi, ođđajagemánu 15. beaivvis 1976 guovvamánu 4. beaivái 1981, goas Gro Harlem Brundtland jotkkii. Odvar Nordli lei vuosttaš stáhtaministtar gii beasai dovdat ahte Norga lea šaddan oljoriikan, ja mii oaččui oljosisaboađuid stáhtabušehttii. Muhto son šattai maid rahčat lossa áššiiguin nugo duppalmearrádusain NATO hárrái ja Álttá-Guovdageaineanu dulvadeapmi, ja 1979:s boatkanedje šiehtadallamat mas Nordli áiggui lonuhit Norgga oljovuoigatvuođaid Volvoin, go eaiggádat geaid Wallenberg ovddastii, geassádedje.
 Nordli nammaduvvui 1981:s Hedmárkku Fylkkamánnin, ja dat ámmát lei sus 1985 rájes dassá manai ealáhahkii 1993:s. Son lei Norgga Nobelkomitea lahttu 1. 1. 1985 - 31. 12. 1996. Son lei soahtebálvalusas Duiskabrigádas.
