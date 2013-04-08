@@ -2291,7 +2291,7 @@ Finnmárkku filkkaráđđealmmái$(loan,vowc,i-y|fylkkaráđđealmmái) ja filkk
 – Dál gal lean hui movtta go eai heaittit skuvlla, lohká oahppi Vibeke Johnsen.
 
 Jahkásaš áitta
-Vaikke joatkkaskuvllaoahpi$(cmp,gen-nom|conc,hp-hpp|joatkkaskuvlaoahppi) Vibeke Johnsen leage duđavaš dál, de ballá ahte dás duohko juohke jagi vehážiid mielde geahpeduvvojit oahppofáladagat$(typo|oahppofálaldagat) eanandoalloskuvllas.
+Vaikke joatkkaskuvllaoahpi$(cmp,gen-nom;conc,hp-hpp|joatkkaskuvlaoahppi) Vibeke Johnsen leage duđavaš dál, de ballá ahte dás duohko juohke jagi vehážiid mielde geahpeduvvojit oahppofáladagat$(typo|oahppofálaldagat) eanandoalloskuvllas.
 
 - Ákkastallet sihkkarit fas dainna ahte menddo unnán oahppit dán skuvllas, dadjá Johnsen.
 
