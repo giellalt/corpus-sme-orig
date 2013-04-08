@@ -802,7 +802,7 @@ NLM lea ožžon ođđa jođiheaddji
 Øystein Engås (41) lea virgáduvvon ođđa jođiheaddjin Norgga lutherlaš miššonlihttui (NLM) Norggas. Su ovddasvástádus lea Miššonlihtu bargu Norggas mas ovddeš jođiheaddji lei Ernst Jan Halsne. 
 Øystein Engås jođiha Misjonssalena čoakkalmasaid Ålesunddas$(prop,conc,ndd-nd|Ålesundas). Son lea oktan eamidiinnis, Anne-Marehiin$(prop,vowc,a-á;prop,vowc,a-á|Ánne-Márehiin), leamaš NLM mišuneara$(loan,conc,š-šš;vowlat,u-o|miššoneara) Bolivias. 
 Váldočálli Øyvind Åsland lea ilus go Øystein Engås lea mieđihan váldostivrra ávžžuhussii. – Šaddá somá su oažžut hovdengoddái fárrui váldokantuvrii, dadjá Åsland Utsyn-bláđđái. 
-– Dán virggis gáibiduvvo erenoamáš máhttu min barggu birra báikkálaččat ja guovllulaččat$(conc,vll-vl|guovlulaččat), ja mii oaivvildit Øystein Engås lea gelbbolaš go sus lea bargohárjáneapmi ja leat iešvuođat doaibmat njunušvirggis, dadjá Åsland. KPK 
+– Dán virggis gáibiduvvo erenoamáš máhttu min barggu birra báikkálaččat ja guovllulaččat$(der,vowc,mono|guvllolaččat), ja mii oaivvildit Øystein Engås lea gelbbolaš go sus lea bargohárjáneapmi ja leat iešvuođat doaibmat njunušvirggis, dadjá Åsland. KPK 
 
 
 Miššonbláđiin unnon diŋgojeaddjit 
@@ -1815,7 +1815,7 @@ Dál leat Avvila/ Ivalon Lukio nuppiluohkkálaččat oahpahallagohtán$(vowc,dip
 Ášši doaimmaha Ánne Olli
 
 Nuppi luohkkálaččat$(conc,hkk-hk|luohkálaččat) dánsot
-Nuppi luohkás dat Avvila logahaga oahppit dánsot ovddešáigge dánssaid čájehandihtii$(cmp,1-2|čájehan dihtii) ahte dál leat sii dat boarraseapmosat$(vowlat,a-á|boarráseapmosat) lagahagas$(typo|logahagas). Dáhpin lea áinnat$(vowc,diph|oainnat) ahte goalmmát luohkkálaččat$(conc,hkk-hk|luohkálaččat) guđđet logahaga guovvamánus, go dalle álget sii ráhkkanit loahppageahčalemiide$(conc,hč-hčč|loahppageahččalemiide).
+Nuppi luohkás dat Avvila logahaga oahppit dánsot ovddešáigge dánssaid čájehandihtii$(cmp,1-2|čájehan dihtii) ahte dál leat sii dat boarraseapmosat$(vowlat,a-á;vowc,mono|boarrásepmosat) lagahagas$(typo|logahagas). Dáhpin lea áinnat$(vowc,diph|oainnat) ahte goalmmát luohkkálaččat$(conc,hkk-hk|luohkálaččat) guđđet logahaga guovvamánus, go dalle álget sii ráhkkanit loahppageahčalemiide$(conc,hč-hčč|loahppageahččalemiide).
 
 
 Mattias West
@@ -1972,7 +1972,7 @@ Loga maid: Nuortasámi musea ii gárvvis
 Loga maid: Nuortasámi musea viimmat gárvvis
 
 Eai oro berošteamen
-- Sámediggi lea dahkan soahpamuša Norgga našunalmuseain$(loan,cmp,al-ála|našunálamuseain), dáid sámi dávviriin. Ii leat dušše Nuortasámi musea gos lea£leat váilevašvuođat áibmomolsumis ja eará rusttegiin, muhto ná lea iešalddis buot sámi museain Norggas, dáinna lágiin eat sáhte váldit vuostá sámi kulturárvvuid, dadjá Sámi museasearvvi stivrajođiheaddji, Lars Magne Andreassen.
+- Sámediggi lea dahkan soahpamuša Norgga našunalmuseain$(loan,cmp,tion|nationálamuseain), dáid sámi dávviriin. Ii leat dušše Nuortasámi musea gos lea£leat váilevašvuođat áibmomolsumis ja eará rusttegiin, muhto ná lea iešalddis buot sámi museain Norggas, dáinna lágiin eat sáhte váldit vuostá sámi kulturárvvuid, dadjá Sámi museasearvvi stivrajođiheaddji, Lars Magne Andreassen.
 
 Andreassen dadjá dál leat£lea kulturdepartemeanta duohken buoridit dili buot sámi museaid ektui, maiddái Nuorta-sámi$(cmp,hyph-0|Nuortasámi) musea ektui. Dát ahte váldá ná guhkes áiggi dohkkehit sámi museaid, čájeha dušše ahte mo sámi museaid meannudit, vaikko Sámediggi juo logi jagi áigi válddi$(verb,fin,i-ii|válddii) badjelasas sámi museaid, dadjá Andreassen.
 
@@ -2272,7 +2272,7 @@ Olbmot čuohteduháhiid mielde illudit go besset gullat Jesusis. Dán muitala s�
 
 Ášši doaimmaha Ánne Olli
 
-Sárnideaba$(conc,rn-rdn|Sárnideaba) olmmošálbmogii Mátta-Sudanas$(prop,vowc,a-á|Mátta-Sudánas)
+Sárnideaba$(conc,rn-rdn|Sárdnideaba) olmmošálbmogii Mátta-Sudanas$(prop,vowc,a-á|Mátta-Sudánas)
 Runar Balto lea dál nuppe heave$(vowc,ea-á|háve) dán jagis mátkis$(conc,tk-tkk|mátkkis) Áfrihkás sárdnideamen Ipmilsánis. Son mátkošta$(conc,tk-tkk|mátkkošta) ovttas tromsalaččain Bjørnar Heimstad:n$(prop,suf|Heimstadain). Soai leaba sárdnemátkis$(conc,tk-tkk|sárdnemátkkis) "International Gospel mission" ovddas, ja dán heave$(vowc,ea-á|háve) leaba soai Rumbec gávpogis Mátta-Sudánas Afrihkás.
 
 Rumbec gávpogis feastiválas
@@ -2298,7 +2298,7 @@ Vaikke joatkkaskuvllaoahpi$(cmp,gen-nom;conc,hp-hpp|joatkkaskuvlaoahppi) Vibeke 
 Sihkkarastton$(conc,stt-st|Sihkkaraston) moatti jahkkái$(conc,hkk-hk|jahkái)
 Finnmárkku filkkasátnejođiheaddji Runar Sjåstad, dadjá bušeahta dál leat meannuduvvon čuvvovaš njealjji$(conc,ljj-lj|njealji) jahkái, ja eanadoalloskuvla, Deanu joatkkaskuvla ii galgga heaittihuvvot dán áigodagas.
 
-– Vaikke in sáhtege dađi guhkelii dáhkidit, de in leat 13 jagi filkapoletihkkemis$(loan,vowc,i-y;vowlat,e-i|fylkapoletihkkemis) leamaš mielde ovttage skuvlla heaittiheamen, loahpaha Sjåstad.
+– Vaikke in sáhtege dađi guhkelii dáhkidit, de in leat 13 jagi filkapoletihkkemis$(loan,vowc,i-y;vowlat,e-i|fylkapolitihkkemis) leamaš mielde ovttage skuvlla heaittiheamen, loahpaha Sjåstad.
 
 Risku vođđun$(vowc,diph,o-uo|vuođđun) silbačiŋaide
 
@@ -2558,7 +2558,7 @@ NSR ovddida ihttin ođđa ášši Sámedikkis, gos sámedikkeráđđi$(cmp,gen-n
 
 Borjadat lea vástádus
 
-Cealkamuš$(vowlat,a-á|Cealkámuš) NSRas$(acro,suf|NSR:s) maŋŋel go ráđđehus lea ovdánbuktan$(vowlat,a-á|ovdanbuktán) stuoradikkiproposišuvnnai$(cmp,gen-nom|stuoradiggeproposišuvnnai) čuovvoleami Riddoguolastuslávdegotti$(vowlat,a-á|Riddoguolástuslávdegotti) evttohussii.
+Cealkamuš$(vowlat,a-á|Cealkámuš) NSRas$(acro,suf|NSR:s) maŋŋel go ráđđehus lea ovdánbuktan$(vowlat,a-á|ovdanbuktán) stuoradikkiproposišuvnnai$(cmp,gen-nom;fin,i-id|stuoradiggeproposišuvnnaid) čuovvoleami Riddoguolastuslávdegotti$(vowlat,a-á|Riddoguolástuslávdegotti) evttohussii.
 
 Almmuhuvvon: 29.03.2012 
 
@@ -2661,7 +2661,7 @@ Almmuhuvvon: 01.03.2012
 
 Sámelága giellanjuolggadusaid mielde galget almmolaš bálvalusaid geavaheaddjit sámi giellahálddašanguovlluin hálddašuvvot sámegillii, sihke čálalažžat$(conc,žž-čč|čálalaččat) ja njálmmálažžat$(conc,žž-čč|njálmmálaččat), dadjá Trond Are Anti, ja muittuha ahte Sámediggi juohke jagi juolluda guovttegielatruđaid suohkaniidda ja fylkasuohkaniidda$(loan,conc,lk-lkk|fylkkasuohkaniidda) mat leat sámi giellahálddašanguovllus. – Mii NSRas$(acro,suf|NSR:s) ja Sámealbmot$(vowc,a-á|Sámeálbmot) bellodagas evttohit ahte dál ásahuvvo bearráigeahčči mii galgá čuovvut mielde guovttegielatruđaid geavaheami. – Dakkár bearráigeahčču sáhttá muitalit gosa manne dat 46 miljovnna maid Sámediggi juolludii 2012, dadjá Anti.
 
-Sámedikkeáirras$(cmp,gen-nom|Sámediggeáirras) Trond Are Anti evttoha ahte Sámediggi guorahallá ásaheamis dakkár bearráigeahču. – Guorahallan berre leat sajis čakčamánu dievasčoahkkimii ja bidjot$(conc,dj-ddj|biddjot) ovdán das mas lea mihttun ásahit orgána 2013is$(num,suf|2013:s) mii lea našunálálaš$(loan,vowlat,á-a|našunálalaš) giellajahk$(typo|giellajahki).
+Sámedikkeáirras$(cmp,gen-nom|Sámediggeáirras) Trond Are Anti evttoha ahte Sámediggi guorahallá ásaheamis dakkár bearráigeahču. – Guorahallan berre leat sajis čakčamánu dievasčoahkkimii ja bidjot$(conc,dj-ddj|biddjot) ovdán das mas lea mihttun ásahit orgána 2013is$(num,suf|2013:s) mii lea našunálálaš$(loan,tion|nationálalaš) giellajahk$(typo|giellajahki).
 
 --
 
@@ -2674,7 +2674,7 @@ NSR lea guovvamánu sámedikkedievasčoahkkimis$(cmp,gen-nom|sámediggedievasčo
 
 Almmuhuvvon: 01.03.2012 
 
-Našunála giellajahki 2013: NSR háliida bidjat fuomášumi jagi 2013ái$(num,suf|2013:i) mii lea nášunalalaš$(loan,vowlat,a-á|našunálalaš) giellajahki, ja bivdá Sámedikki sihkarastit$(conc,hk-hkk|sihkkarastit) ahte dát šaddá maid sámi giellajahki gos giellaguovddážat, suohkanat, organisašuvnnat ja institušuvnnat oassálastet.
+Našunála giellajahki 2013: NSR háliida bidjat fuomášumi jagi 2013ái$(num,suf|2013:i) mii lea nášunalalaš$(loan,tion|nationálalaš) giellajahki, ja bivdá Sámedikki sihkarastit$(conc,hk-hkk|sihkkarastit) ahte dát šaddá maid sámi giellajahki gos giellaguovddážat, suohkanat, organisašuvnnat ja institušuvnnat oassálastet.
 
 Sámi (e-girje vuoruheapmi)$(cmp,2-1|e-girjevuoruheapmi): NSR háliida ahte sámegiel girjjit juogaduvvot£juogaduvvojit digitálalaččat ja bivdá Sámedikki ovttasbargat sámi lágádusaiguin guorahallat leago vejolaš sámi e-girjjiid vuoruhit nu ahte sáhttá leat válmmas boahtte jagi bušeahttameannudeapmái.
 
@@ -2790,7 +2790,7 @@ INTERREG IVA Pohjoinen lea EU-prográmma, mainna dorjojuvvo rájiid rasttildeadd
 Kolarctic ENPI CBC
 Kolarctic ENPI CBC 2007-2013 lea Davvikalohta ja Oarjedavvi-Ruošša rájiid rasttildeaddji ovttasbargoprográmma. Dán prográmma vuođul ruhtaduvvojit Suoma, Ruoŧa, Norgga ja Ruošša ovttasbargofitnut. 
 Davviperiferiija
-Davviperiferiija prográmma doarju Eurohpá boaittobealeguovlluid ekonomalaš, bistevaš ovdáneami fidnoruhtadeami vuođul, man ohcci sáhttá oažžut eanemustá 60 % fidnogoluin. Prográmmaguvlui gullet eanagottit Suomas, Ruoŧas, Norggas, Skotlánddas$(prop,cmp,conwb,tl-ttl|SkottlánddasXXXX), Irlánddas ja Davvi-Irlánddas sihke Islánda, Ruonáeana ja Fearasullot ollásit. 
+Davviperiferiija prográmma doarju Eurohpá boaittobealeguovlluid ekonomalaš, bistevaš ovdáneami fidnoruhtadeami vuođul, man ohcci sáhttá oažžut eanemustá 60 % fidnogoluin. Prográmmaguvlui gullet eanagottit Suomas, Ruoŧas, Norggas, Skotlánddas, Irlánddas ja Davvi-Irlánddas sihke Islánda, Ruonáeana ja Fearasullot ollásit. 
 Davvikalohta ráđđi
 Davvikalohta ráđđi lea davviriikalaš rádjeovttasbargoorganisašuvdna, man váldoruhtadeaddjin doaibmá Davviriikkaid ministtarráđđi. Davvikalohta ráđis sáhttá ohcat doarjaga dakkár davviriikalaš fidnodoibmii, mii gullá ráđi válljen deattuhussurggiide.
 
@@ -2960,7 +2960,7 @@ Lulit Gáhkkorluodda 5/7/9, 9520 Guovdageaidnu
 Hánnoluohkká 31, 9520 Guovdageaidnu
  
 Mohtorliekkanat
-Ássit Hánnoluohka$(prop,vowlat,a-á|Hánnoluohka) 40 kvm ásodagáin$(vowlat,á-a|ásodagain), Lulit- Gáhkkorjeakkis ja Gáhkkkorčorus$(prop,typo|Gáhkkorčorus) sáhttet láigohit elčuggestaga mohtorliekkaniidda 400,- ru. ovddas dálvái. Hánnoluohká 60 kvm ásodaga ássiin leat iežaset elčuggestat.
+Ássit Hánnoluohka$(prop,vowlat,a-á|Hánnoluohká) 40 kvm ásodagáin$(vowlat,á-a|ásodagain), Lulit- Gáhkkorjeakkis ja Gáhkkkorčorus$(prop,typo|Gáhkkorčorus) sáhttet láigohit elčuggestaga mohtorliekkaniidda 400,- ru. ovddas dálvái. Hánnoluohká 60 kvm ásodaga ássiin leat iežaset elčuggestat.
  
 Olggos fárren
 Jus láigolaš ii leat fárren olggos ja čoavdda bukton ruovttoluotta dan dáhtona mii lea šihtton, sáddejuvvo rehket nuppi mánu ovddas.
