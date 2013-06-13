@@ -1,15 +1,15 @@
-(KAFEA- LÁGIDIEAPMI)¢(noun,cmp|KAFEALÁGIDEAPMI)  (2009- 2010)¢(num,cmp|2009-2010)
+(KAFEA- LÁGIDIEAPMI)¢(cmp,X-1|KAFEALÁGIDEAPMI)  (2009- 2010)¢(cmp,X-1|2009-2010)
 
-(OVDDASVÁSTÁDUS LISTTU)¢(noun,cmp|OVDDASVÁSTÁDUSLISTU) GUOVSSAHAS MÁNÁIDGÁRDDIS 
+(OVDDASVÁSTÁDUS LISTTU)¢(cmp,X-1|OVDDASVÁSTÁDUSLISTU) GUOVSSAHAS MÁNÁIDGÁRDDIS 
 
 
-(Sis geas£(mix,mix,mix,mix,mix|Sii geain lea ovddasvástádus lágidit kaféa, vižžet) (kaféa- kássa)¢(noun,cmp|kaféakássa) skuvllas. Doppe leat ee. gohput, servieahtat ja smávvaruđat. Kássas galgá álohit€(adv,suf|álohii) leat 1000,- smávvaruhtan. Kirsten Alette viežžá smávvaruđaid sámeluohká kontos ja bidjá (kaféa- kássii)¢(noun,cmp|kaféakássii).
+(Sis geas£(case|Sii geain) lea ovddasvástádus lágidit kaféa, vižžet) (kaféa- kássa)¢(cmp,X-1|kaféakássa) skuvllas. Doppe leat ee. gohput, servieahtat ja smávvaruđat. Kássas galgá álohit€(adv,suf|álohii) leat 1000,- smávvaruhtan. Kirsten Alette viežžá smávvaruđaid sámeluohká kontos ja bidjá (kaféa- kássii)¢(cmp,X-1|kaféakássii).
 
-Sisaboahtu addojuvvo Kirsten Alehttái ja son bidjá ruđa sámeluohká kontui.  Nugo mii leat váhnenčoahkkimis šiehtadan de manná ruhta skuvla£(noun,attr,gensg,nomsg,case|skuvlla) (giđđa- mátkái)¢(noun,cmp|giđđamátkái).
+Sisaboahtu addojuvvo Kirsten Alehttái ja son bidjá ruđa sámeluohká kontui.  Nugo mii leat váhnenčoahkkimis šiehtadan (de manná ruhta skuvla (giđđa- mátkái)¢(cmp,X-1|giđđamátkái))£(case,nom-gen|de manná ruhta skuvlla giđđamátkái).
 
-Mirja ja Line leaba (gulahallan olbmožat)¢(noun,cmp|gulahallanolbmožat)€gulahallanolbmot, ja váldet oktavuođa sudnuin jus dárbbašehket£(verb,suf|dárbbašehpet). Jus (kaféa- kássas)¢(noun,cmp|kaféakássas) váilu mii dál¢(pcle,a|dal) nu, dieđihehket oahpaheddjiide. Fuom! Jus dat beaivi ii heive didjiide de fertebehtet ieža gaskaneaset£(pp,x,pl3,pl3,px|gaskaneattet) molsut earáiguin.
+Mirja ja Line leaba ((gulahallan olbmožat)¢(cmp,X-1|gulahallanolbmožat))€(dim-0|gulahallanolbmot), ja váldet oktavuođa sudnuin (jus dárbbašehket)£(x|jus dárbbašehpet). Jus (kaféa- kássas)¢(cmp,X-1|kaféakássas) váilu mii dál¢(vowc,á-a|dal) nu, dieđihehket oahpaheddjiide. Fuom! Jus dat beaivi ii heive didjiide (de fertebehtet ieža gaskaneaset)£(kongr|de fertebehtet ieža gaskaneattet) molsut earáiguin.
 
-Sámi váhnenfierpmádaga ovddasteaddji rahpá (Guovssahas mánáidgárddi)£(prop,attr,gensg,nomsg,case|Guovssahasa mánáidgárddi) uvssaid álohit€(adv,suf|álohii) go leat doalut. (Sis geas)£(rel,hab,locpl,locsg,agr|sis geain) lea ovddasvástádus lágidit kaféa bohtet dii. 12.00 ja kaféa rahppasa¢(verb,conc|rahpasa) dii. 13.00.
+Sámi váhnenfierpmádaga ovddasteaddji rahpá Guovssahas mánáidgárddi uvssaid álohit€(adv,suf|álohii) go leat doalut. (Sis geas)£(rel,hab,locpl,locsg,agr|sis geain) lea ovddasvástádus lágidit kaféa bohtet dii. 12.00 ja kaféa rahppasa¢(verb,conc|rahpasa) dii. 13.00.
 
 Doalut bistte¢(verb,mix|bistet) gitta dii. 16:00¥(pp,missing|16:00 rádjai). Maŋŋá doaluid fertejit maiddái čorget ovttas sámi (váhnenfierpmádat miellahtuiguin)£(noun,attr,gensg,nomsg,case|váhnenfierpmádaga miellahtuiguin).
 
