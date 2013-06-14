@@ -24,7 +24,7 @@
   <xsl:variable name="author4_gender" select="''"/>
   <xsl:variable name="author4_born" select="''"/>
   <xsl:variable name="author4_nat" select="''"/>
-  <xsl:variable name="translated_from" select="'nob'"/>
+  <xsl:variable name="translated_from" select="'nno'"/>
   <xsl:variable name="publisher" select="'Davvi girji'"/>
   <xsl:variable name="publChannel" select="''"/>
   <xsl:variable name="year" select="'2005'"/>
@@ -59,7 +59,7 @@
   <xsl:variable name="mlang_sme" select="''"/>
   <xsl:variable name="mlang_smj" select="''"/>
   <xsl:variable name="mlang_sma" select="''"/>
-  <xsl:variable name="mlang_nob" select="1"/>
+  <xsl:variable name="mlang_nob" select="'1'"/>
   <xsl:variable name="mlang_nno" select="''"/>
   <xsl:variable name="mlang_swe" select="''"/>
   <xsl:variable name="mlang_fin" select="''"/>
@@ -77,7 +77,7 @@
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
-<xsl:variable name="para_eng" select="''"/>
+<xsl:variable name="para_eng" select="'eidheim-e.htm'"/>
 
   <!-- Tag the specified elements with the specified language: -->
   <xsl:variable name="smelang" select="'sme'"/>
