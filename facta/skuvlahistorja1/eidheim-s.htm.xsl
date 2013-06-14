@@ -2,13 +2,13 @@
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
-  <xsl:variable name="filename" select="'eidheim_s.htm'"/>
+  <xsl:variable name="filename" select="'http://skuvla.info/skolehist/eidheim-s.htm'"/>
   <xsl:variable name="title" select="'Heahteoahpaheaddji Sámis - vásáhusat ja dárkostusat'"/>
   <xsl:variable name="author1_fn" select="'Harald'"/>
   <xsl:variable name="author1_ln" select="'Eidheim'"/>
   <xsl:variable name="author1_gender" select="'m'"/>
   <xsl:variable name="author1_born" select="'1925'"/>
-  <xsl:variable name="author1_nat" select="'nor'"/>
+  <xsl:variable name="author1_nat" select="'NO'"/>
   <xsl:variable name="author2_fn" select="''"/>
   <xsl:variable name="author2_ln" select="''"/>
   <xsl:variable name="author2_gender" select="''"/>
@@ -30,12 +30,12 @@
   <xsl:variable name="year" select="'2005'"/>
   <xsl:variable name="ISBN" select="''"/>
   <xsl:variable name="ISSN" select="''"/>
-  <xsl:variable name="place" select="'http://girji.info/skolehist/eidheim-s.htm'"/>
+  <xsl:variable name="place" select="''"/>
   <xsl:variable name="genre" select="'facta'"/>
   <xsl:variable name="collection" select="''"/>
   <xsl:variable name="translator_fn" select="'Máret'"/>
   <xsl:variable name="translator_ln" select="'Sárá'"/>
-  <xsl:variable name="translator_gender" select="'unknown'"/>
+  <xsl:variable name="translator_gender" select="'f'"/>
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
   <xsl:variable name="license_type" select="'free'"/>
@@ -73,7 +73,7 @@
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_nob" select="''"/>
-<xsl:variable name="para_nno" select="'eidheim_n.html'"/>
+<xsl:variable name="para_nno" select="'eidheim-n.htm'"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
