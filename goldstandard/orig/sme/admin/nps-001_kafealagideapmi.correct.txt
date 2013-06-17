@@ -3,7 +3,7 @@
 (OVDDASVÁSTÁDUS LISTTU)¢(cmp,X-1|OVDDASVÁSTÁDUSLISTU) GUOVSSAHAS MÁNÁIDGÁRDDIS 
 
 
-(Sis geas£(case|Sii geain) lea ovddasvástádus lágidit kaféa, vižžet) (kaféa- kássa)¢(cmp,X-1|kaféakássa) skuvllas. Doppe leat ee. gohput, servieahtat ja smávvaruđat. Kássas galgá álohit€(adv,suf|álohii) leat 1000,- smávvaruhtan. Kirsten Alette viežžá smávvaruđaid sámeluohká kontos ja bidjá (kaféa- kássii)¢(cmp,X-1|kaféakássii).
+(Sis geas£(case|Sii geain) lea ovddasvástádus lágidit kaféa, vižžet) (kaféa- kássa)¢(cmp,X-1|kaféakássa) skuvllas. Doppe leat ee. gohput, servieahtat ja smávvaruđat. Kássas galgá álohit€(w,adj-adv|álohii) leat 1000,- smávvaruhtan. Kirsten Alette viežžá smávvaruđaid sámeluohká kontos ja bidjá (kaféa- kássii)¢(cmp,X-1|kaféakássii).
 
 Sisaboahtu addojuvvo Kirsten Alehttái ja son bidjá ruđa sámeluohká kontui.  Nugo mii leat váhnenčoahkkimis šiehtadan (de manná ruhta skuvla (giđđa- mátkái)¢(cmp,X-1|giđđamátkái))£(case,nom-gen|de manná ruhta skuvlla giđđamátkái).
 
@@ -45,15 +45,15 @@ ovdal¢(min-cap|Ovdal) lea leamaš nu ahte Sámi váhnenfierpmádat lea leamaš 
 
 (KAFEA- KÁSSA)¢(cmp,X-1|KAFEAKÁSSA): (kaféa- kássa)¢(cmp,X-1|kaféakássa) vižžojuvvo skuvllas. Gii dan viežžá fertebehtet ieža mearridit. Maŋŋel doaluid de galgá (kaféa- kássa)¢(cmp,X-1|kaféakássa) buktojuvvot skuvlii (mánnodagas)£(case,loc-gen|mánnodaga). Jus lea mii nu mii váilu kássas-¢(typo,|kássas) de fertebehtet čálistit unna girjážii$(conc,rj-rjj|girjjážii) mii lea (ruhta- kássas)¢(cmp,X-1|ruhtakássas).
 
-(RUHTA- KÁSSAS)¢(cmp,X-1|RUHTAKÁSSAS): galgá álohit€(adv,suf|álohii) leat 1000,- . Maŋŋel doaluid, fertebehtet (rehkenastit dietnasa ja čállet)£(verb,inf,inf,pl3prs,inf|rehkenastit) dietnasa ja čállit) dan unna girjjážii mii lea (ruhta- kássas)¢(noun,cmp|ruhtakássas). Dietnasa bidjabehtet sierra (plastihka- bosi€(noun,x|bussii))¢(noun,cmp|plastihkabussii) nu ahte mii skuvllas eat dárbbaš lohkat dáid.
+(RUHTA- KÁSSAS)¢(cmp,X-1|RUHTAKÁSSAS): galgá álohit€(w,adj-adv|álohii) leat 1000,- . Maŋŋel doaluid, fertebehtet rehkenastit dietnasa ja čállet dan unna girjjážii mii lea (ruhta- kássas)¢(cmp,X-1|ruhtakássas). Dietnasa bidjabehtet sierra (plastihka$(conc,nom-gen|plastihkka)- bosi¢(mix|bussii))¢(cmp,X-1|plastihkkabussii) nu ahte mii skuvllas eat dárbbaš lohkat dáid.
 
-(MÁNÁID- GÁRDDI)¢(noun,cmp|MÁNÁIDGÁRDDI) RAHPAN JA LÁSSEN: Dát ášši ii leat vuos čielggas. Ovdal lea leamaš nu ahte muhtin Sámi váhnenfierpmádagas rahpán$(verb,suf|rahpá) ja lásse uvssa. 
+(MÁNÁID- GÁRDDI)¢(cmp,X-1|MÁNÁIDGÁRDDI) RAHPAN JA LÁSSEN: Dát ášši ii leat vuos čielggas. Ovdal lea leamaš nu ahte muhtin Sámi váhnenfierpmádagas rahpán$(suf|rahpá) ja lásse uvssa. 
 
 DÁHTON: mii eat leat vuos ožžon dáhtoniid sámi váhnenfierpmádagas go dát eai leat vuos čielgan. 
 
-MUĐUI: ođđa dieđut bohtet go (buot leat)£(verb,fin,sg3prs,pl3prs,agr|buot lea) čielggas jna.
+MUĐUI: ođđa dieđut bohtet go (buot leat)£(kongr,pl-sg|buot lea) čielggas jna.
 
-jus¢(cs,cap|Jus) lea mii dál¢(pcle,a|dal) nu, de váldet oktavuođa minguin skuvllas dahje čállet dan unna girjjážii mii lea (ruhta- kássas)¢(noun,cmp|ruhtakássas).
+jus¢(min-cap|Jus) lea mii dál¢(vowc,á-a|dal) nu, de váldet oktavuođa minguin skuvllas dahje čállet dan unna girjjážii mii lea (ruhta- kássas)¢(cmp,X-1|ruhtakássas).
 
 Dearvuođaiguin
 
