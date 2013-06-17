@@ -47,7 +47,7 @@ ovdal¢(min-cap|Ovdal) lea leamaš nu ahte Sámi váhnenfierpmádat lea leamaš 
 
 (RUHTA- KÁSSAS)¢(cmp,X-1|RUHTAKÁSSAS): galgá álohit€(w,adj-adv|álohii) leat 1000,- . Maŋŋel doaluid, fertebehtet rehkenastit dietnasa ja čállet dan unna girjjážii mii lea (ruhta- kássas)¢(cmp,X-1|ruhtakássas). Dietnasa bidjabehtet sierra (plastihka$(conc,nom-gen|plastihkka)- bosi¢(mix|bussii))¢(cmp,X-1|plastihkkabussii) nu ahte mii skuvllas eat dárbbaš lohkat dáid.
 
-(MÁNÁID- GÁRDDI)¢(cmp,X-1|MÁNÁIDGÁRDDI) RAHPAN JA LÁSSEN: Dát ášši ii leat vuos čielggas. Ovdal lea leamaš nu ahte muhtin Sámi váhnenfierpmádagas rahpán$(suf|rahpá) ja lásse uvssa. 
+(MÁNÁID- GÁRDDI)¢(cmp,X-1|MÁNÁIDGÁRDDI) RAHPAN JA LÁSSEN: Dát ášši ii leat vuos čielggas. Ovdal lea leamaš nu ahte muhtin Sámi váhnenfierpmádagas rahpán$(suf,n-0|rahpá) ja lásse uvssa. 
 
 DÁHTON: mii eat leat vuos ožžon dáhtoniid sámi váhnenfierpmádagas go dát eai leat vuos čielgan. 
 
