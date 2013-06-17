@@ -1,23 +1,23 @@
-Sohkabeallekromosonaid$(loan,con|Sohkabeallekromosomaid) árbedahkkit
+Sohkabeallekromosonaid$(conc|n-m|Sohkabeallekromosomaid) árbedahkkit
 
-- ovttasogat ealliin$(noun,mono|elliin), mat leat jogo njiŋŋalasat$(noun,á|njiŋŋálasat) dahje varrásat, sohkabealli mearreduvvo$(verb,soggi|mearriduvvo) árbbi mielde.
+- ovttasogat ealliin$(vowc,ea-e|mono|elliin), mat leat jogo njiŋŋalasat$(vowlat,a-á|njiŋŋálasat) dahje varrásat, sohkabealli mearreduvvo$(vowlat,e-i|mearriduvvo) árbbi mielde.
 
-- sohkabeali dagahahtti genat leat dábálaččat sohkabeallekromosonas$(loan,con|sohkabeallekromosomas). (ožžon nama x- ja y-kromosoma)
+- sohkabeali dagahahtti genat leat dábálaččat sohkabeallekromosonas$(conc|n-m|sohkabeallekromosomas). (ožžon nama x- ja y-kromosoma)
 
-- (x-kromosona)$(loan,con|x-kromosoma) stuorát go y
+- (x-kromosona)$(conc|n-m|x-kromosoma) stuorát go y
 
-- albmáid genat y-kromosonas$(loan,con|y-kromosomas) ja nissoniid (x:ás)$(acr,suf|x:s) (nissonis xx+22 autosoma, albmás y/x+22, albmá sohkaseallain dáhpáhuvvá meiiosa$(noun,conc|meiosa)
+- albmáid genat y-kromosonas$(conc|n-m|y-kromosomas) ja nissoniid (x:ás)$(suf,ás-s|x:s) (nissonis xx+22 autosoma, albmás y/x+22, albmá sohkaseallain dáhpáhuvvá meiiosa$(conc,ii-i|meiosa)
 
-- lottiin ja beaivelottiin nuppebeliid$(adv,notcmp|nuppe beliid)
+- lottiin ja beaivelottiin nuppebeliid$(cmp,1-X|nuppe beliid)
 
-- divrriin varrásiin ii leat go okta x-kr ja niŋŋalasain$(noun,á|njiŋŋálasain) xx, nu ahte (varrásat leat x0-tiippa)£(noun,spred,nomsg,nompl,num|varrásat leat x0-tiippat).
+- divrriin varrásiin ii leat go okta x-kr ja niŋŋalasain$(vowlat,a-á|njiŋŋálasain) xx, nu ahte (varrásat leat x0-tiippa)£(kongr,sg-pl|varrásat leat x0-tiippat).
 
-- haplodiploidalaš lassáneapmi oaivvilda dan ahte varris riegada$(verb,á|riegáda) sagatkeahttes$(adj,conc|sagatkeahtes) manis partenogenehttalaččat$(loan,conc|partenogenehtalaččat) (haploida) ja njiŋŋalas$(noun,á|njiŋŋálas) ságahuvvon¢(verb,a|sagahuvvon) manneseallas (diploida)
+- haplodiploidalaš lassáneapmi oaivvilda dan ahte varris riegada$(vowlat,a-á|riegáda) sagatkeahttes$(conc,htt-ht|sagatkeahtes) manis partenogenehttalaččat$(conc,htt-ht|partenogenehtalaččat) (haploida) ja njiŋŋalas$(vowlat,a-á|njiŋŋálas) ságahuvvon¢(vowc,á-a|sagahuvvon) manneseallas (diploida)
 
-- fenotiippalaš s.beali mearráneammis$(verb,mix|mearraneamis) biras mearreda$(verb,soggi|mearrida) sohkabeali, omd. liekkasvuohta.
+- fenotiippalaš s.beali mearráneammis$(vowlat,á-a;conc,mm-m|mearraneamis) biras mearreda$(vowlat,e-i|mearrida) sohkabeali, omd. liekkasvuohta.
 
-- sohkabeallái laktašuvvan árbbit leat dábálut albmáin go nissoniin, dasgo álot x-kromosonas$(loan,con|x-kromosomas) ja y:s ii gávdno fástideaddji.
+- sohkabeallái laktašuvvan (árbbit leat dábálut)£(kongr,sg-pl|árbbit leat dábálabbot) albmáin go nissoniin, dasgo álot x-kromosonas$(conc|n-m|x-kromosomas) ja y:s ii gávdno fástideaddji.
 
-- ruksesruonáčalmmehisvuohta lea sullii (8%:as)$(num,suf|8%:s) albmáin muhto ( nissonin¢(noun,suf|nissoniin) dušše (0.6 %:s)£(0.6 %) ), danin go albmás lea dušše okta x-kromosona$(loan,con|x-kromosoma), son lea sáhttán árbet dušše nuppi allela ja jus dat lea resessiivalaš$(adj,mix|recessiiva), šaddá son ruksesruonáčalmmeheapmi$(adj,soggi|ruksesruonáčalmmeheapme) go y-kromosonas$(loan,con|y-kromosomas) ii leat gokči dominerejeaddji allela
+- ruksesruonáčalmmehisvuohta lea sullii (8%:as)$(suf,as-s|8%:s) albmáin muhto ( nissonin¢(vowlat,i-ii|nissoniin) dušše (0.6 %:s)£(0.6 %) ), danin go albmás lea dušše okta x-kromosona$(conc|n-m|x-kromosoma), son lea sáhttán árbet dušše nuppi allela ja jus dat lea resessiivalaš$(adj,mix|recessiiva), šaddá son ruksesruonáčalmmeheapmi$(vowlat,i-e|ruksesruonáčalmmeheapme) go y-kromosonas$(conc|n-m|y-kromosomas) ii leat gokči dominerejeaddji allela
 
-- nissona nuppi x-kromosona$(loan,con|x-kromosoma) resessiivalaš$(adj,mix|recessiiva) allela oitno$(verb,conc|oidno) dušše beare homotsygohtalaččat (son guoddá dávdda)
+- nissona nuppi x-kromosona$(conc|n-m|x-kromosoma) resessiivalaš$(adj,mix|recessiiva) allela oitno$(conc,itn-idn|oidno) dušše beare homotsygohtalaččat (son guoddá dávdda)
