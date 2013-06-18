@@ -39,7 +39,7 @@ Guovvamánus leat 4 oahpi$(conc,hp-hpp|oahppi). Jus lágidit 6.b (ovttas Sámi v
 Geassemánus leat (4 oahppit)¢(kongr,pl-sg|4 oahppi). Maŋemus doalut ovdal geasseluomu.
 
 ČORGEN:
-Maŋŋel (kaféa doaluid)¢(cmp,X-1|kaféadoaluid) dalle fertejit (sii geas)£(kongr,sg-pl|sii geain) (leat ovddasvástádus)£(kongr,pl-sg|lea ovddasvástásus) čorget seammá bures nu go lei. (Láhtti$(vowlat,i-e|Láhtte)- moppain)¢(cmp,X-1|Láhttemoppain), ruskkaid doalvut, bevddiid ja stuoluid saddjái¢(conc,ddj-dj|sadjái) bidjat nu mo lei, jna.
+Maŋŋel (kaféa doaluid)¢(cmp,X-1|kaféadoaluid) dalle fertejit (sii geas)£(kongr,sg-pl|sii geain) (leat ovddasvástádus)£(kongr,pl-sg|lea ovddasvástádus) čorget seammá bures nu go lei. (Láhtti$(vowlat,i-e|Láhtte)- moppain)¢(cmp,X-1|Láhttemoppain), ruskkaid doalvut, bevddiid ja stuoluid saddjái¢(conc,ddj-dj|sadjái) bidjat nu mo lei, jna.
 
 ovdal¢(min-cap|Ovdal) lea leamaš nu ahte Sámi váhnenfierpmádat lea leamaš mielde čorgemis, jus dát šaddá dán jagi maid ii leat vuos čielgan. 
 
