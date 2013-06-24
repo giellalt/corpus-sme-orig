@@ -10,4 +10,4 @@ Maiddái dánge jagi barggai VSM  buori barggu Finnmarksløpet miellágideaddjin
 
 Rukses ruossas lei nuvttá káfe ja veahkehedje muđuige, nomo$(vowc,o-u|numo) bearráigeahččat johtolaga bisánanabáikái$(typo|bisánanbáikái).  
 
-Jus don(dego mun) hálidit$(vowlat,i-ii|háliidit) buori gourmet-gaskabeaivvi, de besset Searvegottevisttis návddašit (boahkke lábbábierggu)$(cmp,2-1|boahkkelábbábierggu) ja luossamáli. Maiddái Searvegottevisti$(conc,tt-dd|Searvegoddevisti) lei rabas ijatbeaivve vai olbmot ožžo borramuša. 
+Jus don(dego mun) hálidit$(conm,d-id|háliidit) buori gourmet-gaskabeaivvi, de besset Searvegottevisttis návddašit (boahkke lábbábierggu)$(cmp,2-1|boahkkelábbábierggu) ja luossamáli. Maiddái Searvegottevisti$(conc,tt-dd|Searvegoddevisti) lei rabas ijatbeaivve vai olbmot ožžo borramuša. 

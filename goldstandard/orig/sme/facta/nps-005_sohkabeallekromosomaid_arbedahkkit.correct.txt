@@ -18,6 +18,6 @@ Sohkabeallekromosonaid$(conc|n-m|Sohkabeallekromosomaid) árbedahkkit
 
 - sohkabeallái laktašuvvan (árbbit leat dábálut)£(kongr,sg-pl|árbbit leat dábálabbot) albmáin go nissoniin, dasgo álot x-kromosonas$(conc|n-m|x-kromosomas) ja y:s ii gávdno fástideaddji.
 
-- ruksesruonáčalmmehisvuohta lea sullii (8%:as)$(suf,as-s|8%:s) albmáin muhto ( nissonin¢(vowlat,i-ii|nissoniin) dušše (0.6 %:s)£(0.6 %) ), danin go albmás lea dušše okta x-kromosona$(conc|n-m|x-kromosoma), son lea sáhttán árbet dušše nuppi allela ja jus dat lea resessiivalaš$(adj,mix|recessiiva), šaddá son ruksesruonáčalmmeheapmi$(vowlat,i-e|ruksesruonáčalmmeheapme) go y-kromosonas$(conc|n-m|y-kromosomas) ii leat gokči dominerejeaddji allela
+- ruksesruonáčalmmehisvuohta lea sullii (8%:as)$(suf,as-s|8%:s) albmáin muhto ( nissonin¢(fin,n-in|nissoniin) dušše (0.6 %:s)£(0.6 %) ), danin go albmás lea dušše okta x-kromosona$(conc|n-m|x-kromosoma), son lea sáhttán árbet dušše nuppi allela ja jus dat lea resessiivalaš$(adj,mix|recessiiva), šaddá son ruksesruonáčalmmeheapmi$(vowlat,i-e|ruksesruonáčalmmeheapme) go y-kromosonas$(conc|n-m|y-kromosomas) ii leat gokči dominerejeaddji allela
 
 - nissona nuppi x-kromosona$(conc|n-m|x-kromosoma) resessiivalaš$(adj,mix|recessiiva) allela oitno$(conc,itn-idn|oidno) dušše beare homotsygohtalaččat (son guoddá dávdda)

@@ -10,7 +10,7 @@ Ođas dál: Dálošvákki skuvllas lea ođđa hápmi - iluin mii geahččat skuv
 
 Mii áigut almmuhit govaid mat vuosihit min "ođđa" skuvlla.
 
-Mii hálidit$(vowlat,i-ii|háliidit) almmuhit govaid ja teavsttaid mat muitalit maid mii bargat skuvllas. Mii bargat oppa áigge olu miellagiddevaš prošeavttaiguin.
+Mii hálidit$(conm,d-id|háliidit) almmuhit govaid ja teavsttaid mat muitalit maid mii bargat skuvllas. Mii bargat oppa áigge olu miellagiddevaš prošeavttaiguin.
  
 8. luohkká lea dál ráhkadeamen hirbmat stuora seaidneáviissa suohkana birra. 
 
@@ -18,7 +18,7 @@ Mii hálidit$(vowlat,i-ii|háliidit) almmuhit govaid ja teavsttaid mat muitalit 
 
 Smávvá osiid sin áviissas (mii áigut bidjat min neahttasiidui)€(w,pers-refl|mii áigut bidjat iežamet neahttasiidui).
 
-10. luohkká lea bargame čiekŋudanbargobihtáin (jahkeprošeavttain). Oahppit leat ieža mearridan masa sii hálidit$(vowlat,i-ii|háliidit) čiekŋudit. 
+10. luohkká lea bargame čiekŋudanbargobihtáin (jahkeprošeavttain). Oahppit leat ieža mearridan masa sii hálidit$(conm,d-id|háliidit) čiekŋudit. 
 
 Muhtimat leat válljen duhppet, čiŋaid duddjot, ruvssomálema, mopeda divvut, lanjaid málet jnv.
 
