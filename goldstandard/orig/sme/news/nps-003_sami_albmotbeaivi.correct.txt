@@ -1,10 +1,10 @@
 Sámi álbmotbeaivi
 
-Reportáša leaba (7. luohkkálaččat)¢(cmp,X-1|7-luohkkálaččat) Ida & Miriam čállán
+Reportáša leaba (7. luohkkálaččat)¢(cmp,2-1|7-luohkkálaččat) Ida & Miriam čállán
  
 Sámi álbmotbeaivvi 6. luohkká biđđii$(conc,đđ-đ|biđii) bánnobiđđosa olles skuvlii.  
 
-Mii (7. luohkkálaččat)¢(cmp,X-1|7-luohkkálaččat) ráhkadeimmet ((movie maker)$(coninit,min-cap;coninit,min-cap|Movie Maker) presentašuvnna)¢(cmp,X-1|Movie Maker-presentašuvnna) gaskadási (Pajala mátkkis)¢(foreign;cmp,X-1|Bájil-mátkkis) borgemánu£(case,gen-loc|borgemánus). Presentašuvnna ovdanbuvttiimet skuvlla aktasaš čoahkkaneamis lášmmohallansálas bánnobiđđosa boradettiin. Pajalas€(foreign|Bájilis) finaimet Kengis (bruk:as)$(suf,:as-as|brukas) ja Læstadiusa hávddis.
+Mii (7. luohkkálaččat)¢(cmp,2-1|7-luohkkálaččat) ráhkadeimmet ((movie maker)$(coninit,min-cap;coninit,min-cap|Movie Maker) presentašuvnna)¢(cmp,2-1|Movie Maker-presentašuvnna) gaskadási (Pajala mátkkis)¢(foreign;cmp,2-1|Bájil-mátkkis) borgemánu£(case,gen-loc|borgemánus). Presentašuvnna ovdanbuvttiimet skuvlla aktasaš čoahkkaneamis lášmmohallansálas bánnobiđđosa boradettiin. Pajalas€(foreign|Bájilis) finaimet Kengis (bruk:as)$(suf,:as-as|brukas) ja Læstadiusa hávddis.
 
 7. luohkká lea bargan (movie maker:iin)$(coninit,min-cap;coninit,min-cap;suf,:iin-iin|Movie Makeriin) (geažus sámi álbmotbeaivevahku)¢(vowlat,u-o|geažos sámi álbmotbeaivevahku). Odd Harald lei min oahpaheaddji, ja lei vuosttaš hávi go barggaimet (movie maker:iin)$(coninit,min-cap;coninit,min-cap;suf,:iin-iin|Movie Makeriin). Mis lei teaksta, govat ja musihkka presentašuvnnas.
 

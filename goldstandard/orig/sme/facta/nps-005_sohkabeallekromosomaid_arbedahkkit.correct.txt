@@ -8,7 +8,7 @@ Sohkabeallekromosonaid$(conc|n-m|Sohkabeallekromosomaid) árbedahkkit
 
 - albmáid genat y-kromosonas$(conc|n-m|y-kromosomas) ja nissoniid (x:ás)$(suf,ás-s|x:s) (nissonis xx+22 autosoma, albmás y/x+22, albmá sohkaseallain dáhpáhuvvá meiiosa$(conc,ii-i|meiosa)
 
-- lottiin ja beaivelottiin nuppebeliid$(cmp,1-X|nuppe beliid)
+- lottiin ja beaivelottiin nuppebeliid$(cmp,1-2|nuppe beliid)
 
 - divrriin varrásiin ii leat go okta x-kr ja niŋŋalasain$(vowlat,a-á|njiŋŋálasain) xx, nu ahte (varrásat leat x0-tiippa)£(kongr,sg-pl|varrásat leat x0-tiippat).
 
