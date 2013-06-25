@@ -1,6 +1,6 @@
 Sohkabeallekromosonaid$(conc|n-m|Sohkabeallekromosomaid) árbedahkkit
 
-- ovttasogat ealliin$(vowc,ea-e|mono|elliin), mat leat jogo njiŋŋalasat$(vowlat,a-á|njiŋŋálasat) dahje varrásat, sohkabealli mearreduvvo$(vowlat,e-i|mearriduvvo) árbbi mielde.
+- ovttasogat ealliin$(vowc,mono|elliin), mat leat jogo njiŋŋalasat$(vowlat,a-á|njiŋŋálasat) dahje varrásat, sohkabealli mearreduvvo$(vowlat,e-i|mearriduvvo) árbbi mielde.
 
 - sohkabeali dagahahtti genat leat dábálaččat sohkabeallekromosonas$(conc|n-m|sohkabeallekromosomas). (ožžon nama x- ja y-kromosoma)
 
