@@ -4,7 +4,7 @@ Numo lávege, de ledje ollu somás doaimmat beatnatvuodjima€(case,gen-nom|bean
 
 15-03-2007 Bent Johansen
 
-Stuorravuona oahppit ja oahpaheaddjit ledje erenoamáš áŋgirat geahččaladdat daid ollu doaibmafálaldagaid maid Várjjat Sámi Musea(VSM)$(prop,space|Musea (VSM) lei heivehan. Ledje e.e. njuollabissubáhčimat$(vowlat,u-o|njuollabissobáhčimat) ja njoarusteapmi$(vowlat,u-o|njoarosteapmi). Čáppa muohtaskulptuvrraid ráhkadeapmi VSM olggobealde lei maiddái ovttasbargu gaskal (skuvla ohppiid)£(case,nom-gen|skuvlla ohppiid) ja VSM.
+Stuorravuona oahppit ja oahpaheaddjit ledje erenoamáš áŋgirat geahččaladdat daid ollu doaibmafálaldagaid maid Várjjat Sámi Musea(VSM)$(cmp,1-2|Musea (VSM)) lei heivehan. Ledje e.e. njuollabissubáhčimat$(vowlat,u-o|njuollabissobáhčimat) ja njoarusteapmi$(vowlat,u-o|njoarosteapmi). Čáppa muohtaskulptuvrraid ráhkadeapmi VSM olggobealde lei maiddái ovttasbargu gaskal (skuvla ohppiid)£(case,nom-gen|skuvlla ohppiid) ja VSM.
 
 Maiddái dánge jagi barggai VSM  buori barggu Finnmarksløpet miellágideaddjin. Sii dolle rabasin birranbeaivve sihke beatnatvuoddjiide€(case,gen-nom|beanavuoddjiide)$(vowc,uo-u|beanavuddjiide), bargiide ja mediaide. Doppe maiddái besse olbmot vuovdit iešguđátlágán$(vowlat,á-e|iešguđetlágán) giehtadujiid, ja NIF doalai kafea.  
 
