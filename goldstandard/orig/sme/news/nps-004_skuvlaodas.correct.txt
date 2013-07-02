@@ -16,7 +16,7 @@ Mii hálidit$(conm,d-id|háliidit) almmuhit govaid ja teavsttaid mat muitalit ma
 
 9. luohkká lea bures beassan johtui ráhkadit iežaset áviissa vuovdemassii$(vowlat,e-i|vuovdimassii).
 
-Smávvá osiid sin áviissas (mii áigut bidjat min neahttasiidui)€(w,pers-refl|mii áigut bidjat iežamet neahttasiidui).
+Smávvá osiid sin áviissas mii áigut bidjat min£(infl,pers-refl|iežamet) neahttasiidui.
 
 10. luohkká lea bargame čiekŋudanbargobihtáin (jahkeprošeavttain). Oahppit leat ieža mearridan masa sii hálidit$(conm,d-id|háliidit) čiekŋudit. 
 
