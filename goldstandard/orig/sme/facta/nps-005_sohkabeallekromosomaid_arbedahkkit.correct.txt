@@ -1,12 +1,12 @@
-Sohkabeallekromosonaid$(conc|n-m|Sohkabeallekromosomaid) árbedahkkit
+Sohkabeallekromosonaid$(conc,n-m|Sohkabeallekromosomaid) árbedahkkit
 
 - ovttasogat ealliin$(vowc,mono|elliin), mat leat jogo njiŋŋalasat$(vowlat,a-á|njiŋŋálasat) dahje varrásat, sohkabealli mearreduvvo$(vowlat,e-i|mearriduvvo) árbbi mielde.
 
-- sohkabeali dagahahtti genat leat dábálaččat sohkabeallekromosonas$(conc|n-m|sohkabeallekromosomas). (ožžon nama x- ja y-kromosoma)
+- sohkabeali dagahahtti genat leat dábálaččat sohkabeallekromosonas$(conc,n-m|sohkabeallekromosomas). (ožžon nama x- ja y-kromosoma)
 
-- (x-kromosona)$(conc|n-m|x-kromosoma) stuorát go y
+- (x-kromosona)$(conc,n-m|x-kromosoma) stuorát go y
 
-- albmáid genat y-kromosonas$(conc|n-m|y-kromosomas) ja nissoniid (x:ás)$(suf|x:s) (nissonis xx+22 autosoma, albmás y/x+22, albmá sohkaseallain dáhpáhuvvá meiiosa$(conc,ii-i|meiosa)
+- albmáid genat y-kromosonas$(conc,n-m|y-kromosomas) ja nissoniid (x:ás)$(suf|x:s) (nissonis xx+22 autosoma, albmás y/x+22, albmá sohkaseallain dáhpáhuvvá meiiosa$(conc,ii-i|meiosa)
 
 - lottiin ja beaivelottiin nuppebeliid$(cmp,1-2|nuppe beliid)
 
@@ -20,4 +20,4 @@ Sohkabeallekromosonaid$(conc|n-m|Sohkabeallekromosomaid) árbedahkkit
 
 - ruksesruonáčalmmehisvuohta lea sullii (8%:as)$(suf|8%:s) albmáin muhto nissonin¢(fin,n-in|nissoniin) dušše (0.6 %:as)$(suf|0.6 %), danin go albmás lea dušše okta x-kromosona$(conc,n-m|x-kromosoma), son lea sáhttán árbet dušše nuppi allela ja jus dat lea resessiivalaš$(conc,s-c|recessiivvalaš), šaddá son ruksesruonáčalmmeheapmi$(vowlat,i-e|ruksesruonáčalmmeheapme) go y-kromosonas$(conc,n-m|y-kromosomas) ii leat gokči dominerejeaddji allela
 
-- nissona nuppi x-kromosona$(conc|n-m|x-kromosoma) resessiivalaš$(conc,s-c|recessiivvalaš) allela oitno$(conc,itn-idn|oidno) dušše beare homotsygohtalaččat (son guoddá dávdda)
+- nissona nuppi x-kromosona$(conc,n-m|x-kromosoma) resessiivalaš$(conc,s-c|recessiivvalaš) allela oitno$(conc,itn-idn|oidno) dušše beare homotsygohtalaččat (son guoddá dávdda)
