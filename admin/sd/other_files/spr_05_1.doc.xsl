@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" method="xml" doctype-public="-//UIT//DTD Corpus V1.0//EN" version="1.0" indent="yes" encoding="UTF-8"/>
 <!-- Add the metainformation manually -->  <xsl:variable select="'spr01_05.doc'" name="filename"/>
@@ -30,7 +30,7 @@
   <xsl:variable select="''" name="ISBN"/>
   <xsl:variable select="''" name="ISSN"/>
   <xsl:variable select="''" name="place"/>
-  <xsl:variable select="'facta'" name="genre"/>
+  <xsl:variable select="'admin'" name="genre"/>
   <xsl:variable select="''" name="collection"/>
   <xsl:variable select="''" name="translator_fn"/>
   <xsl:variable select="''" name="translator_ln"/>
