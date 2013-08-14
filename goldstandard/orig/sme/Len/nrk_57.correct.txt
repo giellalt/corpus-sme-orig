@@ -1,0 +1,28 @@
+#http://www.nrk.no/kanal/nrk_sapmi/samegillii/1.10840334
+#14.12.12
+#brita åse norlemann ja siv eli vuolab
+
+Risku vođđun$(vowc,diph,o-uo|vuođđun) silbačiŋaide
+
+Gollerávde-oahppi$(cmp,hyph-0|Gollerávdeoahppi) Lisbeth Somby háliida sámi čiŋaid fuomášuhttit máilbmái, nu ahte maiddái rivgut ja dáččat geavahišgoađáše risko-lágán$(cmp,hyph-0|riskolágán) čiŋaid.
+
+Vaikko son guhká lea orron olggobeal$(vowlat,0-e|olggobeale) sámi birrasa, de lea sus Sápmi álo jurdagis go ráhkada golle- ja silbačiŋaidis.
+
+
+Ášši doaimmaha Brita Åse Norlemann
+
+Gollerávde-oahppi$(cmp,hyph-0|Gollerávdeoahppi) Lisbeth Somby háliida sámi čiŋaid fuomášuhttit máilbmái ja muitala dássážii vuohttán ahte su sámi designa boktá beroštumi.
+Sámivuohta$(der,vowlat,i-e|Sámevuohta) vuhtto čiŋain
+Son lea beannot jagi vázzán skuvlla Fredrikstadas, lulli-Norggas. Fargga lea son oahppan gollerávdi.
+
+
+Su dáidagis oidnoge bures sámivuohta$(der,vowlat,i-e|sámevuohta) vaikko ii lean gal áigumuš guorrasit sámi symbolaide.
+
+- Muhto go álgen tevdnet, de oidnen sámivuođa$(der,vowlat,i-e|sámevuođa) das. Dat lea mu siste, ja dat beare boahtá.
+
+
+Risku inspirašuvdnan
+Lea váttis gávdnat barggu go geargá oahpuin, muhto son sávvá goit beassat joaktit$(typo|joatkit) gazzames$(vowm,e-i|gazzamis) oahpu soames oahppan, hárjánán$(vowm,á-a|hárjánan) gollečeahpi luhtte. De sávvá ráhkadišgoahtit čiŋaid mat leat vuolggahuvvon riskuin$(conc,sk-skk|riskkuin).
+
+- Háliidan ráhkadit čiŋaid main solju lea inspirašuvdnan. Seammás háliidan ahte earát, eai dušše sápmelaččat, geavahit mu čiŋaid. Soljju-čiŋat$(cmp,gen-nom;hyhp-0|Soljočiŋat) rivguide.
+

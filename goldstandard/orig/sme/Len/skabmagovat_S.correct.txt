@@ -1,0 +1,11 @@
+#http://www.skabmagovat.fi/samifilm/index.php
+#8.12.12
+Sámi Film - diehtomáddodat sámi ealligovain
+
+Sámi Film –diehtomáddodat lea Sámi Dáidaga Doarjjasearvi rs:vi bajásdoallan diehtovuođđu, mii sisdoallá dieđu sámi ealligovain ja tv-buvttadusain (guhkes ja oanehis ealligovat, animašuvnnat, dokumentárat ja tv-ráiddut). Sámebuvttadussan leat dán diehtomáddodagas lohkan buvttadusaid, main sápmelaččat leat leamaš guovddáš rollas (o.m.d. bagadallin, buvttadeaddjin dahje čállin).
+
+Buvttadusaid leat bidjan logahallamii dábálaš ealligovvadiehtovuođu láhkái earret eará dahkkiid ja filmmaid namaid mielde. Buvttadusain lea maiddái oanehaš£oanehis čilgehusteaksta. Dasa lassin diehtomáddodat sisdoallá áššesátneohcama, man vuođul lea vejolaš ohcat alcces beroštahtti fáttás dahkkon buvttadusaid. Áššesátneohcan veahkeha earenoamážit sámekultuvrras berošteaddjiid$(nomag,vowc,mono|berošteddjiid) dahje dutkiid. Stuorámus oassi dieđuin dán diehtomáddodagas bajásdollo suoma-, sáme- ja eaŋgalsgillii, ja sávvamis diehtovuođđu veahkeha sámebuvttadusaid beassama sihke riikkaidgaskasaš festiválaide ja prográmmafálaldahkii eará sajiin máilmmis.
+
+Doapmaohcamiin (Hoahppoohcamiin) sáhttá ohcat ealligovaid ja olbmuid namaid vuođul. Dárkkit ohcamiid sáhttá dahkat Ohcan-ossodagas.
+
+Máhcahaga bálvalusas sáhttá addit máhcahat-skoviin$(cmp,hyph-0|máhcahatskoviin), mii gávdno máhcahat-siiddus$(cmp,hyph-0|máhcahatsiiddus).
