@@ -18,8 +18,8 @@ Sámediggepresideanta Egil Olli lei okta (sis geas lei sátnevuorru)£(kongr,sg-
 Gonagas Harald lei girkočoahkkima rahpamis dán jagi, nu movt son juo lávege go ođđa girkočoahkkin vuohččan čoahkkana. KPK 
 
 
-Israelmišuvnnas$(coninit,š-šš|Israelmiššuvnnas) lotnahuvvan jođiheaddji 
-Svein Granerud ja Bjørn Hesselberg leaba evttohasat ođđa stivrajođiheaddjin$(conc,vr-vrr|stivrrajođiheaddjin) Norgga Israelmišuvdnii$(coninit,š-šš|Israelmiššuvdnii). Dáláš stivrajođiheaddji$(conc,vr-vrr|stivrrajođiheaddji) Torgeir Flateby, (ii hálit šat válljejuvvot)¢(fin,t-it|ii háliit šat válljejuvvot). Son lea 8 jagi leamaš stivrajođiheaddjin$(case,nom-gen|stivrrajođiheaddjin). Goappaš evttohasat leaba vihahuvvon báhpat. Svein Granerud jođiha Normisjona barggu Norggas ja Bjørn Hesselberg lea Hommelvika suohkanbáhppa. Válga dahkkojuvvo go Israelmišuvnnas$(coninit,š-šš|Israelmiššuvnnas) lea riikačoahkkin$(case,nom-gen|riikkačoahkkin) Ulsteinvikas, geassemánu 27. beaivvis suoidnemánu 1. beaivái. 
+Israelmišuvnnas$(conm,š-šš|Israelmiššuvnnas) lotnahuvvan jođiheaddji 
+Svein Granerud ja Bjørn Hesselberg leaba evttohasat ođđa stivrajođiheaddjin$(conc,vr-vrr|stivrrajođiheaddjin) Norgga Israelmišuvdnii$(conm,š-šš|Israelmiššuvdnii). Dáláš stivrajođiheaddji$(conc,vr-vrr|stivrrajođiheaddji) Torgeir Flateby, (ii hálit šat válljejuvvot)¢(fin,t-it|ii háliit šat válljejuvvot). Son lea 8 jagi leamaš stivrajođiheaddjin$(case,nom-gen|stivrrajođiheaddjin). Goappaš evttohasat leaba vihahuvvon báhpat. Svein Granerud jođiha Normisjona barggu Norggas ja Bjørn Hesselberg lea Hommelvika suohkanbáhppa. Válga dahkkojuvvo go Israelmišuvnnas$(conm,š-šš|Israelmiššuvnnas) lea riikačoahkkin$(case,nom-gen|riikkačoahkkin) Ulsteinvikas, geassemánu 27. beaivvis suoidnemánu 1. beaivái. 
 Brit Hvalvik, Slattum, Bjørn Lauritzen, Tønsberg ja Randi Marie Kristiansen, Vennesla, leat evttohuvvon ođđa stivramiellahttun$(case,nom-gen|stivrramiellahttun). Arne Berge ja Gunvor Fyllingsnes heaitiba stivrras. KPK 
 
 #http://www.kpk.no/artikkel/article/115679
@@ -32,7 +32,7 @@ Njukčamánu álggus dadje 300 boahttevaš oahppi ahte (sii váldet oahpposaji o
 (Álbmotallaskuvllat váldiigohte$(fin,i-0|váldigohte) ohppiid guovvamánu 1.beaivvis. Ii leat ohcanáigemearri)£(kongr,pret-pres|Álbmotallaskuvllat váldigohtet ohppiid guovvamánu 1.beaivvis. Ii leat ohcanáigemearri), muhto mii addit oahpposajiid dassážii go oahpposuorggit leat dievvan. KPK 
 
 Radio DSF vuolgá Guoládahkii 
-Maŋŋelaš beassážiid, cuoŋománu 11.-17. beivviid vuolgá Radio DSF Guoládahkii. Sii geahččalit čoagganit ovttasbargogirkuin Ruoššabealde$(cmp,1-2|Ruošša bealde), nudaddjon$(cmp,1-2|nu daddjon) Den ingermanlandske evangelisk-lutherske kirke. Čoagganeami mii báddet vai Radio DSF beassá dan sáddet. Mátkkálaččat finadit maiddái Revdás, biebmogievkkanis ja oahppaladdet eará prošeavttaid mat Samemišuvnnas$(vowc,a-á;coninit,š-šš|Sámemiššuvnnas) leat jođus Ruoššabealde$(cmp,1-2|Ruošša bealde). Bargojuvvo ásahit Mánáid Guovddáža Revdái, ja sii geat leat dán mátkkis mielde, galget nuvttá bargat ásodaga láhčit nu ahte dohko sáhttá álggahit doaimma. KPK
+Maŋŋelaš beassážiid, cuoŋománu 11.-17. beivviid vuolgá Radio DSF Guoládahkii. Sii geahččalit čoagganit ovttasbargogirkuin Ruoššabealde$(cmp,1-2|Ruošša bealde), nudaddjon$(cmp,1-2|nu daddjon) Den ingermanlandske evangelisk-lutherske kirke. Čoagganeami mii báddet vai Radio DSF beassá dan sáddet. Mátkkálaččat finadit maiddái Revdás, biebmogievkkanis ja oahppaladdet eará prošeavttaid mat Samemišuvnnas$(vowc,a-á;conm,š-šš|Sámemiššuvnnas) leat jođus Ruoššabealde$(cmp,1-2|Ruošša bealde). Bargojuvvo ásahit Mánáid Guovddáža Revdái, ja sii geat leat dán mátkkis mielde, galget nuvttá bargat ásodaga láhčit nu ahte dohko sáhttá álggahit doaimma. KPK
 
 #http://www.kpk.no/artikkel/article/115654
 	
@@ -57,8 +57,8 @@ Jens-Petter Johnsen (63) valljejuvvui$(vowc,a-á|válljejuvvui) mannan vahku fas
 – Mun hálidan$(conm,d-id|háliidan) joatkit barggus go girkus lea dál historjjálaš mearkkašahtti áigi. (Girkus lea olu ođastusat)£(kongr,sg-pl|Girkus leat olu ođastusat) ja máŋga stuora barggu jođus. Dán maŋemus guhtta jagi leat olu rievdadusat leamaš nu mo oskkuoahpahusa rievdadeapmi ja ovddideapmi, ipmilbálvalusođasteapmi, girkomusihkka, diakoniija, girku ja kultuvra, sámi girkoeallin, bassivádjolusbargu, IKT ja eará. Munnje lea gelddolaš joatkit dáiguin bargguiguin ja oaidnit maid dat mearkkašit olbmuide ja girkuide ja ipmilbálvalusaide. KPK 
 
 
-Mišuvdnaolbmui$(coninit,š-šš|Miššuvdnaolbmui) gonagasa ánsu 
-Per-Inge Søreng, Finnsnesas eret, oaččui Gonagasa (silba ánsomedálja)¢(cmp,2-1|silbaánsomedálja). Romssa fylkkamánni, Svein Ludvigsen, geigii ánssu, ja čoahkkanan ledje bearaš ja ustibat ja dasa lassin ledje ásahusat nu mo Norgga Lutherlaš$(conc,th-t;vowm,0-a|Luteralaš) Mišuvdnalihttu$(coninit,š-šš|Miššuvdnalihttu) (NLM), KrF, Lenvik suohkan ja Gaska-Romssa ealáhusat boahtán dilálašvuhtii. 
+Mišuvdnaolbmui$(conm,š-šš|Miššuvdnaolbmui) gonagasa ánsu 
+Per-Inge Søreng, Finnsnesas eret, oaččui Gonagasa (silba ánsomedálja)¢(cmp,2-1|silbaánsomedálja). Romssa fylkkamánni, Svein Ludvigsen, geigii ánssu, ja čoahkkanan ledje bearaš ja ustibat ja dasa lassin ledje ásahusat nu mo Norgga Lutherlaš$(conc,th-t;vowm,0-a|Luteralaš) Mišuvdnalihttu$(conm,š-šš|Miššuvdnalihttu) (NLM), KrF, Lenvik suohkan ja Gaska-Romssa ealáhusat boahtán dilálašvuhtii. 
 Søreng lea máŋga áigodaga leamaš NLM biirrestivralahttu$(case,nom-gen|biirrestivrralahttu) ja biireovdaolmmoš$(case,nom-gen|biirreovdaolmmoš) Romssa ja Finnmárkku biirres, mii dál gullá Davvi regiovdnii. 
 Ánsomedálja geigema ággan lei go Søreng lea nannosit áŋggirdan bargat iežas eallinoainnu vuođul, namalassii luohttámušdoaimmaid váldán risttalaš doaimmaid ovddidit ja maiddái lea olu bargan guovllu ealáhusaid ovddidit. 
 – Don leat leamaš dat maid sáhttá dadjat buorre olmmoš ja leat iežat eallinoainnu vuođul bargan servodathuksejeaddji doaimmaid almmá ahte leat ohcalan iežat ávkki, dajai fylkkamánni sártnistis. KPK
@@ -68,9 +68,9 @@ Søreng lea máŋga áigodaga leamaš NLM biirrestivralahttu$(case,nom-gen|biirr
 #http://www.kpk.no/artikkel/article/115626
 
 	
-Ođđa váldočálli sajis Sámemišuvnnas$(coninit,š-šš|Sámemiššuvnnas) čakčii
-Sámemišuvdna$(coninit,š-šš|Sámemiššuvdna) ii dáidde oažžut sadjái ođđa váldočálli ovdalgo čakčat. Riikastivrra$(case,nom-gen|Riikkastivrra) ovdaolmmoš 
-Sven Sunnset čuvge ahte sis leat namat maiguin barget, muhto eretcealkináiggi dihtii ádjána muhtin mánuid ovdalgo bistevaš čoavddus lea sajis. Doaibmi váldočálli Thor Henrik With lea doaibman váldočállin maŋŋil go váldočálli Magne Gamlemshaug luobai virggis čakčamánu 30.beaivvi diibmá. Son lei bargan 32 jagi. With lea dadjan ahte son ii áiggo leat váldočálli bistevaš virggis. With galgá maid vihahuvvot bisman maŋŋelis dán mánu dan golmma válljensearvegoddái mat leat Davvi-Norggas maŋŋil go Børre Knudsen lea luohpan. Sven Sunnset dadjá ahte lea váttis bargat sihke bisman ja vel váldočállin Sámemišuvnnas$(coninit,š-šš|Sámemiššuvnnas). Dan oaivila doarju sihke With ja Sámemišuvdna$(coninit,š-šš|Sámemiššuvdna). KPK 
+Ođđa váldočálli sajis Sámemišuvnnas$(conm,š-šš|Sámemiššuvnnas) čakčii
+Sámemišuvdna$(conm,š-šš|Sámemiššuvdna) ii dáidde oažžut sadjái ođđa váldočálli ovdalgo čakčat. Riikastivrra$(case,nom-gen|Riikkastivrra) ovdaolmmoš 
+Sven Sunnset čuvge ahte sis leat namat maiguin barget, muhto eretcealkináiggi dihtii ádjána muhtin mánuid ovdalgo bistevaš čoavddus lea sajis. Doaibmi váldočálli Thor Henrik With lea doaibman váldočállin maŋŋil go váldočálli Magne Gamlemshaug luobai virggis čakčamánu 30.beaivvi diibmá. Son lei bargan 32 jagi. With lea dadjan ahte son ii áiggo leat váldočálli bistevaš virggis. With galgá maid vihahuvvot bisman maŋŋelis dán mánu dan golmma válljensearvegoddái mat leat Davvi-Norggas maŋŋil go Børre Knudsen lea luohpan. Sven Sunnset dadjá ahte lea váttis bargat sihke bisman ja vel váldočállin Sámemišuvnnas$(conm,š-šš|Sámemiššuvnnas). Dan oaivila doarju sihke With ja Sámemišuvdna$(conm,š-šš|Sámemiššuvdna). KPK 
 
 
 Kristtalaš oahppobarggut lassánit 
@@ -87,13 +87,13 @@ Jagis 2011 ožžo lagabui 9 miljon kruvnno stáhtadoarjaga. Dat ruđat manne K-s
 
 	
 Bláđđi Samenes Venn unnu
-Norgga Samemišuvnna$(vowc,a-á;coninit,š-šš|Sámemiššuvnna) riikastivrras$(case,nom-gen|riikkastivrras) mearridedje ahte Samenes Venn-bláđđi ii šat ilmma dán jagi rájes nu dávjá go ovdal. Ovdal ilbme 11 nummara ja dál galget 8 nummara jahkái. 
-Duogáš lea go mišuvnna$(coninit,š-šš|miššuvnna) bargiidlohku lea unnon maŋemus jagiid. Dan dilis sii hálidit$(conm,d-id|háliidit) ovddemusat Samemišuvnna$(vowc,a-á;coninit,š-šš|Sámemiššuvnna) neahttasiidduid ođastit dássedit. Redaktevrra bargu bláđiin galgá ráddjejuvvot ja son galgá baicca eambbo bargat neahttasiidduid ođastemiin. Nu dieđiha Samenes Venn. KPK 
+Norgga Samemišuvnna$(vowc,a-á;conm,š-šš|Sámemiššuvnna) riikastivrras$(case,nom-gen|riikkastivrras) mearridedje ahte Samenes Venn-bláđđi ii šat ilmma dán jagi rájes nu dávjá go ovdal. Ovdal ilbme 11 nummara ja dál galget 8 nummara jahkái. 
+Duogáš lea go mišuvnna$(conm,š-šš|miššuvnna) bargiidlohku lea unnon maŋemus jagiid. Dan dilis sii hálidit$(conm,d-id|háliidit) ovddemusat Samemišuvnna$(vowc,a-á;conm,š-šš|Sámemiššuvnna) neahttasiidduid ođastit dássedit. Redaktevrra bargu bláđiin galgá ráddjejuvvot ja son galgá baicca eambbo bargat neahttasiidduid ođastemiin. Nu dieđiha Samenes Venn. KPK 
 
 
 Davvisámi girkobasit Foldereidas 
-Maiddái dánnai jagi doallá Norgga Samemišuvdna$(vowc,a-á;coninit,š-šš|Sámemiššuvdna) davvisámi-dáru girkobasiid Foldereid girkus Davvi-Trøndelágas. Dan dahká ovttas báikkálaš searvegottiin. 
-Njukčamánu 18.beaivvi lea ipmilbálvalus sámi ja dáru gillii. Das maŋŋil lea girkogáffe servodatviesus. Suohkanbáhppa Karstein I. Ness ja Samemišuvnna$(vowc,a-á;coninit,š-šš|Sámemiššuvnna) ovddeš váldočálli Magne Gamlemshaug doallaba ipmilbálvalusa. Dulka lea Ellen Sara Sandvik Moen. KPK 
+Maiddái dánnai jagi doallá Norgga Samemišuvdna$(vowc,a-á;conm,š-šš|Sámemiššuvdna) davvisámi-dáru girkobasiid Foldereid girkus Davvi-Trøndelágas. Dan dahká ovttas báikkálaš searvegottiin. 
+Njukčamánu 18.beaivvi lea ipmilbálvalus sámi ja dáru gillii. Das maŋŋil lea girkogáffe servodatviesus. Suohkanbáhppa Karstein I. Ness ja Samemišuvnna$(vowc,a-á;conm,š-šš|Sámemiššuvnna) ovddeš váldočálli Magne Gamlemshaug doallaba ipmilbálvalusa. Dulka lea Ellen Sara Sandvik Moen. KPK 
 
 
 Dovddus davvinorgalaš baptista devddii čuođi jagi 
@@ -106,9 +106,9 @@ Norgga boarráseamos baptista, Haldis Øvergaard, Narviikas$(conc,ik-ikk|Narviik
 
 	
 Børre Knudsena maŋisčuovvu vihahuvvo Romssas
-Válgasearvegottit vihahit Thor Henrik With ođđa bisman njukčamánu 24.-25.beivviid. Son váldá bismadoaimma badjelasas maŋŋil go Børre Knudsen gárttai luohpat bisman dan dihtii go dearvvašvuohta hedjonii. Ođđa bisma lea bargan Norgga Kristtalaš Studeanta- ja Skuvlanuoraidsearvvis, lea bargan suohkanbáhppan ja dál doaibmá Samemišuvnna$(vowc,a-á;coninit,š-šš|Sámemiššuvnna) váldočállin. 
+Válgasearvegottit vihahit Thor Henrik With ođđa bisman njukčamánu 24.-25.beivviid. Son váldá bismadoaimma badjelasas maŋŋil go Børre Knudsen gárttai luohpat bisman dan dihtii go dearvvašvuohta hedjonii. Ođđa bisma lea bargan Norgga Kristtalaš Studeanta- ja Skuvlanuoraidsearvvis, lea bargan suohkanbáhppan ja dál doaibmá Samemišuvnna$(vowc,a-á;conm,š-šš|Sámemiššuvnna) váldočállin. 
 Preassadieđáhus lea almmuhuvvon ja das daddjo ahte válgasearvegottit ásahit ieža ipmilbálvalusaid dain guovlluin gos dovddasteaddji searvegoddi dovdá ahte Norgga girku sárdnideapmi lea gáidan eret Biibbalis ja lutherlaš$(conc,th-t|luteralaš) dovddastusas. Searvegotti miellahtut gullet eanas muddui Norgga girkui, muhto leat maid muhtin earát. Searvegottit birgejit ieža ruđalaččat, eai oaččo almmolaš doarjaga gostege ja ieža virgádit báhpaid. 
-Bismavihaheami$(case,nom-gen|Bismmavihaheami) jođiha bisma Roland Gustafson gii gullá Ruoŧa/Suoma Mišuvdnaprovinsii$(coninit,š-šš|Miššuvdnaprovinsii), árkabisma Walter Obare, Kenyas eret ja máŋggat earát. Vihaheapmi lea Romssas. KPK 
+Bismavihaheami$(case,nom-gen|Bismmavihaheami) jođiha bisma Roland Gustafson gii gullá Ruoŧa/Suoma Mišuvdnaprovinsii$(conm,š-šš|Miššuvdnaprovinsii), árkabisma Walter Obare, Kenyas eret ja máŋggat earát. Vihaheapmi lea Romssas. KPK 
 
 
 Šearbmafriddja vahku 
@@ -127,7 +127,7 @@ Normisjon lea ráhkadan ođđa strategiijaplána. Dasa lea bivdán oaiviliid olb
 
 
 (Blå Kors- direktevra)¢(cmp,2-1|Blå Kors-direktevra) cuiggoda Norsk Tippinga 
--Kulturministtar berre gulahallat dearvvašvuođaministariin, iige diktit (Norsk Tippings)$(fin,s-0|Norsk Tipping) speallat iežas spealu dan guvlui ahte eambbogat šaddet speallansorjavaččat (darvánit speallamii) ja sii eai galgga oažžut láhčit nu ahte geafit galget sin buriid doaimmaid ruhtadit. Nu dadjá Blå Kors Gaska ja Davvi regiovnna guovlludirektevra Odd Anders With, go addá komeantta$(coninit,m-mm|kommeantta) Norsk Tippinga plánaide ahte cegget ođđa speallanfálaldaga interneahtas. 
+-Kulturministtar berre gulahallat dearvvašvuođaministariin, iige diktit (Norsk Tippings)$(fin,s-0|Norsk Tipping) speallat iežas spealu dan guvlui ahte eambbogat šaddet speallansorjavaččat (darvánit speallamii) ja sii eai galgga oažžut láhčit nu ahte geafit galget sin buriid doaimmaid ruhtadit. Nu dadjá Blå Kors Gaska ja Davvi regiovnna guovlludirektevra Odd Anders With, go addá komeantta$(conm,m-mm|kommeantta) Norsk Tippinga plánaide ahte cegget ođđa speallanfálaldaga interneahtas. 
 Norsk Tipping sávvá álggahit kasinospealu ja eará spealuid interneahtas mas vurdet lasi sisaboađu birrasiid 300 miljovnna kruvnno jahkái. Sin mielas spealut eai váikkut dasa ahte olbmot eambbo šaddet speallansorjavažžan ja šaddet speallanváttisvuođat. (Spealut galget hábmejuvvot nu ahte dat unnimus lágis dolvot olbmuid dakkár speallandábiide maid eat hálit)¢(fin,t-it|Spealut galget hábmejuvvot nu ahte dat unnimus lágis dolvot olbmuid dakkár speallandábiide maid eat háliit). 
 With, gii maiddái jođiha fágaráđi mii gullá stáhtii ja man gohčodit Statens Institutt for rusmiddelforskning (SIRUS), lea garrasit reageren go Norsk Tipping ođđa geainnuid manná vai dine eambbo ruđaid. 
 -Dasa lea duogáš ágga go SIRUSa bargui maiddái gullá speallansorjavašvuohta. Lea maiddái álki árvidit manne Norsk Tipping ii leat gulaskuddan ásahusain maid gohčodit «Speallansorjavašvuohta – Norga» (Spilleavhengighet-Norge”) nu mo sii ledje lohpidan dahkat, dadjá With dáppe: blakors-mn.no. KPK 
@@ -173,7 +173,7 @@ doaibmaideá$(fin,á-a|doaibmaidea) lea ahte «galgá leat pedagogalaš, fágala
 
 Ollu skeaŋkkat Frelsesarmeái$(vowlat,á-a|Frelsesarmeai) 
 Frelsesarmeá$(vowlat,á-a|Frelsesarmea) Norggas oaččui measta 75 milj. kruvnno testamenterejuvvon skeaŋkkaid, čájehit álgologut jahkái 2011. Frelsesarmeá$(vowlat,á-a|Frelsesarmea) lea hui duhtávaš$(vowlat,a-á|duhtavaš) dáinna ruhtasummain$(vowlat,a-á|ruhtasummáin), vaikko dát lohku lea vuollelis go olahusjagis 2010, go oaččui 95 milj. kruvnno testamenterejuvvon skeaŋkkaid. 
-Sullii beallii$(typo|bealli) skeaŋkaruđas lea várrejuvvon vásedin (doaimmaide nu mo korps$(vowlat,0-a|korpsa), ásahusat ja mišuvdna$(coninit,š-šš|miššuvdna))£(kongr,nom-ill|doaimmaide nu mo korpsii, ásahusaide ja miššuvdnii. 
+Sullii beallii$(typo|bealli) skeaŋkaruđas lea várrejuvvon vásedin (doaimmaide nu mo korps$(vowlat,0-a|korpsa), ásahusat ja mišuvdna$(conm,š-šš|miššuvdna))£(kongr,nom-ill|doaimmaide nu mo korpsii, ásahusaide ja miššuvdnii. 
 Muđui adnojuvvo skeaŋkaruhta doaimmahit Frelsesarmeá$(vowlat,á-a|Frelsesarmea) eará bargguid. 
 - Mun lean nu giitevaš go nu oallugat muitet maiddái min barggu go čállet testameantta, dadjá njunuš diehtojuohki$(conc,hk-hkk|diehtojuohkki) Andrew Hannevik. KPK 
 
@@ -188,7 +188,7 @@ Váldočálli Øyvind Åsland lea ilus go Øystein Engås lea mieđihan váldost
 
 
 Miššonbláđiin unnon diŋgojeaddjit 
-Norgga stuorámus miššonbláđiid diŋgojeaddjelohku (lea veahá maŋás mannán jagis 2011)¢(vowlat,á-a|lea veahá maŋás mannan jagis 2011). Dagen-aviisa lea háhkan dieđuid ja daid dieđuid mielde ledje Agendas 3:16 (Normisjon) 10755 diŋgojeaddji jahkemolsumis. Dat lea 203 unnit go jagi ovdal. Eará stuora miššonbláđiid logut leat ná: Utsyn (Miššonlihttu) 10186 (-561), Misjonstidende (Miššonselskáhppi) 9813 (-315), Misjonsblad for Israel (Israelmišuvdna$(coninit,š-šš|Israelmiššuvdna) ) 7399 (- 75) ja Korsets Seier (Hellodatlihkadus) 5472 (-518). KPK
+Norgga stuorámus miššonbláđiid diŋgojeaddjelohku (lea veahá maŋás mannán jagis 2011)¢(vowlat,á-a|lea veahá maŋás mannan jagis 2011). Dagen-aviisa lea háhkan dieđuid ja daid dieđuid mielde ledje Agendas 3:16 (Normisjon) 10755 diŋgojeaddji jahkemolsumis. Dat lea 203 unnit go jagi ovdal. Eará stuora miššonbláđiid logut leat ná: Utsyn (Miššonlihttu) 10186 (-561), Misjonstidende (Miššonselskáhppi) 9813 (-315), Misjonsblad for Israel (Israelmišuvdna$(conm,š-šš|Israelmiššuvdna) ) 7399 (- 75) ja Korsets Seier (Hellodatlihkadus) 5472 (-518). KPK
 #Publisert: 10.01.2012
 
 
@@ -196,13 +196,13 @@ Norgga stuorámus miššonbláđiid diŋgojeaddjelohku (lea veahá maŋás mann�
 #http://www.kpk.no/artikkel/article/115481
 
 Radio DSF interneahtas
-Samemišuvnna$(vowc,a-á;coninit,š-šš|Sámemiššuvnna) lagasradio$(vowc,a-á|lagasrádio), Radio DSF, gullo ođđajagimánu 1.beaivvis interneahtas Radio DSF ruovttusiiddus, 
+Samemišuvnna$(vowc,a-á;conm,š-šš|Sámemiššuvnna) lagasradio$(vowc,a-á|lagasrádio), Radio DSF, gullo ođđajagimánu 1.beaivvis interneahtas Radio DSF ruovttusiiddus, 
 #www.radiodsf.no. 
 Doppe sáhttá maid guldalit ja viežžat iežas dihtorii čoakkalmasaid ja muhtin fásta radioprográmmaid$(vowc,a-á|rádioprográmmaid). Radio DSF áigu maid jagis 2012 sáddet gaskavahkkočoakkalmasaid eahkes, olu dáin leat njuolggosáddagat iešguđet báikkiin Finnmárkkus. KPK 
 
 
-Samemišuvnna$(vowc,a-á;coninit,š-šš|Sámemiššuvnna) sisaboađut unnon 
-Samemišuvdna$(vowc,a-á;coninit,š-šš|Sámemiššuvdna) meroštallá ahte mišuvnna$(coninit,š-šš|miššuvnna) sisaboađut jahkái 2011 leat birrasiid 1 miljon ruvnno vuollelis go jagis 2010. Ekonomiija vástideaddji Trine Lernæs čállá Samenes Venn maŋemus bláđis ahte sisaboađut leat unnon dan dihtii go miššonsearvvit ja doarjut leat unnon. Mišuvnnas$(coninit,š-šš|Miššuvnnas) leat foandasisaboađut, muhto finánsaroassu máilmmis dahká ahte dáin maid unnu dienas eambbo go dábálaš. Dábálaččat láve foandadietnasiiguin sáhttit bálkáhit 3-4 bargi. 
+Samemišuvnna$(vowc,a-á;conm,š-šš|Sámemiššuvnna) sisaboađut unnon 
+Samemišuvdna$(vowc,a-á;conm,š-šš|Sámemiššuvdna) meroštallá ahte mišuvnna$(conm,š-šš|miššuvnna) sisaboađut jahkái 2011 leat birrasiid 1 miljon ruvnno vuollelis go jagis 2010. Ekonomiija vástideaddji Trine Lernæs čállá Samenes Venn maŋemus bláđis ahte sisaboađut leat unnon dan dihtii go miššonsearvvit ja doarjut leat unnon. Mišuvnnas$(conm,š-šš|Miššuvnnas) leat foandasisaboađut, muhto finánsaroassu máilmmis dahká ahte dáin maid unnu dienas eambbo go dábálaš. Dábálaččat láve foandadietnasiiguin sáhttit bálkáhit 3-4 bargi. 
 - Olggosgoluid lea miššonsearvi geahpedan nu olu go vejolaš, muhtimiid mielas mii leat čuohppan gitta dávttiid rádjái, čállá Lernæs. KPK
 
 #Publisert: 05.01.2012

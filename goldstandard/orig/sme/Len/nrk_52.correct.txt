@@ -16,9 +16,9 @@ Dát lea Oslo Sámi viesu stivrra nubbejođiheaddji$(vowlat,e-i|nubbijođiheaddj
 Ođđa dállui
 Golggotmánus dán jagi fárrii Oslo Sámi viessu ođđa vuogas lanjaide Grunerløkkai, maŋŋágo sullii jagi ledje leamaš almmá dihto lanjaid haga.
 
-KLP Eiendom dat oamasta opmodaga, ja sii leat gáibidan 320.000 ruvnnu ovddalgihtii máksun dahje nugohčoduvvon$(cmp,1-2|nu gohčoduvvon) depositumain$(loan,ess,fin,in-n|deposituman) ovdalgo láigohit lanjaid.
+KLP Eiendom dat oamasta opmodaga, ja sii leat gáibidan 320.000 ruvnnu ovddalgihtii máksun dahje nugohčoduvvon$(cmp,1-2|nu gohčoduvvon) depositumain$(fin,in-n|deposituman) ovdalgo láigohit lanjaid.
 
-– Sii dáhkkedit$(conc,hkk-hk|dáhkidit) dán supmi Oslo Sámi vissui, lohká Sámediggeráđđelahttu Vibeke Larsen.
+– Sii dáhkkedit$(conc,hkk-hk;vowlat,e-i|dáhkidit) dán supmi Oslo Sámi vissui, lohká Sámediggeráđđelahttu Vibeke Larsen.
 
 Geahččat šiehtadusa ođđasit
 Sámediggeráđđi ávžžuha seammás Oslo Sámi viesu hilgut dan oasi soahpamušas KLP Eiendom fitnodagain, gos daddjo ahte Sámi viessu ii sáhte cealkit eret láigosoahpamuša. Jus sii almmatge celket eret láigosoahpamuša, de fertejit máksit láiggu dassáigo KLP Eiendom gávdná ođđa láigoheaddji.
@@ -27,6 +27,6 @@ Sámediggeráđđi ávžžuha seammás Oslo Sámi viesu hilgut dan oasi soahpamu
 
 Ann-Elise Finbog lohká, ahte Sámedikki ráva lea buorre ja ahte sii dál áigot bivdit doallat ođđa láigošiehtadallama KLP Eiendom fitnodagain.
 
-- Sámediggi lea dás addán sidjiide buori£buriid ákkaid, čilge Finbog.
+- Sámediggi lea dás addán sidjiide (buori ákkaid)£(kongr,sg-pl|buriid ákkaid), čilge Finbog.
 
 KLP Eiendom Oslos ii leat vel sáhttán vástidit dán áššái.

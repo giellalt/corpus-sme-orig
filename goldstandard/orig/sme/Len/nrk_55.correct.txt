@@ -12,11 +12,11 @@ Olbmot čuohteduháhiid mielde illudit go besset gullat Jesusis. Dán muitala s�
 
 Ášši doaimmaha Ánne Olli
 
-Sárnideaba$(conc,rn-rdn|Sárdnideaba) olmmošálbmogii Mátta-Sudanas$(prop,vowc,a-á|Mátta-Sudánas)
-Runar Balto lea dál nuppe heave$(vowc,ea-á|háve) dán jagis mátkis$(conc,tk-tkk|mátkkis) Áfrihkás$(prop,vowc,á-a|Afrihkás) sárdnideamen Ipmilsánis. Son mátkošta$(conc,tk-tkk|mátkkošta) ovttas tromsalaččain Bjørnar Heimstad:n$(prop,suf|Heimstadain). Soai leaba sárdnemátkis$(conc,tk-tkk|sárdnemátkkis) "International Gospel mission" ovddas, ja dán heave$(vowc,ea-á|háve) leaba soai Rumbec gávpogis Mátta-Sudánas Afrihkás.
+Sárnideaba$(conc,rn-rdn|Sárdnideaba) olmmošálbmogii Mátta-Sudanas$(vowc,a-á|Mátta-Sudánas)
+Runar Balto lea dál nuppe heave$(vowc,ea-á|háve) dán jagis mátkis$(conc,tk-tkk|mátkkis) Áfrihkás$(vowc,á-a|Afrihkás) sárdnideamen Ipmilsánis. Son mátkošta$(conc,tk-tkk|mátkkošta) ovttas tromsalaččain Bjørnar Heimstad:n$(prop,suf|Heimstadain). Soai leaba sárdnemátkis$(conc,tk-tkk|sárdnemátkkis) "International Gospel mission" ovddas, ja dán heave$(vowc,ea-á|háve) leaba soai (Rumbec gávpogis)¢(cmp,2-1|Rumbec-gávpogis) Mátta-Sudánas Afrihkás.
 
-Rumbec gávpogis feastiválas$(loan,vowc,mono|festiválas)
-Rumbec gávpogis lágiduvvo festivála gos 150 duhát olbmo oassálasttet$(conc,stt-st|oassálastet), ja juohke beaivve čuvvot lágabui$(vowc,á-a|lagabui) 30 duhát olbmo sin čoakkálmasaid. Dán lohká kárášjohkalaš Runar Balto illudahttit, ja iige gávnna sániid čilget maid dát mearkkaša sutnje, muhto lohká dán leat stuorisin vásihit.
+(Rumbec gávpogis)¢(cmp,2-1|Rumbec-gávpogis) feastiválas$(vowc,mono|festiválas)
+(Rumbec gávpogis)¢(cmp,2-1|Rumbec-gávpogis) lágiduvvo festivála gos 150 duhát olbmo oassálasttet$(conc,stt-st|oassálastet), ja juohke beaivve čuvvot lágabui$(vowc,á-a|lagabui) 30 duhát olbmo sin čoakkálmasaid. Dán lohká kárášjohkalaš Runar Balto illudahttit, ja iige gávnna sániid čilget maid dát mearkkaša sutnje, muhto lohká dán leat stuorisin vásihit.
 
-Iežas lohká gal ovdalge sárdnidan dákkáraš stuorra jovkui, guovvamánus son sárdnidii Mátta Sudanas$(prop,vowc,a-á|Sudánas) jovkui mas ledje 200 duhát olbmo gullamin. Iežas lohká illudit go beassá ná ollu olbmuide muitalit Jesusis, ja oaivvilda iežas Ipmila dáhttu$(conc,htt-ht|dáhtu) mielde bargat go sárdnida Ipmilsánis.
+Iežas lohká gal ovdalge sárdnidan dákkáraš stuorra jovkui, guovvamánus son sárdnidii Mátta Sudanas$(cmp,2-1;vowc,a-á|Mátta-Sudánas) jovkui mas ledje 200 duhát olbmo gullamin. Iežas lohká illudit go beassá ná ollu olbmuide muitalit Jesusis, ja (oaivvilda iežas Ipmila dáhttu mielde bargat)¢(conc,htt-ht|oaivvilda iežas Ipmila dáhtu mielde bargat) go sárdnida Ipmilsánis.
 

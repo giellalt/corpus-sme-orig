@@ -6,18 +6,18 @@
 Stoahkan- ja lihkadanlávlagat
 Árvvoštallet ođđa bártasajiid$(vowc,á-a|bartasajiid)
 
-Poršaŋggu$(coninit,rš-rs;vowc,a-á|Porsáŋggu) gielddastivrra dohkkehii duorastaga plánastrategiija¢(conc,vrr-vr|gielddastivra dohkkehii duorastaga plánastrategiija) 2015 rádjai, mas maid lea oassin birrasii duhát ođđa bartátomtta$(vowc,á-a|bartatomtta) gielddas.
+Poršaŋggu$(conm,rš-rs;vowc,a-á|Porsáŋggu) gielddastivrra dohkkehii duorastaga plánastrategiija¢(conc,vrr-vr|gielddastivra dohkkehii duorastaga plánastrategiija) 2015 rádjai, mas maid lea oassin birrasii duhát ođđa bartátomtta$(vowc,á-a|bartatomtta) gielddas.
 
-– Dat ii leat mearreduvvon$(vowlat,e-i|mearriduvvon) gosa dát bártasajit$(vowc,á-a|bartasajit) šaddet, ii leat gal nu ahte šaddet dušše guovttebeallai$(cmp,1-2;vowlat,a-á|guovtte beallái) Poršaŋgguvuona$(coninit,rš-rs;vowc,a-á|Porsáŋgguvuona), nu go lea gullostan, lohká sátnejođiheaddji Knut Roger Hanssen.
+– Dat ii leat mearreduvvon$(vowlat,e-i|mearriduvvon) gosa dát bártasajit$(vowc,á-a|bartasajit) šaddet, ii leat gal nu ahte šaddet dušše guovttebeallai$(cmp,1-2;vowlat,a-á|guovtte beallái) Poršaŋgguvuona$(conm,rš-rs;vowc,a-á|Porsáŋgguvuona), nu go lea gullostan, lohká sátnejođiheaddji Knut Roger Hanssen.
 
 Olgešbellodaga politihkkár ja sátnejođiheaddji (lohká dál plánegoahttit)¢(conc,htt-ht|lohká dál plánegoahtit) mo bártahuksenvejolašvuođat$(vowc,á-a|bartahuksenvejolašvuođat) berrejit leat.
 
 – Buorre gullat
-Poršánggu$(coninit,rš-rs;conc,ngg-ŋgg|Porsáŋggu) gielddastivra gieđahalai earret eará bártaášši$(vowc,á-a|bartaášši) ikte ja okta gii lea vuorddašan mo dát šaddá, lea boazodoalli Alf Johansen.
+Poršánggu$(conm,rš-rs;conc,ngg-ŋgg|Porsáŋggu) gielddastivra gieđahalai earret eará bártaášši$(vowc,á-a|bartaášši) ikte ja okta gii lea vuorddašan mo dát šaddá, lea boazodoalli Alf Johansen.
 
 – Geahppu veaháš gullat ahte ii leat mearreduvvon$(vowlat,e-i|mearriduvvon) justta$(conc,stt-st|justa) gosa plánejit dáid bárttaid$(vowc,á-a|barttaid), lohká Alf Johansen.
 
-Árabut dán vahkus son lei fuolastuvvan gieldda plánaide, go lei gullan ahte gártet duhát ođđa bártasaji$(vowc,á-a|bartasaji) guovttebeallai$(cmp,1-2;vowlat,a-á|guovtte beallái) Porsangguvuona$(coninit,a-á;conc,ngg-ŋgg|Porsáŋgguvuona), gos geasseeatnamiin leat birrasii 20-duhát bohcco.
+Árabut dán vahkus son lei fuolastuvvan gieldda plánaide, go lei gullan ahte gártet duhát ođđa bártasaji$(vowc,á-a|bartasaji) guovttebeallai$(cmp,1-2;vowlat,a-á|guovtte beallái) Porsangguvuona$(vowc,a-á;conc,ngg-ŋgg|Porsáŋgguvuona), gos geasseeatnamiin leat birrasii 20-duhát bohcco.
 
 – (Boazodoallit čoahkkinasttigoahttit)$(conc,stt-st;conc,htt-ht;vowc,mono;vowlat,i-e|Boazodoallit čoahkkinastigohtet)
 Alf Johansen lohká boazodoalliin$(vowc,mono|boazodolliin) dárbu dál gulahallat dán áššis, ja son sávvá bártahuksemiid$(vowc,á-a|bartahuksemiid) bidjat guovlluide gos jo leat bárttat$(vowc,á-a|barttat) ja maid boazoealáhus lea dohkkehan.

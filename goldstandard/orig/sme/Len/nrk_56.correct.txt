@@ -7,16 +7,16 @@ Eanadoalloskuvla ii heaittihuvvo
 
 Finnmárkku áidna eanandoalloskuvlla, Deanu joatkkaskuvlla, ii dattetge heaittihuvvo.
 
-Finnmárkku filkkaráđđealmmái$(loan,vowc,i-y|fylkkaráđđealmmái) ja filkkalávdegoddi$(loan,vowc,i-y|fylkkalávdegoddi) ledje árvalan ahte Deanu joatkkaskuvla galgá heaittihuvvot, dan eai čuovvolan filkkapolitihkkárat$(loan,vowc,i-y|fylkkapolitihkkárat) ikte.
+Finnmárkku filkkaráđđealmmái$(vowc,i-y|fylkkaráđđealmmái) ja filkkalávdegoddi$(vowc,i-y|fylkkalávdegoddi) ledje árvalan ahte Deanu joatkkaskuvla galgá heaittihuvvot, dan eai čuovvolan$(vowlat,o-u|čuovvulan) filkkapolitihkkárat$(vowc,i-y|fylkkapolitihkkárat) ikte.
 
 – Dál gal lean hui movtta go eai heaittit skuvlla, lohká oahppi Vibeke Johnsen.
 
 Jahkásaš áitta
-Vaikke joatkkaskuvllaoahpi$(cmp,gen-nom;conc,hp-hpp|joatkkaskuvlaoahppi) Vibeke Johnsen leage duđavaš dál, de ballá ahte dás duohko juohke jagi vehážiid mielde geahpeduvvojit oahppofáladagat$(typo|oahppofálaldagat) eanandoalloskuvllas.
+Vaikke joatkkaskuvllaoahpi$(case,gen-nom;conc,hp-hpp|joatkkaskuvlaoahppi) Vibeke Johnsen leage duđavaš dál, de ballá ahte dás duohko juohke jagi vehážiid mielde geahpeduvvojit oahppofáladagat$(typo|oahppofálaldagat) eanandoalloskuvllas.
 
 - Ákkastallet sihkkarit fas dainna ahte menddo unnán oahppit dán skuvllas, dadjá Johnsen.
 
 Sihkkarastton$(conc,stt-st|Sihkkaraston) moatti jahkkái$(conc,hkk-hk|jahkái)
-Finnmárkku filkkasátnejođiheaddji$(loan,vowc,i-y|fylkkasátnejođiheaddji) Runar Sjåstad, dadjá bušeahta dál leat meannuduvvon čuvvovaš$(vowc,dihp|čuovvovaš) njealjji$(conc,ljj-lj|njealji) jahkái, ja eanadoalloskuvla, Deanu joatkkaskuvla ii galgga heaittihuvvot dán áigodagas.
+Finnmárkku filkkasátnejođiheaddji$(vowc,i-y|fylkkasátnejođiheaddji) Runar Sjåstad, dadjá bušeahta dál leat meannuduvvon čuvvovaš$(vowc,dihp|čuovvovaš) njealjji$(conc,ljj-lj|njealji) jahkái, ja eanadoalloskuvla, Deanu joatkkaskuvla ii galgga heaittihuvvot dán áigodagas.
 
-– Vaikke in sáhtege dađi guhkelii$(conc,hk-hkk|guhkkelii) dáhkidit, de in leat 13 jagi filkapoletihkkemis$(loan,vowc,i-y;vowlat,e-i|fylkapolitihkkemis) leamaš mielde ovttage skuvlla heaittiheamen, loahpaha Sjåstad.
+– Vaikke in sáhtege dađi guhkelii$(conc,hk-hkk|guhkkelii) dáhkidit, de in leat 13 jagi filkapoletihkkemis$(vowc,i-y;conc,lk-lkk;vowlat,e-i|fylkkapolitihkkemis) leamaš mielde ovttage skuvlla heaittiheamen, loahpaha Sjåstad.

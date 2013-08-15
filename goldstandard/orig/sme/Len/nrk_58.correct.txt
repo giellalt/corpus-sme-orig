@@ -9,15 +9,15 @@ Juovlastálut čajáhusas$(vowc,a-á|čájáhusas)
 
 Okta nubbi lea moadde vahku juo buktán Porsáŋggu girjerádjosii dakkáriid maid dábálaččat ii gávnna girjehilduid gaskkas. Dál devdet juovlastáložat girjerádjosa juovladovdduin.
 
-Porsáŋgu$(prop,conc,ŋg-ŋgg|Porsáŋggu) girjerájus lávii lágiđit$(conm,đ-d|lágidit) čájáhusaid. Dáid juovllaide mearrededje$(vowlat,e-i|mearridedje) ráhkadit juovlastálločájáhusa. Okta láigoheaddji dat árvalii dán, muitala girjerádjosa hoavda Ann-Britt Svane. Nu leat olbmot buktán luoikkasin juovlastáluid maid háliidit earáide ge čájehit.
+Porsáŋgu girjerájus lávii£(case,nom-gen|Porsáŋggu girjerájus lávii) lágiđit$(conm,đ-d|lágidit) čájáhusaid. Dáid juovllaide mearrededje$(vowlat,e-i|mearridedje) ráhkadit juovlastálločájáhusa. Okta láigoheaddji dat árvalii dán, muitala girjerádjosa hoavda Ann-Britt Svane. Nu leat olbmot buktán luoikkasin juovlastáluid maid háliidit earáide ge čájehit.
 
-Čájáhusas leat sihke ruovttu ráhkadan ja oston ávdnasat. Boarraseamos$(der,vowlat,a-á|Boarráseamos) oston juovlastáloš lea 1960 logus. Boarraseamos$(der,vowlat,a-á|Boarráseamos) ruovttu ráhkadan lea 30 jagi boaris. Boahtte jagi ii šatta seamma. Dalle hástet olbmuid eŋgeliid buktit, muitala Svane.
+Čájáhusas leat sihke ruovttu ráhkadan ja oston ávdnasat. Boarraseamos$(vowlat,a-á|Boarráseamos) oston juovlastáloš lea 1960 logus. Boarraseamos$(vowlat,a-á|Boarráseamos) ruovttu ráhkadan lea 30 jagi boaris. Boahtte jagi ii šatta seamma. Dalle hástet olbmuid eŋgeliid buktit, muitala Svane.
 
 
 Ann-Britt Svane ja juovlastálut
 
 Nuvttá suohtas
-Mángga$(conc,ngg-ŋgg|Máŋgga) girjerádjosis Norggas lea unnán ruhta eai ge suitte lágidit olus makkárge doaimmaid. Seamma dilis lea Porsáŋgu$(prop,conc,ŋg-ŋgg|Porsáŋggu) girjerájus. Danne lea nu buorre go dákkár nuvttá suohttasiid sáhttit ráhkadit, lohká Ann-Britt Svane.
+Mángga$(conc,ngg-ŋgg|Máŋgga) girjerádjosis Norggas lea unnán ruhta eai ge suitte lágidit olus makkárge doaimmaid. Seamma dilis (lea Porsáŋgu girjerájus)£(case,nom-gen|lea Porsáŋggu girjerájus). Danne lea nu buorre go dákkár nuvttá suohttasiid sáhttit ráhkadit, lohká Ann-Britt Svane.
 
 Facebookas son bovdii olbmuid buktit juovlastáluid. Ii ge son jáhkkán ahte ná ollu juovlastálut galge boahtit.
 
@@ -25,9 +25,9 @@ Somá geahčadit
 
 Sigdis Olsen ja su juovlastálut
 
-Sigdis Olsenis leat guokte juovlastáloža maid fállá čájáhussii. Son lea ieš daid ráhkadan 10- 15 jagi dás ovdal ja ledje šaddan garášii čihkosi$(ill,fin,0-i|čihkosii)..
+Sigdis Olsenis leat guokte juovlastáloža maid fállá čájáhussii. Son lea ieš daid ráhkadan (10- 15)¢(cmp,2-1|10-15) jagi dás ovdal ja ledje šaddan garášii čihkosi$(fin,0-i|čihkosii)..
 
 – Somá lea geahčadit juovlastáluid, Sigdis Olsen lohká ja ordnesta vel iežas juovlastáluid nu ahte ožžot buori saji čájáhusas.
 
-Čájáhus bistá nu guhkká$(conc,hkk-hk|guhká) go gávnojit$(conc,vn-vdn|gávdnojit) juovlastálut doppe. Juovlastáluid eaiggádat ožžot boahtit vežžat$(vowc,diph,e-ie|viežžat) iežaset dávviriid goas sihtet. Čájáhus soaitá nohkat ovdal juovllaid jus eaiggádat háliidit atnit juovlastáluid ruovttus juovlaruohta.
+Čájáhus (bistá nu guhkká go)¢(conc,hkk-hk|bistá nu guhká go) gávnojit$(conc,vn-vdn|gávdnojit) juovlastálut doppe. Juovlastáluid eaiggádat ožžot boahtit vežžat$(vowc,e-ie|viežžat) iežaset dávviriid goas sihtet. Čájáhus soaitá nohkat ovdal juovllaid jus eaiggádat háliidit atnit juovlastáluid ruovttus juovlaruohta.
 

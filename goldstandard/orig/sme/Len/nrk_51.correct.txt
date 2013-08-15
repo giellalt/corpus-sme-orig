@@ -7,29 +7,29 @@ Ráhkadit filmma muittohuvvan olbmos
 
 Julev Film ASa$(acro,suf|AS) jođiheaddji Odd Levi Paulsen
 
-Sii buvttadišgohtet filmma "Bonki", mas čájehit muittohuvvon$(der,vowlat,o-a|muittohuvvan) olbmos£olbmo boarrásiidsiiddas. Filbmadahkki Odd Levi Paulsen lea giitevaš Norsk Filmistituhta$(loan,foreign|Filbmainstituhta) ruhtadoarjagii£ruhtadoarjagis.
+Sii buvttadišgohtet filmma "Bonki", mas (čájehit (muittohuvvon olbmos)¢(vowlat,o-a|muittohuvvan olbmos))£(case,loc-acc|čájehit muittohuvvan olbmo) boarrásiidsiiddas. Filbmadahkki Odd Levi Paulsen lea (giitevaš Norsk Filmistituhta$(typo;conc,ht-tt|Filminstitutta) ruhtadoarjagii)£(case,ill-loc|giitevaš Norsk Filminstitutta ruhtadoarjagis).
 
 
 Ášši doaimmaha Ánne Olli
 
 Ožžo ruhtadoarjaga ráhkadit filmma
-Norsk filminstitutt lea Julev Film AS:ii$(acro,suf|AS:i) juolludan 700 duhát ruvnnu doarjjan dahkat oanehis filmma "Bonki". Dás lea sáhka muittohuvvan sápmelaš albmás geainna boarrásiidsiidda bargit eai áddehala. Julev Film ASa$(acro,suf|AS) njunoš$(vowlat,o-u|njunuš), Odd Levi Paulsen, lea giitevaš Norsk Filminstituhta$(loan,foreign|Filbmainstituhta) ruhtadoarrjagii$(conc,rrj-rj|ruhtadoarjagii).
+Norsk filminstitutt lea Julev Film AS:ii$(acro,suf|AS:i) juolludan 700 duhát ruvnnu doarjjan dahkat oanehis filmma "Bonki". Dás lea sáhka muittohuvvan sápmelaš albmás geainna boarrásiidsiidda bargit eai áddehala. Julev Film ASa$(acro,suf|AS) njunoš$(vowlat,o-u|njunuš), Odd Levi Paulsen, lea giitevaš Norsk Filminstituhta$(conc,ht-tt|Filminstitutta) ruhtadoarrjagii$(conc,rrj-rj|ruhtadoarjagii)£(case,ill-loc|giitevaš Norsk Filminstitutta ruhtadoarjagis).
 Silja Somby lea čállán mánusa
 Filmma sisdoalu, mánusa, lea Silja Somby čállán, ja dieđos$(vowlat,o-u|dieđus) go leat ožžon dákkáraš ruhtadoarjaga de muitala dát ahte sii leat rivttes bálgá alde, ahte filmmas lea árvu.
 
 Filmma namma lea "Bonki"
-Filmma maid sii áigot ráhkadit, dan namma lea Bonki, ja das lea sáhka boares albmás gean namma lea Niillas. Son lea boarrásiidsiiddas, muhto bargit dán boarrásiidsiiddas hállet dušše dárogiela, eaige sii gulahála$(vowc,á-a|gulahala) dáinna boares albmáin. Son dego eallá iežas eallima, čohkká dušše ja geahčča$(vowlat,a-á,I|geahččá) glásas olggos. muhto de álgá sámegielat bargi dán boarrásiisiidii$(cmp,conwb,s-ds|boarrásiidsiidii).
+Filmma maid sii áigot ráhkadit, dan namma lea Bonki, ja das lea sáhka boares albmás gean namma lea Niillas. Son lea boarrásiidsiiddas, muhto bargit dán boarrásiidsiiddas hállet dušše dárogiela, eaige sii gulahála$(vowc,á-a|gulahala) dáinna boares albmáin. Son dego eallá iežas eallima, čohkká dušše ja geahčča$(vowlat,a-á|geahččá) glásas olggos(. muhto)¢(coninit,cap|. Muhto) de álgá sámegielat bargi dán boarrásiisiidii$(conwb,s-ds|boarrásiidsiidii).
 
 Muittohuvvan almmái ealáska
 
-Boares almmái, son dego ealáska, muhto dárogielat bargit illá dahttot$(vowc,a-á|dáhttot) áddet ahte sámegiela dihtii dat ealáskii dát almmái. Muittohuvvon$(der,vowlat,o-a|muittohuvvan) almmái jouigagoahtá$(typo|juoigagoahtá), ja dáinna vugiin de šaddá sámegielat bargi gullat čiegusvuođa mii dahká su oalle unohis dillái.
+Boares almmái, son dego ealáska, muhto dárogielat bargit illá dahttot$(vowc,a-á|dáhttot) áddet ahte sámegiela dihtii dat ealáskii dát almmái. (Muittohuvvon almmái)¢(vowlat,o-a|Muittohuvvan almmái) jouigagoahtá$(typo|juoigagoahtá), ja dáinna vugiin de šaddá sámegielat bargi gullat čiegusvuođa mii dahká su oalle unohis dillái.
 
 Solhovd Álbmotallaskuvllas filbmejit
-Solhovd Álbmotallaskuvllas sii leat jurddašan dahkat eanaš oasi filmmas, muhto dáidet gal maid filbmet oasi Filbma-cámppas$(loan,conc,mpp-mp;vowc,á-a|Filbma-campas). Dál lohká Odd Levi Paulsen iežaset ohcamin neavttáriid ja sávašedje Nils Utsi vuolggášii neavttastit boarrásiidsiidda Niillasa, muđui eai leat vel ollásit mearridan daid eará neavttáriid.
+Solhovd Álbmotallaskuvllas sii leat jurddašan dahkat eanaš oasi filmmas, muhto dáidet gal maid filbmet oasi Filbma-cámppas$(conc,mpp-mp;vowc,á-a|Filbma-campas). Dál lohká Odd Levi Paulsen iežaset ohcamin neavttáriid ja sávašedje Nils Utsi vuolggášii neavttastit$(vowlat,a-e|neavttestit) boarrásiidsiidda Niillasa, muđui eai leat vel ollásit mearridan daid eará neavttáriid.
 
-Filmma leat árvvoštallan šaddat máksit badjel guokte miljon ruvnnu, de dát čiežačuohte$(vowlat,e-i|čiežačuohti) duhát maid Filbma Instituhtas leat ožžon mearkkaša hui olu.
+Filmma leat árvvoštallan šaddat máksit badjel guokte miljon ruvnnu, de dát čiežačuohte duhát maid (Filbma Instituhtas)¢(cmp,2-1|Filbmainstituhtas) leat ožžon mearkkaša hui olu.
 
 Nuorra filbmabuvttadeaddji dahká filmma
 Odd Levi Paulsen, lea 27 jagi boaris, son lea Áiluovttas Divttasvuonas eret. Iežas lohká filbmasearvvi Julev Film AS álggahan njukčamánus. Ja jurdda lea ráhkadit sihke dáro- ja sámifilmmaid$(cmp,vowlat|sámefilmmaid).
 
-Bonki nammasaš filmma lohká šaddat sihke dáro ja sámegillii, justa danne go duohtavuohta han lea nie sámiid beaivválaš eallimis. Filbmiid$(ill,fin,id-i|Filbmii) álget guovvamánu loahpas dahje njukčamánu álggus, danne dáidáge dát oanehisfilbma leat oaidninláhkai$(cmp,1-2|oaidnin láhkai) boahtte jagi loahpa, nu son lohká Odd Levi Paulsen.
+Bonki nammasaš filmma lohká šaddat sihke (dáro ja sámegillii)¢(hyph,0-1|dáro- ja sámegillii), justa danne go duohtavuohta han lea nie sámiid beaivválaš eallimis. Filbmiid$(fin,id-i|Filbmii) álget guovvamánu loahpas dahje njukčamánu álggus, danne dáidáge dát oanehisfilbma leat oaidninláhkai$(cmp,1-2|oaidnin láhkai) boahtte jagi loahpa, nu son lohká Odd Levi Paulsen.
