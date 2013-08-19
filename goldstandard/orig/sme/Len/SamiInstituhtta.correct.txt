@@ -1,32 +1,32 @@
 #http://www.samiskhs.no/article.php?id=188&p= 
 #27.04.10
 
-Sámi allaskuvlla dutkanossodaga historja$(loan,vowlat,a-á|historjá)
+Sámi allaskuvlla dutkanossodaga historja$(vowlat,a-á|historjá)
 
 
 25.03.2008
 Sámi Instituhtta ásahuvvui jagis 1973 Guovdageidnui, Norgii, dutkan- ja álbmotkultuvrralaš ásahussan. Sámi Instituhtta lei sámi dutkanásahus, mii 2005 laktojuvvui Sámi allaskuvlii. Sámi allaskuvlla dutkama ulbmil lea nannet ja ovddidit sámegiela, sámi kultuvrra ja servodateallima.
 
-Historja$(loan,vowlat,a-á|Historjá)
+Historja$(vowlat,a-á|Historjá)
 
 Badjel 30 jagi
-Instituhtta vuoððuduvvui$(ð-đ|vuođđuduvvui) jagis 1973 dutkan- ja oppalaš kultuvrralaš ásahussan ja oassin Davviriikkaid Ministtarráði$(ð-đ|Ministtarráđi) organisašuvnnas. Daði$(ð-đ|Dađi) mielde rievdaduvvui SI váldodoaibma sámi dutkama beallái. Dál leat SIs$(acro,suf|SI:s) sullii guoktelogi dutkki$(conc,tkk-tk|dutki) geat čaðahit$(ð-đ|čađahit) dutkanprošeavttaid sámi giela, servodat- ja riekte-dutkamis$(cmp,hyph-0|riektedutkamis). Dutkan čaðahuvvo$(ð-đ|čađahuvvo) ovttasbargguin eará dutkan- ja oahpahusásahusaiguin ja mas lea buotsámi ja riikkaidgaskasaš vuolggasadji.
-Sámi dutkamis lea dehálaš mearkkašupmi sámi servodagaid boahtteáiggi ovddideamis. Juohke eamiálbmotservodat dárbbaša hukset iežaset máhtu ja gelbbolašvuoða$(ð-đ|gelbbolašvuođa). Okta dehálaš mihttomearri Instituhtas lea ahte leat mielde ovddideame riikkaidgaskasaš eamiálbmot-dutkama$(hyph|eamiálbmotdutkama).
+Instituhtta vuoððuduvvui$(conc,ðð-đđ|vuođđuduvvui) jagis 1973 dutkan- ja oppalaš kultuvrralaš ásahussan ja oassin Davviriikkaid Ministtarráði$(conc,ð-đ|Ministtarráđi) organisašuvnnas. Daði$(conc,ð-đ|Dađi) mielde rievdaduvvui SI váldodoaibma sámi dutkama beallái. Dál leat SIs$(acro,suf|SI:s) sullii guoktelogi dutkki$(conc,tkk-tk|dutki) geat čaðahit$(conc,ð-đ|čađahit) dutkanprošeavttaid sámi giela, servodat- ja riekte-dutkamis. Dutkan čaðahuvvo$(conc,ð-đ|čađahuvvo) ovttasbargguin eará dutkan- ja oahpahusásahusaiguin ja mas lea buotsámi ja riikkaidgaskasaš vuolggasadji.
+Sámi dutkamis lea dehálaš mearkkašupmi sámi servodagaid boahtteáiggi ovddideamis. Juohke eamiálbmotservodat dárbbaša hukset iežaset máhtu ja gelbbolašvuoða$(conc,ð-đ|gelbbolašvuođa). Okta dehálaš mihttomearri Instituhtas lea ahte leat mielde ovddideame riikkaidgaskasaš eamiálbmot-dutkama.
 
 Gielladutkan
-Sámi Insituhtas$(loan,typo|Instituhtas) lea sámegiela atnin dutkamis guovddážis. Instituhta gielladutkamis dutkojuvvo giela vuogádat (lingvisttalaš vuogádat) ja giela atnima eavttut. Sosiolingvisttalaš dutkanprošeavttat addet dakkár dieðuid$(ð-đ|dieđuid) ja máhtuid mat leat ávkkálaččat vai buoremusat sáhttá láhčit sámegiela atnima dili servodagas. 
+Sámi Insituhtas$(typo|Instituhtas) lea sámegiela atnin dutkamis guovddážis. Instituhta gielladutkamis dutkojuvvo giela vuogádat (lingvisttalaš vuogádat) ja giela atnima eavttut. Sosiolingvisttalaš dutkanprošeavttat addet dakkár dieðuid$(conc,ð-đ|dieđuid) ja máhtuid mat leat ávkkálaččat vai buoremusat sáhttá láhčit sámegiela atnima dili servodagas. 
  
 Riektedutkan
-Instituhta riektedutkamis lea leamašan mihttomearrin guorahallat sámiid historjjálaš ja dálá rivttiid. Instituhtta lea vuoruhan vuoigatvuoðadutkama$(ð-đ|vuoigatvuođadutkama) eatnamiidda ja čážiide$(conc,ž-z|čáziide) dannego iešguðetlágán$(ð-đ|iešguđetlágán) sisabahkken sámi guovlluide lea lassánan. Riektedutkamis dutkojuvvojit riikkaidgaskasaš álbmotrievttit, sámiid rievttit ja riektehistorja$(loan,vowlat,a-á|riektehistorjá). 
+Instituhta riektedutkamis lea leamašan mihttomearrin guorahallat sámiid historjjálaš ja dálá rivttiid. Instituhtta lea vuoruhan vuoigatvuoðadutkama$(conc,ð-đ|vuoigatvuođadutkama) eatnamiidda ja čážiide$(conc,ž-z|čáziide) dannego iešguðetlágán$(conc,ð-đ|iešguđetlágán) sisabahkken sámi guovlluide lea lassánan. Riektedutkamis dutkojuvvojit riikkaidgaskasaš álbmotrievttit, sámiid rievttit ja riektehistorja$(vowlat,a-á|riektehistorjá). 
  
 Servodatdutkan
-Instituhta servodatdutkamis dutkojuvvojit sámiid servodateallima sosiala$(loan,vowc,a-á|sosiála), kultuvrralaš, politihkkalaš$(loan,conc,hkk-hk|politihkalaš) ja ekonomalaš eavttut, dás maddái$(typo|maiddái) nuppástusat ja mainnalágiin$(cmp,1-2|mainna lágiin) ovttaskas olbmot ja servodagat dustejit ja hálddašit nuppástusproseassaid. Servodatdutkama guovddáš fáttat leat luondduriggodagaid hálddašeapmi, sámi luonddu- ja eanadatgeavaheapmi ja sámi vuoððoealáhusat$(ð-đ|vuođđoealáhusat). SI boazodoalodutkan$(conc,l-ll|boazodoallodutkan) lea fágaidrasttildeaddji dutkan ja das leat oktavuoðat$(ð-đ|oktavuođat) eará ásahusaid dutkamii. 
+Instituhta servodatdutkamis dutkojuvvojit sámiid servodateallima sosiala$(vowc,a-á|sosiála), kultuvrralaš, politihkkalaš$(conc,hkk-hk|politihkalaš) ja ekonomalaš eavttut, dás maddái$(typo|maiddái) nuppástusat ja mainnalágiin$(cmp,1-2|mainna lágiin) ovttaskas olbmot ja servodagat dustejit ja hálddašit nuppástusproseassaid. Servodatdutkama guovddáš fáttat leat luondduriggodagaid hálddašeapmi, sámi luonddu- ja eanadatgeavaheapmi ja sámi vuoððoealáhusat$(conc,ðð-đđ|vuođđoealáhusat). SI boazodoalodutkan$(case,gen-nom|boazodoallodutkan) lea fágaidrasttildeaddji dutkan ja das leat oktavuoðat$(conc,ð-đ|oktavuođat) eará ásahusaid dutkamii. 
 
 
 Dutkansuorggit
 
 
-Sámi dutkaninstituhta dutkansuorggit leat ee. sámegiella, kultuvra, boazodoallu ja eará árbevirolaš ealáhusat. Sámi dutkaninstituhta dehálaš doaibman lea maiddái riektedutkan báikkálaš, našunála ja riikkaidgaskasaš dásiin, ee. álgoálbmotrievtti olis. Instituhta doaimma mihttomearri lea čuovvut ja ovdánahttit riikkaidgaskasaš eamiálbmotdutkama.
+Sámi dutkaninstituhta dutkansuorggit leat ee. sámegiella, kultuvra, boazodoallu ja eará árbevirolaš ealáhusat. Sámi dutkaninstituhta dehálaš doaibman lea maiddái riektedutkan báikkálaš, našunála$(conc,š-ti;vowlat,u-o|nationála) ja riikkaidgaskasaš dásiin, ee. álgoálbmotrievtti olis. Instituhta doaimma mihttomearri lea čuovvut ja ovdánahttit riikkaidgaskasaš eamiálbmotdutkama.
 
 Fágagoađit
 Sámi dutkaninstituhta fágabargit gullet organisašuvnnalaččat iešguđet fágaossodagaide matgohčoduvvojit$(cmp,1-2|mat gohčoduvvojit) fágagoahtin. Nu gullet ge maid iešguđet dutkansuorggit iešguđet fágagođiide. 
