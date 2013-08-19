@@ -42,7 +42,7 @@ Maŋŋel (kaféa doaluid)¢(cmp,2-1|kaféadoaluid) dalle fertejit (sii geas leat
 
 (KAFEA- KÁSSA)¢(cmp,2-1|KAFEAKÁSSA): (kaféa- kássa)¢(cmp,2-1|kaféakássa) vižžojuvvo skuvllas. Gii dan viežžá fertebehtet ieža mearridit. Maŋŋel doaluid de galgá (kaféa- kássa)¢(cmp,2-1|kaféakássa) buktojuvvot skuvlii mánnodagas£(case,loc-gen|mánnodaga). (Jus lea mii nu mii váilu kássas- de fertebehtet čálistit unna girjážii$(conc,rj-rjj|girjjážii))¥(punct,x|Jus lea mii nu mii váilu kássas, de fertebehtet čálistit unna girjjážii mii lea (ruhta- kássas)¢(cmp,2-1|ruhtakássas).
 
-(RUHTA- KÁSSAS)¢(cmp,2-1|RUHTAKÁSSAS): galgá álohit€(fin,t-i|álohii) leat 1000,- . Maŋŋel doaluid, fertebehtet rehkenastit dietnasa ja čállet dan unna girjjážii mii lea (ruhta- kássas)¢(cmp,2-1|ruhtakássas). Dietnasa bidjabehtet sierra (plastihka-$(conc,nom-gen|plastihkka-) bosi¢(mix|bussii))¢(cmp,2-1|plastihkkabussii) nu ahte mii skuvllas eat dárbbaš lohkat dáid.
+(RUHTA- KÁSSAS)¢(cmp,2-1|RUHTAKÁSSAS): galgá álohit€(fin,t-i|álohii) leat 1000,- . Maŋŋel doaluid, fertebehtet rehkenastit dietnasa ja čállet dan unna girjjážii mii lea (ruhta- kássas)¢(cmp,2-1|ruhtakássas). Dietnasa bidjabehtet sierra (plastihka-$(conc,hk-hkk|plastihkka-) bosi¢(mix|bussii))¢(cmp,2-1|plastihkkabussii) nu ahte mii skuvllas eat dárbbaš lohkat dáid.
 
 (MÁNÁID- GÁRDDI)¢(cmp,2-1|MÁNÁIDGÁRDDI) RAHPAN JA LÁSSEN: Dát ášši ii leat vuos čielggas. Ovdal lea leamaš nu ahte muhtin Sámi váhnenfierpmádagas rahpán$(fin,n-0|rahpá) ja lásse uvssa. 
 
