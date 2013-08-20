@@ -2,9 +2,9 @@
 #11.12.12
 
 Eanodagas dáhtošedje doarjut studeanttaid skuvlamátkkiid
-almmustahttojuvvon 6.9. diibmu 14:33, beaividuvvon$(der,vowlat,i-á|beaiváduvvon) 6.9. diibmu 16:15
+almmustahttojuvvon 6.9. diibmu 14:33, beaividuvvon$(vowlat,i-á|beaiváduvvon) 6.9. diibmu 16:15
 
 Eanodaga gielddas dáhtošedje doarjut studeanttaid skuvlamátkkiid. Čuvgehuslávdegoddi lea evttohan gielddaráđđehussii, ahte dat várrešii mátkkiid várás 15 000 euro jagi 2013 bušeahtas.
-Mannan giđa nuoraid- ja astoáiggibagadalli$(cmp,gen-nom|astoáigebagadalli) Milla-Maria Isohanni guorahalai, makkár doarjjadárbbut eanodahkalaš$(der,dahka-dat|eanodatlaš) nuorain leat. Čielggadeami mielde nuorat dárbbašit ruđalaš doarjaga mátkkiide ruovttugielddas studerenbáikái.
-Čuvgehuslávdegoddi lea evttohan, ahte gielda mávssašii eanodahkalaš$(der,dahka-dat|eanodatlaš) studeanttaide oktii čakča- ja giđđalohkanbajis mátkedoarjaga. Mátkedoarjja guoskkašii daid studeanttaid, geain Eanodat lea merkejuvvon ruovttubáikin.
-Eanodagas leat guorahallan, ahte gielddas leat 43 nuppi dási studeantta. Eatnašat studerejit Roavvenjárgga dahje Giema-Durdnos$(prop,vowlat,0-a|Giema-Durdnosa) guovllus. Muhtimat leat vuolgán oahpuid maŋis Oului dahje Nuorta-Supmii.
+Mannan giđa nuoraid- ja astoáiggibagadalli$(vowlat,i-e|astoáiggebagadalli) Milla-Maria Isohanni guorahalai, makkár doarjjadárbbut eanodahkalaš$(fin,hka-t|eanodatlaš) nuorain leat. Čielggadeami mielde nuorat dárbbašit ruđalaš doarjaga mátkkiide ruovttugielddas studerenbáikái.
+(Čuvgehuslávdegoddi lea evttohan, ahte gielda mávssašii)¢(vowlat,a-á|Čuvgehuslávdegoddi lea evttohan, ahte gielda mávssášii) eanodahkalaš$(fin,hka-t|eanodatlaš) studeanttaide oktii čakča- ja giđđalohkanbajis mátkedoarjaga. Mátkedoarjja guoskkašii daid studeanttaid, geain Eanodat lea merkejuvvon ruovttubáikin.
+Eanodagas leat guorahallan, ahte gielddas leat 43 nuppi dási studeantta. Eatnašat studerejit Roavvenjárgga dahje Giema-Durdnos$(vowm,0-a|Giema-Durdnosa) guovllus. Muhtimat leat vuolgán oahpuid maŋis Oului dahje Nuorta-Supmii.

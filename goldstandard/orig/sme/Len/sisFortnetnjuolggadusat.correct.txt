@@ -43,11 +43,11 @@ III. Mearradusat$(vowlat,a-á|Mearrádusat)
  
 13. Sihkkeliid, mánávávnnaid, sabehiid ja mohtorvuojániid oažžu dušše bidjat čujuhuvvon sajiide iige oktašsajiide$(typo|oktasašsajiide) gos sáhttet leat hehttehussan eará ássiide.
  
-14. Láigoheadji$(conc,dj-ddj|Láigoheaddji) ovddasvástideaddjis dahje muhtimis geas lea su váldi, lea riekti bearráigeahččat buot lanjaid. Dábálaččat galgá dan birra addon diehtu ovdagihtii. Earenoamaš$(vowlat,a-á|Earenoamáš) dilálašvuođain sáhtta$(vowlat,a-á,I|sáhttá) goikke$(conwb,ikk-itg|goitge) bearráigehččot dieđitkeahttá. Láigoheaddjis lea lohpi divodit ja buoridit viesu vaikko goas, muhto jus praktihkkalaččat$(loan,conc,hkk-hk|praktihkalaččat) lea vejolaš, galga$(vowlat,a-á,I|galgá) láigolažžii dieđihuvvot maiddái dan birra. Láigoheaddjis lea maiddái lohpi iskkat$(conc,skk-sk|iskat) el-mihttára juohke njealjádasjagi, jus ii šihtto eará ortnet láigolaččain.
+14. Láigoheadji$(conc,dj-ddj|Láigoheaddji) ovddasvástideaddjis dahje muhtimis geas lea su váldi, lea riekti bearráigeahččat buot lanjaid. Dábálaččat galgá dan birra addon diehtu ovdagihtii. Earenoamaš$(vowlat,a-á|Earenoamáš) dilálašvuođain sáhtta$(vowlat,a-á|sáhttá) goikke$(conwb,ikk-itg|goitge) bearráigehččot dieđitkeahttá. Láigoheaddjis lea lohpi divodit ja buoridit viesu vaikko goas, muhto jus praktihkkalaččat$(conc,hkk-hk|praktihkalaččat) lea vejolaš, galga$(vowlat,a-á|galgá) láigolažžii dieđihuvvot maiddái dan birra. (Láigoheaddjis lea maiddái lohpi iskkat)¢(conc,skk-sk|Láigoheaddjis lea maiddái lohpi iskat) el-mihttára juohke njealjádasjagi, jus ii šihtto eará ortnet láigolaččain.
  
-15. Láigoheddji$(vowc,diph|Láigoheaddji) sahtta$(vowlat,a-á,I|sáhttá) bidjat čalalaš$(vowc,a-á|čálalaš) dieđu oktsašarealaide$(cmp,typo;loan,vowc,a-á|oktasašareálaide) dahje čalalaččat$(vowc,a-á|čálalaččat) addit dieđu ortnetnjuolggadusaid birra ja movt galga$(vowlat,a-á,I|galgá) geavahit  viesu ja opmodaga. 
+15. Láigoheddji$(vowc,diph|Láigoheaddji) sahtta$(vowlat,a-á|sáhttá) bidjat čalalaš$(vowc,a-á|čálalaš) dieđu oktsašarealaide$(typo;vowc,a-á|oktasašareálaide) dahje čalalaččat$(vowc,a-á|čálalaččat) addit dieđu ortnetnjuolggadusaid birra ja movt galga$(vowlat,a-á|galgá) geavahit  viesu ja opmodaga. 
  
-16. Studeanttaviesuin ii leat lohpi borgguhit.
+16. Studeanttaviesuin$(case,gen-nom|Studeantaviesuin) ii leat lohpi borgguhit.
  
 IV Luohttámušolmmoš  
 Sis-Finnmárkku studeanttaid ovttastusa viesuid ássit galget válljet ovtta luohttámušolbmo juohke ássanovttadahkii, ja son sáhttá gohččojuvvot ortnetnjuolggádusaid$(vowlat,á-a|ortnetnjuolggadusaid) giehtaguššama oktavuođas.
@@ -64,13 +64,13 @@ Dárkkuhuvvo ahte SSOas$(acro,suf|SSO:s) ii leat dahkádus$(vowc,a-á;vowlat,á-
  
 Čoavdagat
 Láhppon čoavdagiid ovddas ferte máksit 500,- ruvnno buhttadussan$(conc,htt-ht|buhtadussan).
-Jus láigolaš ferte sihtat bargi boahtit go lea vajálduhttan$(vowlat,a-á,I|vajálduhttán) čoavdaga, dahje eará sullasaš siva geažil, ferte máksit 250,- ruvdnosaš divvada$(der,conc,vv-v|divada).
+Jus láigolaš ferte sihtat bargi boahtit go lea vajálduhttan$(vowlat,a-á|vajálduhttán) čoavdaga, dahje eará sullasaš siva geažil, ferte máksit 250,- ruvdnosaš divvada$(conc,vv-v|divada).
  
 Bivttasbassan
-Gáhkkorčorus lea oktasaš bivttasbassanmášiidna masa buot láigolaččat sáhttet oastit goartta. Bassangoarta máksá 100,- ru. ja dainna beassa$(vowlat,a-á|beassá) sulli$(fin,0-i|sullii) 14 geardde bassat.
+Gáhkkorčorus lea oktasaš bivttasbassanmášiidna$(vowm,á-a|bivttasbassanmašiidna) masa buot láigolaččat sáhttet oastit goartta. Bassangoarta máksá 100,- ru. ja dainna beassa$(vowlat,a-á|beassá) sulli$(fin,0-i|sullii) 14 geardde bassat.
  
 Boasta
-Studeantat sáhttet dáhttut boasta sáddejuvvot allaskuvlii. Muđui ferte láigolaš ieš oastit boastakássa ja váldit oktavuođa boasttain jus hálida$(conm,d-id|háliida) čujuhusá$(vowlat,á-a|čujuhusa) studeanttaviesuide$(loan,conc,ntt-nt|studeantaviesuide).
+(Studeantat sáhttet dáhttut boasta sáddejuvvot)¢(conc,nt-ntt;conc,st-stt|Studeanttat sáhttet dáhttut boastta sáddejuvvot) allaskuvlii. Muđui ferte láigolaš ieš oastit boastakássa ja váldit oktavuođa boasttain jus hálida$(conm,d-id|háliida) čujuhusá$(vowlat,á-a|čujuhusa) studeanttaviesuide$(case,gen-nom|studeantaviesuide).
  
 Čujuhusat:
 Gáhkkorčorru 1, 9520 Guovdageaidnu
@@ -78,12 +78,12 @@ Lulit Gáhkkorluodda 5/7/9, 9520 Guovdageaidnu
 Hánnoluohkká 31, 9520 Guovdageaidnu
  
 Mohtorliekkanat
-Ássit Hánnoluohka$(prop,vowlat,a-á|Hánnoluohká) 40 kvm ásodagáin$(vowlat,á-a|ásodagain), Lulit- Gáhkkorjeakkis ja Gáhkkkorčorus$(prop,typo|Gáhkkorčorus) sáhttet láigohit elčuggestaga mohtorliekkaniidda 400,- ru. ovddas dálvái. Hánnoluohká 60 kvm ásodaga ássiin leat iežaset elčuggestat.
+Ássit Hánnoluohka$(vowlat,a-á|Hánnoluohká) 40 kvm ásodagáin$(vowlat,á-a|ásodagain), Lulit-¢(hyph,1-0|Lulit) Gáhkkorjeakkis ja ¥(Lulit) Gáhkkkorčorus$(typo|Gáhkkorčorus) sáhttet láigohit elčuggestaga mohtorliekkaniidda 400,- ru. ovddas dálvái. Hánnoluohká 60 kvm ásodaga ássiin leat iežaset elčuggestat.
  
 Olggos fárren
 Jus láigolaš ii leat fárren olggos ja čoavdda bukton ruovttoluotta dan dáhtona mii lea šihtton, sáddejuvvo rehket nuppi mánu ovddas.
-Láigolaš ferte unnimusat 3 beaivve ovdal soahpat áiggi viessobearráigehččin$(com,fin,n-in|viessobearráigehččiin) fárrolaga geahččat ahte ásodat/ latnja lea ráinnas ja muđui ortnegis, ja ahte doppe leat visot biergasat mat ledje doppe sisafárredettin$(ger,fin,n-in|sisafárredettiin).
-Jus ásodat ii leat albmaládje$(cmp,1-2|albma ládje) ráidnejuvvon olggosfárredettin$(ger,fin,n-in|olggosfárredettiin) dollojuvvo oassi dahje buot ovdagihtti$(conc,htt-ht;ill,fin,0-i|ovdagihtii) máksojuvvon láigu.
+Láigolaš ferte unnimusat 3 beaivve ovdal soahpat áiggi viessobearráigehččin$(fin,n-in|viessobearráigehččiin) fárrolaga geahččat ahte ásodat/ latnja lea ráinnas ja muđui ortnegis, ja ahte doppe leat visot biergasat mat ledje doppe sisafárredettin$(fin,n-in|sisafárredettiin).
+Jus ásodat ii leat albmaládje$(cmp,1-2|albma ládje) ráidnejuvvon olggosfárredettin$(fin,n-in|olggosfárredettiin) dollojuvvo oassi dahje buot ovdagihtti$(conc,htt-ht;fin,0-i|ovdagihtii) máksojuvvon láigu.
  
  Láigohattit:
  
@@ -101,28 +101,26 @@ earáide:
  
  
  
-Lulit-Gáhkkorjeaggi
+Lulit-Gáhkkorjeaggi$(hyph,1-0|Lulit Gáhkkorjeaggi)
 duppal latnja
 2 200,-
 elrávnnjiin
 2.600,-
 elrávnnjiin
- 
 Hánnoluohkká,
 40 kvm ásodat
-2.750,- earret elrávnnjiin
-3.250,- earret
-elrávnnjiin
+2.750,- (earret elrávnnjiin)£(case,com-gen|earret elrávnnji)
+3.250,- (earret elrávnnjiin)£(case,com-gen|earret elrávnnji)
 Hánnoluohkká,
 60 kvm ásodat
-3.250,- earret
-elrávnnjiin
-3.650,- earret elrávnnjin$(com,fin,n-in|elrávnnjiin)
+3.250,- (earret elrávnnjiin)£(case,com-gen|earret elrávnnji)
+3.650,- (earret elrávnnjin)$(fin,n-in|elrávnnjiin)£(case,com-gen|earret elrávnnji)
 
 Elrávdnji
-Hánnoluohká ásodagaid ássit mákset ieža elrávnnnji$(typo|elrávnnji). Nord-Troms Kraftlag sádde rehkega midjiide, ja elrávdnjegolut bidjojit$(conc,dj-ddj|biddjojit) viessoláigorehkegii. Dat mearkkaša ahte ássit eai dárbbat ieža dieđihit iežaset ođđa kunddarin. Go elrávdnjerehket boahtá juohke nuppi mánu lea vuosttaš mánu a-konto máksn$(typo|máksin)
-(500,- ru.), ja maŋit mánu rehkega vuosttá$(conc,stt-st|vuostá).
+Hánnoluohká ásodagaid ássit mákset ieža elrávnnnji$(typo|elrávnnji). Nord-Troms Kraftlag sádde rehkega midjiide, ja elrávdnjegolut bidjojit$(conc,dj-ddj|biddjojit) viessoláigorehkegii. Dat mearkkaša ahte ássit eai dárbbat ieža dieđihit iežaset ođđa kunddarin. Go elrávdnjerehket boahtá juohke nuppi mánu (lea vuosttaš mánu a-konto máksn$(typo|máksin)
+(500,- ru.), ja maŋit mánu rehkega vuosttá)¢(conc,stt-st|lea vuosttaš mánu a-konto máksin
+(500,- ru.), ja maŋit mánu rehkega vuostá).
  
 Máksinmuittuhus
-Jus rehket ii mákso, sáddejuvvo máksinmuittuhus masa biddjo 50,- ruvdnosaš muittuhusdivat. Jus ii vel mákso, sáddejuvvo nubbi máksinmuittuhus, mii maiddái lea inkassovárrehus$(loan,vowc,a-á|inkássovárrehus) ja dat maiddái mielddisbuktá ahte láigolaš bálkestuvvo olggos.
+Jus rehket ii mákso, sáddejuvvo máksinmuittuhus masa biddjo 50,- ruvdnosaš muittuhusdivat. Jus ii vel mákso, sáddejuvvo nubbi máksinmuittuhus, mii maiddái lea inkassovárrehus$(vowc,a-á|inkássovárrehus) ja dat maiddái mielddisbuktá ahte láigolaš bálkestuvvo olggos.
  
