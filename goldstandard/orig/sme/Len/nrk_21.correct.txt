@@ -1,4 +1,4 @@
-#http://www.nrk.no/kanal/nrk_sapmi/ardna/1.8395109
+#
 #30.11.12
 #Anne Olli
 #Publisert 13.11.2012 15:31.
@@ -11,7 +11,7 @@ Boares biktasiid sáhttá ođasmahttit, nu leat kurssas dahkan Kárášjogas. Ja
 
 Ášši doaimmaha Ánne Olli
 
-Bivttasčájáhusas leat máŋggalaganaš$(vowc,a-á;vowm,a-0;fin,š-0|máŋggalágan) biktasat, ja sii geat serve dán (redisign kursii)$(cmp,2-1|redesignkursii),.¥0 sii bukte boares biktasiid maid eai šat geavahan
+Bivttasčájáhusas leat máŋggalaganaš$(vowc,a-á;vowm,a-0;fin,š-0|máŋggalágan) biktasat, ja sii geat serve dán (redisign kursii)$(cmp,2-1|redesignkursii),(.)¥0 sii bukte boares biktasiid maid eai šat geavahan
 
 
 Ođasmahtton biktasat
