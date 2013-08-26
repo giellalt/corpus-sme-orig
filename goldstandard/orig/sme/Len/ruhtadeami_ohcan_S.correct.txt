@@ -1,4 +1,3 @@
-#http://www.lapinliitto.fi/se/ruhtadeami-ohcan
 #11.12.12
 
 Ruhtadeami ohcan

@@ -1,4 +1,3 @@
-#http://www.galdu.org/web/index.php?sladja=25&vuolitsladja=11&giella1=sam 
 #3.5.10
 
 Oppalaš geahčastat

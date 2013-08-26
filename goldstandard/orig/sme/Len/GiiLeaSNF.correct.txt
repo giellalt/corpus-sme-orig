@@ -1,4 +1,3 @@
-#http://www.saminissonforum.org/snf-birra/ 
 #26.04.10
 
 Gulahallan e-poastta bokte minguin: snf(at)trollnet.no

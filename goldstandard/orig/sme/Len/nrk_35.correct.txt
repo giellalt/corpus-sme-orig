@@ -1,7 +1,6 @@
-#http://www.nrk.no/kanal/nrk_sapmi/ardna/1.8336617
 #7.12.12
-#anne.olli@nrk.no
-#Publisert 26.09.2012 13:59.
+#anne.olli@nrk.no∞(url)
+#Publisert∞(nob) 26.09.2012 13:59.
 
 Heahpanattaid$(fin,i-id|Heahpanattai) go lei indiána
 Cree-indiána galledii sámiid

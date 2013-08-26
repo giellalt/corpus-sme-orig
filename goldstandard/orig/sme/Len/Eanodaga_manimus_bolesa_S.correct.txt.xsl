@@ -5,7 +5,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="''"/>
+<xsl:variable name="filename" select="'http://yle.fi/sapmi/oddasat/2012/07/eanodaga_maimus_bolesa_sirdet_muonai_3432585.html'"/>
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="''"/>

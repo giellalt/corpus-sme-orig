@@ -1,4 +1,3 @@
-#http://se.wikipedia.org/w/index.php?title=Beaivvášsevnnjodeapmi&oldid=142698
 #29.11.12
 
 
@@ -15,7 +14,7 @@ Govvejuvvon Frankriikkas go lei ollislaš beaivvášsevnnjodeapmi 1999
 
 Beaivvášsevnnjodeami animašuvdna njukčamánu 29. beaivvi 2006
 .
-Fred Espenak lea NASA olis almmuhan kataloga mas oaidná 5000 jagi áiggi sevnnjodemiid - sullii 2000 o. Kr. rájes gitta 3000 jagi m. Kr. Orru ahte Østfolddas$(prop,conc,ldd-ld|Østfoldas) báktesárgumat lassánedje sullii 900 - 700 o. Kr. Espenaka katalogas oaidnit ahte jagis 857 o. Kr. lei ollislaš beaivvášsevnjjodeapmi$(conc,vnjj-vnnj|beaivvášsevnnjodeapmi), muhto doppe ii lean leamaš sevnnjodeapmi áigodagas 1229 ja 857 o. Kr., ja danne sáhttet bronsaáiggis nu sakka sárgon bávttiide dien dáhpáhusa. Davvi-Sámis ledje leamaš ollislaš beaivvášsevnnjodeamit jagiin 1067, 938 ja 929 o. Kr.
+Fred Espenak lea NASA olis almmuhan kataloga mas oaidná 5000 jagi áiggi sevnnjodemiid - sullii 2000 o. Kr. rájes gitta 3000 jagi m. Kr. Orru ahte Østfolddas$(conc,ldd-ld|Østfoldas) báktesárgumat lassánedje sullii 900 - 700 o. Kr. Espenaka katalogas oaidnit ahte jagis 857 o. Kr. lei ollislaš beaivvášsevnjjodeapmi$(conc,vnjj-vnnj|beaivvášsevnnjodeapmi), muhto doppe ii lean leamaš sevnnjodeapmi áigodagas 1229 ja 857 o. Kr., ja danne sáhttet bronsaáiggis nu sakka sárgon bávttiide dien dáhpáhusa. Davvi-Sámis ledje leamaš ollislaš beaivvášsevnnjodeamit jagiin 1067, 938 ja 929 o. Kr.
 [1]
 Sisdoallu  [čiega] 
 1 Iešguđet beaivvášsevnnjodeamit
@@ -43,7 +42,7 @@ Dábálaččat lea beaivváš nu šearrat ahte dasa ii dárjja geahččat. Go le
 Beaivvášsevnnjodeami geahččamii leat ráhkaduvvon vásedin čalbmeláset. Ii galgga makkárge eará lásiid čađa geahččat beaivvážii. [2].
 
 
-Govvejeuvvon$(typo|Govvejuvvon) Valladolidas ( Spanias$(prop,vowc,a-á|Spánias) ). Gierdosevnnjodeapmi golggotmánu 3. 2005
+Govvejeuvvon$(typo|Govvejuvvon) Valladolidas ( Spanias$(vowc,a-á|Spánias) ). Gierdosevnnjodeapmi golggotmánu 3. 2005
 
 
 Olbmot geahččame beaivvášsevnnjodeami 2002:s Islánddas

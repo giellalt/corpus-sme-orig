@@ -1,4 +1,3 @@
-#http://www.samefolketsparti.no/website.aspx?displayid=2497
 #3.5.10
 
 Bovdejupmi 2008 riikačoahkkimii$(case,nom-gen|riikkačoahkkimii) Girkonjárggas

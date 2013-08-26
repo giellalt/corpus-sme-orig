@@ -1,10 +1,9 @@
-#http://se.wikipedia.org/w/index.php?title=Norgga_Boazosápmelaččaid_Riikkasearvi&oldid=137174
 #29.11.12
 
 Norgga Boazosápmelaččaid Riikkasearvi (NBR) lea organisašuvdna norgga boazosápmelaččaide. Searvi álggahuvvui 1947s$(num,suf|1947:s). Álgojagiin ledje eanas lullisápmelaččat geat barge servviin, muhto 70-logu álggus etablerii NBR organisašuvdnastruktuvrra mas lei stivra Finnmárkkus ja čállingoddi Romssas. NBRas$(acro,suf|NBR:s) lea digaštallanriekti stádain dan jahkásaš boazodoallošiehtadusa birra.
 Ulbmil
 
-NBR ulbmil lea ovddidahttit boazosápmelaččaid beroštumiid; ekonomalažžat$(loan,conc,žž-čč|ekonomalaččat), fágalažžat$(loan,conc,žž-čč|fágalaččat), sosiálalažžan ja kultuvrralažžat$(conc,žž-čč|kultuvrralaččat). Searvi galgá maid bargat ovddidahttit oktavuođa boazosápmelaččaid gaskas$(conc,sk-skk|gaskkas) ja ahte boazosápmelaččat galget ieža stivret ovdáneami ealáhusas, nu ahte ovdáneapmi geavvá vieruid riekteoainnu mielde, ja daid ealáhusa vuođđojurdagiid mielde.
+NBR ulbmil lea ovddidahttit boazosápmelaččaid beroštumiid; ekonomalažžat$(conc,žž-čč|ekonomalaččat), fágalažžat$(conc,žž-čč|fágalaččat), sosiálalažžan ja kultuvrralažžat$(žž-čč|kultuvrralaččat). Searvi galgá maid bargat ovddidahttit oktavuođa boazosápmelaččaid gaskas$(conc,sk-skk|gaskkas) ja ahte boazosápmelaččat galget ieža stivret ovdáneami ealáhusas, nu ahte ovdáneapmi geavvá vieruid riekteoainnu mielde, ja daid ealáhusa vuođđojurdagiid mielde.
 Stivra
 
-NBR jođiheaddji lea Nils Henrik Sara ja nubbinjođiheaddji$(cmp,ess-nom|nubbijođiheaddji) lea Inge Even Danielsen. Nils Henrik Sara válljejuvvui jođiheaddjin 2006:s, su ovdal lei Aslak J. Eira jođiheaddji 8 jagi. NBRas$(acro,suf|NBR:s) lea maiddái nuoraidlávdegoddi.
+NBR jođiheaddji lea Nils Henrik Sara ja nubbinjođiheaddji$(case,ess-nom|nubbijođiheaddji) lea Inge Even Danielsen. Nils Henrik Sara válljejuvvui jođiheaddjin 2006:s, su ovdal lei Aslak J. Eira jođiheaddji 8 jagi. NBRas$(acro,suf|NBR:s) lea maiddái nuoraidlávdegoddi.
