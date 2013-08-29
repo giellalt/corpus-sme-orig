@@ -3,7 +3,7 @@
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-  <xsl:variable name="filename" select="'Odprp-nr-25-2006-2007-.html'"/>
+  <xsl:variable name="filename" select="'http://www.regjeringen.no/se/dep/lmd/Dokumeanttat-/regpubl/otprp/2006-2007/Odprp-nr-25-2006-2007-.html?id=461192'"/>
   <xsl:variable name="title" select="'Od.prp. nr. 25 (2006-2007)'"/>
   <xsl:variable name="author1_fn" select="''"/>
   <xsl:variable name="author1_ln" select="''"/>
@@ -31,7 +31,7 @@
   <xsl:variable name="year" select="'2007'"/>
   <xsl:variable name="ISBN" select="''"/>
   <xsl:variable name="ISSN" select="''"/>
-  <xsl:variable name="place" select="'http://www.regjeringen.no/se/dep/lmd/Dokumeanttat-/regpubl/otprp/2006-2007/Odprp-nr-25-2006-2007-.html?id=461192'"/>
+  <xsl:variable name="place" select="''"/>
   <xsl:variable name="genre" select="'admin'"/>
   <xsl:variable name="collection" select="''"/>
   <xsl:variable name="translator_fn" select="''"/>
@@ -79,7 +79,7 @@
   <xsl:variable name="para_sme" select="''"/>
   <xsl:variable name="para_smj" select="''"/>
   <xsl:variable name="para_sma" select="''"/>
-  <xsl:variable name="para_nob" select="''"/>
+  <xsl:variable name="para_nob" select="'otprp-nr-25-2006-2007-.html_id=446518'"/>
   <xsl:variable name="para_nno" select="''"/>
   <xsl:variable name="para_swe" select="''"/>
   <xsl:variable name="para_fin" select="''"/>
