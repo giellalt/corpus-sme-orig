@@ -91,8 +91,8 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'hp_2009_samisk_sprak_norsk.pdf'"/>
 <xsl:variable name="para_sma" select="'handlingsplan_2009_samisk_sprak_sorsamisk.pdf'"/>
-<xsl:variable name="para_sme" select="'HP_2009_samisk_sprak_nordsam.pdf'"/>
-<xsl:variable name="para_smj" select="'HP_2009_samisk_sprak_lulesam.pdf'"/>
+<xsl:variable name="para_sme" select="'hp_2009_samisk_sprak_nordsam.pdf'"/>
+<xsl:variable name="para_smj" select="'hp_2009_samisk_sprak_lulesam.pdf'"/>
 <xsl:variable name="para_swe" select="''"/>
 
 
