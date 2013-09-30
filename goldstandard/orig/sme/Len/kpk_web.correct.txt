@@ -172,7 +172,7 @@ doaibmaideá$(fin,á-a|doaibmaidea) lea ahte «galgá leat pedagogalaš, fágala
 
 Ollu skeaŋkkat Frelsesarmeái$(vowlat,á-a|Frelsesarmeai) 
 Frelsesarmeá$(vowlat,á-a|Frelsesarmea) Norggas oaččui measta 75 milj. kruvnno testamenterejuvvon skeaŋkkaid, čájehit álgologut jahkái 2011. Frelsesarmeá$(vowlat,á-a|Frelsesarmea) lea hui duhtávaš$(vowlat,a-á|duhtavaš) dáinna ruhtasummain$(vowlat,a-á|ruhtasummáin), vaikko dát lohku lea vuollelis go olahusjagis 2010, go oaččui 95 milj. kruvnno testamenterejuvvon skeaŋkkaid. 
-Sullii beallii$(typo|bealli) skeaŋkaruđas lea várrejuvvon vásedin (doaimmaide nu mo korps$(vowlat,0-a|korpsa), ásahusat ja mišuvdna$(conm,š-šš|miššuvdna))£(kongr,nom-ill|doaimmaide nu mo korpsii, ásahusaide ja miššuvdnii. 
+Sullii beallii$(typo|bealli) skeaŋkaruđas lea várrejuvvon vásedin (doaimmaide nu mo korps$(vowlat,0-a|korpsa), ásahusat ja mišuvdna)$(conm,š-šš|miššuvdna))£(kongr,nom-ill|doaimmaide nu mo korpsii, ásahusaide ja miššuvdnii). 
 Muđui adnojuvvo skeaŋkaruhta doaimmahit Frelsesarmeá$(vowlat,á-a|Frelsesarmea) eará bargguid. 
 - Mun lean nu giitevaš go nu oallugat muitet maiddái min barggu go čállet testameantta, dadjá njunuš diehtojuohki$(conc,hk-hkk|diehtojuohkki) Andrew Hannevik. KPK 
 
