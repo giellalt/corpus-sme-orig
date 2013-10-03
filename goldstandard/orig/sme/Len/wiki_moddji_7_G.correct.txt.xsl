@@ -5,7 +5,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://se.wikipedia.org/w/index.php?title=Albbas&oldid=138460'"/>
+<xsl:variable name="filename" select="'http://se.wikipedia.org/w/index.php?title=Albbas&amp;oldid=138460'"/>
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="''"/>
