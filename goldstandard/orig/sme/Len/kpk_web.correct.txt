@@ -165,14 +165,14 @@ Ráđi stivrajođiheaddji$(case,nom-gen|stivrrajođiheaddji) Else-Britt Nilsen m
 
 
 Ođđa kristtalaš oahppolihttu
-Jahkemolsuma áigge šadde guokte oahppolihtu oktan searvin go (Norgga Kristtalaš Oahpporáđđi (Norsk Kristelig Studieråd) ja Friddjagirkolaš Oahppolihttu (Frikirkelig Studieforbund) časke oktii)£(case,nom-acc|Norgga Kristtalaš Oahpporáđi (Norsk Kristelig Studieråd) ja Friddjagirkolaš Oahppolihtu (Frikirkelig Studieforbund) časke oktii). Ođđa oahppolihtu gohčodit dárogillii Kristelig studieforbund (K-stud). K-stud searvvis leat mielde olles 58 miellahttoorganisašuvnna. Gaskaboddosaš stivrra jođiheaddji lea Jon Andreas Hasle. Son dadjá ahte K-stud lea Norgga eanemus ekumenalaš organisašuvdna.
+Jahkemolsuma áigge šadde guokte oahppolihtu oktan searvin go (Norgga Kristtalaš Oahpporáđđi (Norsk Kristelig Studieråd)∞(nob) ja Friddjagirkolaš Oahppolihttu (Frikirkelig Studieforbund)∞(nob) časke oktii)£(case,nom-acc|Norgga Kristtalaš Oahpporáđi ja Friddjagirkolaš Oahppolihtu časke oktii). Ođđa oahppolihtu gohčodit dárogillii Kristelig studieforbund (K-stud). K-stud searvvis leat mielde olles 58 miellahttoorganisašuvnna. Gaskaboddosaš stivrra jođiheaddji lea Jon Andreas Hasle. Son dadjá ahte K-stud lea Norgga eanemus ekumenalaš organisašuvdna.
 K-stud lea Hasle dieđuid mielde dál šaddan njealját stuorámus oahppolihttun olles riikkas. K-stud
 doaibmaideá$(fin,á-a|doaibmaidea) lea ahte «galgá leat pedagogalaš, fágalaš ja hutkás gelbbolašvuođabiras mii movttiidahttá miellahttoservviid ovddidit pedagogalaš barggu dan bokte go bures ja doaibmilit lágida diehtojuohkima ja bálvalusaid». Kristtalaš oahppolihttu oažžu máŋga miljovnna kruvnno Máhttodepartemeanttas. Dáid ruđaid lihttu fas juohká miellahttoorganisašuvnnaid oahppodoaimmaide mat dáhpáhuvvet searvegottiin ja servviin. KPK
 
 
 Ollu skeaŋkkat Frelsesarmeái$(vowlat,á-a|Frelsesarmeai)
 Frelsesarmeá$(vowlat,á-a|Frelsesarmea) Norggas oaččui measta 75 milj. kruvnno testamenterejuvvon skeaŋkkaid, čájehit álgologut jahkái 2011. Frelsesarmeá$(vowlat,á-a|Frelsesarmea) lea hui duhtávaš$(vowlat,a-á|duhtavaš) dáinna ruhtasummain$(vowlat,a-á|ruhtasummáin), vaikko dát lohku lea vuollelis go olahusjagis 2010, go oaččui 95 milj. kruvnno testamenterejuvvon skeaŋkkaid.
-Sullii beallii$(typo|bealli) skeaŋkaruđas lea várrejuvvon vásedin (doaimmaide nu mo korps$(vowlat,0-a|korpsa), ásahusat ja mišuvdna)$(conm,š-šš|miššuvdna))£(kongr,nom-ill|doaimmaide nu mo korpsii, ásahusaide ja miššuvdnii).
+Sullii beallii$(typo|bealli) skeaŋkaruđas lea várrejuvvon vásedin ((doaimmaide nu mo korps$(vowlat,0-a|korpsa), ásahusat ja mišuvdna)$(conm,š-šš|miššuvdna))£(kongr,nom-ill|doaimmaide nu mo korpsii, ásahusaide ja miššuvdnii).
 Muđui adnojuvvo skeaŋkaruhta doaimmahit Frelsesarmeá$(vowlat,á-a|Frelsesarmea) eará bargguid.
 - Mun lean nu giitevaš go nu oallugat muitet maiddái min barggu go čállet testameantta, dadjá njunuš diehtojuohki$(conc,hk-hkk|diehtojuohkki) Andrew Hannevik. KPK
 
