@@ -4,7 +4,7 @@ Norgga Sámis ii mokta searvat Suoma gilvvuide
 #Kuva: Oula-Antti Labba Oula-Antti LabbaLähetä palautetta toimittajalle
 
 Anára Heargegonagasgilvvuid gonagasluohkkái besset searvat 24 buoremus suopmelaS$(typo|suopmelaš) gilvovuojána.
-Bálgesiid ovttastumi stivrra dán čavčča mearrádus eastadit olgoriikka herggiid oassálastima (Hearge-cup -loahppagilvvuide)¢(cmp,2-1|Hearge-cup-loahppagilvvuide) Anáris soaitá dagahit, ahte Norgga Sámi heargeeaiggádat eai leat aktiivvalaččat searvame dán jagaš Suoma (Hearge cup-gilvvuide)$(cmp,2-1|Heargecup-gilvvuide).
+Bálgesiid ovttastumi stivrra dán čavčča mearrádus eastadit olgoriikka herggiid oassálastima (Hearge-cup -loahppagilvvuide)¢(cmp,2-1|Hearge-cup-loahppagilvvuide) Anáris soaitá dagahit, ahte Norgga Sámi heargeeaiggádat eai leat aktiivvalaččat searvame dán jagaš Suoma (Hearge cup-gilvvuide)¢(cmp,2-1|Heargecup-gilvvuide).
 
 – Norgga heargeeaiggádiidda ii leat miellagiddevaš gilvalit Suoma Hearge-Cuppas$(conc,pp-p|Hearge-Cupas), (go (eai sáhtte)£(conc,ht-htt|eai sáhte) čoaggit čuoggáid ja beasa gilvalit Anáris gonagasluohkás)£(infl,conneg-inf|go eai sáhte čoaggit čuoggáid ja beassat gilvalit Anáris gonagasluohkás), oaivvilda Sámi Heargelihtu (SHL) sátnejođiheaddji Mikkel Per Sara.
 

@@ -18,5 +18,5 @@ Stivra bovde miellahtuid SNF jahkečoahkkimii 2008 Roavvenjárgii. Dollo velá s
 (Árat seamma vahkus lágiduvvojit)£(infl,pos-comp|Árabut seamma vahkus lágiduvvojit) Sámi kulturvahkku ja Sameráđi$(vowlat,e-i;vowc,a-á|Sámiráđi) konferánsa. Eahketprográmmas ee. Mari Boine ja Sara Margrethe Oskal. Dan birra logat dás: 
 #www.saamicouncil.net∞(url)
 Nuvttá oasseváldin. Jos dieđihat SNF jahkečoahkkimii ja seminárii čakčamánu 20.beaivái, de SNF gokčá belohahkii du mátkegoluid ja kulturvahko-/konferánssaoassálastima$(conc,nss-ns|konferánsaoassálastima) Roavvenjárggas. Bivdde eanet dieđuid dás, sádde e-poastta: 
-#snf@trollnet.no∞(url)
+#(snf@trollnet.no)∞(url)
 
