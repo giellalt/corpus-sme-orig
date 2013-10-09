@@ -21,4 +21,4 @@ Padanias lea 2377 čuoggá, Kosovos 2292 čuoggá ja Armenia-Suryoye guovllus 22
 
 Sámi joavkkus guđát sajis lea 2208 čuoggá, seamma go Zanzibaras, čállá N.F.-Boarda lihttu maŋŋimuš$(conc,ŋŋ-ŋ|maŋimuš) ođasčállosis.
 
-Sápmi go¥0 vuitti$(fin,0-i|vuittii) 2006 Viva World Cupa.
+(Sápmi go vuitti$(fin,0-i|vuittii) 2006 Viva World Cupa.)¥(redun,go-0|Sápmi vuittii 2006 Viva World Cupa.)

@@ -57,7 +57,7 @@ Sis-Finnmárkku studeanttaid ovttastusas (SSO) leat 18 bearašásodaga ja 18 lan
 
 Mánáidgárdi
 
-Studeantaovttastusas lea studeanttaide buorre mánáidgárdefálaldat. Studeanttaide lea vuoruhuvvon mánáidgárdesadji olles studerenáigodahkii. Mánáidgárddis leat guokte ossodaga mánáide gaskkal¥0 1/2 jagis- 5 jahkái. Sámi doaimmat leat mielde mánáidgárddi árgabeaivvis. SSO vástida gažaldagaide mánáidgárdesaji ohcama, sajádaga ja mávssu birra. 
+Studeantaovttastusas lea studeanttaide buorre mánáidgárdefálaldat. Studeanttaide lea vuoruhuvvon mánáidgárdesadji olles studerenáigodahkii. Mánáidgárddis leat guokte ossodaga mánáide (gaskkal 1/2 jagis- 5 jahkái)¥(redun,gaskkal-0|1/2 jagis- 5 jahkái). Sámi doaimmat leat mielde mánáidgárddi árgabeaivvis. SSO vástida gažaldagaide mánáidgárdesaji ohcama, sajádaga ja mávssu birra. 
  
  
 Muđui allaskuvlla fálaldagat studeantaide$(conc,nt-ntt|studeanttaide) leat:

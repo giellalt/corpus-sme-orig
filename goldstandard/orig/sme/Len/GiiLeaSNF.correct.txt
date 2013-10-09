@@ -11,7 +11,7 @@ SNF bargá dán ovdii:
 - movttiidahttit sámenissoniid áŋggirdit ja ahtanuššat iežamet eavttuid mielde.
 - ahte sámenissoniid eallin- ja bargodilli, sihke ovdal ja dál, dokumenterejuvvo ja čalmmustahttojuvvo.
 Maid SNF bargá ?
-SNF doaibmá dál juo dego¥0 resursaguovddážin sámi nissoniid ja sohkabealdásseárvvu várás, muhto ain aivve fal eaktodáhtolaš, nuvttá doaibman. Manne ?
+SNF (doaibmá dál juo dego resursaguovddážin)¥(redun,dego-0|doaibmá dál juo resursaguovddážin) sámi nissoniid ja sohkabealdásseárvvu várás, muhto ain aivve fal eaktodáhtolaš, nuvttá doaibman. Manne ?
 Danne go nissonáššiid ja dásseárvvu FERTE áimmahuššat maiddái Sámis.  SNF áigu joatkit bargat sierra ásahusa ovdii (gosa čohkke máhttu)£(conc,htt-ht|gosa čohkke máhtu) ja dieđuid.
 Maid doaimmahat:
 Gaskkustit ja oidnosin$(infl,mix|oainnusin) dahkat nissonolbmuid eallima:
