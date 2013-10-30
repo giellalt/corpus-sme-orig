@@ -24,7 +24,7 @@
   <xsl:variable name="author4_gender" select="''"/>
   <xsl:variable name="author4_born" select="''"/>
   <xsl:variable name="author4_nat" select="''"/>
-  <xsl:variable name="translated_from" select="'sme'"/>
+  <xsl:variable name="translated_from" select="'nob'"/>
   <xsl:variable name="publisher" select="'Sámediggi'"/>
   <xsl:variable name="publChannel" select="''"/>
   <xsl:variable name="year" select="'2005'"/>
