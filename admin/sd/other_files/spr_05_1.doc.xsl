@@ -23,7 +23,7 @@
   <xsl:variable select="''" name="author4_gender"/>
   <xsl:variable select="''" name="author4_born"/>
   <xsl:variable select="''" name="author4_nat"/>
-  <xsl:variable select="''" name="translated_from"/>
+  <xsl:variable name="translated_from" select="''"/>
   <xsl:variable select="''" name="publisher"/>
   <xsl:variable select="''" name="publChannel"/>
   <xsl:variable select="'2006'" name="year"/>
