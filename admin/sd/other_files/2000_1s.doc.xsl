@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
-<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/> 
+<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
@@ -136,8 +136,8 @@
 
 	    <xsl:call-template name="globalTextReplace">
 	      <xsl:with-param name="inputString" select="$text"/>
-	      <xsl:with-param name="target" select="'??á/??a/??e/??i/??o/?a/?á/?e/?i/?o/?u/?g/?k/?l/?r/?t/?g/ð/6.kap/!981/6. Si/sd.died./Ráddeh/diedáh/deatal/rudaid/vuodu/occod/rádiid/Coahkkinjodihang/vuoddonj/rádit/oddaáig/oaccui/geahcad/coahkkinjodih/Rádiid/'"/>
-	      <xsl:with-param name="replacement" select="'ŋŋá/ŋŋa/ŋŋe/ŋŋi/ŋŋo/ŋa/ŋá/ŋe/ŋi/ŋo/ŋu/ŋg/ŋk/ŋl/ŋr/ŋt/ŋg/đ/6. kap/1981/6. si/sd.dieđ./Ráđđeh/dieđáh/deaŧal/ruđaid/vuođu/oččod/ráđiid/Čoahkkinjođihang/vuođđdonj/ráđit/ođđaáig/oaččui/geahčad/čoahkkinjođih/Ráđiid/'"/>
+	      <xsl:with-param name="target" select="'??á/??a/??e/??i/??o/?a/?á/?e/?i/?o/?u/?g/?k/?l/?r/?t/?g/6.kap/!981/6. Si/sd.died./Ráddeh/ádi/diedáh/deatal/rudaid/vuodu/occod/rádiid/Coahkkinjodihang/vuoddonj/rádit/oddaáig/oaccui/geahcad/coahkkinjodih/Rádiid/H¿tta/B¿hr/Gj¸nnes/'"/>
+	      <xsl:with-param name="replacement" select="'ŋŋá/ŋŋa/ŋŋe/ŋŋi/ŋŋo/ŋa/ŋá/ŋe/ŋi/ŋo/ŋu/ŋg/ŋk/ŋl/ŋr/ŋt/ŋg/6. kap/1981/6. si/sd.dieð./Ráððeh/áði/dieðáh/deaŧal/ruðaid/vuoðu/oèèod/ráðiid/Èoahkkinjoðihang/vuoððdonj/ráðit/oððaáig/oaèèui/geahèad/èoahkkinjoðih/Ráðiid/Hætta/Bæhr/Gjønnes/'"/>
 	    </xsl:call-template>
 
 </xsl:element>
