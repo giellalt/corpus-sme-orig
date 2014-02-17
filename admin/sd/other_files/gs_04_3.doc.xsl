@@ -54,12 +54,12 @@
 <!-- Select "1" for the variable multilingual -->
 <!-- and for the languages present -->
   <!--Select "1" for monolingual to turn language recog off-->
-<xsl:variable name="monolingual" select="1"/>
+<xsl:variable name="monolingual" select="''"/>
 <xsl:variable name="multilingual" select="'1'"/>
 
   <xsl:variable name="mlang_sme" select="''"/>
   <xsl:variable name="mlang_smj" select="''"/>
-  <xsl:variable name="mlang_sma" select="''"/>
+  <xsl:variable name="mlang_sma" select="'1'"/>
   <xsl:variable name="mlang_nob" select="'1'"/>
   <xsl:variable name="mlang_nno" select="''"/>
   <xsl:variable name="mlang_swe" select="''"/>
@@ -104,5 +104,5 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_eng" select="''"/>
 
-  
+
 </xsl:stylesheet>
