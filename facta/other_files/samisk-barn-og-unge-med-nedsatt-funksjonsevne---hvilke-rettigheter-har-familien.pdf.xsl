@@ -7,7 +7,7 @@
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://helsedirektoratet.no/publikasjoner/barn-og-unge-med-nedsatt-funksjonsevne-hvilke-rettigheter-har-familien/Publikasjoner/SAMISK-barn-og-unge-med-nedsatt-funksjonsevne---hvilke-rettigheter-har-familien.pdf'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Mánát ja nuorat geain lea heajut doaibmannákca – makkár vuoigatvuodat leat bearrašis?'"/>
+<xsl:variable name="title" select="'Mánát ja nuorat geain lea heajut doaibmannákca – makkár vuoigatvuodat leat bearrašis?'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -28,7 +28,7 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="'Dearvvašvuodadirektoráhtta'"/>
+<xsl:variable name="publisher" select="'Dearvvašvuodadirektoráhtta'"/>
 <xsl:variable name="publChannel" select="''"/>
 <xsl:variable name="year" select="'2009'"/>
 <xsl:variable name="ISBN" select="''"/>
@@ -61,7 +61,7 @@
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="'1'"/> <!--lg rec is off!-->
+<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
 <xsl:variable name="multilingual" select="''"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
@@ -76,7 +76,7 @@
 <xsl:variable name="mlang_kal" select="''"/>
 <xsl:variable name="mlang_kpv" select="''"/>
 <xsl:variable name="mlang_nno" select="''"/>
-<xsl:variable name="mlang_nob" select="''"/>
+<xsl:variable name="mlang_nob" select="'1'"/>
 <xsl:variable name="mlang_rus" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
 <xsl:variable name="mlang_sme" select="''"/>

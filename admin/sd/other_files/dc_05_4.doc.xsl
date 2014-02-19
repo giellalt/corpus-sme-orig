@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
-<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/> 
+<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <xsl:variable name="filename" select="''"/>
@@ -59,7 +59,7 @@
 <!-- Select "1" for the variable multilingual -->
 <!-- and for the languages present -->
 <!--Select "1" for monolingual to turn language recog off-->
-<xsl:variable name="monolingual" select="1"/>
+<xsl:variable name="monolingual" select="''"/>
 <xsl:variable name="multilingual" select="'1'"/>
 
 <xsl:variable name="mlang_sme" select="''"/>
