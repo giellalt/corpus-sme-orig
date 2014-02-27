@@ -132,7 +132,7 @@
 <!-- add the template to match (here all p:s), and write the -->
 <!-- replaced characters and the replacements. -->
 
-<xsl:template match="p">
+<!--<xsl:template match="p">
 <xsl:variable name="text" select="current()"/>
 <xsl:element name="p">
             <xsl:copy-of select="@*"/>
@@ -143,6 +143,6 @@
 	       <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>
-</xsl:template>
+</xsl:template>-->
 
 </xsl:stylesheet>
