@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
-<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/> 
+<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
@@ -117,7 +117,7 @@
 -->
 
 
-
+<!--
 <xsl:template match="p">
 <xsl:variable name="text" select="current()"/>
 <xsl:element name="p">
@@ -130,7 +130,7 @@
             </xsl:call-template>
 </xsl:element>
 </xsl:template>
-
+-->
 
 
 </xsl:stylesheet>

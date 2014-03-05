@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
-<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/> 
+<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
@@ -136,10 +136,10 @@
 
 	    <xsl:call-template name="globalTextReplace">
 	      <xsl:with-param name="inputString" select="$text"/>
-	      <xsl:with-param name="target" select="'??á/??a/??e/??i/??o/?a/?á/?e/?i/?o/?u/?g/?k/?l/?r/?t/ð/'"/>
-	      <xsl:with-param name="replacement" select="'ŋŋá/ŋŋa/ŋŋe/ŋŋi/ŋŋo/ŋa/ŋá/ŋe/ŋi/ŋo/ŋu/ŋg/ŋk/ŋl/ŋr/ŋt/đ/'"/>
+	      <xsl:with-param name="target" select="'??á/??a/??e/??i/??o/?a/?á/?e/?i/?o/?u/?g/?k/?l/?r/?t/'"/>
+	      <xsl:with-param name="replacement" select="'ŋŋá/ŋŋa/ŋŋe/ŋŋi/ŋŋo/ŋa/ŋá/ŋe/ŋi/ŋo/ŋu/ŋg/ŋk/ŋl/ŋr/ŋt/'"/>
 	    </xsl:call-template>
-	    
+
 </xsl:element>
 </xsl:template>
 

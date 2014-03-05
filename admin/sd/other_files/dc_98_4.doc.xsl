@@ -122,7 +122,7 @@
 <!-- replaced characters and the replacements. -->
 
 <!-- Replace remaining icelanding d:s with S&#225;mi d:s -->
-<xsl:template match="p">
+<!--<xsl:template match="p">
 <xsl:variable name="text" select="current()"/>
 <xsl:variable name="type" select="@type"/>
 <xsl:variable name="lang" select="@xml:lang"/>
@@ -140,7 +140,7 @@
 
 			<xsl:value-of select="translate($text,'ð','đ') "/>
 </xsl:element>
-</xsl:template>
+</xsl:template>-->
 
 
 
