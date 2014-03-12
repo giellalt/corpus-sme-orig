@@ -134,14 +134,21 @@
 
 <xsl:template match="p">
 <xsl:variable name="text" select="current()"/>
+<xsl:variable name="type" select="@type"/>
+<xsl:variable name="lang" select="@xml:lang"/>
 <xsl:element name="p">
-            <xsl:copy-of select="@*"/>
-            <xsl:call-template name="globalTextReplace">
-               <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'ð/'"/>
-               <xsl:with-param name="replacement" select="'đ/'"/>
-	       <xsl:with-param name="continue" select="0"/>
-            </xsl:call-template>
+            <xsl:if test="$type">
+            <xsl:attribute name="type">
+            <xsl:value-of select="$type"/>
+            </xsl:attribute>
+            </xsl:if>
+            <xsl:if test="$lang">
+            <xsl:attribute name="xml:lang">
+            <xsl:value-of select="$lang"/>
+            </xsl:attribute>
+            </xsl:if>
+
+            <xsl:value-of select="translate($text,'ó','š') "/>
 </xsl:element>
 </xsl:template>
 
