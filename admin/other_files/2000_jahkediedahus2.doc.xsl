@@ -117,12 +117,12 @@
 <!-- Change or remove problematic characters from the text. -->
 <!-- add the template to match (here all p:s), and write the -->
 <!-- replaced characters and the replacements. -->
-<!--
-<xsl:template match="p">
-<xsl:variable name="text" select='current()' />
-<xsl:variable name="type" select='@type' />
-<xsl:variable name="lang" select='@xml:lang' />
-<xsl:element name="p">
+
+<xsl:template match="title">
+<xsl:variable name="text" select="current()"/>
+<xsl:variable name="type" select="@type"/>
+<xsl:variable name="lang" select="@xml:lang"/>
+<xsl:element name="title">
             <xsl:if test="$type">
             <xsl:attribute name="type">
             <xsl:value-of select="$type"/>
@@ -134,13 +134,8 @@
             </xsl:attribute>
             </xsl:if>
 
-			<xsl:value-of select="translate($text,'ð','đ') "/>
+			<xsl:value-of select="translate($text,'¿˜','žđ') "/>
 </xsl:element>
 </xsl:template>
--->
-
-
-
-
 
 </xsl:stylesheet>
