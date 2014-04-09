@@ -113,9 +113,9 @@
 <xsl:variable name="para_eng" select="''"/>
 
 <xsl:template match="p">
-<xsl:variable name="text" select='current()' />
-<xsl:variable name="type" select='@type' />
-<xsl:variable name="lang" select='@xml:lang' />
+<xsl:variable name="text" select="current()"/>
+<xsl:variable name="type" select="@type"/>
+<xsl:variable name="lang" select="@xml:lang"/>
 <xsl:element name="p">
             <xsl:if test="$type">
             <xsl:attribute name="type">
