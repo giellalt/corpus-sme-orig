@@ -28,7 +28,7 @@
   <xsl:variable name="translated_from" select="'nob'"/>
   <xsl:variable name="publisher" select="'Arbeids- og inkluderingsdepartementet'"/>
   <xsl:variable name="publChannel" select="''"/>
-  <xsl:variable name="year" select="'2007'"/>
+  <xsl:variable name="year" select="'2004'"/>
   <xsl:variable name="ISBN" select="''"/>
   <xsl:variable name="ISSN" select="''"/>
   <xsl:variable name="place" select="'http://www.regjeringen.no/se/dep/lmd/Dokumeanttat-/regpubl/otprp/2006-2007/Odprp-nr-25-2006-2007-.html?id=461192'"/>
