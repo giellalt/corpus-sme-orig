@@ -27,7 +27,6 @@
 <xsl:variable name="author4_gender" select="'m'"/>
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="'nor'"/>
-<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="publisher" select="'Justis- ja bolesdepartemeantta'"/>
 <xsl:variable name="publChannel" select="''"/>
 <xsl:variable name="year" select="'1993'"/>
