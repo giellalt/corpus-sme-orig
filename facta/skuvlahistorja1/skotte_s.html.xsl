@@ -35,9 +35,9 @@
   <xsl:variable name="collection" select="''"/>
   <xsl:variable name="translator_fn" select="'Máret'"/>
   <xsl:variable name="translator_ln" select="'Sárá'"/>
-  <xsl:variable name="translator_gender" select="'unknown'"/>
+  <xsl:variable name="translator_gender" select="'f'"/>
   <xsl:variable name="translator_born" select="''"/>
-  <xsl:variable name="translator_nat" select="''"/>
+  <xsl:variable name="translator_nat" select="'NO'"/>
   <xsl:variable name="license_type" select="'free'"/>
   <xsl:variable name="sub_name" select="'Børre Gaup'"/>
   <xsl:variable name="sub_email" select="'boerre.gaup@samediggi.no'"/>
@@ -76,7 +76,7 @@
 <xsl:variable name="para_nno" select="'skotte-n.htm'"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
-<xsl:variable name="para_ger" select="''"/>
+<xsl:variable name="para_ger" select="'skotte-e.htm'"/>
 <xsl:variable name="para_eng" select="''"/>
 
   <!-- Tag the specified elements with the specified language: -->
