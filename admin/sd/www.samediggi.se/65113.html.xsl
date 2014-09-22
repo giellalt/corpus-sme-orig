@@ -34,7 +34,7 @@
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
-<xsl:variable name="genre" select="''"/>
+<xsl:variable name="genre" select="'admin'"/>
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translated_from" select="'swe'"/>
 <xsl:variable name="translator_fn" select="''"/>
