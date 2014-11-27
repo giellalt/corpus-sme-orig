@@ -144,7 +144,7 @@ Thomassen oaivvilda ahte (suohkanis váilo ipmárdus)¢(vowlat,o-u|suohkanis vá
 
 NSR lea heaittiheami duogažis$(vowlat,a-á|duogážis) evttohan ahte sámediggeráđđi ferte gulahallat (váhnemiiguin geas)£(kongr,sg-pl|váhnemiiguin geain) leat mánát geain lea sámegiella skuvllas ja (Skánit suohkaniin)£(case,nom-gen|Skániid suohkaniin) doalahit ja (nannet Vatnjavári skovlá)$(vowc,o-u;vowlat,á-a|skuvla)£(case,nom-acc|nannet Vatnjavári skuvlla) nugo¥0 sámi ressursaskuvlan$(conm,ss-s|resursaskuvlan) gos mihttu lea oažžut guovttegielat mánáid. Sámediggi berre guorahallat vejolašvuođa ásahit ruhttadanortnega$(conc,htt-ht|ruhtadanortnega) go skuvllat ásahit gos lea pedagogalaš vuođđu Mahttolokten$(vowc,a-á|Máhttolokten) sámegiella sihkkarastindihte$(cmp,1-2|sihkkarastin dihte) ohppiid sámegiel oahpu. Dát berre váldot bajas$(vowlat,a-á|bajás) Mahttodepartamentain$(vowc,a-á;vowc,diph;conc,nt-ntt|Máhttodepartemeanttain) go stáhta oassi berre leat guoddi ruhtadeapmi.
 
-Ann-Mari Thomassen (ii hálit vuollanit)¢(fin,t-it|ii háliit vuollanit)$(vowc,a-á|vuollánit) gádjut Vatnjavári skuvlla. – Jus suohkan ii meine váldit ovddasvástadusa$(vowlat,a-á|ovddasvástádusa) sámegielas ja kultuvrras suohkanis fertet mii leat čeahpit ja gávdnat eará čovdosiid. 
+Ann-Mari Thomassen (ii hálit)$(fin,t-it|ii háliit) vuollánit$(vowc,a-á|vuollánit) gádjut Vatnjavári skuvlla. – Jus suohkan ii meine váldit ovddasvástadusa$(vowlat,a-á|ovddasvástádusa) sámegielas ja kultuvrras suohkanis fertet mii leat čeahpit ja gávdnat eará čovdosiid. 
 #– Mus lea doainna skuvlii!, loahpaha Ann-Mari Thomassen.
 
 

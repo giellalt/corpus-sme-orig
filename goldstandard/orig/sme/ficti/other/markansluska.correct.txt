@@ -146,7 +146,7 @@ speazzut$(conc,zz-žž|speažžut) go son sattai$(coninit,s-š|šattai)
 várrepresideantan. Son lea dupmejuvvon$(conc,pm-bm|dubmejuvvon) vealahit
 homofiilla!
 
-Nu ahte rievttimielde$(cmp,1-2|rievtti mielde) (ii dagazii)$(vowm,z-
+Nu ahte rievttimielde$(cmp,1-2|rievtti mielde) ii (dagazii)$(vowm,z-
 š|dagašii)£(infl,sg3-conneg|ii dagaše) maidige. (Lea soaita)$(vowlat,a-
 á|soaitá)£(mix|Soaitá leat) buorre NSRii$(suf|NSR:i) beassat BB-politihkka
 ges moaitigoahtit, ja mii beassat oaidnit lea go BB ”lagat álbmoga” nu go
