@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Format query results for display -->
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:import href="file:///home/boerre/langtech/trunk/tools/CorpusTools/corpustools/xslt/common.xsl"/>
 
@@ -76,7 +77,7 @@
 <!-- checked for all supported languages. -->
 <xsl:variable name="mlang_dan" select="''"/>
 <xsl:variable name="mlang_eng" select="''"/>
-<xsl:variable name="mlang_fin" select="''"/>
+<xsl:variable name="mlang_fin" select="'1'"/>
 <xsl:variable name="mlang_fkv" select="''"/>
 <xsl:variable name="mlang_ger" select="''"/>
 <xsl:variable name="mlang_isl" select="''"/>
@@ -86,7 +87,7 @@
 <xsl:variable name="mlang_nob" select="''"/>
 <xsl:variable name="mlang_rus" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
-<xsl:variable name="mlang_sme" select="''"/>
+<xsl:variable name="mlang_sme" select="'1'"/>
 <xsl:variable name="mlang_smj" select="''"/>
 <xsl:variable name="mlang_swe" select="''"/>
 <xsl:variable name="mlang_oth" select="''"/>
