@@ -10,7 +10,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'risttala-osku'"/>
+<xsl:variable name="filename" select="'http://www.svenskakyrkan.se/omoss/risttala-osku'"/>
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="''"/>
