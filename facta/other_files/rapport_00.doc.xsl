@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'RAPPORT_00.doc'"/>
@@ -54,47 +53,35 @@
   <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
 <!-- and for the languages present -->
-<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
-  <xsl:variable name="multilingual" select="'1'"/>
+<xsl:variable name="monolingual" select="''"/> <!-- checked for all the languages below. -->
+  
 
-<!-- Select the potential langugages by adding the number "1" in the -->
-<!-- selection frame. If no languages are selected, the document is -->
-<!-- checked for all the languages below. -->
-  <xsl:variable name="mlang_sme" select="'1'"/>
-  <xsl:variable name="mlang_smj" select="''"/>
-  <xsl:variable name="mlang_sma" select="''"/>
-  <xsl:variable name="mlang_nob" select="'1'"/>
-  <xsl:variable name="mlang_nno" select="''"/>
-  <xsl:variable name="mlang_swe" select="''"/>
-  <xsl:variable name="mlang_fin" select="''"/>
-  <xsl:variable name="mlang_ger" select="''"/>
-  <xsl:variable name="mlang_eng" select="''"/>
-  <xsl:variable name="mlang_oth" select="''"/>
+<!-- If monolingual is not set, the language is multilingual.
+     Uncomment the languages you want to check for (or add new lines
+     with the right ISO-639-3 language codes).
 
-<!-- If the document has parallel texts, select "1" for parallel_texts -->
+     If *no* languages are uncommented (and monolingual is not 1),
+     then the document is checked for all supported languages.
+-->
+<xsl:variable name="mlangs">
+	<language xml:lang="sme"/>
+	<language xml:lang="nob"/>
+</xsl:variable>
+
 <!-- Add the locations of the parallel files to the variables-->
-<xsl:variable name="parallel_texts" select="''"/>
-<xsl:variable name="para_sme" select="''"/>
-<xsl:variable name="para_smj" select="''"/>
-<xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_nob" select="''"/>
-<xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_swe" select="''"/>
-<xsl:variable name="para_fin" select="''"/>
-<xsl:variable name="para_ger" select="''"/>
-<xsl:variable name="para_eng" select="''"/>
 
 
-  <!-- Tag the specified elements with the specified language: -->
-  <xsl:variable name="smelang" select="'sme'"/>
-  <xsl:variable name="smjlang" select="'smj'"/>
-  <xsl:variable name="smalang" select="'sma'"/>
-  <xsl:variable name="noblang" select="'nob'"/>
-  <xsl:variable name="nnolang" select="'nno'"/>
-  <xsl:variable name="swelang" select="'swe'"/>
-  <xsl:variable name="finlang" select="'fin'"/>
-  <xsl:variable name="englang" select="'eng'"/>
-  <xsl:variable name="gerlang" select="'fin'"/>
+<!-- If the document has parallel texts, uncomment the right languages
+     (or add new lines with the right ISO-639-3 language codes) and
+     add the filename of the parallel files to the 'location'
+     variables.
+
+     Don't write the full directory; we expect the file to be in the
+     same directory as this file, with only the language code and
+     filename changed.
+     -->
+<xsl:variable name="parallels">
+	</xsl:variable>
 
 <xsl:template match="p">
 <xsl:variable name="text" select="current()"/>

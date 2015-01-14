@@ -56,29 +56,19 @@
 
 <!--Select "1" for monolingual to turn language recog off-->
 <xsl:variable name="monolingual" select="1"/>
-<xsl:variable name="multilingual" select="'1'"/>
 
-  <xsl:variable select="''" name="mlang_sme"/>
-  <xsl:variable select="''" name="mlang_smj"/>
-  <xsl:variable select="''" name="mlang_sma"/>
-  <xsl:variable name="mlang_nob" select="'1'"/>
-  <xsl:variable select="''" name="mlang_nno"/>
-  <xsl:variable select="''" name="mlang_swe"/>
-  <xsl:variable select="''" name="mlang_fin"/>
-  <xsl:variable select="''" name="mlang_ger"/>
-  <xsl:variable select="''" name="mlang_eng"/>
-  <xsl:variable select="''" name="mlang_oth"/>
 
-<!-- Tag the specified elements with the specified language: -->  
-<xsl:variable select="'sme'" name="smelang"/>
-  <xsl:variable select="'smj'" name="smjlang"/>
-  <xsl:variable select="'sma'" name="smalang"/>
-  <xsl:variable select="'nob'" name="noblang"/>
-  <xsl:variable select="'nno'" name="nnolang"/>
-  <xsl:variable select="'swe'" name="swelang"/>
-  <xsl:variable select="'fin'" name="finlang"/>
-  <xsl:variable select="'swe'" name="englang"/>
-  <xsl:variable select="'fin'" name="gerlang"/>
+<!-- If monolingual is not set, the language is multilingual.
+     Uncomment the languages you want to check for (or add new lines
+     with the right ISO-639-3 language codes).
+
+     If *no* languages are uncommented (and monolingual is not 1),
+     then the document is checked for all supported languages.
+-->
+<xsl:variable name="mlangs">
+	<language xml:lang="nob"/>
+</xsl:variable>
+
 <!-- Add all paragraphs that should have xml:lang=X-->
 <!-- Uncomment the following and add the paths, for example: -->
 <!-- <xsl:template match="/root/section[2]/paragraph[5] |
@@ -94,20 +84,20 @@
  </xsl:template>
 -->
 
-<!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
 
-<xsl:variable name="parallel_texts" select="''"/>
-<xsl:variable name="para_sme" select="''"/>
-<xsl:variable name="para_smj" select="''"/>
-<xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_nob" select="''"/>
-<xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_swe" select="''"/>
-<xsl:variable name="para_fin" select="''"/>
-<xsl:variable name="para_ger" select="''"/>
-<xsl:variable name="para_eng" select="''"/>
 
 
+<!-- If the document has parallel texts, uncomment the right languages
+     (or add new lines with the right ISO-639-3 language codes) and
+     add the filename of the parallel files to the 'location'
+     variables.
+
+     Don't write the full directory; we expect the file to be in the
+     same directory as this file, with only the language code and
+     filename changed.
+     -->
+<xsl:variable name="parallels">
+	</xsl:variable>
 
 </xsl:stylesheet>

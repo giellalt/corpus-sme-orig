@@ -66,69 +66,34 @@
 <!-- In the case of a multilingual document, we may want to check for
      other languages. Set the variable monolingual to '1' to turn off
      language recognition (treating everything as mainlang) -->
-<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
-<!-- If the document is multilingual, set the variable multilingual to
-     '1' (and possibly change mlangs below). -->
-<xsl:variable name="multilingual" select="'1'"/> <!--this is default-->
+<xsl:variable name="monolingual" select="''"/> 
 
-<!-- Select the potential langugages by adding the number "1" in the -->
-<!-- selection frame. If no languages are selected, the document is -->
-<!-- checked for all supported languages. -->
-<xsl:variable name="mlang_dan" select="''"/>
-<xsl:variable name="mlang_eng" select="''"/>
-<xsl:variable name="mlang_fin" select="''"/>
-<xsl:variable name="mlang_fkv" select="''"/>
-<xsl:variable name="mlang_ger" select="''"/>
-<xsl:variable name="mlang_isl" select="''"/>
-<xsl:variable name="mlang_kal" select="''"/>
-<xsl:variable name="mlang_kpv" select="''"/>
-<xsl:variable name="mlang_nno" select="''"/>
-<xsl:variable name="mlang_nob" select="''"/>
-<xsl:variable name="mlang_rus" select="''"/>
-<xsl:variable name="mlang_sma" select="''"/>
-<xsl:variable name="mlang_sme" select="''"/>
-<xsl:variable name="mlang_smj" select="''"/>
-<xsl:variable name="mlang_swe" select="''"/>
-<xsl:variable name="mlang_oth" select="''"/>
+<!-- If monolingual is not set, the language is multilingual.
+     Uncomment the languages you want to check for (or add new lines
+     with the right ISO-639-3 language codes).
 
-<!-- If the document has parallel texts, select "1" for parallel_texts -->
+     If *no* languages are uncommented (and monolingual is not 1),
+     then the document is checked for all supported languages.
+-->
+<xsl:variable name="mlangs">
+	</xsl:variable>
+
 <!-- Add the locations of the parallel files to the variables-->
-<xsl:variable name="parallel_texts" select="'1'"/>
-<xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="''"/>
-<xsl:variable name="para_fin" select="'index.php_option=com_content_task=view_id=243_itemid=195_lang=finnish'"/>
-<xsl:variable name="para_fkv" select="''"/>
-<xsl:variable name="para_ger" select="''"/>
-<xsl:variable name="para_isl" select="''"/>
-<xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="''"/>
-<xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="''"/>
-<xsl:variable name="para_smj" select="''"/>
-<xsl:variable name="para_swe" select="''"/>
-<xsl:variable name="para_kpv" select="''"/>
-<xsl:variable name="para_rus" select="''"/>
-<xsl:variable name="para_sms" select="''"/>
-<xsl:variable name="para_smn" select="'index.php_option=com_content_task=view_id=243_itemid=195_lang=anaras'"/>
 
 
-<!-- Tag the specified elements with the specified language: -->
-<xsl:variable name="danlang" select="'dan'"/>
-<xsl:variable name="englang" select="'eng'"/>
-<xsl:variable name="finlang" select="'fin'"/>
-<xsl:variable name="fkvlang" select="'fkv'"/>
-<xsl:variable name="gerlang" select="'ger'"/>
-<xsl:variable name="isllang" select="'isl'"/>
-<xsl:variable name="kallang" select="'kal'"/>
-<xsl:variable name="nnolang" select="'nno'"/>
-<xsl:variable name="noblang" select="'nob'"/>
-<xsl:variable name="smalang" select="'sma'"/>
-<xsl:variable name="smelang" select="'sme'"/>
-<xsl:variable name="smjlang" select="'smj'"/>
-<xsl:variable name="swelang" select="'swe'"/>
-<xsl:variable name="kpvlang" select="'kpv'"/>
-<xsl:variable name="ruslang" select="'rus'"/>
+<!-- If the document has parallel texts, uncomment the right languages
+     (or add new lines with the right ISO-639-3 language codes) and
+     add the filename of the parallel files to the 'location'
+     variables.
+
+     Don't write the full directory; we expect the file to be in the
+     same directory as this file, with only the language code and
+     filename changed.
+     -->
+<xsl:variable name="parallels">
+	<parallel_text location="index.php_option=com_content_task=view_id=243_itemid=195_lang=finnish" xml:lang="fin"/>
+	<parallel_text location="index.php_option=com_content_task=view_id=243_itemid=195_lang=anaras" xml:lang="smn"/>
+</xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->
 <xsl:variable name="skip_pages" select="''"/>
