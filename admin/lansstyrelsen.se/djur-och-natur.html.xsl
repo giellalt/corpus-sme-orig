@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Format query results for display -->
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:import href="file:///home/kiwibird/.local/lib/python2.7/site-packages/CorpusTools-0.9.0a1-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -97,6 +98,13 @@
 	<parallel_text location="djur-och-natur.html" xml:lang="fin"/>
 	<parallel_text location="djur-och-natur.html" xml:lang="sma"/>
 	<parallel_text location="djur-och-natur.html" xml:lang="swe"/>
+	<parallel_text xml:lang="fit" location="djur-och-natur.html"/>
+	<parallel_text xml:lang="rmf" location="djur-och-natur.html"/>
+	<parallel_text xml:lang="rmn" location="djur-och-natur.html"/>
+	<parallel_text xml:lang="rmu" location="djur-och-natur.html"/>
+	<parallel_text xml:lang="rmy-rka" location="djur-och-natur.html"/>
+	<parallel_text xml:lang="rmy-rlo" location="djur-och-natur.html"/>
+	<parallel_text xml:lang="yid" location="djur-och-natur.html"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->

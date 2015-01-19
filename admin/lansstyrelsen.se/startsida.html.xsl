@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Format query results for display -->
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:import href="file:///home/kiwibird/.local/lib/python2.7/site-packages/CorpusTools-0.9.0a1-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -97,6 +98,13 @@
 	<parallel_text location="startsida.html" xml:lang="fin"/>
 	<parallel_text location="startsida.html" xml:lang="sma"/>
 	<parallel_text location="startsida.html" xml:lang="swe"/>
+	<parallel_text xml:lang="fit" location="startsida.html"/>
+	<parallel_text xml:lang="rmf" location="startsida.html"/>
+	<parallel_text xml:lang="rmn" location="startsida.html"/>
+	<parallel_text xml:lang="rmu" location="startsida.html"/>
+	<parallel_text xml:lang="rmy-rka" location="startsida.html"/>
+	<parallel_text xml:lang="rmy-rlo" location="startsida.html"/>
+	<parallel_text xml:lang="yid" location="startsida.html"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->
