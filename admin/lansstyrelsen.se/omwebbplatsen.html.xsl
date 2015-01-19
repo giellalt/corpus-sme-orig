@@ -93,10 +93,10 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="OmWebbplatsen.html" xml:lang="eng"/>
-	<parallel_text location="OmWebbplatsen.html" xml:lang="fin"/>
-	<parallel_text location="OmWebbplatsen.html" xml:lang="sma"/>
-	<parallel_text location="OmWebbplatsen.html" xml:lang="swe"/>
+	<parallel_text location="omwebbplatsen.html" xml:lang="eng"/>
+	<parallel_text location="omwebbplatsen.html" xml:lang="fin"/>
+	<parallel_text location="omwebbplatsen.html" xml:lang="sma"/>
+	<parallel_text location="omwebbplatsen.html" xml:lang="swe"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->
