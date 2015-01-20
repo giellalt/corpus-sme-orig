@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Format query results for display -->
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
-<xsl:import href="file:///home/kiwibird/.local/lib/python2.7/site-packages/CorpusTools-0.9.0a1-py2.7.egg/corpustools/xslt/common.xsl"/>
+<xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0a1-py2.7.egg/corpustools/xslt/common.xsl"/>
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
@@ -92,6 +93,9 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="lulesamiska-lule.pdf" xml:lang="smj"/>
+	<parallel_text xml:lang="fit" location="meankieli-lule.pdf"/>
+	<parallel_text xml:lang="fin" location="finska-lule.pdf"/>
+	<parallel_text xml:lang="swe" location="4i.htm.html"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->
