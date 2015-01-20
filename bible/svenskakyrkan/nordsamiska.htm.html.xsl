@@ -95,6 +95,8 @@
   <!-- <language xml:lang="smn"/> -->
   <!-- <language xml:lang="sms"/> -->
   <!-- <language xml:lang="swe"/> -->
+	<language xml:lang="sme"/>
+	<language xml:lang="swe"/>
 </xsl:variable>
 
 <!-- If the document has parallel texts, uncomment the right languages
