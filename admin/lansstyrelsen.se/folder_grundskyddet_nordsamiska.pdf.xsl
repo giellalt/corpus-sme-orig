@@ -96,8 +96,11 @@
 	<parallel_text location="folder_grundskyddet_engelska.pdf" xml:lang="eng"/>
 	<parallel_text location="folder_grundskyddet_finska.pdf" xml:lang="fin"/>
 	<parallel_text location="folder_grundskyddet_sydsamiska.pdf" xml:lang="sma"/>
-	<parallel_text location="folder_grundskyddet - lulesamiska.pdf" xml:lang="smj"/>
+	<parallel_text location="folder_grundskyddet-lulesamiska.pdf" xml:lang="smj"/>
 	<parallel_text location="folder_med_loggor_ny_strecket_cf.pdf" xml:lang="swe"/>
+	<parallel_text xml:lang="fit" location="folder_grundskyddet_meankieli.pdf"/>
+	<parallel_text xml:lang="rmn" location="folder_grundskyddet_romaniarli.pdf"/>
+	<parallel_text xml:lang="rmy-rka" location="folder_grundskyddet_romanikelderash.pdf"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->
