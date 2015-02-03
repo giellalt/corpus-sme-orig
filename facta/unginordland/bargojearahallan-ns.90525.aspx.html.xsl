@@ -95,7 +95,8 @@
         <!-- <language xml:lang="smn"/> -->
         <!-- <language xml:lang="sms"/> -->
         <!-- <language xml:lang="swe"/> -->
-    </xsl:variable>
+    <language xml:lang="sme"/>
+	<language xml:lang="nob"/></xsl:variable>
 
     <!-- If the document has parallel texts, uncomment the right languages
          (or add new lines with the right ISO-639-3 language codes) and
