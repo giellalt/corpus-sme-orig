@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0a1-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -102,10 +101,10 @@
 <xsl:variable name="skip_pages" select="''"/>
 <!-- Text outside these margins will be ignored.
 These are defaults, that are settable documentwise -->
-<xsl:variable name="right_margin" select="'7%'"/>
-<xsl:variable name="left_margin" select="'7%'"/>
-<xsl:variable name="top_margin" select="'7%'"/>
-<xsl:variable name="bottom_margin" select="'7%'"/>
+<xsl:variable name="right_margin" select="''"/>
+<xsl:variable name="left_margin" select="''"/>
+<xsl:variable name="top_margin" select="''"/>
+<xsl:variable name="bottom_margin" select="''"/>
 
 
 <!-- Add all paragraphs that should have xml:lang=X           -->
