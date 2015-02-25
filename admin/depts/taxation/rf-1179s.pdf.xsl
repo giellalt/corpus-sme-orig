@@ -1,15 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
-            <xsl:import href="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/CorpusTools-0.9.0alpha2-py2.7.egg/corpustools/xslt/common.xsl"/>
-
             <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
-    
+
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="''"/>
+    <xsl:variable name="filename" select="'http://www.skatteetaten.no/upload/Skjemaer/alltid/RF-1179S.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -40,7 +38,7 @@
     <xsl:variable name="place" select="''"/>
     <xsl:variable name="genre" select="'admin'"/>
     <xsl:variable name="collection" select="''"/>
-    <xsl:variable name="translated_from" select="''"/>
+    <xsl:variable name="translated_from" select="'nob'"/>
     <xsl:variable name="translator_fn" select="''"/>
     <xsl:variable name="translator_ln" select="''"/>
     <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -48,14 +46,14 @@
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="''"/>
-    <xsl:variable name="sub_name" select="''"/>
-    <xsl:variable name="sub_email" select="''"/>
+    <xsl:variable name="sub_name" select="'Trond Trosterud'"/>
+    <xsl:variable name="sub_email" select="'trond.trosterud@uit.no'"/>
     <xsl:variable name="wordcount" select="''"/>
     <!-- Set this variable to 1 if the source for this doc is OCR -->
     <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
     <xsl:variable name="ocr" select="''"/>
     <xsl:variable name="metadata" select="'uncomplete'"/>
-    <xsl:variable name="template_version" select="'$Revision: 105844 $'"/>
+    <xsl:variable name="template_version" select="'$Revision$'"/>
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
     <xsl:variable name="note" select="''"/>
@@ -127,10 +125,36 @@
     </xsl:variable>
 
 
-    <!-- For page oriented documents, mark which pages should be ignored -->
+    <!--
+        For page oriented documents, mark which pages should be ignored.
+        The format for this is a comma separated list of page number that
+        should be skipped. It is also possible to use ranges.
+        Examples:
+        1, 2, 3, 4
+        1, 6-10, 15, 20, 25-30
+    -->
     <xsl:variable name="skip_pages" select="''"/>
-    <!-- Text outside these margins will be ignored.
-    These are defaults, that are settable documentwise -->
+    <!--
+        Text outside these margins will be ignored.
+
+        The format for margin line is:
+        [all|odd|even|pagenumber]=integer
+
+        Margin lines *must* contain the keywords all, even, odd or a page
+        number followed by a = sign and an integer.
+
+        If there are several values, they are divided by commas.
+        Setting different margins for odd and even pages is done by writing
+        e.g. odd=240, even=540
+        It is also possible to set margins for particular pages:
+        8=240, 10=540
+        It is also possible to set margins for odd and even pages and
+        exceptions from those rules on particular pages.
+
+        Examples on how the select part could look:
+        odd=240, even=540, 8=350, 11=700
+        all=350, 8=700
+    -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
