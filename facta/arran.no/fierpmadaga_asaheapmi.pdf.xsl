@@ -131,10 +131,10 @@
     <xsl:variable name="skip_pages" select="''"/>
     <!-- Text outside these margins will be ignored.
     These are defaults, that are settable documentwise -->
-    <xsl:variable name="right_margin" select="''"/>
-    <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="right_margin" select="'all=7'"/>
+    <xsl:variable name="left_margin" select="'all=7'"/>
+    <xsl:variable name="top_margin" select="'all=7'"/>
+    <xsl:variable name="bottom_margin" select="'all=7'"/>
 
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
