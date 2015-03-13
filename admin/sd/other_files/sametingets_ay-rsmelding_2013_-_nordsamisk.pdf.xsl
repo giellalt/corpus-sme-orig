@@ -5,7 +5,7 @@
 
             <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
-    
+
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
@@ -136,7 +136,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select=""/>
+    <xsl:variable name="skip_pages" select="''"/>
     <!--
         Text outside these margins will be ignored.
 
@@ -145,7 +145,7 @@
 
         Margin lines *must* contain the keywords all, even, odd or a page
         number followed by a = sign and an integer.
-        
+
         If there are several values, they are divided by commas.
         Setting different margins for odd and even pages is done by writing
         e.g. odd=240, even=540
