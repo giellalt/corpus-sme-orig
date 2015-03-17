@@ -84,7 +84,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="stm200820090039000dddpdfs.pdf" xml:lang="nob"/>
+    <parallel_text location="stm200820090039000dddpdfs.pdf" xml:lang="nob"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->
@@ -131,7 +131,7 @@
 </xsl:element>
 </xsl:template>
 -->
-
+<xsl:variable name="skip_pages" select="'17-23'"/>
 <xsl:variable name="bottom_margin" select="all=7"/>
 <xsl:variable name="left_margin" select="all=7"/>
 <xsl:variable name="top_margin" select="all=7"/>
