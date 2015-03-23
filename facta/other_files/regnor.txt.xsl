@@ -4,11 +4,11 @@
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
-<xsl:variable name="filename" select="''"/>
-<xsl:variable name="title" select="''"/>
-<xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
-<xsl:variable name="author1_gender" select="'unknown'"/>
+<xsl:variable name="filename" select="'regnor.txt'"/>
+<xsl:variable name="title" select="'Dáruiduhttin'"/>
+<xsl:variable name="author1_fn" select="'Regnor'"/>
+<xsl:variable name="author1_ln" select="'Jernsletten'"/>
+<xsl:variable name="author1_gender" select="'m'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author2_fn" select="''"/>
@@ -27,14 +27,14 @@
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisher" select="'Sámi Instituhtta'"/>
 <xsl:variable name="publChannel" select="''"/>
-<xsl:variable name="year" select="''"/>
+<xsl:variable name="year" select="'1993'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="'facta'"/>
-<xsl:variable name="collection" select="''"/>
+<xsl:variable name="collection" select="'Aage Solbakk: Sápmelaččat'"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
