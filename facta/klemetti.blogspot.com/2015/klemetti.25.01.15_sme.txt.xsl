@@ -124,7 +124,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    </xsl:variable>
+    <parallel_text location="klemetti.25.01.15_fin.txt" xml:lang="fin"/>
+</xsl:variable>
 
 
     <!--
