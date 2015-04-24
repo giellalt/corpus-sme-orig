@@ -12,24 +12,24 @@
     <xsl:variable name="filename" select="'verbintro.xml'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
-    <xsl:variable name="author1_fn" select="''"/>
-    <xsl:variable name="author1_ln" select="''"/>
-    <xsl:variable name="author1_gender" select="'unknown'"/>
+     <xsl:variable name="author1_fn" select="'Lene'"/>
+    <xsl:variable name="author1_ln" select="'Antonsen'"/>
+    <xsl:variable name="author1_gender" select="'female'"/>
     <xsl:variable name="author1_nat" select="''"/>
     <xsl:variable name="author1_born" select="''"/>
     <xsl:variable name="author2_fn" select="''"/>
     <xsl:variable name="author2_ln" select="''"/>
-    <xsl:variable name="author2_gender" select="'unknown'"/>
+    <xsl:variable name="author2_gender" select="'female'"/>
     <xsl:variable name="author2_nat" select="''"/>
     <xsl:variable name="author2_born" select="''"/>
     <xsl:variable name="author3_fn" select="''"/>
     <xsl:variable name="author3_ln" select="''"/>
-    <xsl:variable name="author3_gender" select="'unknown'"/>
+    <xsl:variable name="author3_gender" select="'female'"/>
     <xsl:variable name="author3_nat" select="''"/>
     <xsl:variable name="author3_born" select="''"/>
     <xsl:variable name="author4_fn" select="''"/>
     <xsl:variable name="author4_ln" select="''"/>
-    <xsl:variable name="author4_gender" select="'unknown'"/>
+    <xsl:variable name="author4_gender" select="'female'"/>
     <xsl:variable name="author4_nat" select="''"/>
     <xsl:variable name="author4_born" select="''"/>
     <xsl:variable name="publisher" select="''"/>
@@ -43,7 +43,7 @@
     <xsl:variable name="translated_from" select="''"/>
     <xsl:variable name="translator_fn" select="''"/>
     <xsl:variable name="translator_ln" select="''"/>
-    <xsl:variable name="translator_gender" select="'unknown'"/>
+    <xsl:variable name="translator_gender" select="'female'"/>
     <xsl:variable name="translator_born" select="''"/>
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
