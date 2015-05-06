@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///Users/lan000/Library/Python/2.7/lib/python/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
@@ -49,7 +49,7 @@
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="''"/>
     <xsl:variable name="sub_name" select="'Antonsen Lene'"/>
-    <xsl:variable name="sub_email" select="''"/>
+    <xsl:variable name="sub_email" select="'lene.antonsen@uit.no'"/>
     <xsl:variable name="wordcount" select="''"/>
     <!-- Set this variable to 1 if the source for this doc is OCR -->
     <!-- Those docs typically contain lots of orthographic errors and need special treatment -->

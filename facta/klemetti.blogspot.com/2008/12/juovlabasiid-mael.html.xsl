@@ -44,7 +44,7 @@
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="'Børre Gaup'"/>
-<xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
+<xsl:variable name="sub_email" select="'lene.antonsen@uit.no'"/>
 <xsl:variable name="wordcount" select="'1326'"/>
 <xsl:variable name="metadata" select="'complete'"/>
 <xsl:variable name="template_version" select="' 1.22 '"/>
