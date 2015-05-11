@@ -14,22 +14,22 @@
     <xsl:variable name="title" select="''"/>
      <xsl:variable name="author1_fn" select="'Lene'"/>
     <xsl:variable name="author1_ln" select="'Antonsen'"/>
-    <xsl:variable name="author1_gender" select="'female'"/>
+    <xsl:variable name="author1_gender" select="'f'"/>
     <xsl:variable name="author1_nat" select="''"/>
     <xsl:variable name="author1_born" select="''"/>
     <xsl:variable name="author2_fn" select="''"/>
     <xsl:variable name="author2_ln" select="''"/>
-    <xsl:variable name="author2_gender" select="'female'"/>
+    <xsl:variable name="author2_gender" select="'f'"/>
     <xsl:variable name="author2_nat" select="''"/>
     <xsl:variable name="author2_born" select="''"/>
     <xsl:variable name="author3_fn" select="''"/>
     <xsl:variable name="author3_ln" select="''"/>
-    <xsl:variable name="author3_gender" select="'female'"/>
+    <xsl:variable name="author3_gender" select="'f'"/>
     <xsl:variable name="author3_nat" select="''"/>
     <xsl:variable name="author3_born" select="''"/>
     <xsl:variable name="author4_fn" select="''"/>
     <xsl:variable name="author4_ln" select="''"/>
-    <xsl:variable name="author4_gender" select="'female'"/>
+    <xsl:variable name="author4_gender" select="'f'"/>
     <xsl:variable name="author4_nat" select="''"/>
     <xsl:variable name="author4_born" select="''"/>
     <xsl:variable name="publisher" select="''"/>
