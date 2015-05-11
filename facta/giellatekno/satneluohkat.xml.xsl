@@ -48,7 +48,7 @@
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="''"/>
-    <xsl:variable name="sub_name" select="'Antonsen Lene'"/>
+    <xsl:variable name="sub_name" select="'Lene Antonsen'"/>
     <xsl:variable name="sub_email" select="'lene.antonsen@uit.no'"/>
     <xsl:variable name="wordcount" select="''"/>
     <!-- Set this variable to 1 if the source for this doc is OCR -->
