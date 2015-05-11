@@ -120,7 +120,6 @@
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="sma" location="gaerjagaaetie_mijjieh-juvnehtibie_saemien-bibliografije.html"/>
-    <parallel_text xml:lang="nob" location="bibliotek_vi-anbefaler_samisk-bibliografi.html"/>
   </xsl:variable>
   <!--
         For pdf documents, mark which pages should be ignored.

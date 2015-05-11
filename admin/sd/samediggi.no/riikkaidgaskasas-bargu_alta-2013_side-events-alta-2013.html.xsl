@@ -119,7 +119,6 @@
     <!-- <parallel_text xml:lang="smn" location=""/> -->
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="nob" location="internasjonalt-arbeid_alta-2013_side-events-alta-2013.html"/>
   </xsl:variable>
   <!--
         For pdf documents, mark which pages should be ignored.
