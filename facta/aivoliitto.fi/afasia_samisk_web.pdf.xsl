@@ -49,7 +49,7 @@
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="''"/>
     <xsl:variable name="sub_name" select="'Kimberli Mäkäräinen, Hki, sms.'"/>
-    <xsl:variable name="sub_email" select="'lene.antonsen@uit.no'"/>
+    <xsl:variable name="sub_email" select="'kimberli.makarainen@helsinki.fi'"/>
     <xsl:variable name="wordcount" select="''"/>
     <!-- Set this variable to 1 if the source for this doc is OCR -->
     <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
