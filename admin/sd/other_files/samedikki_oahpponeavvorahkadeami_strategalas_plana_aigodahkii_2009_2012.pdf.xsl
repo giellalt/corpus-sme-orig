@@ -83,7 +83,6 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="1" xml:lang="dan"/>
 	<parallel_text location="sametingets_strategiske_plan_for_laremiddelutvikling_2009_2012.pdf" xml:lang="nob"/>
 </xsl:variable>
 
