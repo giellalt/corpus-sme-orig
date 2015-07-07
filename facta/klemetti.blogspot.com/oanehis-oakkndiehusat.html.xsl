@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="''"/>
-<xsl:variable name="title" select="''"/>
+<xsl:variable name="filename" select="'oanehis-oakkndiehusat.html'"/>
+<xsl:variable name="title" select="'Oanehis čoakkándieđáhusat'"/>
 <xsl:variable name="author1_fn" select="'Klemetti'"/>
-<xsl:variable name="author1_ln" select="'Näkkäläjärvi'"/>
+<xsl:variable name="author1_ln" select="' Näkkäläjärvi'"/>
 <xsl:variable name="author1_gender" select="'m'"/>
 <xsl:variable name="author1_born" select="'19601018'"/>
 <xsl:variable name="author1_nat" select="'fin'"/>
@@ -29,11 +29,11 @@
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="publisher" select="''"/>
-<xsl:variable name="publChannel" select="'http://klemetti.blogspot.com/'"/>
+<xsl:variable name="publChannel" select="'http://klemetti.blogspot.com'"/>
 <xsl:variable name="year" select="'2008'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
-<xsl:variable name="place" select="''"/>
+<xsl:variable name="place" select="'http://klemetti.blogspot.com/2008/10/oanehis-oakkndiehusat.html'"/>
 <xsl:variable name="genre" select="'facta'"/>
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translator_fn" select="''"/>
@@ -45,7 +45,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="'Børre Gaup'"/>
 <xsl:variable name="sub_email" select="'lene.antonsen@uit.no'"/>
-<xsl:variable name="wordcount" select="'1259'"/>
+<xsl:variable name="wordcount" select="'765'"/>
 <xsl:variable name="metadata" select="'complete'"/>
 <xsl:variable name="template_version" select="' 1.22 '"/>
 <xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
@@ -53,7 +53,7 @@
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="'fin'"/>
+<xsl:variable name="mainlang" select="'sme'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
@@ -85,7 +85,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="ajatuksia-aluehallintouudistuksesta.html" xml:lang="fin"/>
+	<parallel_text location="lyhyet-kokouskuulumiset_1.html" xml:lang="fin"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->
