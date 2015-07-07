@@ -30,7 +30,7 @@
 <xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="publisher" select="''"/>
 <xsl:variable name="publChannel" select="'http://klemetti.blogspot.com'"/>
-<xsl:variable name="year" select="'2009'"/>
+<xsl:variable name="year" select="'2008'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="'http://klemetti.blogspot.com/2008/02/buorit-spmelaat.html'"/>
