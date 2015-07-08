@@ -125,7 +125,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location="_799-2_756-2__lang_ls2.html"/>
+    <parallel_text xml:lang="smj" location="_799-2_756-2_lang_ls2.html"/>
 	<parallel_text xml:lang="swe" location="_utbildningar_giella-sprakstudier2.html"/></xsl:variable>
 
 

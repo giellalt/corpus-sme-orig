@@ -126,8 +126,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location="giella_samasta-mujna_artikler_buorastahte-giellaaavdaastiddjev!.html"/>
-	<parallel_text xml:lang="sma" location="giele_saemesth-munnjien_artikler_aaahpenh-giele-ierieguedtijigujmie!.html"/>
+    <parallel_text xml:lang="smj" location="giella_samasta-mujna_artikler_buorastahte-giellaaavdaastiddjev_.html"/>
+	<parallel_text xml:lang="sma" location="giele_saemesth-munnjien_artikler_aaahpenh-giele-ierieguedtijigujmie_.html"/>
 	<parallel_text xml:lang="nob" location="spraak_snakk-samisk-te-mae_artikler_hils-paa-spraakambassadoerene.html"/></xsl:variable>
 
 

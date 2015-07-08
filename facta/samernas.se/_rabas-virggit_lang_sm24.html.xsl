@@ -125,7 +125,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location="_rabas-virge__lang_ls24.html"/></xsl:variable>
+    <parallel_text xml:lang="smj" location="_rabas-virge_lang_ls24.html"/></xsl:variable>
 
 
     <!--

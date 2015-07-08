@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:import href="file:///Users/unhammer/Library/Python/2.7/lib/python/site-packages/CorpusTools-0.9.0alpha1-py2.7.egg/corpustools/xslt/common.xsl"/>
@@ -96,7 +96,7 @@
 	<parallel_text location="faktablad_finska.pdf" xml:lang="fin"/>
 	<parallel_text location="faktablad_sydsamiska.pdf" xml:lang="sma"/>
 	<parallel_text location="faktablad_lulesamiska.pdf" xml:lang="smj"/>
-	<parallel_text location="faktablad_meänkieli.pdf" xml:lang="swe"/>
+	<parallel_text location="faktablad_meankieli.pdf" xml:lang="swe"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->

@@ -125,7 +125,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location="_hatte__lang_ls13.html"/>
+    <parallel_text xml:lang="smj" location="_hatte_lang_ls13.html"/>
 	<parallel_text xml:lang="swe" location="_bokningarblanketter13.html"/></xsl:variable>
 
 

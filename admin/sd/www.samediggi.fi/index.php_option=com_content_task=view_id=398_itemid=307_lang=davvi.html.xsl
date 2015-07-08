@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:import href="file:///home/boerre/langtech/trunk/tools/CorpusTools/corpustools/xslt/common.xsl"/>
@@ -93,9 +93,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="index.php_option=com_content_task=view_id=398_itemid=307_lang=english" xml:lang="eng"/>
-	<parallel_text location="index.php_option=com_content_task=view_id=398_itemid=307_lang=finnish" xml:lang="fin"/>
-	<parallel_text location="index.php_option=com_content_task=view_id=398_itemid=307_lang=anaras" xml:lang="smn"/>
+	<parallel_text location="index.php_option=com_content_task=view_id=398_itemid=307_lang=english.html" xml:lang="eng"/>
+	<parallel_text location="index.php_option=com_content_task=view_id=398_itemid=307_lang=finnish.html" xml:lang="fin"/>
+	<parallel_text location="index.php_option=com_content_task=view_id=398_itemid=307_lang=anaras.html" xml:lang="smn"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->
