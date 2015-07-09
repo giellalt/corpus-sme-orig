@@ -32,7 +32,6 @@
 	<xsl:variable name="author4_gender" select="''"/>
 	<xsl:variable name="author4_born" select="''"/>
 	<xsl:variable name="author4_nat" select="''"/>
-	<xsl:variable name="translated_from" select="''"/>
 	<xsl:variable name="publisher" select="''"/>
 	<xsl:variable name="publChannel" select="'http://klemetti.blogspot.com'"/>
 	<xsl:variable name="year" select="'2012'"/>
