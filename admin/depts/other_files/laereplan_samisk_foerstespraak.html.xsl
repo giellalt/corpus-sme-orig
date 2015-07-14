@@ -125,7 +125,10 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="nob" location="laereplan_samisk_forestespraak.html"/></xsl:variable>
+    <parallel_text xml:lang="nob" location="laereplan_samisk_foerstespraak.html"/>
+	<parallel_text xml:lang="eng" location="laereplan_samisk_foerstespraak.doc"/>
+	<parallel_text xml:lang="sma" location="laereplan_samisk_foerstespraak.docx"/>
+	<parallel_text xml:lang="smj" location="laereplan_samisk_foerstespraak.docx"/></xsl:variable>
 
 
     <!--
