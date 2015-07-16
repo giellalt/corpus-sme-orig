@@ -125,7 +125,11 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sma" location="barnstrivsel_sorsamiskweb.pdf"/></xsl:variable>
+    <parallel_text xml:lang="sma" location="barnstrivsel_sorsamiskweb.pdf"/>
+	<parallel_text xml:lang="smj" location="barnstrivsel_lulesamisk.pdf"/>
+	<parallel_text xml:lang="eng" location="barnstrivsel_engelsk.pdf"/>
+	<parallel_text xml:lang="nno" location="barnstrivsel_nynorsk.pdf"/>
+	<parallel_text xml:lang="nob" location="barnstrivsel_bokmal.pdf"/></xsl:variable>
 
 
     <!--
