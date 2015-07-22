@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
@@ -57,7 +57,7 @@
   <!-- Select "1" for the variable multilingual -->
   <xsl:variable name="monolingual" select="''"/>
   <!-- checked for all the languages below. -->
-  
+
 
 <!-- If monolingual is not set, the language is multilingual.
      Uncomment the languages you want to check for (or add new lines
@@ -71,7 +71,7 @@
 </xsl:variable>
 
 <!-- Add the locations of the parallel files to the variables-->
-  
+
 
 <!-- If the document has parallel texts, uncomment the right languages
      (or add new lines with the right ISO-639-3 language codes) and
@@ -83,7 +83,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="" xml:lang="nob"/>
+	<parallel_text location="5_id_405887.html" xml:lang="nob"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->

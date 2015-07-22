@@ -1,12 +1,23 @@
+<<<<<<< HEAD
 <?xml version='1.0' encoding='UTF-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
+=======
+<?xml version='1.0' encoding='utf-8'?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
+>>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
+<<<<<<< HEAD
 <xsl:variable name="filename" select="'http://regjeringen.no/nn/dep/kud/pressesenter/pressemeldingar/Omorganisering-av-ABM/statens-stipend-for-eldre-fortente-kunst.html?id=615482'"/>
 <xsl:variable name="title" select="'Statens stipend for eldre fortente kunstnarar - tildeling hausten 2010 - regjeringen.no'"/>
+=======
+<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/kkd/preassaguovdda/Preassadieahus/2010/Stahtastipeanda-vuorrasat-anssaeaddji-daiddariidda--juohkin-jagi-2010-ava.html?id=615482'"/>
+<xsl:variable name="text_encoding" select="''"/>
+<xsl:variable name="title" select="'Stáhtastipeanda vuorrasat ánssášeaddji dáiddáriidda – juohkin jagi 2010 čavčča - regjeringen.no'"/>
+>>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -33,9 +44,15 @@
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
+<<<<<<< HEAD
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
+=======
+<xsl:variable name="genre" select="'admin'"/>
+<xsl:variable name="collection" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
+>>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -45,14 +62,21 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
+<<<<<<< HEAD
 <xsl:variable name="wordcount" select="'250'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision$'"/>
+=======
+<xsl:variable name="wordcount" select="'207'"/>
+<xsl:variable name="metadata" select="'uncomplete'"/>
+<xsl:variable name="template_version" select="'$Revision: 34357 $'"/>
+>>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
+<<<<<<< HEAD
 <xsl:variable name="mainlang" select="''"/>
 
 <!-- Other languages, in case of multilingual document. -->
@@ -111,6 +135,41 @@
 <xsl:variable name="smjlang" select="'smj'"/>
 <xsl:variable name="swelang" select="'swe'"/>
 
+=======
+<xsl:variable name="mainlang" select="'sme'"/>
+
+<!-- Other languages, in case of multilingual document. -->
+<!-- Select "1" for the variable multilingual -->
+<xsl:variable name="monolingual" select="''"/> <!-- checked for all the languages below. -->
+
+
+<!-- If monolingual is not set, the language is multilingual.
+     Uncomment the languages you want to check for (or add new lines
+     with the right ISO-639-3 language codes).
+
+     If *no* languages are uncommented (and monolingual is not 1),
+     then the document is checked for all supported languages.
+-->
+<xsl:variable name="mlangs">
+	<language xml:lang="nob"/>
+</xsl:variable>
+
+<!-- Add the locations of the parallel files to the variables-->
+
+
+<!-- If the document has parallel texts, uncomment the right languages
+     (or add new lines with the right ISO-639-3 language codes) and
+     add the filename of the parallel files to the 'location'
+     variables.
+
+     Don't write the full directory; we expect the file to be in the
+     same directory as this file, with only the language code and
+     filename changed.
+     -->
+<xsl:variable name="parallels">
+	<parallel_text location="statens-stipend-for-eldre-fortente-kunst_id_615482.html" xml:lang="nno"/>
+</xsl:variable>
+>>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 
 <!-- Add all paragraphs that should have xml:lang=X-->
 <!-- Uncomment the following and add the paths, for example: -->
@@ -157,4 +216,8 @@
 </xsl:template>
 -->
 
+<<<<<<< HEAD
 </xsl:stylesheet>
+=======
+</xsl:stylesheet>
+>>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
