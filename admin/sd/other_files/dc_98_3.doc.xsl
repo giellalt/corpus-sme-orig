@@ -126,7 +126,7 @@
             </xsl:attribute>
             </xsl:if>
 
-			<xsl:value-of select="translate($text,'ó','š') "/>
+            <xsl:value-of select="translate($text,'óÜ','šđ') "/>
 </xsl:element>
 </xsl:template>
 
