@@ -155,7 +155,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="sami-languages_id_24388.html" xml:lang="eng"/>
+	<parallel_text location="" xml:lang="eng"/>
 	<parallel_text location="bruk_av_samisk_sprak_id_24388.html" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
