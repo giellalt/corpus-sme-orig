@@ -95,7 +95,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="index.php_option=com_contact_task=view_contact_id=35_itemid=_lang=english.html" xml:lang="eng"/>
 	<parallel_text location="index.php_option=com_contact_task=view_contact_id=35_itemid=_lang=finnish.html" xml:lang="fin"/>
-	<parallel_text location="index.php_option=com_contact_task=view_contact_id=35_itemid=_lang=nuortta.html" xml:lang="sms"/>
+	<parallel_text location="" xml:lang="sms"/>
 	<parallel_text location="index.php_option=com_contact_task=view_contact_id=35_itemid=_lang=anaras.html" xml:lang="smn"/>
 </xsl:variable>
 
