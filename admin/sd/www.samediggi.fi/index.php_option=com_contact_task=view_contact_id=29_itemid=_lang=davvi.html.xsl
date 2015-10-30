@@ -94,7 +94,7 @@
 	<parallel_text location="index.php_option=com_contact_task=view_contact_id=29_itemid=_lang=english.html" xml:lang="eng"/>
 	<parallel_text location="" xml:lang="fin"/>
 	<parallel_text location="index.php_option=com_contact_task=view_contact_id=29_itemid=_lang=nuortta.html" xml:lang="sms"/>
-	<parallel_text location="index.php_option=com_contact_task=view_contact_id=29_itemid=_lang=anaras.html" xml:lang="smn"/>
+	<parallel_text location="" xml:lang="smn"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->
