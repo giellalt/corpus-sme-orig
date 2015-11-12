@@ -133,8 +133,8 @@
     These are defaults, that are settable documentwise -->
 <xsl:variable name="right_margin" select="''"/>
 <xsl:variable name="left_margin" select="''"/>
-<xsl:variable name="top_margin" select="''"/>
-<xsl:variable name="bottom_margin" select="''"/>
+<xsl:variable name="top_margin" select="'1=18'"/>
+<xsl:variable name="bottom_margin" select="'1=20'"/>
 
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
