@@ -128,7 +128,7 @@
 
 
     <!-- For page oriented documents, mark which pages should be ignored -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1-6,33-37'"/>
     <!-- Text outside these margins will be ignored.
     These are defaults, that are settable documentwise -->
     <xsl:variable name="right_margin" select="'all=7'"/>
