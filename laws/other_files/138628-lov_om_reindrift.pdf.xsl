@@ -130,8 +130,42 @@
 </xsl:template>
 -->
 
-<xsl:variable name="bottom_margin" select="all=7"/>
-<xsl:variable name="left_margin" select="all=7"/>
-<xsl:variable name="top_margin" select="all=7"/>
-<xsl:variable name="right_margin" select="all=7"/>
-</xsl:stylesheet>
+    <!--
+        For pdf documents, mark which pages should be ignored.
+        The format for this is a comma separated list of page number that
+        should be skipped. It is also possible to use ranges.
+        Examples:
+        1, 2, 3, 4
+        1, 6-10, 15, 20, 25-30
+    -->
+    <xsl:variable name="skip_pages" select="''"/>
+
+    <!--
+        Text outside these margins will be ignored.
+
+        The format for margin line is:
+        [all|odd|even|pagenumber]=integer
+
+        Margin lines *must* contain the keywords all, even, odd or a page
+        number followed by a = sign and an integer.
+
+        The integer must be between 0 and 100.
+
+        If there are several values, they are divided by commas.
+        Setting different margins for odd and even pages is done by writing
+        e.g. odd=8, even=15
+        It is also possible to set margins for particular pages:
+        8=8, 10=12
+        It is also possible to set margins for odd and even pages and
+        exceptions from those rules on particular pages.
+
+        Examples on how the select part could look:
+        odd=5, even=8, 8=15, 11=3
+        all=9, 8=12
+    -->
+    <xsl:variable name="right_margin" select="''"/>
+    <xsl:variable name="left_margin" select="''"/>
+    <xsl:variable name="top_margin" select="''"/>
+    <xsl:variable name="bottom_margin" select="''"/>
+
+    </xsl:stylesheet>
