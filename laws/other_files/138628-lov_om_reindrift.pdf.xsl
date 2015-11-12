@@ -138,7 +138,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1-6'"/>
 
     <!--
         Text outside these margins will be ignored.
@@ -162,7 +162,7 @@
         Examples on how the select part could look:
         odd=5, even=8, 8=15, 11=3
         all=9, 8=12
-    -->
+   -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
