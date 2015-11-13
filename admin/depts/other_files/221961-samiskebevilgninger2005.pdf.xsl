@@ -130,8 +130,8 @@
     </xsl:element>
 </xsl:template>
 
-<xsl:variable name="bottom_margin" select="all=7"/>
+<xsl:variable name="bottom_margin" select="1=60"/>
 <xsl:variable name="left_margin" select="all=7"/>
-<xsl:variable name="top_margin" select="all=7"/>
+<xsl:variable name="top_margin" select="'3=55,6=20,8=40,13=25,14=22,16=40'"/>
 <xsl:variable name="right_margin" select="all=7"/>
 </xsl:stylesheet>
