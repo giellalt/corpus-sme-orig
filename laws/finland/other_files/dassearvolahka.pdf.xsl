@@ -135,6 +135,8 @@
     <xsl:variable name="left_margin" select="'all=7'"/>
     <xsl:variable name="top_margin" select="'all=7'"/>
     <xsl:variable name="bottom_margin" select="'all=7'"/>
+<xsl:variable name="inner_top_margin" select="'9=62'"/>
+<xsl:variable name="inner_bottom_margin" select="'9=13'"/>
 
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
