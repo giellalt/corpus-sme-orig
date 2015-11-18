@@ -135,5 +135,7 @@
 <xsl:variable name="left_margin" select="all=7"/>
 <xsl:variable name="top_margin" select="'4=24,5=62,9=17,10=38,12=43,18=30,20=28,22=36,26=20'"/>
 <xsl:variable name="right_margin" select="all=7"/>
+<xsl:variable name="inner_top_margin" select="'3=20,25=48'"/>
+<xsl:variable name="inner_bottom_margin" select="'3=52,25=38'"/>
 <xsl:variable name="skip_pages" select="'1,27'"/>
 </xsl:stylesheet>
