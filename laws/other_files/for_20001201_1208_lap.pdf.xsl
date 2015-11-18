@@ -111,6 +111,6 @@
 
 <xsl:variable name="bottom_margin" select="2=73"/>
 <xsl:variable name="left_margin" select="all=30"/>
-<xsl:variable name="top_margin" select="1=30"/>
+<xsl:variable name="top_margin" select="1=40"/>
 <xsl:variable name="right_margin" select="all=7"/>
 </xsl:stylesheet>
