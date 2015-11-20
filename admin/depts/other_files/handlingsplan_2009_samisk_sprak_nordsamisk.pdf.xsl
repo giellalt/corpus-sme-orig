@@ -138,9 +138,13 @@
 
 
 
-<xsl:variable name="bottom_margin" select="'all=10'"/>
+<xsl:variable name="bottom_margin" select="'all=10,8=28,14=16,16=16,18=16,19=16,28=14,43=14'"/>
 <xsl:variable name="left_margin" select="'all=7'"/>
-<xsl:variable name="top_margin" select="'all=7'"/>
+<xsl:variable name="top_margin" select="'8=36,24=34,40=34,59=34'"/>
 <xsl:variable name="right_margin" select="'all=7'"/>
+<xsl:variable name="inner_top_margin" select="'12=53,18=14,19=32,20=84,30=0'"/>
+<xsl:variable name="inner_bottom_margin" select="'12=0,18=60,19=0,20=0,30=40'"/>
+<xsl:variable name="inner_left_margin" select="'12=0,18=50,19=0,20=0,30=0'"/>
+<xsl:variable name="inner_right_margin" select="'12=50,18=0,19=50,20=50,30=50'"/>
 <xsl:variable name="skip_pages" select="'1-6,69'"/>
 </xsl:stylesheet>
