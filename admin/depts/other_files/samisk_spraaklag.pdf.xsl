@@ -105,7 +105,7 @@
      -->
     <xsl:variable name="parallels">
         <parallel_text xml:lang="smn" location="samisk_spraaklag.pdf"/>
-        <parallel_text xml:lang="sms" location="samisk_spraaklag.pdf"/>
+        <parallel_text xml:lang="sms" location="samisk_spraaklag_utf8.txt"/>
         <parallel_text xml:lang="swe" location="samisk_spraaklag.pdf"/>
     </xsl:variable>
 
