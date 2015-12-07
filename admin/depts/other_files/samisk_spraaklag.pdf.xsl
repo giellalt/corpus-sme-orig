@@ -144,6 +144,10 @@
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="top_margin" select="'all=12,16=22'"/>
+    <xsl:variable name="bottom_margin" select="'16=22,23=73'"/>
+<xsl:variable name="inner_top_margin" select="''"/>
+<xsl:variable name="inner_bottom_margin" select="''"/>
+<xsl:variable name="inner_left_margin" select="''"/>
+<xsl:variable name="inner_right_margin" select="''"/>
 </xsl:stylesheet>
