@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:import href="file:///Users/unhammer/Library/Python/2.7/lib/python/site-packages/CorpusTools-0.8.1-py2.7.egg/corpustools/xslt/common.xsl"/>
@@ -94,7 +94,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="index.php_kat_id=216_art_id=260.html" xml:lang="nob"/>
-	<parallel_text location="index.php_kat_id=216_art_id=260.html" xml:lang="smj"/>
+	<parallel_text location="" xml:lang="smj"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->
