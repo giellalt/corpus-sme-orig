@@ -104,8 +104,13 @@
 <xsl:variable name="parallels">
 	</xsl:variable>
 
-<xsl:variable name="bottom_margin" select="all=7"/>
+<xsl:variable name="bottom_margin" select="'all=7,17=18,19=35,20=80,39=19,41=24'"/>
 <xsl:variable name="left_margin" select="all=7"/>
-<xsl:variable name="top_margin" select="all=7"/>
+<xsl:variable name="top_margin" select="'all=7,18=40,32=33,37=20'"/>
 <xsl:variable name="right_margin" select="all=7"/>
+<xsl:variable name="inner_top_margin" select="'4=67,9=86,11=75,12=88,14=89,15=39,16=78,17=0,19=21,22=24,24=23,27=17,31=19,33=12,35=34,39=68,43=25,44=53,46=38'"/>
+<xsl:variable name="inner_bottom_margin" select="'4=15,9=0,11=0,12=0,14=0,15=30,16=0,17=86,19=64,22=47,24=50,27=58,31=70,33=76,35=56,39=25,43=39,44=32,46=32'"/>
+<xsl:variable name="inner_left_margin" select="'9=50,11=50,12=0,14=0,16=50,17=0'"/>
+<xsl:variable name="inner_right_margin" select="'9=0,11=0,12=50,14=50,16=0,17=50'"/>
+<xsl:variable name="skip_pages" select="'1-2,30'"/>
 </xsl:stylesheet>
