@@ -165,7 +165,7 @@
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="bottom_margin" select="'2=18,3=11,5=17,8=12,9=12,10=46'"/>
 
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
