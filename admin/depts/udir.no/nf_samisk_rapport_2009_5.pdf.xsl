@@ -136,7 +136,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1-6,12-16,153-162'"/>
 
     <!--
         Text outside these margins will be ignored.
@@ -163,8 +163,12 @@
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="top_margin" select="'39=38'"/>
+    <xsl:variable name="bottom_margin" select="'all=27,93=32,95=39,97=38,107=31,113=31,115=38,116=41,120=28,127=40,130=29,133=38,139=38,140=39,146=31'"/>
+<xsl:variable name="inner_top_margin" select="'46=29,108=11,115=38,119=30,120=33'"/>
+<xsl:variable name="inner_bottom_margin" select="'46=43,108=67,115=46,119=41,120=57'"/>
+<xsl:variable name="inner_left_margin" select="''"/>
+<xsl:variable name="inner_right_margin" select="''"/>
 
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
