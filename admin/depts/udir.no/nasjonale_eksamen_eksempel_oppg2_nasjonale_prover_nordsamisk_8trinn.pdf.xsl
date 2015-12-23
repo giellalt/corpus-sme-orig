@@ -135,7 +135,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="'5'"/>
+    <xsl:variable name="skip_pages" select="'1,5'"/>
 
     <!--
         Text outside these margins will be ignored.
@@ -164,8 +164,8 @@
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
     <xsl:variable name="bottom_margin" select="'all=7,3=44,4=32'"/>
-<xsl:variable name="inner_top_margin" select="'2=73'"/>
-<xsl:variable name="inner_bottom_margin" select="'2=0'"/>
+<xsl:variable name="inner_top_margin" select="'2=73,3=38,4=28'"/>
+<xsl:variable name="inner_bottom_margin" select="'2=0,3=56,4=66'"/>
 <xsl:variable name="inner_left_margin" select="'2=70'"/>
 <xsl:variable name="inner_right_margin" select="'2=0'"/>
 
