@@ -164,7 +164,10 @@
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
     <xsl:variable name="bottom_margin" select="''"/>
-
+<xsl:variable name="inner_top_margin" select="'1=76'"/>
+<xsl:variable name="inner_bottom_margin" select="'1=0'"/>
+<xsl:variable name="inner_left_margin" select="'1=35'"/>
+<xsl:variable name="inner_right_margin" select="'1=0'"/>
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
     <!-- Uncomment the following and add the paths, for example:  -->
