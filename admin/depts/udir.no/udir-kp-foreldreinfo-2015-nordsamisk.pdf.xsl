@@ -5,7 +5,7 @@
 
             <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
-    
+
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
@@ -161,7 +161,7 @@
         all=9, 8=12
     -->
     <xsl:variable name="right_margin" select="''"/>
-    <xsl:variable name="left_margin" select="''"/>
+    <xsl:variable name="left_margin" select="'all=3'"/>
     <xsl:variable name="top_margin" select="''"/>
     <xsl:variable name="bottom_margin" select="''"/>
 <xsl:variable name="inner_top_margin" select="'1=76'"/>
