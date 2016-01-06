@@ -136,7 +136,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="'1-6,15,25,31,32'"/>
+    <xsl:variable name="skip_pages" select="'1-6,15,25,30-32'"/>
 
     <!--
         Text outside these margins will be ignored.
@@ -161,11 +161,14 @@
         odd=5, even=8, 8=15, 11=3
         all=9, 8=12
     -->
-    <xsl:variable name="right_margin" select="''"/>
-    <xsl:variable name="left_margin" select="''"/>
+    <xsl:variable name="right_margin" select="'13=28,17=28,19=28,21=28,27=28'"/>
+    <xsl:variable name="left_margin" select="'8=28,12=28,16=28,18=28,20=28,26=28,28=28'"/>
     <xsl:variable name="top_margin" select="''"/>
     <xsl:variable name="bottom_margin" select="'all=8'"/>
-
+<xsl:variable name="inner_top_margin" select="'9=46,10=50,14=50,24=54'"/>
+<xsl:variable name="inner_bottom_margin" select="'9=0,10=0,14=0,24=0'"/>
+<xsl:variable name="inner_left_margin" select="'9=72,10=0,14=0,24=0'"/>
+<xsl:variable name="inner_right_margin" select="'9=0,10=72,14=72,24=72'"/>
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
     <!-- Uncomment the following and add the paths, for example:  -->
@@ -190,7 +193,7 @@
     <!-- of elements - then only one of them will apply. Also try -->
     <!-- to restrict the template to nodes that do not contain    -->
     <!-- other markup, as such markup otherwise will be removed.  -->
-    <!--
+   
     <xsl:template match="p[parent::body][not(./em | ./span)][text()]">
         <xsl:variable name="text" select='current()' />
         <xsl:variable name="type" select='@type' />
@@ -209,12 +212,12 @@
 
             <xsl:call-template name="globalTextReplace">
                 <xsl:with-param name="inputString" select="$text"/>
-                <xsl:with-param name="target" select="'str1/str2/str3/'"/>
-                <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
+                <xsl:with-param name="target" select="'birra siid/'"/>
+                <xsl:with-param name="replacement" select="'birrasiid/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
         </xsl:element>
     </xsl:template>
-    -->
+   
 
 </xsl:stylesheet>
