@@ -121,6 +121,7 @@
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="index.php_option=com_docman_task=doc_download_gid=1556_itemid=10.pdf" xml:lang="fin"/>
+<parallel_text location="index.php_option=com_docman_task=doc_download_gid=1449_itemid=10.pdf" xml:lang="eng"/>
 </xsl:variable>
 
 
