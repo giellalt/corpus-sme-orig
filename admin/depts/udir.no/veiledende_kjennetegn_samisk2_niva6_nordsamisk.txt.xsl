@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -125,8 +124,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="nob" location="veiledende_kjennetegn_samisk2_niva6_norsk.pdf"/>
-	<parallel_text xml:lang="sma" location="veiledende_kjennetegn_samisk2_niva6_sorsamisk.pdf"/></xsl:variable>
+    <parallel_text xml:lang="nob" location="veiledende_kjennetegn_samisk2_niva6_norsk.txt"/>
+	<parallel_text xml:lang="sma" location="veiledende_kjennetegn_samisk2_niva6_sorsamisk.txt"/></xsl:variable>
 
 
     <!--
