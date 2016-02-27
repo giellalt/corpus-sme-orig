@@ -9,7 +9,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://www.samediggi.fi/index.php?option=com_content&amp;task=view&amp;id=668&amp;Itemid=195&amp;lang=davvi'"/>
+<xsl:variable name="filename" select="'http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=668&amp;lang=davvi.html'"/>
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="''"/>
