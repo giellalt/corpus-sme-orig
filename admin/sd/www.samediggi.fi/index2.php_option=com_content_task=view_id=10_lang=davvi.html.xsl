@@ -92,9 +92,9 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="index2.php_option=com_content_task=view_id=10_lang=english.html" xml:lang="eng"/>
-	<parallel_text location="" xml:lang="fin"/>
-	<parallel_text location="" xml:lang="sms"/>
-	<parallel_text location="" xml:lang="smn"/>
+	<parallel_text location="index2.php_option=com_content_task=view_id=10_lang=finnish.html" xml:lang="fin"/>
+	<parallel_text location="index2.php_option=com_content_task=view_id=10_lang=nuortta.html" xml:lang="sms"/>
+	<parallel_text location="index2.php_option=com_content_task=view_id=10_lang=anaras.html" xml:lang="smn"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->

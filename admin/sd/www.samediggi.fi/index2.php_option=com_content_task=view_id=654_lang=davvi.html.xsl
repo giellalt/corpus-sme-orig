@@ -91,7 +91,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="" xml:lang="fin"/>
+	<parallel_text location="index2.php_option=com_content_task=view_id=654_lang=finnish.html" xml:lang="fin"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->

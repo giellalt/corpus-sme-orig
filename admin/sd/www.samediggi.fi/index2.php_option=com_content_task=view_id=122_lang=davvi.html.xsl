@@ -121,6 +121,7 @@
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="index2.php_option=com_content_task=view_id=122_lang=finnish.html" xml:lang="fin"/>
+<parallel_text location="index2.php_option=com_content_task=view_id=122_lang=anaras.html" xml:lang="smn"/>
 </xsl:variable>
 
 
