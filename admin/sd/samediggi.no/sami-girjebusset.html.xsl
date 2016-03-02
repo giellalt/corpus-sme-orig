@@ -120,8 +120,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="bokbusser.html" xml:lang="nob"/>
-<parallel_text location="saemien-gaerjabussh.html" xml:lang="sma"/>
+    <parallel_text location="" xml:lang="nob"/>
+<parallel_text location="" xml:lang="sma"/>
 </xsl:variable>
 
 

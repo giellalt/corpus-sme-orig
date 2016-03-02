@@ -120,8 +120,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="56-millioner-til-samiske-tiltak-siden-mai.html" xml:lang="nob"/>
-<parallel_text location="56-millijovnh-saemien-raaajvarimmide-suehpeden-raejeste.html" xml:lang="sma"/>
+    <parallel_text location="" xml:lang="nob"/>
+<parallel_text location="" xml:lang="sma"/>
 </xsl:variable>
 
 

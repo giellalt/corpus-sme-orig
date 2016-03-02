@@ -120,7 +120,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="thomas-aahren.html" xml:lang="nob"/>
+    <parallel_text location="" xml:lang="nob"/>
 <parallel_text location="thomas-aahren.html" xml:lang="sma"/>
 </xsl:variable>
 

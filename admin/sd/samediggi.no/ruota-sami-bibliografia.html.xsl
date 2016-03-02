@@ -121,7 +121,7 @@
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="svensk-samisk-bibliografi.html" xml:lang="nob"/>
-<parallel_text location="sveerjen-saemien-bibliografije.html" xml:lang="sma"/>
+<parallel_text location="" xml:lang="sma"/>
 </xsl:variable>
 
 

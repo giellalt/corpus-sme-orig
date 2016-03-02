@@ -120,7 +120,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="sametingets-retningslinjer-for-vurdering-av-samiske-hensyn-ved-endret-bruk-av-utmark..html" xml:lang="nob"/>
+    <parallel_text location="" xml:lang="nob"/>
 </xsl:variable>
 
 
