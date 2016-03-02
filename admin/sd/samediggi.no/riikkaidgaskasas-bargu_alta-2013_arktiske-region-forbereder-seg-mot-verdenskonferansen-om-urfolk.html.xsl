@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -127,9 +126,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location="rijkajgasskasasj-barggo_alta-2013_arktalasj-guovllo-garvet-vaeraltkonferanssaj-alggoalmmugij-harraj.html"/>
-	<parallel_text xml:lang="sma" location="gaskenasjovnaale-barkoe_alta-2013_arktiske-dajve-veartenekonferansese-aalkoealmetji-bijre-ryoejrede.html"/>
-	<parallel_text xml:lang="nob" location="internasjonalt-arbeid_alta-2013_arktiske-region-forbereder-seg-mot-verdenskonferansen-om-urfolk.html"/></xsl:variable>
+    <parallel_text xml:lang="smj" location="arktalasj-guovllo-garvet-vaeraltkonferanssaj-alggoalmmugij-harraj.html"/>
+	<parallel_text xml:lang="sma" location="arktiske-dajve-veartenekonferansese-aalkoealmetji-bijre-ryoejrede.html"/>
+	<parallel_text xml:lang="nob" location="arktiske-region-forbereder-seg-mot-verdenskonferansen-om-urfolk.html"/></xsl:variable>
 
 
     <!--

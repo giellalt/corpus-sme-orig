@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
   <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
   <!-- Add the metainformation manually -->
@@ -120,7 +119,7 @@
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="sma" location="saemiedigkien-bijre_aaaarganisasjovnestruktuvre_saemiedigkieraerie_haaalemh-jih-tjaalegh_56-millijovnh-saemien-raaajvarimmide-suehpeden-raejeste.html"/>
-    <parallel_text xml:lang="nob" location="om-sametinget_organisasjonsstruktur_sametingsraadet_taler-og-artikler_56-millioner-til-samiske-tiltak-siden-mai.html"/>
+    <parallel_text xml:lang="nob" location="56-millioner-til-samiske-tiltak-siden-mai.html"/>
   </xsl:variable>
   <!--
         For pdf documents, mark which pages should be ignored.

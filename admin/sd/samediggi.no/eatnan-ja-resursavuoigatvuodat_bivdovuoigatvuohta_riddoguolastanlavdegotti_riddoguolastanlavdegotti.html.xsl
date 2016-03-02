@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -127,9 +126,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location="ednam-ja-resurssarievtesvuodaj_guollimriekta_merragaddenammadus_merragaddeguollimnammadusa-maerradusarvvalussaj.html"/>
-	<parallel_text xml:lang="sma" location="laante-jih-vierhtiereaktah_goeoelemereakta_mearoegaedtiemoenehtsistie_kystfiskeutvalgets-innstilling.html"/>
-	<parallel_text xml:lang="nob" location="land-og-ressursrettigheter_fiskerettigheter_kystfiskeutvalget_kystfiskeutvalgets-innstilling.html"/></xsl:variable>
+    <parallel_text xml:lang="smj" location="merragaddeguollimnammadusa-maerradusarvvalussaj.html"/>
+	<parallel_text xml:lang="sma" location="kystfiskeutvalgets-innstilling.html"/>
+	<parallel_text xml:lang="nob" location="kystfiskeutvalgets-innstilling.html"/></xsl:variable>
 
 
     <!--
