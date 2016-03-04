@@ -121,7 +121,7 @@
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="velkommen-til-moete-5.-7.-april.html" xml:lang="nob"/>
-<parallel_text location="velkommen-til-moete-5.-7.-april.html" xml:lang="smj"/>
+<parallel_text location="" xml:lang="smj"/>
 </xsl:variable>
 
 

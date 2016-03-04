@@ -120,7 +120,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="samasta-mujna.html" xml:lang="smj"/>
+    <parallel_text location="" xml:lang="smj"/>
 <parallel_text location="snakk-samisk-te-mae.html" xml:lang="nob"/>
 <parallel_text location="saemesth-munnjien.html" xml:lang="sma"/>
 </xsl:variable>
