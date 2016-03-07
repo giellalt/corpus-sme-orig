@@ -126,7 +126,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smj" location="merragaddeguollimnammadusa-maerradusarvvalussaj.html"/>
 	<parallel_text xml:lang="sma" location="kystfiskeutvalgets-innstilling.html"/>
 	<parallel_text xml:lang="nob" location="kystfiskeutvalgets-innstilling.html"/></xsl:variable>
 

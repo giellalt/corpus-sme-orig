@@ -118,7 +118,7 @@
     <!-- <parallel_text xml:lang="smn" location=""/> -->
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sma" location="saemiedigkien-bijre_aaaarganisasjovnestruktuvre_saemiedigkieraerie_haaalemh-jih-tjaalegh_56-millijovnh-saemien-raaajvarimmide-suehpeden-raejeste.html"/>
+    <parallel_text xml:lang="sma" location=""/>
     <parallel_text xml:lang="nob" location="56-millioner-til-samiske-tiltak-siden-mai.html"/>
   </xsl:variable>
   <!--
