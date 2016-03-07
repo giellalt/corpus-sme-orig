@@ -118,7 +118,7 @@
     <!-- <parallel_text xml:lang="smn" location=""/> -->
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="nob" location="om-sametinget_organisasjonsstruktur_sametingsraadet_taler-og-artikler_sametingsraadets-beretning.html"/>
+    <parallel_text xml:lang="nob" location=""/>
   </xsl:variable>
   <!--
         For pdf documents, mark which pages should be ignored.

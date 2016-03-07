@@ -118,7 +118,7 @@
     <!-- <parallel_text xml:lang="smn" location=""/> -->
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="nob" location="arkiv_valgperiode-2009-2013_artikler_gratulerer-med-verdens-urfolksdag.html"/>
+    <parallel_text xml:lang="nob" location=""/>
   </xsl:variable>
   <!--
         For pdf documents, mark which pages should be ignored.

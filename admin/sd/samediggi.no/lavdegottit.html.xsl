@@ -126,7 +126,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location="sammedikke-birra_organisasjaavnaa-struktuvrra_komitea.html"/>
+    <parallel_text xml:lang="smj" location="komitea.html"/>
 	<parallel_text xml:lang="sma" location="moenehtsh.html"/>
 	<parallel_text xml:lang="nob" location="komiteer.html"/></xsl:variable>
 

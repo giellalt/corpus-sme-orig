@@ -4,7 +4,7 @@
   <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
   <!-- Add the metainformation manually -->
   <!-- variable filename contains the original name of the file (from submitter)-->
-  <xsl:variable name="filename" select="'http://www.samediggi.no/Stipeanda-ja-doarjja'"/>
+  <xsl:variable name="filename" select="'http://www.samediggi.no/layout/set/print/Oahpahus/Vuoddoskuvla-ja-JS/Stipeanda-ja-doarjja'"/>
   <xsl:variable name="text_encoding" select="''"/>
   <xsl:variable name="title" select="''"/>
   <xsl:variable name="author1_fn" select="''"/>

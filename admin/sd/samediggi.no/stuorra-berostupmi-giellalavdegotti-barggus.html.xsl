@@ -127,7 +127,7 @@
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="smj" location="stuorra-berustibme-giellanammadusa-bargguj.html"/>
-	<parallel_text xml:lang="sma" location="giele_bievnesh-saemien-gieli-bijre_stoerre-iedtje-gielemoenehtsen-barkoen-bijre.html"/>
+	<parallel_text xml:lang="sma" location="stoerre-iedtje-gielemoenehtsen-barkoen-bijre.html"/>
 	<parallel_text xml:lang="nob" location="stor-interesse-rundt-spraakutvalgets-arbeid.html"/></xsl:variable>
 
 

@@ -126,7 +126,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location="sammedikke-birra_organisasjaavnaa-struktuvrra_samedikkerade_politihkalasj-vasstadussuorge-raden.html"/>
+    <parallel_text xml:lang="smj" location="politihkalasj-vasstadussuorge-raden.html"/>
 	<parallel_text xml:lang="sma" location="politihkeles-diedtesuerkieh-raeresne.html"/>
 	<parallel_text xml:lang="nob" location="politiske-ansvarsomraader-i-raadet.html"/></xsl:variable>
 

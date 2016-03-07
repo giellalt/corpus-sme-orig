@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -10,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.sametinget.no/content/download/2027/19261/version/1/file/Evttohuvvon+An%C3%A1r-julgga%C5%A1tus+%C3%A1lgo%C3%A1lbmogiid+m%C3%A1ilmmikonfer%C3%A1nssa+birra+10.6.2012.pdf'"/>
+    <xsl:variable name="filename" select="'http://www.sametinget.no/layout/set/print/content/download/2027/19261/version/1/file/Evttohuvvon+An%C3%A1r-julgga%C5%A1tus+%C3%A1lgo%C3%A1lbmogiid+m%C3%A1ilmmikonfer%C3%A1nssa+birra+10.6.2012.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
