@@ -132,7 +132,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1-3, 11-14, 43-44, 61-72, 86-87, 147, 174-345'"/>
 
     <!--
         Text outside these margins will be ignored.
