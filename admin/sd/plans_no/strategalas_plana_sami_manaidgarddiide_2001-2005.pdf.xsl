@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/> 
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://samediggi.no/filnedlasting.aspx?FilId=1958&amp;ct=.pdf'"/>
-<xsl:variable name="title" select="'Sámedikki dásseárvodoaibmaplána'"/>
+<xsl:variable name="filename" select="'http://samediggi.no/filnedlasting.aspx?FilId=30&amp;ct=.pdf'"/>
+<xsl:variable name="title" select="'Strategalaš plána sámi mánáidgárddiide 2001–2005'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -45,7 +45,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="'Børre Gaup'"/>
 <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'1726'"/>
+<xsl:variable name="wordcount" select="'3071'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision: 32698 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
@@ -83,7 +83,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="sametingets_handlingsplan_for_likestilling_2009_2013.pdf" xml:lang="nob"/>
+	<parallel_text location="strategisk_barnehageplan_2001_2005.pdf" xml:lang="nob"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->
