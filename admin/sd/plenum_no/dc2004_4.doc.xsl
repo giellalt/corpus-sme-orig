@@ -95,6 +95,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	</xsl:variable>
+	<parallel_text location="sp2004_4.pdf" xml:lang="nob"/>
+</xsl:variable>
 
 </xsl:stylesheet>

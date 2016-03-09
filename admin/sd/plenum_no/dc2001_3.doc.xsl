@@ -86,7 +86,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	</xsl:variable>
+	<parallel_text location="sp2001_3.pdf" xml:lang="nob"/>
+</xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->
 <!-- Uncomment the following and add the paths, for example: -->

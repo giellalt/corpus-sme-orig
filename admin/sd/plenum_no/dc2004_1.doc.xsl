@@ -101,7 +101,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	</xsl:variable>
+	<parallel_text location="sp2004_1.pdf" xml:lang="nob"/>
+</xsl:variable>
 
 <xsl:template match="p">
 <xsl:variable name="text" select="current()"/>
