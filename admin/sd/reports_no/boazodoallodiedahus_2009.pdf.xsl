@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://samediggi.no/filnedlasting.aspx?FilId=1723&amp;ct=.pdf'"/>
-<xsl:variable name="title" select="'Sámedikki eanandoallodieđáhus'"/>
+<xsl:variable name="filename" select="'http://samediggi.no/filnedlasting.aspx?FilId=2040&amp;ct=.pdf'"/>
+<xsl:variable name="title" select="'Boazodoallodieđáhus 2009'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -45,7 +45,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="'Børre Gaup'"/>
 <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'14329'"/>
+<xsl:variable name="wordcount" select="'11893'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision: 32698 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
@@ -68,7 +68,7 @@
      then the document is checked for all supported languages.
 -->
 <xsl:variable name="mlangs">
-	<language xml:lang="dan"/>
+	<language xml:lang="eng"/>
 	<language xml:lang="nob"/>
 </xsl:variable>
 
@@ -85,7 +85,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="sametingets_jordbruksmelding_norsk.pdf" xml:lang="nob"/>
+	<parallel_text location="melding_om_reindrift_2009.pdf" xml:lang="nob"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->

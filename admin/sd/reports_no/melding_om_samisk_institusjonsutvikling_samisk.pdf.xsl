@@ -1,57 +1,53 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://www.sametinget.no/content/download/2570/24465/version/1/file/Sámediggedieđáhus+sámegiela+birra+%282012%29.pdf'"/>
-<xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Sámediggedieđáhus sámegiela birra (2012)'"/>
+<xsl:variable name="filename" select="'http://samediggi.no/filnedlasting.aspx?FilId=1773&amp;ct=.pdf'"/>
+<xsl:variable name="title" select="'Sámi ásahusat ja siviila sámi servodat'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
-<xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author1_born" select="''"/>
+<xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author2_fn" select="''"/>
 <xsl:variable name="author2_ln" select="''"/>
 <xsl:variable name="author2_gender" select="''"/>
-<xsl:variable name="author2_nat" select="''"/>
 <xsl:variable name="author2_born" select="''"/>
+<xsl:variable name="author2_nat" select="''"/>
 <xsl:variable name="author3_fn" select="''"/>
 <xsl:variable name="author3_ln" select="''"/>
 <xsl:variable name="author3_gender" select="''"/>
-<xsl:variable name="author3_nat" select="''"/>
 <xsl:variable name="author3_born" select="''"/>
+<xsl:variable name="author3_nat" select="''"/>
 <xsl:variable name="author4_fn" select="''"/>
 <xsl:variable name="author4_ln" select="''"/>
 <xsl:variable name="author4_gender" select="''"/>
-<xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
+<xsl:variable name="author4_nat" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="publisher" select="''"/>
 <xsl:variable name="publChannel" select="''"/>
-<xsl:variable name="year" select="'2012'"/>
+<xsl:variable name="year" select="''"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="'admin'"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
-<xsl:variable name="license_type" select="''"/>
-<xsl:variable name="sub_name" select="'Inga Mikkelsen'"/>
-<xsl:variable name="sub_email" select="'inga.l.mikkelsen@uit.no'"/>
-<xsl:variable name="wordcount" select="''"/>
-<!-- Set this variable to 1 if the source for this doc is OCR -->
-<!-- Those docs typically contain lots of orthographic errors and need special treatment -->
-<xsl:variable name="ocr" select="''"/>
+<xsl:variable name="license_type" select="'free'"/>
+<xsl:variable name="sub_name" select="'Børre Gaup'"/>
+<xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
+<xsl:variable name="wordcount" select="'18417'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
-<xsl:variable name="template_version" select="'$Revision: 64438 $'"/>
+<xsl:variable name="template_version" select="'$Revision: 32698 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
@@ -72,9 +68,7 @@
      then the document is checked for all supported languages.
 -->
 <xsl:variable name="mlangs">
-	<language xml:lang="eng"/>
 	<language xml:lang="nob"/>
-	<language xml:lang="swe"/>
 </xsl:variable>
 
 <!-- Add the locations of the parallel files to the variables-->
@@ -90,17 +84,15 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="sametingsmelding_om_samisk_spraak_2012.pdf" xml:lang="nob"/>
-	<parallel_text location="saemiedigkiebievnese_saemien_gielen_bijre_2012.pdf" xml:lang="sma"/>
-	<parallel_text location="samediggediedadus_samegiela_gaktuj_2012.pdf" xml:lang="smj"/>
+	<parallel_text location="melding_om_samisk_institusjonsutvikling_norsk.pdf" xml:lang="nob"/>
 </xsl:variable>
 
-<!-- Add all paragraphs that should have xml:lang=X           -->
-<!-- Uncomment the following and add the paths, for example:  -->
+<!-- Add all paragraphs that should have xml:lang=X-->
+<!-- Uncomment the following and add the paths, for example: -->
 <!-- <xsl:template match="/root/section[2]/paragraph[5] |
-                      /root/section[3]/paragraph[2] ">        -->
+                      /root/section[3]/paragraph[2] "> -->
 <!--
-<xsl:template match="//body/p[5]">
+<xsl:template match="">
 	<xsl:element name="p">
 	<xsl:attribute name="xml:lang">
 		<xsl:value-of select="$smelang"/>
@@ -110,40 +102,33 @@
  </xsl:template>
 -->
 
-<!-- Change or remove problematic characters from the text.   -->
-<!-- Specify the elements to match (here all p's within       -->
-<!-- //body, that do contain text, but do NOT contain em and  -->
-<!-- span elements), and specify the characters               -->
-<!-- to be replaced and the replacements. If needed,          -->
-<!-- copy this template and target several different elements,-->
-<!-- but don't make several templates that match the same set -->
-<!-- of elements - then only one of them will apply. Also try -->
-<!-- to restrict the template to nodes that do not contain    -->
-<!-- other markup, as such markup otherwise will be removed.  -->
+<!-- Change or remove problematic characters from the text. -->
+<!-- add the template to match (here all p:s), and write the -->
+<!-- replaced characters and the replacements. -->
 <!--
-<xsl:template match="p[parent::body][not(./em | ./span)][text()]">
-    <xsl:variable name="text" select='current()' />
-    <xsl:variable name="type" select='@type' />
-    <xsl:variable name="lang" select='@xml:lang' />
-    <xsl:element name="p">
-        <xsl:if test="$type">
+<xsl:template match="p">
+<xsl:variable name="text" select='current()' />
+<xsl:variable name="type" select='@type' />
+<xsl:variable name="lang" select='@xml:lang' />
+<xsl:element name="p">
+            <xsl:if test="$type">
             <xsl:attribute name="type">
-                <xsl:value-of select="$type"/>
+            <xsl:value-of select="$type"/>
             </xsl:attribute>
-        </xsl:if>
-        <xsl:if test="$lang">
+            </xsl:if>
+            <xsl:if test="$lang">
             <xsl:attribute name="xml:lang">
-                <xsl:value-of select="$lang"/>
+            <xsl:value-of select="$lang"/>
             </xsl:attribute>
-        </xsl:if>
+            </xsl:if>
 
-        <xsl:call-template name="globalTextReplace">
-           <xsl:with-param name="inputString" select="$text"/>
-           <xsl:with-param name="target" select="'str1/str2/str3/'"/>
-           <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
-           <xsl:with-param name="continue" select="0"/>
-        </xsl:call-template>
-    </xsl:element>
+            <xsl:call-template name="globalTextReplace">
+               <xsl:with-param name="inputString" select="$text"/>
+               <xsl:with-param name="target" select="'str1/str2/str3/'"/>
+               <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
+                <xsl:with-param name="continue" select="0"/>
+            </xsl:call-template>
+</xsl:element>
 </xsl:template>
 -->
 
