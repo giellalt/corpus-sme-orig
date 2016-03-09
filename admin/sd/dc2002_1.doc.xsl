@@ -4,6 +4,7 @@
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
+<!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="''"/>
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="''"/>
@@ -26,7 +27,7 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
-<xsl:variable name="translated_from" select="'nob'"/>
+<xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="publisher" select="''"/>
 <xsl:variable name="publChannel" select="''"/>
 <xsl:variable name="year" select="''"/>
@@ -40,13 +41,14 @@
 <xsl:variable name="translator_gender" select="'unknown'"/>
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="''"/>
-<xsl:variable name="license_type" select="'free'"/>
+<!-- select license type: free, standard or other -->
+<xsl:variable name="license_type" select="''"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="''"/>
-<xsl:variable name="wordcount" select="'28254'"/>
+<xsl:variable name="wordcount" select="'27841'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
-<xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.9 $'"/>
+<xsl:variable name="template_version" select="' 1.11 '"/>
+<xsl:variable name="current_version" select="'$Revision: 1.10 $'"/>
 
 
 <!-- Free text field for notes -->
@@ -57,9 +59,7 @@
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<!-- and for the languages present -->
-<!--Select "1" for monolingual to turn language recog off-->
-<xsl:variable name="monolingual" select="''"/>
+<xsl:variable name="monolingual" select="''"/> <!-- checked for all the languages below. -->
 
 
 <!-- If monolingual is not set, the language is multilingual.
@@ -71,6 +71,23 @@
 -->
 <xsl:variable name="mlangs">
 	<language xml:lang="nob"/>
+	<language xml:lang="dan"/>
+</xsl:variable>
+
+<!-- Add the locations of the parallel files to the variables-->
+
+
+<!-- If the document has parallel texts, uncomment the right languages
+     (or add new lines with the right ISO-639-3 language codes) and
+     add the filename of the parallel files to the 'location'
+     variables.
+
+     Don't write the full directory; we expect the file to be in the
+     same directory as this file, with only the language code and
+     filename changed.
+     -->
+<xsl:variable name="parallels">
+	<parallel_text location="sp2002_1.doc" xml:lang="nob"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->
@@ -88,26 +105,12 @@
  </xsl:template>
 -->
 
-<!-- Add the locations of the parallel files to the variables-->
-
-
-<!-- If the document has parallel texts, uncomment the right languages
-     (or add new lines with the right ISO-639-3 language codes) and
-     add the filename of the parallel files to the 'location'
-     variables.
-
-     Don't write the full directory; we expect the file to be in the
-     same directory as this file, with only the language code and
-     filename changed.
-     -->
-<xsl:variable name="parallels">
-	<parallel_text location="sp_05_4.doc" xml:lang="nob"/>
-</xsl:variable>
 
 <!-- Change or remove problematic characters from the text. -->
 <!-- add the template to match (here all p:s), and write the -->
 <!-- replaced characters and the replacements. -->
 
+<!-- Replace remaining icelanding d:s with S&#225;mi d:s -->
 <xsl:template match="p">
 <xsl:variable name="text" select="current()"/>
 <xsl:variable name="type" select="@type"/>
@@ -124,13 +127,11 @@
             </xsl:attribute>
             </xsl:if>
 
-            <xsl:call-template name="globalTextReplace">
-               <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'Bajášaddan/'"/>
-               <xsl:with-param name="replacement" select="'Bajásšaddan/'"/>
-            </xsl:call-template>
+			<xsl:value-of select="translate($text,'ð','đ') "/>
 </xsl:element>
 </xsl:template>
+
+
 
 
 </xsl:stylesheet>

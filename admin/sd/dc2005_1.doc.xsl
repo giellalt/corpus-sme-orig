@@ -94,7 +94,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="sp_05_1.doc" xml:lang="nob"/>
+	<parallel_text location="sp2005_1.doc" xml:lang="nob"/>
 </xsl:variable>
 
 </xsl:stylesheet>

@@ -2,18 +2,18 @@
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
-  <xsl:variable name="filename" select="'dc_5_05.doc'"/>
+  <xsl:variable name="filename" select="'dc_3_04.doc'"/>
   <xsl:variable name="title" select="'Møteprotokoll'"/>
-  <xsl:variable name="author1_fn" select="''"/>
-  <xsl:variable name="author1_ln" select="'gan'"/>
-  <xsl:variable name="author1_gender" select="'unknown'"/>
+  <xsl:variable name="author1_fn" select="'John Osvald'"/>
+  <xsl:variable name="author1_ln" select="'Grønmo'"/>
+  <xsl:variable name="author1_gender" select="'m'"/>
   <xsl:variable name="author1_born" select="''"/>
-  <xsl:variable name="author1_nat" select="''"/>
-  <xsl:variable name="author2_fn" select="''"/>
-  <xsl:variable name="author2_ln" select="''"/>
-  <xsl:variable name="author2_gender" select="''"/>
+  <xsl:variable name="author1_nat" select="'nor'"/>
+  <xsl:variable name="author2_fn" select="'Inga H.'"/>
+  <xsl:variable name="author2_ln" select="'Skarvik'"/>
+  <xsl:variable name="author2_gender" select="'f'"/>
   <xsl:variable name="author2_born" select="''"/>
-  <xsl:variable name="author2_nat" select="''"/>
+  <xsl:variable name="author2_nat" select="'nor'"/>
   <xsl:variable name="author3_fn" select="''"/>
   <xsl:variable name="author3_ln" select="''"/>
   <xsl:variable name="author3_gender" select="''"/>
@@ -41,7 +41,7 @@
   <xsl:variable name="license_type" select="'free'"/>
   <xsl:variable name="sub_name" select="'Børre Gaup'"/>
   <xsl:variable name="sub_email" select="'boerre.gaup@samediggi.no'"/>
-  <xsl:variable name="wordcount" select="'3285'"/>
+  <xsl:variable name="wordcount" select="'19590'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.9 '"/>
   <xsl:variable name="current_version" select="'$Revision: 1.8 $'"/>
@@ -54,7 +54,7 @@
 <!-- Select "1" for the variable multilingual -->
 <!-- and for the languages present -->
   <!--Select "1" for monolingual to turn language recog off-->
-<xsl:variable name="monolingual" select="1"/>
+<xsl:variable name="monolingual" select="''"/>
 
 
 <!-- If monolingual is not set, the language is multilingual.
@@ -65,7 +65,8 @@
      then the document is checked for all supported languages.
 -->
 <xsl:variable name="mlangs">
-	</xsl:variable>
+	<language xml:lang="nob"/>
+</xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->
 <!-- Uncomment the following and add the paths, for example: -->
@@ -94,7 +95,32 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="sp_05_5.doc" xml:lang="nob"/>
+	<parallel_text location="sp2004_3.doc" xml:lang="nob"/>
 </xsl:variable>
+
+<xsl:template match="p">
+<xsl:variable name="text" select="current()"/>
+<xsl:variable name="type" select="@type"/>
+<xsl:variable name="lang" select="@xml:lang"/>
+<xsl:element name="p">
+            <xsl:if test="$type">
+            <xsl:attribute name="type">
+            <xsl:value-of select="$type"/>
+            </xsl:attribute>
+            </xsl:if>
+            <xsl:if test="$lang">
+            <xsl:attribute name="xml:lang">
+            <xsl:value-of select="$lang"/>
+            </xsl:attribute>
+            </xsl:if>
+
+            <xsl:call-template name="globalTextReplace">
+               <xsl:with-param name="inputString" select="$text"/>
+               <xsl:with-param name="target" select="'„/”/'"/>
+               <xsl:with-param name="replacement" select="'«/»/'"/>
+                <xsl:with-param name="continue" select="0"/>
+            </xsl:call-template>
+</xsl:element>
+</xsl:template>
 
 </xsl:stylesheet>
