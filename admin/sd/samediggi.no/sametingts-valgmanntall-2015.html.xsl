@@ -121,7 +121,7 @@
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="sametingts-valgmanntall-2015.html" xml:lang="nob"/>
-<parallel_text location="sametingts-valgmanntall-2015.html" xml:lang="smj"/>
+<parallel_text location="" xml:lang="smj"/>
 </xsl:variable>
 
 

@@ -120,7 +120,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="aktijvuodadiehto-samedikke-barggijda-gavna-danna.html" xml:lang="smj"/>
+    <parallel_text location="" xml:lang="smj"/>
 <parallel_text location="kontaktinformasjon-til-ansatte.html" xml:lang="nob"/>
 </xsl:variable>
 
