@@ -155,7 +155,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="statsrekneskapen-for-2011-lagt-fram_id_680308.html" xml:lang="nno"/>
-	<parallel_text location="bjorn-olav-megard-skal-lede-same--og-min.html_id=681004" xml:lang="nob"/>
+	<parallel_text location="" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 

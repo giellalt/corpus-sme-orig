@@ -156,7 +156,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="new-reports-map-exports-from-norwegian-r_id_673544.html" xml:lang="eng"/>
 	<parallel_text location="ny-rapport-har-kartlagt-eksporten-fra-no_id_673544.html" xml:lang="nno"/>
-	<parallel_text location="mangel-pa-samisk-larere-og-laremidler.html_id=673673" xml:lang="nob"/>
+	<parallel_text location="" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 

@@ -155,7 +155,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="co2_id_698862.html" xml:lang="eng"/>
-	<parallel_text location="galdu-er-evaluert.html_id=699176" xml:lang="nno"/>
+	<parallel_text location="" xml:lang="nno"/>
 	<parallel_text location="co2_id_698862.html" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)

@@ -154,7 +154,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="the-government-assists-with-the-electric_id_630646.html" xml:lang="eng"/>
 	<parallel_text location="regjeringa-vil-gje-hjelp-til-straumrekni_id_630646.html" xml:lang="nno"/>
-	<parallel_text location="98-partilag-mister-statsstotten-i-2011.html_id=631488" xml:lang="nob"/>
+	<parallel_text location="" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 

@@ -158,7 +158,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="vil-satse-pa-rettspsykiatrien_id_734098.html" xml:lang="nob"/>
-	<parallel_text location="edtja-annje-tjielke-ulmine-barkedh-dejti.html_id=735047" xml:lang="smj"/>
+	<parallel_text location="" xml:lang="smj"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 

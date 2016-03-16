@@ -164,7 +164,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="speech-at-northern-people-day.html_id=611720" xml:lang="eng"/>
+	<parallel_text location="" xml:lang="eng"/>
 	<parallel_text location="apning-av-storfjord-spraksenter_id_593500.html" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)

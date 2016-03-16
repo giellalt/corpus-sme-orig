@@ -160,7 +160,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="new-pilot-with-internet-voting-in-2013_id_710138.html" xml:lang="eng"/>
-	<parallel_text location="det-blir-enklare-a-forehandsstemme.html_id=710339" xml:lang="nno"/>
+	<parallel_text location="" xml:lang="nno"/>
 	<parallel_text location="nye-forsok-med-internettstemming-i-2013_id_710138.html" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)

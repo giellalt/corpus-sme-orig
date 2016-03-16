@@ -160,7 +160,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="ikke-bonusopptjening-pa-de-tre-storste-i_id_705818.html" xml:lang="nob"/>
-	<parallel_text location="digitala-balvalusat-assiide-ovdal-2015.html_id=706691" xml:lang="smj"/>
+	<parallel_text location="" xml:lang="smj"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 

@@ -154,7 +154,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="47-million-kroner-announced-for-bulyst-r_id_631540.html" xml:lang="eng"/>
 	<parallel_text location="47-millionar-kroner-til-bulyst-2011_id_631540.html" xml:lang="nno"/>
-	<parallel_text location="nordmenns-netthandel-pa-europatoppen.html_id=631527" xml:lang="nob"/>
+	<parallel_text location="" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 

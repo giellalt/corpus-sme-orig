@@ -158,7 +158,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="endringar-i-privatskolelova_id_749098.html" xml:lang="nno"/>
-	<parallel_text location="klare-prioriteringer-i-hoyere-utdanning-.html_id=749226" xml:lang="nob"/>
+	<parallel_text location="" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 

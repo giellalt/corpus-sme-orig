@@ -157,7 +157,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="til-kautokeino.html_id=753403" xml:lang="nno"/>
+	<parallel_text location="" xml:lang="nno"/>
 	<parallel_text location="regjeringen-foreslar-at-flere-kommuner-far-differensiert-arbeidsgiveravgift-_id_753007.html" xml:lang="nob"/>
 	<parallel_text xml:lang="sma" location="reerenasse-raereste-jienebh-tjielth-joekehtamme-barkoevedtijemaaksoem-aadtjoeh_id_753007.html"/>
 </xsl:variable>

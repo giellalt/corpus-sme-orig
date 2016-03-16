@@ -155,7 +155,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="22-july-commission-lessons-are-important_id_652335.html" xml:lang="eng"/>
-	<parallel_text location="14-millionar-kroner-i-bulystmidlar-til-u.html_id=653601" xml:lang="nno"/>
+	<parallel_text location="" xml:lang="nno"/>
 	<parallel_text location="viktig-a-trekke-lardom-for-bedre-fremt_id_652335.html" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)

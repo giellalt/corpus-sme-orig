@@ -153,7 +153,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="moter-respekt-men-saksbehandlingstida-er-for-lang.html_id=624695" xml:lang="nno"/>
+	<parallel_text location="" xml:lang="nno"/>
 	<parallel_text location="1-million-kroner-ekstra-til-ski-vms-friv_id_624689.html" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)

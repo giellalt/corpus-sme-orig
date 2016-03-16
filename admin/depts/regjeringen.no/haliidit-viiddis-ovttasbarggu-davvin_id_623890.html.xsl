@@ -153,7 +153,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="desire-for-broad-cooperation-in-the-nort_id_623890.html" xml:lang="eng"/>
-	<parallel_text location="moter-respekt-men-saksbehandlingstida-er-for-lang.html_id=624695" xml:lang="nno"/>
+	<parallel_text location="" xml:lang="nno"/>
 	<parallel_text location="onsker-bredt-samarbeid-i-nord_id_623890.html" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)

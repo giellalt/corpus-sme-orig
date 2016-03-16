@@ -156,7 +156,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="municipalities-will-see-sharp-increase-i_id_682285.html" xml:lang="eng"/>
 	<parallel_text location="hovedpressemelding-kp_id_682285.html" xml:lang="nno"/>
-	<parallel_text location="god-utvikling-i-norsk-okonomi.html_id=682404" xml:lang="nob"/>
+	<parallel_text location="" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 

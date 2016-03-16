@@ -156,7 +156,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="prime-ministers-address-at-the-city-hall_id_651840.html" xml:lang="eng"/>
 	<parallel_text location="statsminister-jens-stoltenbergs-tale-pa-_id_651840.html" xml:lang="nob"/>
-	<parallel_text location="dearvvahansardni-daiddaskuvlla-rahpandil.html_id=654228" xml:lang="smj"/>
+	<parallel_text location="" xml:lang="smj"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 

@@ -160,7 +160,7 @@
 	<parallel_text location="videreforer-satsing-pa-sorsamisk-sprak_id_682459.html" xml:lang="nob"/>
 	<parallel_text location="ain-doarjut-mattasamegiela_id_682459.html" xml:lang="sma"/>
 	<parallel_text location="ain-doarjut-mattasamegiela_id_682459.html" xml:lang="smj"/>
-	<parallel_text location="ain-doarjut-mattasamegiela.html_id=682459" xml:lang="sme"/>
+	<parallel_text location="" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 

@@ -155,7 +155,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="elektronisk-id-skal-hjelpe-indias-fattig_id_672108.html" xml:lang="nob"/>
-	<parallel_text location="giske-eun-jielemeministerh-gaavnesji.html_id=672425" xml:lang="sma"/>
+	<parallel_text location="" xml:lang="sma"/>
 </xsl:variable>
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 
