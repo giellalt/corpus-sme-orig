@@ -5,7 +5,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://innsyn.e-kommune.no/innsyn_sametinget_samisk/wfdocument.ashx?journalpostid=2013007205&amp;dokid=431358&amp;versjon=1&amp;variant=A&amp;ct=RA-PDF'"/>
+    <xsl:variable name="filename" select="'DC 01-2013.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -44,8 +44,8 @@
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="''"/>
-    <xsl:variable name="sub_name" select="''"/>
-    <xsl:variable name="sub_email" select="''"/>
+    <xsl:variable name="sub_name" select="'Børre Gaup'"/>
+    <xsl:variable name="sub_email" select="'borre.gaup@uit.no'"/>
     <xsl:variable name="wordcount" select="''"/>
     <!-- Set this variable to 1 if the source for this doc is OCR -->
     <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
@@ -54,7 +54,7 @@
     <xsl:variable name="template_version" select="'$Revision$'"/>
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
-    <xsl:variable name="note" select="''"/>
+    <xsl:variable name="note" select="'Received by e-mail from ann.mari.somby@samediggi.no, as the downloaded document contained garbled text.'"/>
 
     <!-- The main language of the document -->
     <xsl:variable name="mainlang" select="'sme'"/>
