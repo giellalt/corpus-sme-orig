@@ -5,7 +5,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=216&amp;Itemid=10'"/>
+    <xsl:variable name="filename" select="'http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1320&amp;Itemid=10'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -34,7 +34,7 @@
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
-    <xsl:variable name="genre" select="'facta'"/>
+    <xsl:variable name="genre" select="'admin'"/>
     <xsl:variable name="collection" select="''"/>
     <xsl:variable name="translated_from" select="''"/>
     <xsl:variable name="translator_fn" select="''"/>
@@ -120,7 +120,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="puhe_syyttajalaitoksen_seminaarissa_040408_suomeksi.pdf" xml:lang="fin"/>
+    <parallel_text location="spn8_suomi.pdf" xml:lang="fin"/>
+<parallel_text location="spn8_engl.pdf" xml:lang="eng"/>
 </xsl:variable>
 
 
