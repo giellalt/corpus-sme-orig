@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -10,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_nordsamisk_faktaark.pdf'"/>
+    <xsl:variable name="filename" select="'http://www.udir.no/globalassets/upload/nasjonale_prover/eksempeloppgaver/5/eksempel_oppg_1_nasjonale_prover_nordsamisk_8trinn.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -95,8 +94,7 @@
         <!-- <language xml:lang="smn"/> -->
         <!-- <language xml:lang="sms"/> -->
         <!-- <language xml:lang="swe"/> -->
-    <language xml:lang="sme"/>
-	<language xml:lang="nob"/></xsl:variable>
+    </xsl:variable>
 
     <!-- If the document has parallel texts, uncomment the right languages
          (or add new lines with the right ISO-639-3 language codes) and
@@ -126,21 +124,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="ara" location="sfs_veiledning_1_ppt_arabisk_faktaark.pdf"/>
-	<parallel_text xml:lang="ckb" location="sfs_veiledning_1_ppt_sorani_faktaark.pdf"/>
-	<parallel_text xml:lang="eng" location="sfs_veiledning_1_ppt_engelsk_faktaark.pdf"/>
-	<parallel_text xml:lang="fas" location="sfs_veiledning_1_ppt_persisk_faktaark.pdf"/>
-	<parallel_text xml:lang="fra" location="sfs_veiledning_1_ppt_fransk_faktaark.pdf"/>
-	<parallel_text xml:lang="nno" location="sfs_veiledning_1_ppt_nynorsk-faktaark.pdf"/>
-	<parallel_text xml:lang="nob" location="sfs_veiledning_1_ppt_norsk_bokmal_faktaark.pdf"/>
-	<parallel_text xml:lang="pol" location="sfs_veiledning_1_ppt_polsk_faktaark.pdf"/>
-	<parallel_text xml:lang="rus" location="sfs_veiledning_1_ppt_russisk_faktaark.pdf"/>
-	<parallel_text xml:lang="sma" location="sfs_veiledning_1_ppt_sorsamisk_faktaark.pdf"/>
-	<parallel_text xml:lang="smj" location="sfs_veiledning_1_ppt_lulesamisk_faktaark.pdf"/>
-	<parallel_text xml:lang="som" location="sfs_veiledning_1_ppt_somalisk_faktaark.pdf"/>
-	<parallel_text xml:lang="tur" location="sfs_veiledning_1_ppt_tyrkisk_faktaark.pdf"/>
-	<parallel_text xml:lang="urd" location="sfs_veiledning_1_ppt_urdu_faktaark.pdf"/>
-	<parallel_text xml:lang="vie" location="sfs_veiledning_1_ppt_vietnamesisk_faktaark.pdf"/></xsl:variable>
+    </xsl:variable>
 
 
     <!--
@@ -151,7 +135,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1,5'"/>
 
     <!--
         Text outside these margins will be ignored.
@@ -179,8 +163,11 @@
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="'all=8'"/>
-
+    <xsl:variable name="bottom_margin" select="'all=7,2=36'"/>
+<xsl:variable name="inner_top_margin" select="'2=58,3=31,4=12'"/>
+<xsl:variable name="inner_bottom_margin" select="'2=0,3=54,4=80'"/>
+<xsl:variable name="inner_left_margin" select="'2=0'"/>
+<xsl:variable name="inner_right_margin" select="'2=42'"/>
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
     <!-- Uncomment the following and add the paths, for example:  -->
@@ -205,7 +192,7 @@
     <!-- of elements - then only one of them will apply. Also try -->
     <!-- to restrict the template to nodes that do not contain    -->
     <!-- other markup, as such markup otherwise will be removed.  -->
-
+    <!--
     <xsl:template match="p[parent::body][not(./em | ./span)][text()]">
         <xsl:variable name="text" select='current()' />
         <xsl:variable name="type" select='@type' />
@@ -224,12 +211,12 @@
 
             <xsl:call-template name="globalTextReplace">
                 <xsl:with-param name="inputString" select="$text"/>
-                <xsl:with-param name="target" select="'Die đut'"/>
-                <xsl:with-param name="replacement" select="'Dieđut'"/>
+                <xsl:with-param name="target" select="'str1/str2/str3/'"/>
+                <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
         </xsl:element>
     </xsl:template>
-
+    -->
 
 </xsl:stylesheet>

@@ -9,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.udir.no/globalassets/upload/nasjonale_prover/eksempeloppgaver/5/eksempel_oppg_1_nasjonale_prover_nordsamisk_8trinn.pdf'"/>
+    <xsl:variable name="filename" select="'http://www.udir.no/globalassets/upload/nasjonale_prover/eksempeloppgaver/5/eksempel_oppg2_nasjonale_prover_nordsamisk_5trinn.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -163,11 +163,11 @@
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="'all=7,2=36'"/>
-<xsl:variable name="inner_top_margin" select="'2=58,3=31,4=12'"/>
-<xsl:variable name="inner_bottom_margin" select="'2=0,3=54,4=80'"/>
-<xsl:variable name="inner_left_margin" select="'2=0'"/>
-<xsl:variable name="inner_right_margin" select="'2=42'"/>
+    <xsl:variable name="bottom_margin" select="'all=12,2=30,4=31'"/>
+<xsl:variable name="inner_top_margin" select="'3=37,4=11'"/>
+<xsl:variable name="inner_bottom_margin" select="'3=50,4=74'"/>
+<xsl:variable name="inner_left_margin" select="'4=62'"/>
+<xsl:variable name="inner_right_margin" select="'4=0'"/>
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
     <!-- Uncomment the following and add the paths, for example:  -->

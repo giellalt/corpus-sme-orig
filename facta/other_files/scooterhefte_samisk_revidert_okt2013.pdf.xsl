@@ -1,15 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
-
-<xsl:import href="file:///home/kiwibird/.local/lib/python2.7/site-packages/CorpusTools-0.9.0a1-py2.7.egg/corpustools/xslt/common.xsl"/>
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
-
-
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://www.svenskakyrkan.se/default.aspx?id=1029431'"/>
+<xsl:variable name="filename" select="'http://www.vegvesen.no/_attachment/542689/binary/873175?fast_title=Scooterhefte+Samisk.pdf'"/>
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="''"/>
@@ -32,24 +28,24 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisher" select="'Statens vegvesen'"/>
 <xsl:variable name="publChannel" select="''"/>
-<xsl:variable name="year" select="''"/>
+<xsl:variable name="year" select="'2013'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
-<xsl:variable name="genre" select="'bible'"/>
+<xsl:variable name="genre" select="'facta'"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
-<xsl:variable name="license_type" select="''"/>
-<xsl:variable name="sub_name" select="'Kevin Brubeck Unhammer'"/>
-<xsl:variable name="sub_email" select="'unhammer@fsfe.org'"/>
+<xsl:variable name="license_type" select="'free'"/>
+<xsl:variable name="sub_name" select="'Børre Gaup'"/>
+<xsl:variable name="sub_email" select="'borre.gaup@uit.no'"/>
 <xsl:variable name="wordcount" select="''"/>
 <!-- Set this variable to 1 if the source for this doc is OCR -->
 <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
@@ -63,10 +59,10 @@
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="'sme'"/>
 
-<!-- In the case of a multilingual document, we may want to check for
-     other languages. Set the variable monolingual to '1' to turn off
-     language recognition (treating everything as mainlang) -->
-<xsl:variable name="monolingual" select="'1'"/> 
+<!-- Other languages, in case of multilingual document. -->
+<!-- Select "1" for the variable multilingual -->
+<xsl:variable name="monolingual" select="'1'"/> <!-- checked for all the languages below. -->
+
 
 <!-- If monolingual is not set, the language is multilingual.
      Uncomment the languages you want to check for (or add new lines
@@ -91,19 +87,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="default.aspx_id=1030377.pdf" xml:lang="sma"/>
-	<parallel_text location="default.aspx_id=1022005.pdf" xml:lang="swe"/>
+	<parallel_text location="scooterhefte_norsk_revidert_okt2013.pdf" xml:lang="nob"/>
 </xsl:variable>
-
-<!-- For page oriented documents, mark which pages should be ignored -->
-<xsl:variable name="skip_pages" select="''"/>
-<!-- Text outside these margins will be ignored.
-These are defaults, that are settable documentwise -->
-<xsl:variable name="right_margin" select="'all=7'"/>
-<xsl:variable name="left_margin" select="'all=7'"/>
-<xsl:variable name="top_margin" select="'all=7'"/>
-<xsl:variable name="bottom_margin" select="'all=7'"/>
-
 
 <!-- Add all paragraphs that should have xml:lang=X           -->
 <!-- Uncomment the following and add the paths, for example:  -->
@@ -148,13 +133,17 @@ These are defaults, that are settable documentwise -->
         </xsl:if>
 
         <xsl:call-template name="globalTextReplace">
-            <xsl:with-param name="inputString" select="$text"/>
-            <xsl:with-param name="target" select="'str1/str2/str3/'"/>
-            <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
-            <xsl:with-param name="continue" select="0"/>
+           <xsl:with-param name="inputString" select="$text"/>
+           <xsl:with-param name="target" select="'str1/str2/str3/'"/>
+           <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
+           <xsl:with-param name="continue" select="0"/>
         </xsl:call-template>
     </xsl:element>
 </xsl:template>
 -->
 
+<xsl:variable name="bottom_margin" select="all=7"/>
+<xsl:variable name="left_margin" select="all=7"/>
+<xsl:variable name="top_margin" select="all=7"/>
+<xsl:variable name="right_margin" select="all=7"/>
 </xsl:stylesheet>

@@ -121,7 +121,7 @@
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="index.php_option=com_docman_task=doc_download_gid=208_itemid=10.pdf" xml:lang="fin"/>
-<parallel_text location="index.php_option=com_docman_task=doc_download_gid=209_itemid=10.pdf" xml:lang="swe"/>
+<parallel_text location="lars_anders_baers_tal_29.3.2008.pdf" xml:lang="swe"/>
 </xsl:variable>
 
 

@@ -9,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.udir.no/globalassets/upload/nasjonale_prover/eksempeloppgaver/5/eksempel_oppg3_nasjonale_prover_nordsamisk_5trinn.pdf'"/>
+    <xsl:variable name="filename" select="'http://www.udir.no/globalassets/filer/vurdering/kartlegging/generell_veiled_kp_lesing_2trinn_nordsamisk.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -124,7 +124,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    </xsl:variable>
+    <parallel_text xml:lang="nno" location="kp_lesing_2_trinn_lararrettleiing_2015_nn.pdf"/>
+	<parallel_text xml:lang="nob" location="kp_lesing_2_trinn_larerveiledning_2015_bm.pdf"/></xsl:variable>
 
 
     <!--
@@ -135,7 +136,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="'1,5'"/>
+    <xsl:variable name="skip_pages" select="'1,2,25'"/>
 
     <!--
         Text outside these margins will be ignored.
@@ -163,11 +164,7 @@
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="'all=7,3=20,4=22'"/>
-<xsl:variable name="inner_top_margin" select="'4=22'"/>
-<xsl:variable name="inner_bottom_margin" select="'4=69'"/>
-<xsl:variable name="inner_left_margin" select="''"/>
-<xsl:variable name="inner_right_margin" select="''"/>
+    <xsl:variable name="bottom_margin" select="'all=8'"/>
 
 
     <!-- Add all paragraphs that should have xml:lang=X           -->

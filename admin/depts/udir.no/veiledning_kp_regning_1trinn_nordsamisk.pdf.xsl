@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -10,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.udir.no/globalassets/filer/vurdering/kartlegging/generell_veiled_kp_lesing_1trinn_nordsamisk.pdf'"/>
+    <xsl:variable name="filename" select="'http://www.udir.no/globalassets/filer/vurdering/kartlegging/veiledning_kp_regning_1trinn_nordsamisk.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -125,8 +124,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="nno" location="veiledning_kp_lesing_kp_lesing_1_trinn_lararrettleiing_2015_nn.pdf"/>
-	<parallel_text xml:lang="nob" location="veiledning_kp_lesing_kp_lesing_1_trinn_larerveiledning_2015_bm.pdf"/></xsl:variable>
+    <parallel_text xml:lang="nno" location="150211_rettleiing_1trinn_nn.pdf"/>
+	<parallel_text xml:lang="nob" location="150211_veiledning_1trinn_bm.pdf"/>
+	<parallel_text xml:lang="sma" location="veiled_kp_regning_1trinn_sorsamisk.pdf"/></xsl:variable>
 
 
     <!--
@@ -137,7 +137,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="'1,2,25'"/>
+    <xsl:variable name="skip_pages" select="'1,28-30'"/>
 
     <!--
         Text outside these margins will be ignored.

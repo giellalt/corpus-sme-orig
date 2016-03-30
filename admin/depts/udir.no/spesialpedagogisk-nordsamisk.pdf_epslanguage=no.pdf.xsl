@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -10,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.udir.no/globalassets/filer/vurdering/kartlegging/veiledning_kp_regning_1trinn_nordsamisk.pdf'"/>
+    <xsl:variable name="filename" select="'http://www.udir.no/Filer/Regelverk/Tidlig-innsats/Foreldreinfo/Spesialpedagogisk-nordsamisk.pdf?epslanguage=no'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -125,9 +124,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="nno" location="veiledning_kp_regning_150211_rettleiing_1trinn_nn.pdf"/>
-	<parallel_text xml:lang="nob" location="veiledning_kp_regning_150211_veiledning_1trinn_bm.pdf"/>
-	<parallel_text xml:lang="sma" location="veiledning_kp_regning_veiled_kp_regning_1trinn_sorsamisk.pdf"/></xsl:variable>
+    <parallel_text xml:lang="smj" location="spesialpedagogisk-lulesamisk.pdf_epslanguage=no.pdf"/>
+	<parallel_text xml:lang="sma" location="spesialpedagogisk-sorsamisk.pdf_epslanguage=no.pdf"/></xsl:variable>
 
 
     <!--
@@ -138,7 +136,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="'1,28-30'"/>
+    <xsl:variable name="skip_pages" select="''"/>
 
     <!--
         Text outside these margins will be ignored.
@@ -166,7 +164,7 @@
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="'all=8'"/>
+    <xsl:variable name="bottom_margin" select="''"/>
 
 
     <!-- Add all paragraphs that should have xml:lang=X           -->

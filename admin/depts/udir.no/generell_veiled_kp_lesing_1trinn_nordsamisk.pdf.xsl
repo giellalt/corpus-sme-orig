@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
-    <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
+            <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
+
+            <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
+
+    
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1697&amp;Itemid=10'"/>
+    <xsl:variable name="filename" select="'http://www.udir.no/globalassets/filer/vurdering/kartlegging/generell_veiled_kp_lesing_1trinn_nordsamisk.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -44,14 +48,14 @@
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="''"/>
-    <xsl:variable name="sub_name" select="''"/>
-    <xsl:variable name="sub_email" select="''"/>
+    <xsl:variable name="sub_name" select="'Kevin Brubeck Unhammer'"/>
+    <xsl:variable name="sub_email" select="'unhammer@fsfe.org'"/>
     <xsl:variable name="wordcount" select="''"/>
     <!-- Set this variable to 1 if the source for this doc is OCR -->
     <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
     <xsl:variable name="ocr" select="''"/>
     <xsl:variable name="metadata" select="'uncomplete'"/>
-    <xsl:variable name="template_version" select="'$Revision: 125457 $'"/>
+    <xsl:variable name="template_version" select="'$Revision$'"/>
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
     <xsl:variable name="note" select="''"/>
@@ -120,8 +124,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="index.php_option=com_docman_task=doc_download_gid=1698_itemid=10.pdf" xml:lang="fin"/>
-</xsl:variable>
+    <parallel_text xml:lang="nno" location="kp_lesing_1_trinn_lararrettleiing_2015_nn.pdf"/>
+	<parallel_text xml:lang="nob" location="kp_lesing_1_trinn_larerveiledning_2015_bm.pdf"/></xsl:variable>
 
 
     <!--
@@ -132,7 +136,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1,2,25'"/>
 
     <!--
         Text outside these margins will be ignored.
@@ -141,8 +145,7 @@
         [all|odd|even|pagenumber]=integer
 
         Margin lines *must* contain the keywords all, even, odd or a page
-        number followed by a = sign and an integer. Pages with the same margin
-        may be separated with ;.
+        number followed by a = sign and an integer.
 
         The integer must be between 0 and 100.
 
@@ -157,17 +160,12 @@
         Examples on how the select part could look:
         odd=5, even=8, 8=15, 11=3
         all=9, 8=12
-        1;3;8=20, 4;5;7=10
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="bottom_margin" select="'all=8'"/>
 
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
     <!-- Uncomment the following and add the paths, for example:  -->

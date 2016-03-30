@@ -120,7 +120,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="index.php_option=com_docman_task=doc_download_gid=2217_itemid=10.pdf" xml:lang="nob"/>
+    <parallel_text location="puhekn1510norjaksi.pdf" xml:lang="nob"/>
 </xsl:variable>
 
 

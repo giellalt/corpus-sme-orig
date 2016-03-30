@@ -9,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.udir.no/globalassets/upload/nasjonale_prover/eksempeloppgaver/5/eksempel_oppg2_nasjonale_prover_nordsamisk_5trinn.pdf'"/>
+    <xsl:variable name="filename" select="'http://jll.se/download/18.420a58c9144917fddc910ff/1394722497486/Obsskylt+avlång+kondom+resa+Nordsamiska.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -94,7 +94,8 @@
         <!-- <language xml:lang="smn"/> -->
         <!-- <language xml:lang="sms"/> -->
         <!-- <language xml:lang="swe"/> -->
-    </xsl:variable>
+    <language xml:lang="sme"/>
+	<language xml:lang="swe"/></xsl:variable>
 
     <!-- If the document has parallel texts, uncomment the right languages
          (or add new lines with the right ISO-639-3 language codes) and
@@ -124,7 +125,17 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    </xsl:variable>
+    <parallel_text xml:lang="ara" location="obsskylt_avlaing_kondom_resa_arabiska.pdf"/>
+	<parallel_text xml:lang="eng" location="obsskylt_avlaing_kondom_resa_engelska.pdf"/>
+	<parallel_text xml:lang="fas" location="obsskylt_avlaing_kondom_resa_persiska.pdf"/>
+	<parallel_text xml:lang="fin" location="obsskylt_avlaing_kondom_resa_finska.pdf"/>
+	<parallel_text xml:lang="fra" location="obsskylt_avlaing_kondom_resa_franska.pdf"/>
+	<parallel_text xml:lang="ita" location="obsskylt_avlaing_kondom_resa_italienska.pdf"/>
+	<parallel_text xml:lang="rus" location="obsskylt_avlaing_kondom_resa_ryska.pdf"/>
+	<parallel_text xml:lang="sma" location="obsskylt_avlaing_kondom_resa_sydsamiska.pdf"/>
+	<parallel_text xml:lang="smj" location="obsskylt_avlaing_kondom_resa_lulesamiska.pdf"/>
+	<parallel_text xml:lang="spa" location="obsskylt_avlaing_kondom_resa_spanska.pdf"/>
+	<parallel_text xml:lang="swe" location="obsskylt_avlaing_kondom_resa.pdf"/></xsl:variable>
 
 
     <!--
@@ -135,7 +146,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="'1,5'"/>
+    <xsl:variable name="skip_pages" select="''"/>
 
     <!--
         Text outside these margins will be ignored.
@@ -163,11 +174,8 @@
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="'all=12,2=30,4=31'"/>
-<xsl:variable name="inner_top_margin" select="'3=37,4=11'"/>
-<xsl:variable name="inner_bottom_margin" select="'3=50,4=74'"/>
-<xsl:variable name="inner_left_margin" select="'4=62'"/>
-<xsl:variable name="inner_right_margin" select="'4=0'"/>
+    <xsl:variable name="bottom_margin" select="''"/>
+
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
     <!-- Uncomment the following and add the paths, for example:  -->
