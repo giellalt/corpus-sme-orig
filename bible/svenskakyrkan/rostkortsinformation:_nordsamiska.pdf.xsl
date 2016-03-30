@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:import href="file:///home/kiwibird/.local/lib/python2.7/site-packages/CorpusTools-0.9.0a1-py2.7.egg/corpustools/xslt/common.xsl"/>
@@ -91,8 +91,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="default.aspx_id=582102.pdf" xml:lang="smj"/>
-	<parallel_text location="default.aspx_id=582100.pdf" xml:lang="swe"/>
+	<parallel_text location="rostkortsinformation:_lulesamiska.pdf" xml:lang="smj"/>
+	<parallel_text location="information_som_gar_med_rostkortet.pdf" xml:lang="swe"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->

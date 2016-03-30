@@ -128,7 +128,7 @@
 	<parallel_text xml:lang="fit" location="kh_meankieli.pdf"/>
 	<parallel_text xml:lang="sma" location="kh_sydsamiska.pdf"/>
 	<parallel_text xml:lang="smj" location="kh_lulesamiska.pdf"/>
-	<parallel_text xml:lang="swe" location="kh_svenska.pdf"/>
+	<parallel_text xml:lang="swe" location="forslag_kyrkohandbok_for_svenska_kyrkan_del_1.pdf"/>
 </xsl:variable>
 
 
