@@ -121,7 +121,7 @@
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="index.php_option=com_docman_task=doc_download_gid=1522_itemid=10.pdf" xml:lang="smn"/>
-<parallel_text location="index.php_option=com_docman_task=doc_download_gid=1468_itemid=10.pdf" xml:lang="fin"/>
+<parallel_text location="alkuperaiskansajulistus_-_suomennos.pdf" xml:lang="fin"/>
 </xsl:variable>
 
 

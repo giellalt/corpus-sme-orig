@@ -122,7 +122,7 @@
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="index.php_option=com_docman_task=doc_download_gid=2681_itemid=10.pdf" xml:lang="smn"/>
 <parallel_text location="index.php_option=com_docman_task=doc_download_gid=2680_itemid=10.pdf" xml:lang="sms"/>
-<parallel_text location="index.php_option=com_docman_task=doc_download_gid=2683_itemid=10.pdf" xml:lang="fin"/>
+<parallel_text location="giellagaldu_kielityontekijat_haettavana_suomi.pdf" xml:lang="fin"/>
 </xsl:variable>
 
 

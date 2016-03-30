@@ -120,7 +120,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="index.php_option=com_docman_task=doc_download_gid=2748_itemid=10.pdf" xml:lang="fin"/>
+    <parallel_text location="pohjoisaamen_kaantajan_vuorotteluvapaan_sijainen_davvisamegiela_jorgaleaddji_vurohallanfriijavuo_273_a_sadjasa.pdf" xml:lang="fin"/>
 </xsl:variable>
 
 
