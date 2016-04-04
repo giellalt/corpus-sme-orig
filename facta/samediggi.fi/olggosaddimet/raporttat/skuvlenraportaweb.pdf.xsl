@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
-            <xsl:import href="file:///usr/lib/python2.7/site-packages/CorpusTools-0.9.0alpha2-py2.7.egg/corpustools/xslt/common.xsl"/>
-
             <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
-
-    
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'skuvlenraportaweb.pdf'"/>
+    <xsl:variable name="filename" select="'http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1210&amp;Itemid='"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -108,7 +104,7 @@
     <xsl:variable name="parallels">
         <!-- <parallel_text xml:lang="dan" location=""/> -->
         <!-- <parallel_text xml:lang="eng" location=""/> -->
-        <!-- <parallel_text xml:lang="fin" location=""/> -->
+        <parallel_text location="koulutusraportti_web_2_.pdf" xml:lang="fin"/>
         <!-- <parallel_text xml:lang="fit" location=""/> -->
         <!-- <parallel_text xml:lang="fkv" location=""/> -->
         <!-- <parallel_text xml:lang="ger" location=""/> -->
