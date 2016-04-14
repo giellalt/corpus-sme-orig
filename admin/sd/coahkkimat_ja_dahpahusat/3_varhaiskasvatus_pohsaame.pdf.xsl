@@ -121,6 +121,8 @@
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="3_varhaiskasvatus_koltsaame.pdf" xml:lang="sms"/>
+<parallel_text location="3_varhaiskasvatus_insaame.pdf" xml:lang="smn"/>
+<parallel_text location="3_varhaiskasvatus.pdf" xml:lang="fin"/>
 </xsl:variable>
 
 
