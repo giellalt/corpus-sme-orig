@@ -122,6 +122,7 @@
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="ohjelma_vanhustyon_kehittamispaivat_23_5_-24_5_2012_inarinsaame.pdf" xml:lang="smn"/>
 <parallel_text location="ohjelma_vanhustyon_kehittamispaivat_23_5_-24_5_2012koltannos.pdf" xml:lang="sms"/>
+<parallel_text location="ohjelma_vanhustyon_kehittamispaivat_23_5_-24_5_2012.pdf" xml:lang="fin"/>
 </xsl:variable>
 
 
