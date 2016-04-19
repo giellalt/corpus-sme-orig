@@ -120,6 +120,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
+<parallel_text location="sakael12016_koltansaame.pdf" xml:lang="sms"/>
+<parallel_text location="sakael12016_-_anarakiela.pdf" xml:lang="smn"/>
+<parallel_text location="sakael12016.pdf" xml:lang="fin"/>
     </xsl:variable>
 
 
