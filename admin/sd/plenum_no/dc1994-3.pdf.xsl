@@ -48,7 +48,7 @@
 <xsl:variable name="wordcount" select="'6898'"/>
 <!-- Set this variable to 1 if the source for this doc is OCR -->
 <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
-<xsl:variable name="ocr" select="'1'"/>
+<xsl:variable name="conversion_status" select="'1'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision: 32698 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>

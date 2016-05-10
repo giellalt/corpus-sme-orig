@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<?xml version='1.0' encoding='UTF-8'?>
-=======
 <?xml version='1.0' encoding='utf-8'?>
->>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -38,15 +34,9 @@
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
-<<<<<<< HEAD
-<xsl:variable name="genre" select="''"/>
-<xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
-=======
 <xsl:variable name="genre" select="'admin'"/>
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translated_from" select="'nob'"/>
->>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -59,10 +49,14 @@
 <xsl:variable name="wordcount" select="'397'"/>
 <!-- Set this variable to 1 if the source for this doc is OCR -->
 <<<<<<< HEAD
+<<<<<<< HEAD
 <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
 =======
 >>>>>>> bdeda3968b (Northern Saami regjeringen.no docs renamed, metadata updated in parallel files)
 <xsl:variable name="ocr" select="''"/>
+=======
+<xsl:variable name="conversion_status" select="''"/>
+>>>>>>> cc7601657d (ocr has become conversion_status)
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision: 48460 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
