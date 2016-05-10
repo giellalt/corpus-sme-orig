@@ -48,7 +48,7 @@
 <xsl:variable name="template_version" select="' 1.9 '"/>
 <xsl:variable name="current_version" select="'$Revision: 1.9 $'"/>
 
-<xsl:variable name="conversion_status" select="'1'"/>
+<xsl:variable name="conversion_status" select="'ocr'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 

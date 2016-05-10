@@ -46,6 +46,7 @@
 <xsl:variable name="sub_name" select="'Børre Gaup'"/>
 <xsl:variable name="sub_email" select="'lene.antonsen@uit.no'"/>
 <xsl:variable name="wordcount" select="'1326'"/>
+<xsl:variable name="conversion_status" select="'standard'"/>
 <xsl:variable name="metadata" select="'complete'"/>
 <xsl:variable name="template_version" select="' 1.22 '"/>
 <xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>

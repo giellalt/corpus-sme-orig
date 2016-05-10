@@ -48,6 +48,7 @@
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="''"/>
 <xsl:variable name="wordcount" select="''"/>
+<xsl:variable name="conversion_status" select="'correct'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision: 31551 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -54,7 +53,7 @@
     <xsl:variable name="wordcount" select="''"/>
     <!-- Set this variable to 1 if the source for this doc is OCR -->
     <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
-    <xsl:variable name="conversion_status" select="''"/>
+    <xsl:variable name="conversion_status" select="'standard'"/>
     <xsl:variable name="metadata" select="'uncomplete'"/>
     <xsl:variable name="template_version" select="'$Revision$'"/>
     <xsl:variable name="current_version" select="'Revision'"/>
@@ -195,9 +194,9 @@
     <!-- other markup, as such markup otherwise will be removed.  -->
    
     <xsl:template match="p[parent::body][not(./em | ./span)][text()]">
-        <xsl:variable name="text" select='current()' />
-        <xsl:variable name="type" select='@type' />
-        <xsl:variable name="lang" select='@xml:lang' />
+        <xsl:variable name="text" select="current()"/>
+        <xsl:variable name="type" select="@type"/>
+        <xsl:variable name="lang" select="@xml:lang"/>
         <xsl:element name="p">
             <xsl:if test="$type">
                 <xsl:attribute name="type">
