@@ -127,7 +127,11 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    </xsl:variable>
+    <parallel_text location="taustaa_ja_voittajat_inarins.pdf" xml:lang="smn"/>
+<parallel_text location="taustaa_ja_voittajat_inarins.pdf" xml:lang="fin"/>
+<parallel_text location="taustaa_ja_voittajat_inarins.pdf" xml:lang="nob"/>
+<parallel_text location="duogas_ja_vuoitit-taustaa_ja_voittajat_uusi.pdf" xml:lang="sms"/>
+</xsl:variable>
 
 
     <!--
