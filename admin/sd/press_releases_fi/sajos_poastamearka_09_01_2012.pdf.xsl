@@ -129,6 +129,7 @@
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="sajos_postimerkki_09_01_2012.pdf" xml:lang="fin"/>
 <parallel_text location="sajos_stamp_09_01_2012.pdf" xml:lang="eng"/>
+<parallel_text location="sajos_frimarke_09_01_2012.pdf" xml:lang="swe"/>
 </xsl:variable>
 
 
