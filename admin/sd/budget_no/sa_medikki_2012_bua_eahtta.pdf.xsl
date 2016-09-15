@@ -132,7 +132,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1-9'"/>
 
     <!--
         Text outside these margins will be ignored.
@@ -161,13 +161,13 @@
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="top_margin" select="'23=25,25=75,27=30,32=20,34=22,35=22,36=22,37=40,153=21,44=20,51=21,54=21,62=25,65=28,70=25,72=22,74=23,76=43'"/>
+    <xsl:variable name="bottom_margin" select="'13=79,17=28,20=31,22=34,27=30,29=22,45=23,49=32,51=27,53=34,58=21,61=30,69=36,73=28,78=33,81=23'"/>
 
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
+    <xsl:variable name="inner_right_margin" select="'12=0,14=0,18=0,19=0,20=0,21=0,22=0,26=0,28=0,29=0,30=0,31=0,32=0,33=0,36=0,40=0,41=0,42=0,43=0,44=0,45=0,46=0,47=0,50=0,51=0,54=0,55=0,57=0,59=0,60=0,63=0,64=0,65=0,67=0,68=0,70=0,71=0,72=0,74=0,76=0,77=0,81=0,82=0,83=0,84=0,85=0'"/>
+    <xsl:variable name="inner_left_margin" select="'12=0,14=0,18=0,19=0,20=0,21=0,22=0,26=0,28=0,29=0,30=0,31=0,32=0,33=0,36=0,40=0,41=0,42=0,43=0,44=0,45=0,46=0,47=0,50=0,51=0,54=0,55=0,57=0,59=0,60=0,63=0,64=0,65=0,67=0,68=0,70=0,71=0,72=0,74=0,76=0,77=0,81=0,82=0,83=0,84=0,85=0'"/>
+    <xsl:variable name="inner_top_margin" select="'12=17,14=14,18=25,19=19,20=11,21=18,22=15,26=26,28=41,29=15,30=35,31=27,32=60,33=32,36=60,40=12,41=52,42=55,43=36,44=37,45=17,46=46,47=34,50=63,51=42,54=59,55=58,57=11,59=11,60=19,63=33,64=51,65=70,67=11,68=53,70=52,71=29,72=60,74=63,76=75,77=31,81=16,82=38,83=43,84=26,85=28'"/>
+    <xsl:variable name="inner_bottom_margin" select="'12=63,14=24,18=40,19=62,20=64,21=69,22=45,26=48,28=31,29=58,30=29,31=57,32=26,33=54,36=22,40=51,41=14,42=32,43=52,44=30,45=70,46=41,47=37,50=22,51=43,54=30,55=32,57=64,59=78,60=70,63=53,64=39,65=20,67=52,68=37,70=33,71=44,72=31,74=27,76=14,77=57,81=49,82=51,83=31,84=21,85=62'"/>
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
     <!-- Uncomment the following and add the paths, for example:  -->
