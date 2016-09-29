@@ -124,8 +124,8 @@
             </xsl:if>
             <xsl:call-template name="globalTextReplace">
 	      <xsl:with-param name="inputString" select="translate($text,'„¹˜','čŋđ') "/>
-	      <xsl:with-param name="target" select="'??á/??a/??e/??i/??o/?a/?á/?e/?i/?o/?u/?g/?k/?l/?r/?t/?g/Coahkkinjodihang/¸/¿/'"/>
-	      <xsl:with-param name="replacement" select="'ŋŋá/ŋŋa/ŋŋe/ŋŋi/ŋŋo/ŋa/ŋá/ŋe/ŋi/ŋo/ŋu/ŋg/ŋk/ŋl/ŋr/ŋt/ŋg/Čoahkkinjoðihang/ø/æ/'"/>
+	      <xsl:with-param name="target" select="'??á/??a/??e/??i/??o/?a/?á/?e/?i/?o/?u/?g/?k/?l/?r/?t/?g/Coahkkinjodihang/¸/¿/Ü/'"/>
+	      <xsl:with-param name="replacement" select="'ŋŋá/ŋŋa/ŋŋe/ŋŋi/ŋŋo/ŋa/ŋá/ŋe/ŋi/ŋo/ŋu/ŋg/ŋk/ŋl/ŋr/ŋt/ŋg/Čoahkkinjoðihang/ø/æ/đ'"/>
 	    </xsl:call-template>
 
 </xsl:element>
