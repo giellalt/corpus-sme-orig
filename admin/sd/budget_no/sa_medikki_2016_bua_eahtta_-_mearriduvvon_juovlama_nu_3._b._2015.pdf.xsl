@@ -132,7 +132,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1-6'"/>
 
     <!--
         Text outside these margins will be ignored.
@@ -159,15 +159,15 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="right_margin" select="''"/>
+    <xsl:variable name="right_margin" select="'10=33,22=33,36=33'"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="top_margin" select="'31=19,34=35,44=16,46=17,47=26,50=42,51=39'"/>
+    <xsl:variable name="bottom_margin" select="'12=48,31=41,37=28,41=22'"/>
 
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
+    <xsl:variable name="inner_right_margin" select="'8=0,13=0,19=0,21=0,23=0,24=0,27=0,29=0,30=0,32=0,34=0,40=0,41=0,42=0,43=0,44=0,45=0,46=0,47=0,48=0,52=0'"/>
+    <xsl:variable name="inner_left_margin" select="'8=0,13=0,19=0,21=0,23=0,24=0,27=0,29=0,30=0,32=0,34=0,40=0,41=0,42=0,43=0,44=0,45=0,46=0,47=0,48=0,52=0'"/>
+    <xsl:variable name="inner_top_margin" select="'8=26,13=13,19=28,21=43,23=41,24=47,27=58,29=25,30=23,32=51,34=73,40=16,41=23,42=50,43=24,44=55,45=21,46=29,47=61,48=65,52=18'"/>
+    <xsl:variable name="inner_bottom_margin" select="'8=37,13=24,19=16,21=35,23=46,24=45,27=31,29=67,30=42,32=13,34=18,40=63,41=56,42=20,43=67,44=36,45=70,46=57,47=27,48=15,52=15'"/>
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
     <!-- Uncomment the following and add the paths, for example:  -->
