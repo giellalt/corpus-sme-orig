@@ -132,7 +132,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1-9,49,79,109,110,134,135'"/>
 
     <!--
         Text outside these margins will be ignored.
@@ -161,13 +161,13 @@
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="top_margin" select="'12=24,25=28,38=69,43=36,59=13,64=22,69=50,72=31,82=13,92=18,103=71,107=30,125=47,126=52'"/>
+    <xsl:variable name="bottom_margin" select="'11=17,13=84,24=84,37=62,42=57,58=18,63=60,71=38,81=18,91=43,102=20,106=38'"/>
 
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
+    <xsl:variable name="inner_right_margin" select="'14=0,22=0,30=0,32=0,36=0,47=0,48=0,50=0,51=0,54=0,56=0,60=0,67=0,75=0,76=0,80=0,90=0,97=0,98=0,100=0,111=0,113=0,114=0,117=0,121=0,122=0,125=0,126=0,128=0,131=0,133=0'"/>
+    <xsl:variable name="inner_left_margin" select="'14=0,22=0,30=0,32=0,36=0,47=0,48=0,50=0,51=0,54=0,56=0,60=0,67=0,75=0,76=0,80=0,90=0,97=0,98=0,100=0,111=0,113=0,114=0,117=0,121=0,122=0,125=0,126=0,128=0,131=0,133=0'"/>
+    <xsl:variable name="inner_top_margin" select="'14=13,22=60,30=11,32=31,36=14,47=26,48=32,50=35,51=50,54=54,56=11,60=10,67=60,75=30,76=31,80=68,90=53,97=10,98=59,100=63,111=61,113=62,114=22,117=29,121=14,122=65,125=60,126=72,128=12,131=12,133=15'"/>
+    <xsl:variable name="inner_bottom_margin" select="'14=61,22=28,30=57,32=18,36=70,47=53,48=47,50=54,51=26,54=31,56=80,60=50,67=31,75=60,76=19,80=23,90=37,97=75,98=30,100=25,111=29,113=28,114=25,117=27,121=19,122=20,125=30,126=18,128=65,131=78,133=57'"/>
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
     <!-- Uncomment the following and add the paths, for example:  -->
