@@ -120,7 +120,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="sametingets_reviderte_budsjett_2015_-_norsk.pdf" xml:lang="sme"/>
+    <parallel_text location="sametingets_reviderte_budsjett_2015_-_norsk.pdf" xml:lang="nob"/>
 </xsl:variable>
 
 
@@ -132,7 +132,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1-3,8,9'"/>
 
     <!--
         Text outside these margins will be ignored.
@@ -162,12 +162,12 @@
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="bottom_margin" select="'5=87'"/>
 
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
+    <xsl:variable name="inner_right_margin" select="'6=0,7=0'"/>
+    <xsl:variable name="inner_left_margin" select="'6=0,7=0'"/>
+    <xsl:variable name="inner_top_margin" select="'6=13,7=12'"/>
+    <xsl:variable name="inner_bottom_margin" select="'6=62,7=32'"/>
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
     <!-- Uncomment the following and add the paths, for example:  -->
