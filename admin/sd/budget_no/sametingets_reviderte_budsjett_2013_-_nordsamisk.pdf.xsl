@@ -161,13 +161,13 @@
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="top_margin" select="'3=39,4=37,5=32,7=34,8=22,9=46'"/>
+    <xsl:variable name="bottom_margin" select="'2=21,3=52,5=51'"/>
 
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
+    <xsl:variable name="inner_right_margin" select="'1=0,2=0,6=0,7=0,8=0,10=0,11=0'"/>
+    <xsl:variable name="inner_left_margin" select="'1=0,2=0,6=0,7=0,8=0,10=0,11=0'"/>
+    <xsl:variable name="inner_top_margin" select="'1=56,2=17,6=67,7=49,8=31,10=24,11=11'"/>
+    <xsl:variable name="inner_bottom_margin" select="'1=33,2=34,6=21,7=20,8=39,10=29,11=78'"/>
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
     <!-- Uncomment the following and add the paths, for example:  -->
