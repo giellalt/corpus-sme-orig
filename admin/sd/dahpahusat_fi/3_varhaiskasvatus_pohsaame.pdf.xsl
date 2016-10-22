@@ -11,7 +11,7 @@
     <xsl:variable name="author1_fn" select="''"/>
     <xsl:variable name="author1_ln" select="''"/>
     <xsl:variable name="author1_gender" select="'unknown'"/>
-    <xsl:variable name="author1_nat" select="''"/>
+    <xsl:variable name="author1_nat" select="'FI'"/>
     <xsl:variable name="author1_born" select="''"/>
     <xsl:variable name="author2_fn" select="''"/>
     <xsl:variable name="author2_ln" select="''"/>
@@ -36,7 +36,7 @@
     <xsl:variable name="place" select="''"/>
     <xsl:variable name="genre" select="'admin'"/>
     <xsl:variable name="collection" select="''"/>
-    <xsl:variable name="translated_from" select="''"/>
+    <xsl:variable name="translated_from" select="'fin'"/>
     <xsl:variable name="translator_fn" select="''"/>
     <xsl:variable name="translator_ln" select="''"/>
     <xsl:variable name="translator_gender" select="'unknown'"/>
