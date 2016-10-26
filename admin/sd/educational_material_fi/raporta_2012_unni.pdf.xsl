@@ -8,8 +8,8 @@
     <xsl:variable name="filename" select="'http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=2030&amp;Itemid=10'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Raporta sámenuoraid dáiddadáhpáhusas 2012'"/>
-    <xsl:variable name="author1_fn" select="''"/>
-    <xsl:variable name="author1_ln" select="''"/>
+    <xsl:variable name="author1_fn" select="'Anni'"/>
+    <xsl:variable name="author1_ln" select="'Näkkäläjärvi'"/>
     <xsl:variable name="author1_gender" select="'unknown'"/>
     <xsl:variable name="author1_nat" select="'FI'"/>
     <xsl:variable name="author1_born" select="''"/>
