@@ -7,9 +7,9 @@
     <!-- variable filename contains the original name of the file (from submitter)-->
     <xsl:variable name="filename" select="'http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1210&amp;Itemid=10'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
-    <xsl:variable name="author1_fn" select="''"/>
-    <xsl:variable name="author1_ln" select="''"/>
+    <xsl:variable name="title" select="'Sámeoahpahus ruovttuguovllu olggobealde'"/>
+    <xsl:variable name="author1_fn" select="'Ulla'"/>
+    <xsl:variable name="author1_ln" select="'Aikio-Puoskari'"/>
     <xsl:variable name="author1_gender" select="'unknown'"/>
     <xsl:variable name="author1_nat" select="'FI'"/>
     <xsl:variable name="author1_born" select="''"/>
@@ -30,7 +30,7 @@
     <xsl:variable name="author4_born" select="''"/>
     <xsl:variable name="publisher" select="''"/>
     <xsl:variable name="publChannel" select="''"/>
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2008'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -139,7 +139,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1-7,15'"/>
 
     <!--
         Text outside these margins will be ignored.
@@ -169,12 +169,12 @@
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="bottom_margin" select="'8=15,10=38,12=60,13=18,14=21,16=22,17=17,18=20,20=57,22=15,23=19'"/>
 
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
+    <xsl:variable name="inner_right_margin" select="'11=0,21=0'"/>
+    <xsl:variable name="inner_left_margin" select="'11=0,21=0'"/>
+    <xsl:variable name="inner_top_margin" select="'11=13,21=13'"/>
+    <xsl:variable name="inner_bottom_margin" select="'11=62,21=60'"/>
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
     <!-- Uncomment the following and add the paths, for example:  -->
