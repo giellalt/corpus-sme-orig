@@ -7,7 +7,7 @@
     <!-- variable filename contains the original name of the file (from submitter)-->
     <xsl:variable name="filename" select="'http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=2366&amp;Itemid=10'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Sápmelaš árabajásgeassinplána'"/>
     <xsl:variable name="author1_fn" select="''"/>
     <xsl:variable name="author1_ln" select="''"/>
     <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -30,7 +30,7 @@
     <xsl:variable name="author4_born" select="''"/>
     <xsl:variable name="publisher" select="''"/>
     <xsl:variable name="publChannel" select="''"/>
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'unknown'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -141,7 +141,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1-3,27,31,32'"/>
 
     <!--
         Text outside these margins will be ignored.
@@ -171,7 +171,7 @@
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="bottom_margin" select="'5=15,6=12,7=12,8=11,9=17,10=16,11=14,12=12,13=11,15=15,16=11,17=12,18=14,19=14,20=14,21=14,22=13,23=13,24=12,25=12,26=12'"/>
 
     <xsl:variable name="inner_right_margin" select="''"/>
     <xsl:variable name="inner_left_margin" select="''"/>
