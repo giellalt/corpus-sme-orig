@@ -170,6 +170,7 @@
     <xsl:variable name="inner_top_margin" select="''"/>
     <xsl:variable name="inner_bottom_margin" select="''"/>
 
+    <xsl:variable name="linespacing" select="'all=2.0'"/>
     <!-- Add all paragraphs that should have xml:lang=X           -->
     <!-- Uncomment the following and add the paths, for example:  -->
     <!-- <xsl:template match="/root/section[2]/paragraph[5] |
