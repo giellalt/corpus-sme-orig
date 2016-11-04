@@ -120,7 +120,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="kielityontekija_alkaen_010615.pdf" xml:lang="fin"/>
+	<parallel_text location="kielityontekija_alkaen_010615.pdf" xml:lang="fin"/>
+	<parallel_text location="kielityontekija_alkaen_010615.pdf" xml:lang="smn"/>
+	<parallel_text location="kielityontekija_alkaen_010615.pdf" xml:lang="sms"/>
 </xsl:variable>
 
 
@@ -132,7 +134,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'2'"/>
 
     <!--
         Text outside these margins will be ignored.
@@ -161,7 +163,7 @@
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
+    <xsl:variable name="top_margin" select="'1=54'"/>
     <xsl:variable name="bottom_margin" select="''"/>
 
     <xsl:variable name="inner_right_margin" select="''"/>
