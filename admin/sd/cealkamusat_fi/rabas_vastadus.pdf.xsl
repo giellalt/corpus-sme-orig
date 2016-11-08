@@ -62,8 +62,7 @@
     <!-- In the case of a multilingual document, we may want to check for
          other languages. Set the variable monolingual to '1' to turn off
          language recognition (treating everything as mainlang) -->
-    <xsl:variable name="monolingual" select="''"/>
-
+    <xsl:variable name="monolingual" select="'1'"/>
     <!-- If monolingual is not set, the document is multilingual.
          Uncomment the languages you want to check for (or add new lines
          with the right ISO-639-3 language codes).

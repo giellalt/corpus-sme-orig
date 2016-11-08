@@ -81,7 +81,7 @@
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
         <!-- <language xml:lang="eng"/> -->
-        <!-- <language xml:lang="fin"/> -->
+ <language xml:lang="fin"/>
         <!-- <language xml:lang="fit"/> -->
         <!-- <language xml:lang="fkv"/> -->
         <!-- <language xml:lang="ger"/> -->
