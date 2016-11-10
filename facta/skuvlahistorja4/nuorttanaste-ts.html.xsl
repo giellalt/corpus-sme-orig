@@ -30,7 +30,7 @@
 <xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="publisher" select="'Davvi Girji'"/>
 <xsl:variable name="publChannel" select="''"/>
-<xsl:variable name="year" select="'1909'"/>
+<xsl:variable name="year" select="'2010'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
