@@ -43,7 +43,7 @@
 <xsl:variable name="translator_born" select="'1967'"/>
 <xsl:variable name="translator_nat" select="'NO'"/>
 <!-- select license type: free, standard or other -->
-<xsl:variable name="license_type" select="''"/>
+<xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="''"/>
 <xsl:variable name="wordcount" select="''"/>

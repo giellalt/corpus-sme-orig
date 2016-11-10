@@ -47,7 +47,7 @@
     <xsl:variable name="translator_born" select="''"/>
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
-    <xsl:variable name="license_type" select="''"/>
+    <xsl:variable name="license_type" select="'free'"/>
     <xsl:variable name="sub_name" select="'Kevin Brubeck Unhammer'"/>
     <xsl:variable name="sub_email" select="'unhammer@fsfe.org'"/>
     <xsl:variable name="wordcount" select="''"/>

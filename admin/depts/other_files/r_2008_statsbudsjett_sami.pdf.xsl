@@ -40,7 +40,7 @@
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
   <!-- select license type: free, standard or other -->
-  <xsl:variable name="license_type" select="''"/>
+  <xsl:variable name="license_type" select="'free'"/>
   <xsl:variable name="sub_name" select="'Sjur Nørstebø Moshagen'"/>
   <xsl:variable name="sub_email" select="'sjur.moshagen@samediggi.no'"/>
   <xsl:variable name="wordcount" select="'16397'"/>

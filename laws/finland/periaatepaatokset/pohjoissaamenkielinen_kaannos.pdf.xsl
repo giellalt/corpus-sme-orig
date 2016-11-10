@@ -38,7 +38,7 @@
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
-    <xsl:variable name="genre" select="'admin'"/>
+    <xsl:variable name="genre" select="'laws'"/>
     <xsl:variable name="collection" select="''"/>
     <xsl:variable name="translated_from" select="''"/>
     <xsl:variable name="translator_fn" select="''"/>
@@ -47,7 +47,7 @@
     <xsl:variable name="translator_born" select="''"/>
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
-    <xsl:variable name="license_type" select="''"/>
+    <xsl:variable name="license_type" select="'free'"/>
     <xsl:variable name="sub_name" select="'Kimberli Mäkäräinen, Hki, sms.'"/>
     <xsl:variable name="sub_email" select="'kimberli.makarainen@helsinki.fi'"/>
     <xsl:variable name="wordcount" select="''"/>
