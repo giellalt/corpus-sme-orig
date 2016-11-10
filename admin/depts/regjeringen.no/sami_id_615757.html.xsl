@@ -8,7 +8,7 @@
 <xsl:variable name="filename" select="'http://www.regjeringen.no/se/dep/smk/preassaguovdda/pressemeldinger/2010/sami.html?id=615757'"/>
 <xsl:variable name="title" select="'Eanet áŋgiruššan davviguovlluin go goassege ovdal  - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
+<xsl:variable name="author1_ln" select="'Statsministerens kontor'"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author1_born" select="''"/>
@@ -27,7 +27,7 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisher" select="'regjeringen.no'"/>
 <xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
 <xsl:variable name="year" select="'2010'"/>
 <xsl:variable name="ISBN" select="''"/>

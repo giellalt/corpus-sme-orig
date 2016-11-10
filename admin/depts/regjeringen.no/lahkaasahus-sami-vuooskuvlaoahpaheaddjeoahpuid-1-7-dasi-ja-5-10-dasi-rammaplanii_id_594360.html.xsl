@@ -8,7 +8,7 @@
 <xsl:variable name="filename" select="'http://regjeringen.no/se/dep/kd/dok/lover_regler/forskrifter/2010/Lahkaasahus-sami-vuooskuvlaoahpaheaddjeoahpuid-1-7-dasi-ja-5-10-dasi-rammaplanii.html?id=594360'"/>
 <xsl:variable name="title" select="'Láhkaásahus sámi vuođđoskuvlaoahpaheaddjeoahpuid 1.-7. dási ja 5.-10. dási rámmaplánii - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
+<xsl:variable name="author1_ln" select="'Máhttodepartemeanta'"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author1_born" select="''"/>
@@ -27,9 +27,9 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisher" select="'regjeringen.no'"/>
 <xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
-<xsl:variable name="year" select="''"/>
+<xsl:variable name="year" select="'2010'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>

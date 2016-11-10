@@ -8,7 +8,7 @@
 <xsl:variable name="filename" select="'http://regjeringen.no/se/dep/sd/pressesenter/pressemeldinger/2008/stahtabueahtta-2009-historjjala-johtolat.html?id=531213'"/>
 <xsl:variable name="title" select="'Stáhtabušeahtta 2009: Historjjálaš johtolatnannen - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
+<xsl:variable name="author1_ln" select="'Samferdselsdepartementet'"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author1_born" select="''"/>
@@ -27,9 +27,9 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisher" select="'regjeringen.no'"/>
 <xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
-<xsl:variable name="year" select="''"/>
+<xsl:variable name="year" select="'2008'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>

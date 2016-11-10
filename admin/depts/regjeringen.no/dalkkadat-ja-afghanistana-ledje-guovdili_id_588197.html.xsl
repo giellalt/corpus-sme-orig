@@ -8,7 +8,7 @@
 <xsl:variable name="filename" select="'http://regjeringen.no/se/dep/smk/preassaguovdda/pressemeldinger/2009/dalkkadat-ja-afghanistana-ledje-guovdili.html?id=588197'"/>
 <xsl:variable name="title" select="'Dálkkádat ja Afghanistána ledje guovdilis áššit Stoltenberga ja Obama čoahkkimis - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
+<xsl:variable name="author1_ln" select="'Statsministerens kontor'"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author1_born" select="''"/>
@@ -27,9 +27,9 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisher" select="'regjeringen.no'"/>
 <xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
-<xsl:variable name="year" select="''"/>
+<xsl:variable name="year" select="'2009'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>

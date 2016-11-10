@@ -8,7 +8,7 @@
 <xsl:variable name="filename" select="'http://www.regjeringen.no/se/dep/fad/oasat/nyheter/2010/samedikki-doaibma-2009s.html?id=610353'"/>
 <xsl:variable name="title" select="'Sámedikki doaibma 2009:s - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
+<xsl:variable name="author1_ln" select="'Fornyings-, administrasjons- og kirkedepartementet'"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author1_born" select="''"/>
@@ -27,7 +27,7 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisher" select="'regjeringen.no'"/>
 <xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
 <xsl:variable name="year" select="'2010'"/>
 <xsl:variable name="ISBN" select="''"/>

@@ -8,7 +8,7 @@
 <xsl:variable name="filename" select="'http://regjeringen.no/se/dep/fkd/Dokumeanttat/Lagat-ja-lahkaasahusat/lagat-/lahka-1983-06-03-nr-40-lahka-mearraguola.html?id=420609'"/>
 <xsl:variable name="title" select="'LÁHKA 1983-06-03 nr 40: Láhka mearraguolásteami jna. birra - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
+<xsl:variable name="author1_ln" select="'Nærings- og fiskeridepartementet'"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author1_born" select="''"/>
@@ -27,9 +27,9 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisher" select="'regjeringen.no'"/>
 <xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
-<xsl:variable name="year" select="''"/>
+<xsl:variable name="year" select="'2006'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>

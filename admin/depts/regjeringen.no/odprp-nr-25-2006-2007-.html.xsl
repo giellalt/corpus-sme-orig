@@ -6,7 +6,7 @@
   <xsl:variable name="filename" select="'http://www.regjeringen.no/se/dep/lmd/Dokumeanttat-/regpubl/otprp/2006-2007/Odprp-nr-25-2006-2007-.html?id=461192'"/>
   <xsl:variable name="title" select="'Od.prp. nr. 25 (2006-2007)'"/>
   <xsl:variable name="author1_fn" select="''"/>
-  <xsl:variable name="author1_ln" select="''"/>
+  <xsl:variable name="author1_ln" select="'Eanandoallo- ja biebmodepartemeanta '"/>
   <xsl:variable name="author1_gender" select="'unknown'"/>
   <xsl:variable name="author1_born" select="''"/>
   <xsl:variable name="author1_nat" select="''"/>
@@ -26,7 +26,7 @@
   <xsl:variable name="author4_born" select="''"/>
   <xsl:variable name="author4_nat" select="''"/>
   <xsl:variable name="translated_from" select="'nob'"/>
-  <xsl:variable name="publisher" select="'Arbeids- og inkluderingsdepartementet'"/>
+  <xsl:variable name="publisher" select="'regjeringen.no'"/>
   <xsl:variable name="publChannel" select="''"/>
   <xsl:variable name="year" select="'2007'"/>
   <xsl:variable name="ISBN" select="''"/>

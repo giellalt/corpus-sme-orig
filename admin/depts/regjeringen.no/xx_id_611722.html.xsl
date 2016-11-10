@@ -8,7 +8,7 @@
 <xsl:variable name="filename" select="'http://regjeringen.no/se/dep/fad/oasat/taler_og_artikler/av_ovrig_politisk_ledelse/taler-og-artikler-av-statssekretar-raimo/2010/xx.html?id=611722'"/>
 <xsl:variable name="title" select="'Sárdnon ođđa sámi ofelaččaid - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
+<xsl:variable name="author1_ln" select="'Ođasmahttin-, hálddahus- ja girkodepartemeanta'"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author1_born" select="''"/>
@@ -27,7 +27,7 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisher" select="'regjeringen.no'"/>
 <xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
 <xsl:variable name="year" select="'2010'"/>
 <xsl:variable name="ISBN" select="''"/>

@@ -9,7 +9,7 @@
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="'Od.prp. nr. 43 (2007-2008)  - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
+<xsl:variable name="author1_ln" select="'Arbeids- og sosialdepartementet'"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author1_born" select="''"/>
@@ -28,7 +28,7 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisher" select="'regjeringen.no'"/>
 <xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
 <xsl:variable name="year" select="'2008'"/>
 <xsl:variable name="ISBN" select="''"/>

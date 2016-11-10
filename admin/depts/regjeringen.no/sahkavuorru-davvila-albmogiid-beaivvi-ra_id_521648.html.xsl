@@ -8,7 +8,7 @@
 <xsl:variable name="filename" select="'http://regjeringen.no/se/dep/aid/Aigeguovdil/Sartnit-ja-artihkkalat/politisk_ledelse/statssekretar-raimo-valle/2008/sahkavuorru-davvila-albmogiid-beaivvi-ra.html?id=521648'"/>
 <xsl:variable name="title" select="'Sáhkavuorru Davvilaš álbmogiid beaivvi rahpama oktavuođas Riddu Riđđu riikkaidgaskasaš álgoálbmotfestiválas – suoidnemánu 12. b. 2008 - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
+<xsl:variable name="author1_ln" select="'Arbeids- og inkluderingsdepartementet'"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author1_born" select="''"/>
@@ -27,7 +27,7 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisher" select="'regjeringen.no'"/>
 <xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
 <xsl:variable name="year" select="'2008'"/>
 <xsl:variable name="ISBN" select="''"/>

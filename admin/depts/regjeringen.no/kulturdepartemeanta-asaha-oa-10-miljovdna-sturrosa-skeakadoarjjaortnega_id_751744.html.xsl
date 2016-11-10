@@ -9,7 +9,7 @@
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="'Kulturdepartemeanta ásaha ođđa 10 miljovdna sturrosaš skeaŋkadoarjjaortnega / Kultuvredepartemeente orre vadteselissiehtasseöörnegem sjïehtesje 10 millijovnine / Kulturdepartemænnta álgat ådå vaddananudisáv 10 milijåvnå stuorak - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
+<xsl:variable name="author1_ln" select="'Kulturdepartemeanta '"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author1_born" select="''"/>
@@ -28,7 +28,7 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisher" select="'regjeringen.no'"/>
 <xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
 <xsl:variable name="year" select="'2014'"/>
 <xsl:variable name="ISBN" select="''"/>
