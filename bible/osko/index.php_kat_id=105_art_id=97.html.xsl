@@ -95,7 +95,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="index.php_kat_id=105_art_id=97.html" xml:lang="nob"/>
 	<parallel_text location="index.php_kat_id=105_art_id=97.html" xml:lang="sma"/>
-	<parallel_text location="index.php_kat_id=105_art_id=97.html" xml:lang="smj"/>
+	<parallel_text location="" xml:lang="smj"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->
