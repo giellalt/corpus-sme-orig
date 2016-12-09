@@ -47,9 +47,16 @@
     <xsl:variable name="sub_name" select="''"/>
     <xsl:variable name="sub_email" select="''"/>
     <xsl:variable name="wordcount" select="''"/>
-    <!-- Set this variable to 1 if the source for this doc is OCR -->
-    <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
-    <xsl:variable name="conversion_status" select="'standard'"/>
+    <!-- This variable can have the following values:
+        * ocr:          ocr'ed document, should usually not be converted
+        * goldstandard: part of the goldstandard corpus, should not be converted
+        * correct:      a goldstandard document containing corrected typos,
+        * image:        documents consisting of images, should be possible to
+                        ocr, then do conversion on it
+        * standard:     a usual doc, meant to be used as part of the standard corpus
+        * unsupported:  document that cannot be converted by our conversion tools
+    -->
+    <xsl:variable name="conversion_status" select="'ocr'"/>
     <xsl:variable name="metadata" select="'uncomplete'"/>
     <xsl:variable name="template_version" select="'$Revision$'"/>
     <xsl:variable name="current_version" select="'Revision'"/>
