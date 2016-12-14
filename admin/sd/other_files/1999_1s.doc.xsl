@@ -6,7 +6,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'1999_1.doc'"/>
-<xsl:variable name="title" select="''"/>
+<xsl:variable name="title" select="'Sámedikki dievasčoahkkin'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
