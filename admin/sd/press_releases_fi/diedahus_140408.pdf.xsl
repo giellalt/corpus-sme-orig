@@ -7,7 +7,7 @@
     <!-- variable filename contains the original name of the file (from submitter)-->
     <xsl:variable name="filename" select="'http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=199&amp;Itemid=10'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Sápmelaččaide iežaset kulturguovddáš Anárii'"/>
     <xsl:variable name="author1_fn" select="''"/>
     <xsl:variable name="author1_ln" select="''"/>
     <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -30,7 +30,7 @@
     <xsl:variable name="author4_born" select="''"/>
     <xsl:variable name="publisher" select="''"/>
     <xsl:variable name="publChannel" select="''"/>
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2008'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -128,7 +128,6 @@
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="tiadattas_140408.pdf" xml:lang="smn"/>
-<parallel_text location="sa_mmlaid_jiijjas_kulttuurkooskos_aanra.pdf" xml:lang="sms"/>
 <parallel_text location="saamelaiskulttuurikeskus_140408_tiedote.pdf" xml:lang="fin"/>
 </xsl:variable>
 
