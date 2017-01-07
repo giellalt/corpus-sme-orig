@@ -81,7 +81,7 @@
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
         <!-- <language xml:lang="eng"/> -->
-        <!-- <language xml:lang="fin"/> -->
+         <language xml:lang="fin"/> 
         <!-- <language xml:lang="fit"/> -->
         <!-- <language xml:lang="fkv"/> -->
         <!-- <language xml:lang="ger"/> -->
@@ -94,9 +94,9 @@
         <!-- <language xml:lang="sma"/> -->
         <!-- <language xml:lang="sme"/> -->
         <!-- <language xml:lang="smj"/> -->
-        <!-- <language xml:lang="smn"/> -->
-        <!-- <language xml:lang="sms"/> -->
-        <!-- <language xml:lang="swe"/> -->
+         <language xml:lang="smn"/> 
+         <language xml:lang="sms"/> 
+         <language xml:lang="swe"/> 
     </xsl:variable>
 
     <!-- If the document has parallel texts, uncomment the right languages
