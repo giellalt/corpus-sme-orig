@@ -105,7 +105,7 @@
 <!-- Change or remove problematic characters from the text. -->
 <!-- add the template to match (here all p:s), and write the -->
 <!-- replaced characters and the replacements. -->
-
+<!--
 <xsl:template match="p">
 <xsl:variable name="text" select="current()"/>
 <xsl:variable name="type" select="@type"/>
@@ -129,7 +129,7 @@
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>
-</xsl:template>
+</xsl:template>-->
 
 
 </xsl:stylesheet>
