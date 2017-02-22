@@ -41,7 +41,7 @@
   <xsl:variable name="license_type" select="'free'"/>
   <xsl:variable name="sub_name" select="'Børre Gaup'"/>
   <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
-  <xsl:variable name="wordcount" select="'13793'"/>
+  <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="conversion_status" select="'standard'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.9 '"/>
@@ -54,8 +54,8 @@
   <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
 <!-- and for the languages present -->
-  <xsl:variable name="monolingual" select="''"/>
-  
+  <xsl:variable name="monolingual" select="'1'"/>
+
 
 <!-- If monolingual is not set, the language is multilingual.
      Uncomment the languages you want to check for (or add new lines
@@ -96,11 +96,76 @@
      same directory as this file, with only the language code and
      filename changed.
      -->
-<xsl:variable name="parallels">
-	</xsl:variable>
+    <xsl:variable name="parallels">
+        <parallel_text xml:lang="nob" location="sami_oahppaplanat_sami_skuvla.pdf"/>
+    </xsl:variable>
 
-<xsl:variable name="bottom_margin" select="all=7"/>
-<xsl:variable name="left_margin" select="all=7"/>
-<xsl:variable name="top_margin" select="all=7"/>
-<xsl:variable name="right_margin" select="all=7"/>
+    <!--
+        For pdf documents, mark which pages should be ignored.
+        The format for this is a comma separated list of page numbers
+        that should be skipped. It is also possible to use ranges.
+        Examples:
+        1, 2, 3, 4
+        1, 6-10, 15, 20, 25-30
+    -->
+    <xsl:variable name="skip_pages" select="'1, 23, 25, 27, 29, 31-32'"/>
+
+    <!--
+        Text outside these margins will be ignored.
+
+        The format for margin line is:
+        [all|odd|even|pagenumber]=integer
+
+        Margin lines *must* contain the keywords all, even, odd or a page
+        number followed by a = sign and an integer. Pages with the same margin
+        may be separated with ;.
+
+        The integer must be between 0 and 100.
+
+        If there are several values, they are divided by commas.
+        Setting different margins for odd and even pages is done by writing
+        e.g. odd=8, even=15
+        It is also possible to set margins for particular pages:
+        8=8, 10=12
+        It is also possible to set margins for odd and even pages and
+        exceptions from those rules on particular pages.
+
+        Examples on how the select part could look:
+        odd=5, even=8, 8=15, 11=3
+        all=9, 8=12
+        1;3;8=20, 4;5;7=10
+    -->
+    <xsl:variable name="right_margin" select="'2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21=50'"/>
+    <xsl:variable name="left_margin" select="''"/>
+    <xsl:variable name="top_margin" select="''"/>
+    <xsl:variable name="bottom_margin" select="'all=15'"/>
+
+    <xsl:variable name="inner_right_margin" select="''"/>
+    <xsl:variable name="inner_left_margin" select="''"/>
+    <xsl:variable name="inner_top_margin" select="''"/>
+    <xsl:variable name="inner_bottom_margin" select="''"/>
+
+    <!--
+        The format for linespacing is:
+        [all|odd|even|pagenumber]=float (where float is written as integer.integer,
+        not integer,integer).
+
+        linespacing lines *must* contain the keywords all, even, odd or a page
+        number followed by a = sign and a floating point number. Pages with the
+        same linespacing may be separated with ;.
+
+        If there are several values, they are divided by commas.
+        Setting different linespacing for odd and even pages is done by writing
+        e.g. odd=8, even=15
+        It is also possible to set linespacing for particular pages:
+        8=8, 10=12
+        It is also possible to set linespacing for odd and even pages and
+        exceptions from those rules on particular pages.
+
+        Examples on how the select part could look:
+        odd=5, even=8, 8=15, 11=3
+        all=9, 8=12
+        1;3;8=20, 4;5;7=10
+    -->
+    <xsl:variable name="linespacing" select="'all=2'"/>
 </xsl:stylesheet>
