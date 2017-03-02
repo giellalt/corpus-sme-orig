@@ -1,21 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
-            <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
-
-            <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
-
-    
+    <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.samernas.se/bokningarblanketter/orrun/?lang=sm'"/>
+    <xsl:variable name="filename" select="'http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=933&amp;Itemid=10'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Vuoigatvuohtaministeriija almmuha ohcanláhkai sámi giellalága (1086/2003) 31 §:s dárkkuhuvvon doarjagiid'"/>
     <xsl:variable name="author1_fn" select="''"/>
     <xsl:variable name="author1_ln" select="''"/>
     <xsl:variable name="author1_gender" select="'unknown'"/>
-    <xsl:variable name="author1_nat" select="''"/>
+    <xsl:variable name="author1_nat" select="'FI'"/>
     <xsl:variable name="author1_born" select="''"/>
     <xsl:variable name="author2_fn" select="''"/>
     <xsl:variable name="author2_ln" select="''"/>
@@ -34,11 +30,11 @@
     <xsl:variable name="author4_born" select="''"/>
     <xsl:variable name="publisher" select="''"/>
     <xsl:variable name="publChannel" select="''"/>
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2009'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
-    <xsl:variable name="genre" select="'facta'"/>
+    <xsl:variable name="genre" select="'admin'"/>
     <xsl:variable name="collection" select="''"/>
     <xsl:variable name="translated_from" select="''"/>
     <xsl:variable name="translator_fn" select="''"/>
@@ -48,14 +44,21 @@
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="'free'"/>
-    <xsl:variable name="sub_name" select="'Kevin Brubeck Unhammer'"/>
-    <xsl:variable name="sub_email" select="'unhammer@fsfe.org'"/>
+    <xsl:variable name="sub_name" select="''"/>
+    <xsl:variable name="sub_email" select="''"/>
     <xsl:variable name="wordcount" select="''"/>
-    <!-- Set this variable to 1 if the source for this doc is OCR -->
-    <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
+    <!-- This variable can have the following values:
+        * ocr:          ocr'ed document, should usually not be converted
+        * goldstandard: part of the goldstandard corpus, should not be converted
+        * correct:      a goldstandard document containing corrected typos,
+        * image:        documents consisting of images, should be possible to
+                        ocr, then do conversion on it
+        * standard:     a usual doc, meant to be used as part of the standard corpus
+        * unsupported:  document that cannot be converted by our conversion tools
+    -->
     <xsl:variable name="conversion_status" select="'standard'"/>
     <xsl:variable name="metadata" select="'uncomplete'"/>
-    <xsl:variable name="template_version" select="'$Revision$'"/>
+    <xsl:variable name="template_version" select="'$Revision: 139793 $'"/>
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
     <xsl:variable name="note" select="''"/>
@@ -94,8 +97,7 @@
         <!-- <language xml:lang="smn"/> -->
         <!-- <language xml:lang="sms"/> -->
         <!-- <language xml:lang="swe"/> -->
-    <language xml:lang="sme"/>
-	<language xml:lang="swe"/></xsl:variable>
+    </xsl:variable>
 
     <!-- If the document has parallel texts, uncomment the right languages
          (or add new lines with the right ISO-639-3 language codes) and
@@ -125,8 +127,10 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location="_hatte_714-2_lang_ls14.html"/>
-	<parallel_text xml:lang="swe" location="_bokningarblanketter_boende14.html"/></xsl:variable>
+    <parallel_text location="microsoft_word_-_oikeusministeri.pdf" xml:lang="smn"/>
+<parallel_text location="saamenkielirahatilmoituskoltansaame2009.pdf" xml:lang="sms"/>
+<parallel_text location="microsoft_word_-_oikeusministeri.pdf" xml:lang="fin"/>
+</xsl:variable>
 
 
     <!--
@@ -137,7 +141,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'2'"/>
 
     <!--
         Text outside these margins will be ignored.
@@ -146,7 +150,8 @@
         [all|odd|even|pagenumber]=integer
 
         Margin lines *must* contain the keywords all, even, odd or a page
-        number followed by a = sign and an integer.
+        number followed by a = sign and an integer. Pages with the same margin
+        may be separated with ;.
 
         The integer must be between 0 and 100.
 
@@ -161,12 +166,30 @@
         Examples on how the select part could look:
         odd=5, even=8, 8=15, 11=3
         all=9, 8=12
+        1;3;8=20, 4;5;7=10
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="top_margin" select="'1=40'"/>
+    <xsl:variable name="bottom_margin" select="'2=24'"/>
 
+    <xsl:variable name="inner_right_margin" select="''"/>
+    <xsl:variable name="inner_left_margin" select="''"/>
+    <xsl:variable name="inner_top_margin" select="''"/>
+    <xsl:variable name="inner_bottom_margin" select="''"/>
+
+    <!--
+        This variable is used for epub files.
+
+        select contains comma separated xpath path pairs.
+        A path pair is separated by a semicolon.
+        Each path should start with .//body
+
+        Examples of valid pairs:
+        * .//body/div[1]/h2[1];.//body/div[3]/div[1]/h3[1]
+        * .//body/div[5];.//body/div[8]/div[3]/h1[1], .//body/div[11]/div[2];.//body/div[11]/div[5]
+    -->
+    <xsl:variable name="skip_elements" select="''"/>
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
     <!-- Uncomment the following and add the paths, for example:  -->
