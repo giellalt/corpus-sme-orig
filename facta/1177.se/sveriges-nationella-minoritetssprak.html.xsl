@@ -134,7 +134,7 @@
 	<parallel_text xml:lang="rmy-rlo" location="sveriges-nationella-minoriteter-och-minoritetssprak.html"/>
 	<parallel_text xml:lang="sma" location="sveriges-nationella-minoritetssprak.html"/>
 	<parallel_text xml:lang="smj" location="sveriges-nationella-minoriteter-och-minoriteter-och-minoritetssprak.html"/>
-	<parallel_text xml:lang="swe" location="-.html"/>
+	<parallel_text xml:lang="swe" location=".html"/>
 	<parallel_text xml:lang="yid" location="sveriges-nationella-minoriteter-och-minoritetssprak.html"/></xsl:variable>
 
 
