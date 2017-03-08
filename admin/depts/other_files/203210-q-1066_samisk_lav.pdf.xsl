@@ -86,7 +86,77 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	</xsl:variable>
+</xsl:variable>
+    <!--
+        For pdf documents, mark which pages should be ignored.
+        The format for this is a comma separated list of page numbers
+        that should be skipped. It is also possible to use ranges.
+        Examples:
+        1, 2, 3, 4
+        1, 6-10, 15, 20, 25-30
+    -->
+    <xsl:variable name="skip_pages" select="'1-6,31'"/>
+
+    <!--
+        Margin of a page in a pdf document expressed as a percentage of
+        the page width and height.
+
+        The default for all margins are 7
+
+        Text outside these margins will be ignored.
+
+        The format for margin line is:
+        [all|odd|even|pagenumber]=integer
+
+        Margin lines *must* contain the keywords all, even, odd or a page
+        number followed by a = sign and an integer. Pages with the same margin
+        may be separated with ;.
+
+        The integer must be between 0 and 100.
+
+        If there are several values, they are divided by commas.
+        Setting different margins for odd and even pages is done by writing
+        e.g. odd=8, even=15
+        It is also possible to set margins for particular pages:
+        8=8, 10=12
+        It is also possible to set margins for odd and even pages and
+        exceptions from those rules on particular pages.
+
+        Examples on how the select part could look:
+        odd=5, even=8, 8=15, 11=3
+        all=9, 8=12
+        1;3;8=20, 4;5;7=10
+    -->
+    <xsl:variable name="bottom_margin" select="'25=35'"/>
+    <xsl:variable name="left_margin" select="'all=7'"/>
+    <xsl:variable name="top_margin" select="'all=7'"/>
+    <xsl:variable name="right_margin" select="'all=7'"/>
+
+    <!--
+        The default is set to all=1.5.
+
+        The format for linespacing is:
+        [all|odd|even|pagenumber]=float (where float is written as integer.integer,
+        not integer,integer).
+
+        linespacing lines *must* contain the keywords all, even, odd or a page
+        number followed by a = sign and a floating point number. Pages with the
+        same linespacing may be separated with ;.
+
+        If there are several values, they are divided by commas.
+        Setting different linespacing for odd and even pages is done by writing
+        e.g. odd=8, even=15
+        It is also possible to set linespacing for particular pages:
+        8=8, 10=12
+        It is also possible to set linespacing for odd and even pages and
+        exceptions from those rules on particular pages.
+
+        Examples on how the select part could look:
+        odd=5, even=8, 8=15, 11=3
+        all=9, 8=12
+        1;3;8=20, 4;5;7=10
+    -->
+    <xsl:variable name="linespacing" select="'all=2.0'"/>
 
 <!-- Add all paragraphs that should have xml:lang=X-->
 <!-- Uncomment the following and add the paths, for example: -->
@@ -133,9 +203,4 @@
 </xsl:template>
 -->
 
-<xsl:variable name="bottom_margin" select="25=35"/>
-<xsl:variable name="left_margin" select="all=7"/>
-<xsl:variable name="top_margin" select="all=7"/>
-<xsl:variable name="right_margin" select="all=7"/>
-<xsl:variable name="skip_pages" select="'1-6,31'"/>
 </xsl:stylesheet>
