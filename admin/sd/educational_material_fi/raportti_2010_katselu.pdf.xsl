@@ -184,7 +184,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1, 6'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
@@ -226,10 +226,10 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="right_margin" select="''"/>
-    <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="right_margin" select="'all=0'"/>
+    <xsl:variable name="left_margin" select="'all=50'"/>
+    <xsl:variable name="top_margin" select="'all=0'"/>
+    <xsl:variable name="bottom_margin" select="'5=60'"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
