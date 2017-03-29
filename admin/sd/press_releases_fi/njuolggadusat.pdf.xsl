@@ -228,7 +228,7 @@
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
+    <xsl:variable name="top_margin" select="'1=40, 3=5'"/>
     <xsl:variable name="bottom_margin" select="'3=57'"/>
 
     <!--
@@ -278,7 +278,7 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="linespacing" select="''"/>
+    <xsl:variable name="linespacing" select="'all=2'"/>
 
     <!--
         Information about what is normal text size in pdf documents.
