@@ -127,7 +127,7 @@
         other languages. Set the variable monolingual to '1' to turn off
         language recognition (treating everything as mainlang)
     -->
-    <xsl:variable name="monolingual" select="''"/>
+    <xsl:variable name="monolingual" select="'1'"/>
 
     <!--
         If monolingual is not set, the document is multilingual.
@@ -229,7 +229,7 @@
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="bottom_margin" select="'7-9=20'"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
@@ -278,7 +278,7 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="linespacing" select="''"/>
+    <xsl:variable name="linespacing" select="'all=2'"/>
 
     <!--
         Information about what is normal text size in pdf documents.

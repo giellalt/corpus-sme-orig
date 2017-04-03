@@ -229,7 +229,7 @@
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="bottom_margin" select="'1;3;5=15'"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
