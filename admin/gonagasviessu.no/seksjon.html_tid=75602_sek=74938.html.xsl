@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1906&amp;Itemid=10'"/>
+    <xsl:variable name="filename" select="'http://www.gonagasviessu.no/seksjon.html?tid=75602&amp;sek=74938'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámediggi ohcá válmmaštalli mearreáigásaš ja ollesbeaivásaš virgegaskavuhtii'"/>
+    <xsl:variable name="title" select="''"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -27,7 +27,7 @@
         an ISO_3166-1 code.
         https://no.wikipedia.org/wiki/ISO_3166-1
     -->
-    <xsl:variable name="author1_nat" select="'FI'"/>
+    <xsl:variable name="author1_nat" select="''"/>
     <!-- Either YYYY or YYYYMMDD. Examples: 1954 or 19451224 -->
     <xsl:variable name="author1_born" select="''"/>
     <!--
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="'2012'"/>
+    <xsl:variable name="year" select="''"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -86,7 +86,7 @@
         Three letter language code.
         https://no.wikipedia.org/wiki/Liste_over_ISO_639-1-koder
     -->
-    <xsl:variable name="translated_from" select="'fin'"/>
+    <xsl:variable name="translated_from" select="''"/>
     <!-- Translator variables have the same format as the author ones -->
     <xsl:variable name="translator_fn" select="''"/>
     <xsl:variable name="translator_ln" select="''"/>
@@ -94,7 +94,9 @@
     <xsl:variable name="translator_born" select="''"/>
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
-    <xsl:variable name="license_type" select="'free'"/>
+    <xsl:variable name="license_type" select="''"/>
+    <!-- e.g. Sámediggi journal number -->
+    <xsl:variable name="contract_id" select="''"/>
     <!-- The name and email of the submitter -->
     <xsl:variable name="sub_name" select="''"/>
     <xsl:variable name="sub_email" select="''"/>
@@ -113,7 +115,7 @@
     <!-- Valid values are complete and uncomplete -->
     <xsl:variable name="metadata" select="'uncomplete'"/>
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="template_version" select="'$Revision: 125457 $'"/>
+    <xsl:variable name="template_version" select="'$Revision: 150288 $'"/>
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
@@ -127,7 +129,7 @@
         other languages. Set the variable monolingual to '1' to turn off
         language recognition (treating everything as mainlang)
     -->
-    <xsl:variable name="monolingual" select="'1'"/>
+    <xsl:variable name="monolingual" select="''"/>
 
     <!--
         If monolingual is not set, the document is multilingual.
@@ -158,7 +160,7 @@
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
         <parallel_text xml:lang="eng" location=""/>
-        <parallel_text xml:lang="fin" location="valmmatalli_valmistelija.pdf"/>
+        <parallel_text xml:lang="fin" location=""/>
         <parallel_text xml:lang="fit" location=""/>
         <parallel_text xml:lang="fkv" location=""/>
         <parallel_text xml:lang="ger" location=""/>
@@ -171,8 +173,8 @@
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
         <parallel_text xml:lang="smj" location=""/>
-        <parallel_text xml:lang="smn" location="valmmatalli_valmistelija.pdf"/>
-        <parallel_text xml:lang="sms" location="valmmatalli_valmistelija.pdf"/>
+        <parallel_text xml:lang="smn" location=""/>
+        <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
     </xsl:variable>
 
@@ -184,7 +186,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="'2'"/>
+    <xsl:variable name="skip_pages" select="''"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
@@ -228,8 +230,8 @@
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="'1=20'"/>
-    <xsl:variable name="bottom_margin" select="'1=53'"/>
+    <xsl:variable name="top_margin" select="''"/>
+    <xsl:variable name="bottom_margin" select="''"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
