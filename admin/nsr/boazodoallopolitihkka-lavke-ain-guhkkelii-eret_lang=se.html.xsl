@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://nsr.no/5052/nuoraidkonferansa-sami-boahtteaigi?lang=se#more-5052'"/>
+    <xsl:variable name="filename" select="'http://nsr.no/5739/boazodoallopolitihkka-lavke-ain-guhkkelii-eret?lang=se'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--
@@ -168,7 +168,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="ungdomskonferanse-sami-boahtteaigi-sapmis-framtid.html"/>
+        <parallel_text xml:lang="nob" location="skuffende-stortingsmelding-om-baerekraft-i-reindrift.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
