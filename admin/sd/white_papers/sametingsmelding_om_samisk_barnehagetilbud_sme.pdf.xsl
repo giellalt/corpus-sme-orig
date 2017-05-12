@@ -74,8 +74,8 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
-    <xsl:variable name="ISBN" select="''"/>
+    <xsl:variable name="year" select="'2013'"/>
+    <xsl:variable name="ISBN" select="'978-82-91200-18-7'"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
 
