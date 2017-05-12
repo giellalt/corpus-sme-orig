@@ -158,7 +158,7 @@
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
         <parallel_text xml:lang="eng" location=""/>
-        <parallel_text xml:lang="fin" location=""/>
+        <parallel_text xml:lang="fin" location="aktiviteetit_inheritredirect=true_16.html"/>
         <parallel_text xml:lang="fit" location=""/>
         <parallel_text xml:lang="fkv" location=""/>
         <parallel_text xml:lang="ger" location=""/>
