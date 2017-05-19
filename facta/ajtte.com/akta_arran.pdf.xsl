@@ -18,8 +18,8 @@
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="''"/>
-    <xsl:variable name="author1_ln" select="''"/>
+    <xsl:variable name="author1_fn" select="'Ylva'"/>
+    <xsl:variable name="author1_ln" select="'Jannok Nutti'"/>
     <!-- m, f or unknown -->
     <xsl:variable name="author1_gender" select="'unknown'"/>
     <!--
@@ -34,8 +34,8 @@
         Information of the second author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author2_fn" select="''"/>
-    <xsl:variable name="author2_ln" select="''"/>
+    <xsl:variable name="author2_fn" select="'Kajsa'"/>
+    <xsl:variable name="author2_ln" select="'Kuoljok'"/>
     <xsl:variable name="author2_gender" select="'unknown'"/>
     <xsl:variable name="author2_nat" select="''"/>
     <xsl:variable name="author2_born" select="''"/>
@@ -74,10 +74,10 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
-    <xsl:variable name="ISBN" select="''"/>
+    <xsl:variable name="year" select="'2014'"/>
+    <xsl:variable name="ISBN" select="'978-91-87636-25-7'"/>
     <xsl:variable name="ISSN" select="''"/>
-    <xsl:variable name="place" select="''"/>
+    <xsl:variable name="place" select="'Jokkmokk'"/>
 
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="genre" select="'facta'"/>
