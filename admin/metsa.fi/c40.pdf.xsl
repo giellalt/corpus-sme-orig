@@ -229,7 +229,7 @@
         1;3;8=20, 4;5;7=10
     -->
     <xsl:variable name="right_margin" select="''"/>
-    <xsl:variable name="left_margin" select="''"/>
+    <xsl:variable name="left_margin" select="'4=3'"/>
     <xsl:variable name="top_margin" select="''"/>
     <xsl:variable name="bottom_margin" select="''"/>
 
