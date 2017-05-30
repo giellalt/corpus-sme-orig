@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://www.ulapland.fi/news/S%C3%A1medutkamu%C5%A1a-doaimmaide-badjel-golbmalogi-ohcci/sji5ylm3/5e35bc41-be1e-4574-a335-e464731c379d'"/>
+    <xsl:variable name="filename" select="'https://www.ulapland.fi/S%C3%A1pmi/D%C3%A1idda'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="'2016'"/>
+    <xsl:variable name="year" select="''"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
