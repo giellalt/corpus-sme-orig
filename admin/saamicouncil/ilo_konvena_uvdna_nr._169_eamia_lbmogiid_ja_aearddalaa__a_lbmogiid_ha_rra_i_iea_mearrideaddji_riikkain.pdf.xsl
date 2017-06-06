@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://www.saamicouncil.net/samiradi-birra/'"/>
+    <xsl:variable name="filename" select="'http://www.saamicouncil.net/fileadmin/user_upload/Documents/Eara_dokumeanttat/ILO_konven%C5%A1uvdna_nr._169_eami%C3%A1lbmogiid_ja_%C4%8Dearddala%C5%A1_%C3%A1lbmogiid_h%C3%A1rr%C3%A1i_ie%C5%A1mearrideaddji_riikkain.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2007'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -159,7 +159,7 @@
     -->
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
-        <parallel_text xml:lang="eng" location="index_1.html"/>
+        <parallel_text xml:lang="eng" location=""/>
         <parallel_text xml:lang="fin" location=""/>
         <parallel_text xml:lang="fit" location=""/>
         <parallel_text xml:lang="fkv" location=""/>
