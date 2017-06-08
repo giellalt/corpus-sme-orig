@@ -11,15 +11,15 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://www.samikopiija.org/govat/doc/art_gg.pdf'"/>
+    <xsl:variable name="filename" select="'http://www.samikopiija.org/web/index.php?sladja=9'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="'Gunvor'"/>
-    <xsl:variable name="author1_ln" select="'Guttorm'"/>
+    <xsl:variable name="author1_fn" select="''"/>
+    <xsl:variable name="author1_ln" select="''"/>
     <!-- m, f or unknown -->
     <xsl:variable name="author1_gender" select="'unknown'"/>
     <!--
@@ -159,7 +159,7 @@
     -->
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
-        <parallel_text xml:lang="eng" location="art_gg.pdf"/>
+        <parallel_text xml:lang="eng" location="index.php_sladja=9.html"/>
         <parallel_text xml:lang="fin" location=""/>
         <parallel_text xml:lang="fit" location=""/>
         <parallel_text xml:lang="fkv" location=""/>
@@ -168,7 +168,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="art_gg.pdf"/>
+        <parallel_text xml:lang="nob" location="index.php_sladja=9.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
