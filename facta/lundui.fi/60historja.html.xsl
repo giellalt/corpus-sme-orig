@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://www.lundui.fi/se/njellim/luondu'"/>
+    <xsl:variable name="filename" select="'http://www.lundui.fi/se/leammi/historja/60historja'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--
@@ -27,7 +27,7 @@
         an ISO_3166-1 code.
         https://no.wikipedia.org/wiki/ISO_3166-1
     -->
-    <xsl:variable name="author1_nat" select="'FI'"/>
+    <xsl:variable name="author1_nat" select="''"/>
     <!-- Either YYYY or YYYYMMDD. Examples: 1954 or 19451224 -->
     <xsl:variable name="author1_born" select="''"/>
     <!--
@@ -94,10 +94,12 @@
     <xsl:variable name="translator_born" select="''"/>
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
-    <xsl:variable name="license_type" select="'free'"/>
+    <xsl:variable name="license_type" select="''"/>
+    <!-- e.g. Sámediggi journal number -->
+    <xsl:variable name="contract_id" select="''"/>
     <!-- The name and email of the submitter -->
-    <xsl:variable name="sub_name" select="'Kimberli Mäkäräinen, Hki, sms.'"/>
-    <xsl:variable name="sub_email" select="'kimberli.makarainen@helsinki.fi'"/>
+    <xsl:variable name="sub_name" select="''"/>
+    <xsl:variable name="sub_email" select="''"/>
     <!-- Keep empty, this is automatically filled in by CorpusTools -->
     <xsl:variable name="wordcount" select="''"/>
     <!-- This variable can have the following values:
@@ -113,7 +115,7 @@
     <!-- Valid values are complete and uncomplete -->
     <xsl:variable name="metadata" select="'uncomplete'"/>
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="template_version" select="'$Revision: 105844 $'"/>
+    <xsl:variable name="template_version" select="'$Revision: 150288 $'"/>
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
@@ -157,8 +159,8 @@
     -->
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
-        <parallel_text xml:lang="eng" location="nature.html"/>
-        <parallel_text xml:lang="fin" location="luonto_2.html"/>
+        <parallel_text xml:lang="eng" location=""/>
+        <parallel_text xml:lang="fin" location="60vuottakansallispuistona.html"/>
         <parallel_text xml:lang="fit" location=""/>
         <parallel_text xml:lang="fkv" location=""/>
         <parallel_text xml:lang="ger" location=""/>
@@ -171,7 +173,7 @@
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
         <parallel_text xml:lang="smj" location=""/>
-        <parallel_text xml:lang="smn" location="luandu_2.html"/>
+        <parallel_text xml:lang="smn" location="60ihasas.html"/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
     </xsl:variable>

@@ -158,7 +158,7 @@
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
         <parallel_text xml:lang="eng" location=""/>
-        <parallel_text xml:lang="fin" location="luonto.html"/>
+        <parallel_text xml:lang="fin" location="luonto_1.html"/>
         <parallel_text xml:lang="fit" location=""/>
         <parallel_text xml:lang="fkv" location=""/>
         <parallel_text xml:lang="ger" location=""/>
