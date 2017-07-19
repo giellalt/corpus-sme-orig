@@ -166,7 +166,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="sami_oahppaplanat_sami_skuvla.pdf"/>
+        <parallel_text xml:lang="nob" location="sami_oahppoplanat_sami_skuvla.pdf"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>

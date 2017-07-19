@@ -165,7 +165,7 @@
         <parallel_text xml:lang="isl" location=""/>
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
-        <parallel_text xml:lang="nno" location="dalloduogje-tn.htm"/>
+        <parallel_text xml:lang="nno" location="dalloduogje-tn.html"/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
