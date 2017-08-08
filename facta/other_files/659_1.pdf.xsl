@@ -127,7 +127,7 @@
         other languages. Set the variable monolingual to '1' to turn off
         language recognition (treating everything as mainlang)
     -->
-    <xsl:variable name="monolingual" select="''"/>
+    <xsl:variable name="monolingual" select="'1'"/>
 
     <!--
         If monolingual is not set, the document is multilingual.
@@ -138,8 +138,9 @@
         then the document is checked for all supported languages.
     -->
     <xsl:variable name="mlangs">
-        <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="sma"/><language xml:lang="nob"/><language xml:lang="sme"/></xsl:variable>
+        <!-- 
+    <language xml:lang="sma"/><language xml:lang="nob"/><language xml:lang="sme"/> -->
+    </xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
@@ -184,7 +185,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1-3, 5, 16-20, 26-27, 30, 32-39, 41, 44-45, 48-56'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
@@ -226,20 +227,20 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="right_margin" select="'all=7'"/>
+    <xsl:variable name="right_margin" select="'all=7, 6;7;8;9;10;11;12;13;14;15;21;22;23;24;25;31=50'"/>
     <xsl:variable name="left_margin" select="'all=7'"/>
     <xsl:variable name="top_margin" select="'all=7'"/>
-    <xsl:variable name="bottom_margin" select="'all=7'"/>
+    <xsl:variable name="bottom_margin" select="'all=7, 29=35, 43=85, 47=80'"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
         as *_margin above. For a given page, all four margins
         must be defined.
     -->
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
+    <xsl:variable name="inner_right_margin" select="'31=7'"/>
+    <xsl:variable name="inner_left_margin" select="'31=7'"/>
+    <xsl:variable name="inner_top_margin" select="'31=40'"/>
+    <xsl:variable name="inner_bottom_margin" select="'31=35'"/>
 
     <!--
         This variable is used for epub or html files.
