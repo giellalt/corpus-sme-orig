@@ -127,7 +127,7 @@
         other languages. Set the variable monolingual to '1' to turn off
         language recognition (treating everything as mainlang)
     -->
-    <xsl:variable name="monolingual" select="''"/>
+    <xsl:variable name="monolingual" select="'1'"/>
 
     <!--
         If monolingual is not set, the document is multilingual.
@@ -138,8 +138,8 @@
         then the document is checked for all supported languages.
     -->
     <xsl:variable name="mlangs">
-        <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="sma"/><language xml:lang="nob"/><language xml:lang="sme"/></xsl:variable>
+        <!--     <language xml:lang="sma"/><language xml:lang="nob"/><language xml:lang="sme"/> -->
+        </xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
@@ -184,7 +184,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1-3, 5-9, 14-20, 25-27, 29, 31, 33-35, 37-44, 48'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
@@ -226,10 +226,10 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="right_margin" select="'all=7'"/>
+    <xsl:variable name="right_margin" select="'all=7, 10;11;12;13;21;22;23;24;45;46;47=50'"/>
     <xsl:variable name="left_margin" select="'all=7'"/>
     <xsl:variable name="top_margin" select="'all=7'"/>
-    <xsl:variable name="bottom_margin" select="'all=7'"/>
+    <xsl:variable name="bottom_margin" select="'all=7, 24=30'"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
