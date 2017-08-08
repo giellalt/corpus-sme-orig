@@ -127,7 +127,7 @@
         other languages. Set the variable monolingual to '1' to turn off
         language recognition (treating everything as mainlang)
     -->
-    <xsl:variable name="monolingual" select="''"/>
+    <xsl:variable name="monolingual" select="'1'"/>
 
     <!--
         If monolingual is not set, the document is multilingual.
@@ -138,8 +138,8 @@
         then the document is checked for all supported languages.
     -->
     <xsl:variable name="mlangs">
-        <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="sma"/><language xml:lang="nob"/><language xml:lang="sme"/></xsl:variable>
+        <!--  
+    <language xml:lang="sma"/><language xml:lang="nob"/><language xml:lang="sme"/> --> </xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
@@ -184,7 +184,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1-3, 5-13, 15-20, 27-31, 33, 35-39, 43, 48-52'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
@@ -226,20 +226,20 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="right_margin" select="'all=7'"/>
+    <xsl:variable name="right_margin" select="'all=7, 14=70,  21=50, 22=50, 23=50, 24=50, 25=50, 26=50, 40=50, 41=50, 42=50, 44=50, 45=50, 46=50, 47=50'"/>
     <xsl:variable name="left_margin" select="'all=7'"/>
     <xsl:variable name="top_margin" select="'all=7'"/>
-    <xsl:variable name="bottom_margin" select="'all=7'"/>
+    <xsl:variable name="bottom_margin" select="'all=7, 23=25, 25=20, 26=55, 34=35, 44=40'"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
         as *_margin above. For a given page, all four margins
         must be defined.
     -->
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
+    <xsl:variable name="inner_right_margin" select="'46=7'"/>
+    <xsl:variable name="inner_left_margin" select="'46=7'"/>
+    <xsl:variable name="inner_top_margin" select="'46=40'"/>
+    <xsl:variable name="inner_bottom_margin" select="'46=20'"/>
 
     <!--
         This variable is used for epub or html files.
@@ -320,7 +320,6 @@
         other markup, as such markup otherwise will be removed.
     -->
 
-    <!--
     <xsl:template match="p[parent::body][not(./em | ./span)][text()]">
         <xsl:variable name="text" select='current()' />
         <xsl:variable name="type" select='@type' />
@@ -339,12 +338,11 @@
 
             <xsl:call-template name="globalTextReplace">
                 <xsl:with-param name="inputString" select="$text"/>
-                <xsl:with-param name="target" select="'str1/str2/str3/'"/>
-                <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
+                <xsl:with-param name="target" select="'Salgsutstilling i i tilknytning til den årlige urfolkskonferansen i Alaska/Her kunne samiske duojare hentet nye ideer/Det negative forsterkes/Halkavarre – langt løp til folkeretten/Om å gjøre duodji synlig/'"/>
+                <xsl:with-param name="replacement" select="'////'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
         </xsl:element>
     </xsl:template>
-    -->
 
 </xsl:stylesheet>

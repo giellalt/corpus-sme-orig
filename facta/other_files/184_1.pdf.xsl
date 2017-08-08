@@ -184,7 +184,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="'1-3, 5, 8-9, 11, 14-19, 23-27, 34, 36-53, 55-56'"/>
+    <xsl:variable name="skip_pages" select="'1-3, 5, 8-9, 11, 14-19, 23-27, 34, 36-46, 48-53, 55-56'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
@@ -226,20 +226,20 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="right_margin" select="'all=7, 28;29;30;31;32;33=50, 35=40'"/>
-    <xsl:variable name="left_margin" select="'all=7, 35=30'"/>
-    <xsl:variable name="top_margin" select="'all=7, 13=40'"/>
-    <xsl:variable name="bottom_margin" select="'all=7, 7=40, 35=50'"/>
+    <xsl:variable name="right_margin" select="'all=7, 28;29;30;31;32;33=50, 35=40, 47=35'"/>
+    <xsl:variable name="left_margin" select="'all=7, 35=30, 47=7'"/>
+    <xsl:variable name="top_margin" select="'all=7, 13=40, 47=7'"/>
+    <xsl:variable name="bottom_margin" select="'all=7, 7=40, 35=50, 47=50'"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
         as *_margin above. For a given page, all four margins
         must be defined.
     -->
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
+    <xsl:variable name="inner_right_margin" select="'30=7, 31=7, 32=7, 33=7'"/>
+    <xsl:variable name="inner_left_margin" select="'30=7, 31=7, 32=7, 33=7'"/>
+    <xsl:variable name="inner_top_margin" select="'30=15, 31=10, 32=12, 33=40'"/>
+    <xsl:variable name="inner_bottom_margin" select="'30=55, 31=55, 32=07, 33=28'"/>
 
     <!--
         This variable is used for epub or html files.
@@ -338,7 +338,7 @@
 
             <xsl:call-template name="globalTextReplace">
                 <xsl:with-param name="inputString" select="$text"/>
-                <xsl:with-param name="target" select="'Vanskelig markedssituasjon/Deles i to.De nye reinbeitegrensene i Karasjok og Polmak vil virke konfliktforebyggende og bidra i prosessen med å komme bort fra begrepet fellesbeite. Reindriftsstyret skal behandle forslaget til nye distriktsgrenser i Polmak og Karasjok i/april neste år./Illustrasjonsfoto/Marita Orlena Snodgras i kofte./Etterkommere etter Inger Marie Klemetsen og Nils Sara fra Kautokeino. Supplert/med Ellen Inga (reindriftssjefen) og hennes mann Odd Henrik Hætta./Huldre-reinflokken/sitt daværende sommerland./'"/>
+                <xsl:with-param name="target" select="'Vanskelig markedssituasjon/Deles i to.De nye reinbeitegrensene i Karasjok og Polmak vil virke konfliktforebyggende og bidra i prosessen med å komme bort fra begrepet fellesbeite. Reindriftsstyret skal behandle forslaget til nye distriktsgrenser i Polmak og Karasjok i/april neste år/Illustrasjonsfoto/Marita Orlena Snodgras i kofte/Etterkommere etter Inger Marie Klemetsen og Nils Sara fra Kautokeino. Supplert/med Ellen Inga (reindriftssjefen) og hennes mann Odd Henrik Hætta/Huldre-reinflokken/sitt daværende sommerland/'"/>
                 <xsl:with-param name="replacement" select="'/////////'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
