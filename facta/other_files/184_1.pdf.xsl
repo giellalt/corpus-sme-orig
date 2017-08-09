@@ -278,7 +278,7 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="linespacing" select="''"/>
+    <xsl:variable name="linespacing" select="'all=2'"/>
 
     <!--
         Information about what is normal text size in pdf documents.
@@ -338,7 +338,7 @@
 
             <xsl:call-template name="globalTextReplace">
                 <xsl:with-param name="inputString" select="$text"/>
-                <xsl:with-param name="target" select="'Vanskelig markedssituasjon/Deles i to.De nye reinbeitegrensene i Karasjok og Polmak vil virke konfliktforebyggende og bidra i prosessen med å komme bort fra begrepet fellesbeite. Reindriftsstyret skal behandle forslaget til nye distriktsgrenser i Polmak og Karasjok i/april neste år/Illustrasjonsfoto/Marita Orlena Snodgras i kofte/Etterkommere etter Inger Marie Klemetsen og Nils Sara fra Kautokeino. Supplert/med Ellen Inga (reindriftssjefen) og hennes mann Odd Henrik Hætta/Huldre-reinflokken/sitt daværende sommerland/'"/>
+                <xsl:with-param name="target" select="'Vanskelig markedssituasjon/Deles i to.De nye reinbeitegrensene i Karasjok og Polmak vil virke konfliktforebyggende og bidra i prosessen med å komme bort fra begrepet fellesbeite. Reindriftsstyret skal behandle forslaget til nye distriktsgrenser i Polmak og Karasjok i/april neste år/Illustrasjonsfoto/Marita Orlena Snodgras i kofte/Etterkommere etter Inger Marie Klemetsen og Nils Sara fra Kautokeino/med Ellen Inga (reindriftssjefen) og hennes mann Odd Henrik Hætta/Huldre-reinflokken/sitt daværende sommerland/'"/>
                 <xsl:with-param name="replacement" select="'/////////'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
