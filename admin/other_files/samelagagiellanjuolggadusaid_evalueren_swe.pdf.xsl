@@ -175,7 +175,7 @@
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
-        <parallel_text xml:lang="swe" location="Samelagagiellanjuolggadusaid_evalueren_swe.pdf"/>
+        <parallel_text xml:lang="swe" location="samelagagiellanjuolggadusaid_evalueren_swe.pdf"/>
     </xsl:variable>
 
     <!--
