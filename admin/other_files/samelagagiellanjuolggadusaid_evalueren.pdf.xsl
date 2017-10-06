@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="''"/>
+    <xsl:variable name="filename" select="'https://evalueringsportalen.no/evaluering/evaluering-av-samelovens-spraekregler-s%25C3%25A1mel%25C3%25A1ga-giellanjuolggadusaid-evalueren/Evaluering%20av%20samelovens%20språkregler%20publikasjon%20norsk%20og%20samisk.pdf/@@inline'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Sámelága giellanjuolggadusaid evalueren'"/>
     <!--
