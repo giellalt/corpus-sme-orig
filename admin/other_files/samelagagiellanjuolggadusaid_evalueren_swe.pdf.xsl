@@ -37,7 +37,7 @@
     <xsl:variable name="author2_fn" select="'Johan'"/>
     <xsl:variable name="author2_ln" select="'Strömgren'"/>
     <xsl:variable name="author2_gender" select="'m'"/>
-    <xsl:variable name="author2_nat" select="''"/>
+    <xsl:variable name="author2_nat" select="'SE'"/>
     <xsl:variable name="author2_born" select="''"/>
 
     <!--
@@ -175,7 +175,7 @@
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
-        <parallel_text xml:lang="swe" location="samelagagiellanjuolggadusaid_evalueren_swe.pdf"/>
+        <parallel_text xml:lang="swe" location="Samelagagiellanjuolggadusaid_evalueren_swe.pdf"/>
     </xsl:variable>
 
     <!--
@@ -231,7 +231,7 @@
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="'all=10, 202;204;207;208;209;211;212;226;227;232;234;236;240=15, 205;206;213;216;221;224;229;230;233;237;238;239=20, 210;203;214;215;217;222;223;225;231;235=22, 218;219;220=30'"/>
+    <xsl:variable name="bottom_margin" select="'all=10, 202;204;207;208;209;211;224;226;227;234;236;240=15, 229;233;238=17,  206;212;216;230;232;239=20, 203;213;221;225;231;237=22, 214;215;217;223;235=25, 205;210;219;222=30, 218;220=33'"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format

@@ -168,7 +168,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="samelagagiellanjuolggadusaid_evalueren.pdf"/>
+        <parallel_text xml:lang="nob" location="Samelagagiellanjuolggadusaid_evalueren.pdf"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
@@ -231,7 +231,7 @@
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="'11=35'"/>
-    <xsl:variable name="bottom_margin" select="'all=10, 11=65,  149;150;158;159;160;163;169;170;176;184;189;191;193;194;196;199;200;251;265=15,  167=18'"/>
+    <xsl:variable name="bottom_margin" select="'all=10, 11=65, 196=12,   149;150;158;163;169;170;176;184;191;193;194;199;200;251;265=15, 159;160;189=18, 167=25'"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
