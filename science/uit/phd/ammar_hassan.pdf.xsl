@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'ammar_hassan.pdf'"/>
+    <xsl:variable name="filename" select="'https://munin.uit.no//'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'NUTRIENTS AND TOXIC ELEMENTS IN SEMI- DOMESTICATED REINDEER IN NORWAY.
 Nutritional and Food Safety Aspects'"/>
@@ -160,7 +160,7 @@ Nutritional and Food Safety Aspects'"/>
     -->
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
-        <parallel_text xml:lang="eng" location=""/>
+        <parallel_text xml:lang="eng" location="ammar_hassan.pdf"/>
         <parallel_text xml:lang="fin" location=""/>
         <parallel_text xml:lang="fit" location=""/>
         <parallel_text xml:lang="fkv" location=""/>
@@ -169,7 +169,7 @@ Nutritional and Food Safety Aspects'"/>
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location=""/>
+        <parallel_text xml:lang="nob" location="ammar_hassan.pdf"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>

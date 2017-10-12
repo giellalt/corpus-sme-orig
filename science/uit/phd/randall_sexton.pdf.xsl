@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'randall_sexton.pdf'"/>
+    <xsl:variable name="filename" select="'https://munin.uit.no//'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'TRADITIONAL HEALING AND THE PUBLIC MENTAL HEALTH SERVICES IN SÁMI AREAS OF NORTHERN NORWAY – INTERFACES AND COOPERATION'"/>
     <!--
@@ -168,7 +168,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location=""/>
+        <parallel_text xml:lang="nob" location="randall_sexton.pdf"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
