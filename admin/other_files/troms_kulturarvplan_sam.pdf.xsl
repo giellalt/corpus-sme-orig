@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://www.tromsfylke.no/LinkClick.aspx?fileticket=g4dzRBxbdmE%3d&amp;tabid=332'"/>
+    <xsl:variable name="filename" select="'http://www.tromsfylke.no/Tromsfylke/media/1823/kulturarvplan_samisk-2.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Strategiijaplána sámegielas ja sámi kulturgealbbus'"/>
+    <xsl:variable name="title" select="'Romssa fylka – áiggiid buoremus deaivvadanguovlu . Romssa fylkka kulturárbeplána áigodahkii 2011–2014'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="'2007'"/>
+    <xsl:variable name="year" select="'2011'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -86,7 +86,7 @@
         Three letter language code.
         https://no.wikipedia.org/wiki/Liste_over_ISO_639-1-koder
     -->
-    <xsl:variable name="translated_from" select="'nob'"/>
+    <xsl:variable name="translated_from" select="''"/>
     <!-- Translator variables have the same format as the author ones -->
     <xsl:variable name="translator_fn" select="''"/>
     <xsl:variable name="translator_ln" select="''"/>
@@ -94,10 +94,12 @@
     <xsl:variable name="translator_born" select="''"/>
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
-    <xsl:variable name="license_type" select="'free'"/>
+    <xsl:variable name="license_type" select="''"/>
+    <!-- e.g. Sámediggi journal number -->
+    <xsl:variable name="contract_id" select="''"/>
     <!-- The name and email of the submitter -->
-    <xsl:variable name="sub_name" select="'Børre Gaup'"/>
-    <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
+    <xsl:variable name="sub_name" select="''"/>
+    <xsl:variable name="sub_email" select="''"/>
     <!-- Keep empty, this is automatically filled in by CorpusTools -->
     <xsl:variable name="wordcount" select="''"/>
     <!-- This variable can have the following values:
@@ -113,7 +115,7 @@
     <!-- Valid values are complete and uncomplete -->
     <xsl:variable name="metadata" select="'uncomplete'"/>
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="template_version" select="'$Revision$'"/>
+    <xsl:variable name="template_version" select="'$Revision: 150288 $'"/>
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
@@ -139,7 +141,7 @@
     -->
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="nob"/></xsl:variable>
+    </xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
@@ -166,7 +168,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="strategiplanforsamisksprkog0000.pdf"/>
+        <parallel_text xml:lang="nob" location="troms_kulturarvplan_nob.pdf"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
@@ -184,7 +186,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="'1-3, 23, 34-43'"/>
+    <xsl:variable name="skip_pages" select="'4, 71-78'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
@@ -226,20 +228,20 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="right_margin" select="'all=7'"/>
-    <xsl:variable name="left_margin" select="'all=7'"/>
-    <xsl:variable name="top_margin" select="'all=7, 24=35, 25=34'"/>
-    <xsl:variable name="bottom_margin" select="'all=9, 10=12, 14=12, 19=12, 21=85, 22=43, 24=45'"/>
+    <xsl:variable name="right_margin" select="''"/>
+    <xsl:variable name="left_margin" select="''"/>
+    <xsl:variable name="top_margin" select="''"/>
+    <xsl:variable name="bottom_margin" select="''"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
         as *_margin above. For a given page, all four margins
         must be defined.
     -->
-    <xsl:variable name="inner_right_margin" select="'13=7, 20=7'"/>
-    <xsl:variable name="inner_left_margin" select="'13=7, 20=7'"/>
-    <xsl:variable name="inner_top_margin" select="'13=25, 20=12'"/>
-    <xsl:variable name="inner_bottom_margin" select="'13=53, 20=35'"/>
+    <xsl:variable name="inner_right_margin" select="''"/>
+    <xsl:variable name="inner_left_margin" select="''"/>
+    <xsl:variable name="inner_top_margin" select="''"/>
+    <xsl:variable name="inner_bottom_margin" select="''"/>
 
     <!--
         This variable is used for epub or html files.
@@ -278,7 +280,7 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="linespacing" select="'30;31;32;33=6'"/>
+    <xsl:variable name="linespacing" select="''"/>
 
     <!--
         Information about what is normal text size in pdf documents.
@@ -320,7 +322,6 @@
         other markup, as such markup otherwise will be removed.
     -->
 
-    <!--
     <xsl:template match="p[parent::body][not(./em | ./span)][text()]">
         <xsl:variable name="text" select='current()' />
         <xsl:variable name="type" select='@type' />
@@ -339,12 +340,11 @@
 
             <xsl:call-template name="globalTextReplace">
                 <xsl:with-param name="inputString" select="$text"/>
-                <xsl:with-param name="target" select="'str1/str2/str3/'"/>
-                <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
+                <xsl:with-param name="target" select="'ráhka- da/ovddidea- mi/mát- keealáhus/olb- muid/musihk- ka/ok- tan/dár- kileappot/bargo- teknihka/servoda- ga/kulturbirras/stivrendo- kumeant/kulturárbesuorg- gis/oidn- osii/Sá- me/ovttas- doai/Norg- ga/juvvo- jit/ju- vvojit/suoh- kan/kul- tur/viso- govva/hal- lo/gieh- ta/hu- sat/bái- ke/ol- bm/haht- ti/ovdá- neap/osk- ku/ár- bbi/eadd- ji/tu- vrra/ov- dal/aht- tá/ri- dit/muit- tu/gea- va/nn- márk/eah- pu/00- logu/ht-  ti/s-  tah/p- pá/u- han/en- vie/'"/>
+                <xsl:with-param name="replacement" select="'ráhkada/ovddideami/mátkeealáhus/olbmuid/musihkka/oktan/dárkileappot/bargoteknihka/servodaga/kulturbirras/stivrendokumeant/kulturárbesuorggis/oidnosii/Sáme/ovttas- doai/Norgga/juvvojit/juvvojit/suohkan/kultur/visogovva/hallo/giehta/husat/báike/olbm/hahtti/ovdáneap/oskku/árbbi/eaddji/tuvrra/ovdal/ahttá/ridit/muittu/geava/nnmárk/eahpu/00-logu/htti/stah/ppá/uhan/envie/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
         </xsl:element>
     </xsl:template>
-    -->
 
 </xsl:stylesheet>
