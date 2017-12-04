@@ -13,12 +13,12 @@
     -->
     <xsl:variable name="filename" select="'http://sh.pedit.no/web/NettskoleRessurs.axd?id=3388a0b5-cd2a-47e6-b536-99f653acc329'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Fágaplána Sámi vuođđoskuvlaoahpaheaddjioahppu 5–10. Sámegiella ja sámi girjjálašvuohta 1 ja 2'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="''"/>
+    <xsl:variable name="author1_fn" select="'Sámi allaskuvla'"/>
     <xsl:variable name="author1_ln" select="''"/>
     <!-- m, f or unknown -->
     <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2012'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -127,7 +127,7 @@
         other languages. Set the variable monolingual to '1' to turn off
         language recognition (treating everything as mainlang)
     -->
-    <xsl:variable name="monolingual" select="''"/>
+    <xsl:variable name="monolingual" select="'1'"/>
 
     <!--
         If monolingual is not set, the document is multilingual.
@@ -184,7 +184,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'2, 18, 19, 24, 28, 29'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
@@ -228,18 +228,18 @@
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="top_margin" select="'3=70, 11=25, 17=84'"/>
+    <xsl:variable name="bottom_margin" select="'all=10, 10=45, 16=80, 22=7, 23=75, 27=50'"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
         as *_margin above. For a given page, all four margins
         must be defined.
     -->
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
+    <xsl:variable name="inner_right_margin" select="'12=7, 20=7, 25=7'"/>
+    <xsl:variable name="inner_left_margin" select="'12=7, 20=7, 25=7'"/>
+    <xsl:variable name="inner_top_margin" select="'12=15, 20=15, 25=15'"/>
+    <xsl:variable name="inner_bottom_margin" select="'12=65, 20=65, 25=70'"/>
 
     <!--
         This variable is used for epub or html files.
@@ -320,7 +320,6 @@
         other markup, as such markup otherwise will be removed.
     -->
 
-    <!--
     <xsl:template match="p[parent::body][not(./em | ./span)][text()]">
         <xsl:variable name="text" select='current()' />
         <xsl:variable name="type" select='@type' />
@@ -339,12 +338,11 @@
 
             <xsl:call-template name="globalTextReplace">
                 <xsl:with-param name="inputString" select="$text"/>
-                <xsl:with-param name="target" select="'str1/str2/str3/'"/>
-                <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
+                <xsl:with-param name="target" select="'Samisk grammatikk i språkundervisningen/Saamen kielen muodot ja rakenteet kielenopetuksessa/Sámi grammar in teaching of language/'"/>
+                <xsl:with-param name="replacement" select="'///'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
         </xsl:element>
     </xsl:template>
-    -->
 
 </xsl:stylesheet>
