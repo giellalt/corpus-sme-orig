@@ -340,8 +340,8 @@
 
             <xsl:call-template name="globalTextReplace">
                 <xsl:with-param name="inputString" select="$text"/>
-                <xsl:with-param name="target" select="'ráhka- da/ovddidea- mi/mát- keealáhus/olb- muid/musihk- ka/ok- tan/dár- kileappot/bargo- teknihka/servoda- ga/kulturbirras/stivrendo- kumeant/kulturárbesuorg- gis/oidn- osii/Sá- me/ovttas- doai/Norg- ga/juvvo- jit/ju- vvojit/suoh- kan/kul- tur/viso- govva/hal- lo/gieh- ta/hu- sat/bái- ke/ol- bm/haht- ti/ovdá- neap/osk- ku/ár- bbi/eadd- ji/tu- vrra/ov- dal/aht- tá/ri- dit/muit- tu/gea- va/nn- márk/eah- pu/00- logu/ht-  ti/s-  tah/p- pá/u- han/en- vie/'"/>
-                <xsl:with-param name="replacement" select="'ráhkada/ovddideami/mátkeealáhus/olbmuid/musihkka/oktan/dárkileappot/bargoteknihka/servodaga/kulturbirras/stivrendokumeant/kulturárbesuorggis/oidnosii/Sáme/ovttas- doai/Norgga/juvvojit/juvvojit/suohkan/kultur/visogovva/hallo/giehta/husat/báike/olbm/hahtti/ovdáneap/oskku/árbbi/eaddji/tuvrra/ovdal/ahttá/ridit/muittu/geava/nnmárk/eahpu/00-logu/htti/stah/ppá/uhan/envie/'"/>
+                <xsl:with-param name="target" select="'ráhka- da/ovddidea- mi/'"/>
+                <xsl:with-param name="replacement" select="'ráhkada/ovddideami/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
         </xsl:element>
