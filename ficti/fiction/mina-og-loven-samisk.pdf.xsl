@@ -11,17 +11,17 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'demens_sme.txt'"/>
+    <xsl:variable name="filename" select="'https://www.stortinget.no/globalassets/pdf/diverse/mina-og-loven-samisk.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Demeansa'"/>
+    <xsl:variable name="title" select="'Mina ja ledjon'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="'Nasjonalforeningen for folkehelsen'"/>
-    <xsl:variable name="author1_ln" select="''"/>
+    <xsl:variable name="author1_fn" select="'Elin B. R.'"/>
+    <xsl:variable name="author1_ln" select="'Tømte'"/>
     <!-- m, f or unknown -->
-    <xsl:variable name="author1_gender" select="'unknown'"/>
+    <xsl:variable name="author1_gender" select="'f'"/>
     <!--
         The country where the author is from. It should be written as
         an ISO_3166-1 code.
@@ -74,30 +74,32 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2014'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
 
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="genre" select="'facta'"/>
+    <xsl:variable name="genre" select="'ficti'"/>
     <xsl:variable name="collection" select="''"/>
     <!--
         Three letter language code.
         https://no.wikipedia.org/wiki/Liste_over_ISO_639-1-koder
     -->
-    <xsl:variable name="translated_from" select="''"/>
+    <xsl:variable name="translated_from" select="'nob'"/>
     <!-- Translator variables have the same format as the author ones -->
-    <xsl:variable name="translator_fn" select="''"/>
-    <xsl:variable name="translator_ln" select="''"/>
-    <xsl:variable name="translator_gender" select="'unknown'"/>
+    <xsl:variable name="translator_fn" select="'Lill Hege'"/>
+    <xsl:variable name="translator_ln" select="'Anti'"/>
+    <xsl:variable name="translator_gender" select="'f'"/>
     <xsl:variable name="translator_born" select="''"/>
-    <xsl:variable name="translator_nat" select="''"/>
+    <xsl:variable name="translator_nat" select="'NO'"/>
     <!-- select license type: free, standard or other -->
-    <xsl:variable name="license_type" select="'free'"/>
+    <xsl:variable name="license_type" select="''"/>
+    <!-- e.g. Sámediggi journal number -->
+    <xsl:variable name="contract_id" select="''"/>
     <!-- The name and email of the submitter -->
-    <xsl:variable name="sub_name" select="'Lene Antonsen'"/>
-    <xsl:variable name="sub_email" select="'lene.antonsen@uit.no'"/>
+    <xsl:variable name="sub_name" select="''"/>
+    <xsl:variable name="sub_email" select="''"/>
     <!-- Keep empty, this is automatically filled in by CorpusTools -->
     <xsl:variable name="wordcount" select="''"/>
     <!-- This variable can have the following values:
@@ -113,7 +115,7 @@
     <!-- Valid values are complete and uncomplete -->
     <xsl:variable name="metadata" select="'uncomplete'"/>
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="template_version" select="'$Revision: 109023 $'"/>
+    <xsl:variable name="template_version" select="'$Revision: 150288 $'"/>
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
@@ -165,8 +167,8 @@
         <parallel_text xml:lang="isl" location=""/>
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
-        <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="demens_nob.txt"/>
+        <parallel_text xml:lang="nno" location="mina-og-loven_nynorsk.pdf"/>
+        <parallel_text xml:lang="nob" location="mina-og-loven.pdf"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
@@ -320,7 +322,6 @@
         other markup, as such markup otherwise will be removed.
     -->
 
-    <!--
     <xsl:template match="p[parent::body][not(./em | ./span)][text()]">
         <xsl:variable name="text" select='current()' />
         <xsl:variable name="type" select='@type' />
@@ -339,12 +340,11 @@
 
             <xsl:call-template name="globalTextReplace">
                 <xsl:with-param name="inputString" select="$text"/>
-                <xsl:with-param name="target" select="'str1/str2/str3/'"/>
-                <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
+                <xsl:with-param name="target" select="'·/Stortingets administrasjon  Informasjonsseksjonen Trykk: Stortingets hustrykkeri 2013 ISBN 978-82-8196-075-6/'"/>
+                <xsl:with-param name="replacement" select="'á//'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
         </xsl:element>
     </xsl:template>
-    -->
 
 </xsl:stylesheet>
