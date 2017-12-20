@@ -140,7 +140,7 @@
         then the document is checked for all supported languages.
     -->
     <xsl:variable name="mlangs">
- <!--       <language xml:lang="nob"/> -->
+        <!-- <language xml:lang="dan"/> -->
     </xsl:variable>
 
     <!--
@@ -281,6 +281,11 @@
         1;3;8=20, 4;5;7=10
     -->
     <xsl:variable name="linespacing" select="''"/>
+
+    <!--
+        Choose which chapters to exclude from an epub file.
+    -->
+    <xsl:variable name="epub_excluded_chapters" select="''"/>
 
     <!--
         Information about what is normal text size in pdf documents.

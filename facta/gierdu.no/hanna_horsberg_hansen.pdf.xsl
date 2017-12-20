@@ -283,6 +283,11 @@
     <xsl:variable name="linespacing" select="'1=5'"/>
 
     <!--
+        Choose which chapters to exclude from an epub file.
+    -->
+    <xsl:variable name="epub_excluded_chapters" select="''"/>
+
+    <!--
         Information about what is normal text size in pdf documents.
     -->
     <xsl:variable name="main_sizes" select="''"/>
