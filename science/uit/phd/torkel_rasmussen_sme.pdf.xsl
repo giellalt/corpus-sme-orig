@@ -13,8 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://munin.uit.no/bitstream/handle/10037/5593/thesis.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'“Go ealáska, de lea váttis dápmat”.
-Davvisámegiela etnolingvisttalaš ceavzinnávccaid guorahallan guovtti gránnjágielddas Deanus ja Ohcejogas 2000-logu álggus'"/>
+    <xsl:variable name="title" select="'“Go ealáska, de lea váttis dápmat”. Davvisámegiela etnolingvisttalaš ceavzinnávccaid guorahallan guovtti gránnjágielddas Deanus ja Ohcejogas 2000-logu álggus'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -282,6 +281,11 @@ Davvisámegiela etnolingvisttalaš ceavzinnávccaid guorahallan guovtti grá
         1;3;8=20, 4;5;7=10
     -->
     <xsl:variable name="linespacing" select="'all=3'"/>
+
+    <!--
+        Choose which chapters to exclude from an epub file.
+    -->
+    <xsl:variable name="epub_excluded_chapters" select="''"/>
 
     <!--
         Information about what is normal text size in pdf documents.

@@ -13,8 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://munin.uit.no/bitstream/handle/10037/8558/thesis_entire.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Siida ja siiddastallan.
-Å være en siida – om forholdet mellom siidatradisjoner og videreføringen av siidasystemet / Being siida – on the relationship between siida tradition and continuation of the siida system'"/>
+    <xsl:variable name="title" select="'Siida ja siiddastallan. Å være en siida – om forholdet mellom siidatradisjoner og videreføringen av siidasystemet / Being siida – on the relationship between siida tradition and continuation of the siida system'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -282,6 +281,11 @@ Å være en siida – om forholdet mellom siidatradisjoner og videreføringen a
         1;3;8=20, 4;5;7=10
     -->
     <xsl:variable name="linespacing" select="'all=3'"/>
+
+    <!--
+        Choose which chapters to exclude from an epub file.
+    -->
+    <xsl:variable name="epub_excluded_chapters" select="''"/>
 
     <!--
         Information about what is normal text size in pdf documents.

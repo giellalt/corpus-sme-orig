@@ -13,8 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://munin.uit.no//'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámi ethnicity as a variable.
-Premises and implications for population-based studies on health and living conditions in Norway'"/>
+    <xsl:variable name="title" select="'Sámi ethnicity as a variable. Premises and implications for population-based studies on health and living conditions in Norway'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -282,6 +281,11 @@ Premises and implications for population-based studies on health and living cond
         1;3;8=20, 4;5;7=10
     -->
     <xsl:variable name="linespacing" select="'all=3'"/>
+
+    <!--
+        Choose which chapters to exclude from an epub file.
+    -->
+    <xsl:variable name="epub_excluded_chapters" select="''"/>
 
     <!--
         Information about what is normal text size in pdf documents.

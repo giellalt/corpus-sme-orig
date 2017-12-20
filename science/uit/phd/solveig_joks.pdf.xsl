@@ -13,8 +13,7 @@
     -->
     <xsl:variable name="filename" select="'solveig_joks.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'“Laksen trenger ro”. Tilnærming til tradisjonelle kunnskaper gjennom praksiser, begreper og
-fortellinger fra Sirbmá-området.'"/>
+    <xsl:variable name="title" select="'“Laksen trenger ro”. Tilnærming til tradisjonelle kunnskaper gjennom praksiser, begreper og fortellinger fra Sirbmá-området.'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -282,6 +281,11 @@ fortellinger fra Sirbmá-området.'"/>
         1;3;8=20, 4;5;7=10
     -->
     <xsl:variable name="linespacing" select="'all=2'"/>
+
+    <!--
+        Choose which chapters to exclude from an epub file.
+    -->
+    <xsl:variable name="epub_excluded_chapters" select="''"/>
 
     <!--
         Information about what is normal text size in pdf documents.

@@ -13,8 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://munin.uit.no//'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'LESE FOR Å LÆRE.
-TOSPRÅKLIGE UTFORDRINGER I UTVIKLING AV LESEKOMPETANSE I ET MINORITETSPERSPEKTIV'"/>
+    <xsl:variable name="title" select="'LESE FOR Å LÆRE. TOSPRÅKLIGE UTFORDRINGER I UTVIKLING AV LESEKOMPETANSE I ET MINORITETSPERSPEKTIV'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -282,6 +281,11 @@ TOSPRÅKLIGE UTFORDRINGER I UTVIKLING AV LESEKOMPETANSE I ET MINORITETSPERSPEKT
         1;3;8=20, 4;5;7=10
     -->
     <xsl:variable name="linespacing" select="'all=3'"/>
+
+    <!--
+        Choose which chapters to exclude from an epub file.
+    -->
+    <xsl:variable name="epub_excluded_chapters" select="''"/>
 
     <!--
         Information about what is normal text size in pdf documents.

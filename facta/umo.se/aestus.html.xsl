@@ -95,6 +95,8 @@
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="'free'"/>
+    <!-- e.g. Sámediggi journal number -->
+    <xsl:variable name="contract_id" select="''"/>
     <!-- The name and email of the submitter -->
     <xsl:variable name="sub_name" select="'Kevin Brubeck Unhammer'"/>
     <xsl:variable name="sub_email" select="'unhammer@fsfe.org'"/>
@@ -139,7 +141,7 @@
     -->
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="swe"/><language xml:lang="sme"/></xsl:variable>
+    <language xml:lang="sme"/><language xml:lang="swe"/></xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
@@ -174,11 +176,11 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="angest.html"/>
-    <parallel_text location="ongesto.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="nervolo.html" xml:lang="rmu"/>
 <parallel_text location="dar.html" xml:lang="rmf"/>
-<parallel_text location="baridar.html" xml:lang="rmn"/>
-<parallel_text location="nervolo.html" xml:lang="rmu"/>
 <parallel_text location="dar.html" xml:lang="rmy-rka"/>
+<parallel_text location="ongesto.html" xml:lang="rmy-rlo"/>
+<parallel_text location="baridar.html" xml:lang="rmn"/>
 </xsl:variable>
 
     <!--
@@ -284,6 +286,11 @@
         1;3;8=20, 4;5;7=10
     -->
     <xsl:variable name="linespacing" select="''"/>
+
+    <!--
+        Choose which chapters to exclude from an epub file.
+    -->
+    <xsl:variable name="epub_excluded_chapters" select="''"/>
 
     <!--
         Information about what is normal text size in pdf documents.
