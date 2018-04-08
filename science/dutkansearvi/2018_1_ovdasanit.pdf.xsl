@@ -173,7 +173,7 @@
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
         <parallel_text xml:lang="smj" location=""/>
-        <parallel_text xml:lang="smn" location="dutkansearvvi_diedalas_aigecala_ovdasanit.pdf"/>
+        <parallel_text xml:lang="smn" location="2018_1_ovdasanit.pdf"/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
     </xsl:variable>
