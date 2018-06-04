@@ -11,17 +11,17 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/2.sami_mediat.pdf'"/>
+    <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/3._jienastuslohku_ja_valga.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámi mediat - beroštupmi, mahtodat ja rámmaeavttut'"/>
+    <xsl:variable name="title" select="'Jienastuslohku ja válga- oassálastin Norgga sámedigge- válggain 1989-2009'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="'Johan Ailo'"/>
-    <xsl:variable name="author1_ln" select="'Kalstad'"/>
+    <xsl:variable name="author1_fn" select="'Torunn'"/>
+    <xsl:variable name="author1_ln" select="'Pettersen'"/>
     <!-- m, f or unknown -->
-    <xsl:variable name="author1_gender" select="'m'"/>
+    <xsl:variable name="author1_gender" select="'f'"/>
     <!--
         The country where the author is from. It should be written as
         an ISO_3166-1 code.
@@ -86,7 +86,7 @@
         Three letter language code.
         https://no.wikipedia.org/wiki/Liste_over_ISO_639-1-koder
     -->
-    <xsl:variable name="translated_from" select="'nob'"/>
+    <xsl:variable name="translated_from" select="''"/>
     <!-- Translator variables have the same format as the author ones -->
     <xsl:variable name="translator_fn" select="''"/>
     <xsl:variable name="translator_ln" select="''"/>
@@ -168,7 +168,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="2.samiske_medier.pdf"/>
+        <parallel_text xml:lang="nob" location="3.valgmanntall.pdf"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
@@ -186,7 +186,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="'27'"/>
+    <xsl:variable name="skip_pages" select="'54-58, 60-61, 15, 22-23'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
@@ -230,18 +230,18 @@
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="'12=50, 23=40'"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="top_margin" select="'10=47, 11=50, 12=52, 20=50, 28=84, 32=47, 35=60, 38=33, 41=50, 50=45'"/>
+    <xsl:variable name="bottom_margin" select="'7=60, 9=85, 14=30, 16=44, 31=48, 33=80, 38=47, 42=45, 49=86, 48=15, 45=23'"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
         as *_margin above. For a given page, all four margins
         must be defined.
     -->
-    <xsl:variable name="inner_right_margin" select="'15=7, 19=7'"/>
-    <xsl:variable name="inner_left_margin" select="'15=7, 19=7'"/>
-    <xsl:variable name="inner_top_margin" select="'15=37, 19=37'"/>
-    <xsl:variable name="inner_bottom_margin" select="'15=20, 19=37'"/>
+    <xsl:variable name="inner_right_margin" select="'8=7, 25=7, 26=7, 36=7, 39=7, 40=7, 45=7, 46=7, 47=7, 51=7'"/>
+    <xsl:variable name="inner_left_margin" select="'8=7, 25=7, 26=7, 36=7, 39=7, 40=7, 45=7, 46=7, 47=7, 51=7'"/>
+    <xsl:variable name="inner_top_margin" select="'8=18, 25=22, 26=42, 36=18, 39=27, 40=25, 45=18, 46=37, 47=34, 51=33'"/>
+    <xsl:variable name="inner_bottom_margin" select="'8=54, 25=43, 26=16, 36=30, 39=32, 40=35, 45=40, 46=21, 47=26, 51=33'"/>
 
     <!--
         This variable is used for epub or html files.
