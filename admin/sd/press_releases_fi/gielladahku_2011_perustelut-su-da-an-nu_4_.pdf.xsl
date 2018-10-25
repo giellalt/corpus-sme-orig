@@ -160,7 +160,7 @@
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
         <parallel_text xml:lang="eng" location=""/>
-        <parallel_text xml:lang="fin" location="gielladahku_2011_perustelut-su-da-an-nu_4_.pdf"/>
+        <parallel_text xml:lang="fin" location=""/>
         <parallel_text xml:lang="fit" location=""/>
         <parallel_text xml:lang="fkv" location=""/>
         <parallel_text xml:lang="ger" location=""/>
@@ -174,7 +174,7 @@
         <parallel_text xml:lang="sme" location=""/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location="gielladahku_2011_perustelut-su-da-an-nu_4_.pdf"/>
-        <parallel_text xml:lang="sms" location="gielladahku_2011_perustelut-su-da-an-nu_4_.pdf"/>
+        <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
     </xsl:variable>
 
