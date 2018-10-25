@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.samikopiija.org/govat/doc/2006_diedahus.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Sámikopiija 2006 jahkedieđáhus'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -129,7 +129,7 @@
         other languages. Set the variable monolingual to '1' to turn off
         language recognition (treating everything as mainlang)
     -->
-    <xsl:variable name="monolingual" select="''"/>
+    <xsl:variable name="monolingual" select="'1'"/>
 
     <!--
         If monolingual is not set, the document is multilingual.
@@ -186,7 +186,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1, 6-16, 21-24'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
