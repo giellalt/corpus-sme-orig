@@ -232,17 +232,17 @@ ládje dego sápmelaččat leat dáppe”. Narratologalaš analysa románain Ká
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="bottom_margin" select="'43=45'"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
         as *_margin above. For a given page, all four margins
         must be defined.
     -->
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
+    <xsl:variable name="inner_right_margin" select="'27=7'"/>
+    <xsl:variable name="inner_left_margin" select="'27=7'"/>
+    <xsl:variable name="inner_top_margin" select="'27=20'"/>
+    <xsl:variable name="inner_bottom_margin" select="'27=45'"/>
 
     <!--
         This variable is used for epub or html files.
