@@ -70,7 +70,7 @@
     <xsl:variable name="author5_nat" select="''"/>
     <xsl:variable name="author5_born" select="''"/>
 
-    <xsl:variable name="publisher" select="''"/>
+    <xsl:variable name="publisher" select="'Sámi allaskuvla'"/>
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
