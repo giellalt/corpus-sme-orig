@@ -241,7 +241,7 @@
     <xsl:variable name="inner_right_margin" select="'3=7, 5=7, 7=7, 12=7, 11=7, 14=7'"/>
     <xsl:variable name="inner_left_margin" select="'3=7, 5=7, 7=7, 12=7, 11=7, 14=7'"/>
     <xsl:variable name="inner_top_margin" select="'3=47, 5=22, 7=22, 12=33, 11=27, 14=40'"/>
-    <xsl:variable name="inner_bottom_margin" select="'3=20, 5=43, 7=48, 12=33, 11=64, 14=47'"/>
+    <xsl:variable name="inner_bottom_margin" select="'3=20, 5=43, 7=48, 12=33, 11=66, 14=47'"/>
 
     <!--
         This variable is used for epub or html files.
