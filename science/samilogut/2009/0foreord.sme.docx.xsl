@@ -167,8 +167,8 @@
         <parallel_text xml:lang="isl" location=""/>
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
-        <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="0foreord.nob.doc"/>
+        <parallel_text xml:lang="nno" location="0foreord.nno.doc"/>
+        <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
