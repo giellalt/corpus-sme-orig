@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'2.Helse_i_samisk_befolkning.sme.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Sámi álbmoga dearvvašvuohta – máhttočoahkkáigeassu ovdalis almmuhuvvon bohtosat álbmotguorahallamiin Norggas'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
