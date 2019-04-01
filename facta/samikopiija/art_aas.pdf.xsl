@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.samikopiija.org/govat/doc/art_aas.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Osku, dávddat ja buorideapmi'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -21,13 +21,13 @@
     <xsl:variable name="author1_fn" select="'Aage'"/>
     <xsl:variable name="author1_ln" select="'Solbakk'"/>
     <!-- m, f or unknown -->
-    <xsl:variable name="author1_gender" select="'unknown'"/>
+    <xsl:variable name="author1_gender" select="'m'"/>
     <!--
         The country where the author is from. It should be written as
         an ISO_3166-1 code.
         https://no.wikipedia.org/wiki/ISO_3166-1
     -->
-    <xsl:variable name="author1_nat" select="''"/>
+    <xsl:variable name="author1_nat" select="'NO'"/>
     <!-- Either YYYY or YYYYMMDD. Examples: 1954 or 19451224 -->
     <xsl:variable name="author1_born" select="''"/>
     <!--
