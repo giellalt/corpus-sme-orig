@@ -111,7 +111,7 @@
         * standard:     a usual doc, meant to be used as part of the standard corpus
         * unsupported:  document that cannot be converted by our conversion tools
     -->
-    <xsl:variable name="conversion_status" select="'correct'"/>
+    <xsl:variable name="conversion_status" select="'correct-no-gs'"/>
     <!-- Valid values are complete and uncomplete -->
     <xsl:variable name="metadata" select="'uncomplete'"/>
     <!-- Automatically filled in by CorpusTools -->
