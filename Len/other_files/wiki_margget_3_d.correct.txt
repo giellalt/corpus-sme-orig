@@ -6,6 +6,9 @@ Gro Harlem Brundtland (riegádan cuoŋománu 1939 Bærumas$(prop,suf|Bærumis), 
 Eallin ja doaibma
 
 Brundtland riegádii Bærumas$(prop,suf|Bærumis) Gudmund Harlema nieidan. Son logai doavttirin 1963:as$(num,suf|1963:s) Oslo Universitehtas ja Master of Public Health oahpu Harvard-universitehtas USA:s 1965:as$(num,suf|1965:s). Son barggai Dearvvašvuođadirektoráhtas 1966:as$(num,suf|1966:s), ja leai (veahkke váldodoavttirin)$(cmp,2-1|veahkkeváldodoavttirin) Oslo Dearvvašvuođaráđis ( Oslo Helseråd) áigodagas 1968–1974.
+
 Jagis 1998:as$(num,suf|1998:s) válljejuvvui son generáladirekteuvran$(loan,euvra-evra|generáladirektevran) Máilmmi dearvvašvuođaorganisašuvnnas.
+
 Dan rájes lea Brundland$(prop,conc,ndl-ndtl|Brundtland) earret eará leamaš stivrras ON:a$(acro,suf|ON) lávdegottis UN Foundation ja miellahttun The Elders organisašuvnnas (boarrásiid organisašuvnnas), seammás Health Policy Fellow lahttun Harvard Universitehtas. Son lea maid leamaš miellahttun High Level Panel on Threats, Challenges and Change, nammaduvvon ONa$(acro,suf|ON) generálčállis$(loan,cmp,ál-ála|generálačállis). Jagis 2007 nammaduvvui son, okta golbmasis, ONa$(acro,suf|ON) dálkkádatgážaldagaid$(vowc,á-a|dálkkádatgažaldagaid) spesiálasáddejuvvon olmmožin. Brundtland lea maid mielalahttun$(typo|miellahttun) Riikkaidgaskasaš komišuvnnas$(loan,conc,m-mm|kommišuvnnas) mii guoská váimmusfysálaš$(loan,vowlat,á-a|váimmusfysalaš) heaittiheapmái ja ii-leavvamii.
+
 Son orru dál Frankriikkas isidiinnis Arne Olav Brundtland. Ođđajagimánus 2006:as$(num,suf|2006:s) evttohuvvui son fas vejolaš kandidáhtan ONa$(acro,suf|ON) generálačállin.

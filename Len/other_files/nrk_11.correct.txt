@@ -1,6 +1,9 @@
 #Priváhtaskuvllat eai fárus
+
 #30.11.12
+
 #Aslak Ilkka Niittyvuopio ja Maret Inger A Anti
+
 #Publisert∞(nob) 22.11.2012 10:52.
 
 Sámedikki evttohus giellalága rievdadeamis, ii guoskka priváhtaskuvllaid.
@@ -15,6 +18,7 @@ Siri Triumf sávašii, ahte priváhtaskuvllat maid váldojuvvojivčče$(infl,con
 - (Dat livčče gal oba vuogas)£(infl,coneg-sg3|Dat livččii gal oba vuogas), jus ná geavašii, go muhtin mánát fertejit mannat priváhta skuvlii, jus áigot oaččut dakkár oahpu¢(conc,čč-žž|jus áigot oažžut dakkár oahpu), mii ii gávdno stáhta skuvllain.
 
 Skuvllaid iežasit$(vowm,i-e|iežaset) hálddus
+
 Ovcci gieldda Finnmárkkus Trøndeláhkii gullet dál giellahálddašanguvlui ja logát gielda galggašii dasa mielde boahtte jagi rájes. (Dáid galggašedje leat sámi- ja dárogiella ovttaárvosaš dásis)£(case,gen-loc|Dáin galggašedje leat sámi- ja dárogiella ovttaárvosaš dásis). Dat mearkkaša, ahte (buohkain lea riekti oaččut sámegielat bálvalusaid)$(conc,čč-žž|buohkain lea riekti oažžut sámegielat bálvalusaid) almmolaš ásahusain hálddašanguovllus.
 
 Sámelága giellanjuolggadusat mearriduvvojedje 1990:is$(suf,is-s|1990:s) ja dán dat áiggošii sámediggeráđđi dál rievdadit buot sápmelaččaide buorrin. Sii leat gávnnahan, ahte (eai olát daid mihttuid)¢(vowlat,á-a;conc,htt-ht|eai olat daid mihtuid), mat leat sámegiela ektui.
@@ -22,4 +26,3 @@ Sámelága giellanjuolggadusat mearriduvvojedje 1990:is$(suf,is-s|1990:s) ja dá
 - Dat ii leat dieđusge nu, ahte váikke heaittiha giellahálddašanguovllu, de buot sámi oahppit fidnejit daid vuoigatvuođaid, mat livčče almmolaš skuvllain. Dat leat olu čuolmmat, maid sii fertejit čoavdit, ee. nannet dan oahpahusvuoigatvuođa sihke olggobealde ja siskkobealde giellahálddašanguovllu, muitala sámediggeráđđi Laila Susanne Vars.
 
 Vars mielas ii leat dohkálaš, ahte nuorat, geat mannet ohppui priváhtaskuvllaide, masset eatnigielaset. Vars sávašii priváhta skuvllaid oaidnit dan vejolašvuođa fállat oahpu maid sámegillii.
-

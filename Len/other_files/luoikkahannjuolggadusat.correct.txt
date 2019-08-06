@@ -1,70 +1,88 @@
+#C:\Documents and Settings\sarava\Local Settings\Temporary Internet Files\Content.Outlook\QW15T8VD\luoikkahannjuolggadusat - rev 2007 (2).doc
 
+#SÁMI ALLASKUVLLA GIRJERÁDJOSA
 
-
-#C:\Documents and Settings\sarava\Local Settings\Temporary Internet Files\Content.Outlook\QW15T8VD\luoikkahannjuolggadusat - rev 2007 (2).doc 
-#SÁMI ALLASKUVLLA GIRJERÁDJOSA 
-#LUOIKKAHANNJUOLGGADUSAT 
-#*********************************************************** 
-#MUITTE: 
-#ALE BALA GOASSEGE JEARRAMIS VEAHKI GO LEAT 
-#GIRJERÁDJOSIS. MII GEAT BARGAT GIRJERÁDJOSIS VEAHKEHIT DU 
-#EANDALII GÁVDNAT DAN MAID OZAT! 
+#LUOIKKAHANNJUOLGGADUSAT
+#***********************************************************
+#MUITTE:
+#ALE BALA GOASSEGE JEARRAMIS VEAHKI GO LEAT
+#GIRJERÁDJOSIS. MII GEAT BARGAT GIRJERÁDJOSIS VEAHKEHIT DU
+#EANDALII GÁVDNAT DAN MAID OZAT!
 #
-#NJUOLGGADUSAT GIRJERÁDJOSA GEAVAHEAPMÁI 
+#NJUOLGGADUSAT GIRJERÁDJOSA GEAVAHEAPMÁI
 
-1. Geavaheaddjit 
+1. Geavaheaddjit
 
-Sámi allaskuvlla girjerádjosa vuosttamuš doaibma lea gokčat diehtoháhkandárbbu allaskuvlla bargiide ja studeanttaide (siskkáldas geavaheddjiide). Girjerájus lea goitge maid rabas álbmogii muđui (olggobealgeavaheddjiide). 
-Luoikkaheaddji ferte deavdit skovi mas leat luoikkaheaddjidieđut, ja mas maid dohkkeha girjerájusnjuolggadusaid. 
+Sámi allaskuvlla girjerádjosa vuosttamuš doaibma lea gokčat diehtoháhkandárbbu allaskuvlla bargiide ja studeanttaide (siskkáldas geavaheddjiide). Girjerájus lea goitge maid rabas álbmogii muđui (olggobealgeavaheddjiide).
+Luoikkaheaddji ferte deavdit skovi mas leat luoikkaheaddjidieđut, ja mas maid dohkkeha girjerájusnjuolggadusaid.
 
-2. Girjerádjosa fálaldagat/bálvalusat 
+2. Girjerádjosa fálaldagat/bálvalusat
 
-Girjerádjosa váldodoaimmat: 
+Girjerádjosa váldodoaimmat:
 
-Luoikat girjiid$(conc,rj-rjj|girjjiid)/mediaid girjerádjosa iežas čoakkáldagain. 
+Luoikat girjiid$(conc,rj-rjj|girjjiid)/mediaid girjerádjosa iežas čoakkáldagain.
 
-Bagádallat$(vowlat,á-a|Bagadallat) luoikkaheddjiide mo ohcat girjjiid/dieđuid diehtovuorkkain$(vowlat,a-á|diehtovuorkkáin). 
+Bagádallat$(vowlat,á-a|Bagadallat) luoikkaheddjiide mo ohcat girjjiid/dieđuid diehtovuorkkain$(vowlat,a-á|diehtovuorkkáin).
 
-Luoikkahit girjjiid/artihkkaliid eará girjerádjosiin gáiddusloana bokte. 
+Luoikkahit girjjiid/artihkkaliid eará girjerádjosiin gáiddusloana bokte.
 
-Sámi allaskuvlla girjerájus atná BIBSYS-girjerájusvuogádaga. BIBSYS-diehtovuorkái beassá interneahta bokte. 
+Sámi allaskuvlla girjerájus atná BIBSYS-girjerájusvuogádaga. BIBSYS-diehtovuorkái beassá interneahta bokte.
 
-3. Girjerádjosa fuolahus 
+3. Girjerádjosa fuolahus
 
-Buot siskkáldas geavaheddjiide fállo oahppu girjerádjosa systemain ja doaimmain. Dasa lassin addo oppalaš bagadallan dárbbu mielde ja oahppu sierra fáttáin – mat eai leat čadnon diehtogálduide. Siskkáldas geavaheddjiide leat buot bálvalusat nuvttá. 
-Olggobealgeavaheadjit$(conc,dj-ddj|Olggobealgeavaheaddjit) sáhttet atnit girjerádjosa čoakkáldagaid luoikan- ja sisabuktineavttuid vuođul. Bagadallama/veahki ožžot jus girjerájusbargiin lea áigi dasa, dehe sierra šiehtadusa mielde. Eará girjerádjosiid fálaldagaid sáhttá atnit dušše sierra šiehtadusa mielde. 
+Buot siskkáldas geavaheddjiide fállo oahppu girjerádjosa systemain ja doaimmain. Dasa lassin addo oppalaš bagadallan dárbbu mielde ja oahppu sierra fáttáin – mat eai leat čadnon diehtogálduide. Siskkáldas geavaheddjiide leat buot bálvalusat nuvttá.
 
-4. Kopieren (máŋgen) 
+Olggobealgeavaheadjit$(conc,dj-ddj|Olggobealgeavaheaddjit) sáhttet atnit girjerádjosa čoakkáldagaid luoikan- ja sisabuktineavttuid vuođul. Bagadallama/veahki ožžot jus girjerájusbargiin lea áigi dasa, dehe sierra šiehtadusa mielde. Eará girjerádjosiid fálaldagaid sáhttá atnit dušše sierra šiehtadusa mielde.
 
-Studeanttat ja olggobealgeavaheaddjit sáhttet atnit girjerádjosa kopimášiinna$(conm,0-ij;vowlat,0-a;vowc,á-a|kopiijamašiinna) go lea kopierenkoarta. Kopierenkoartta oažžu oastit skuvllas. 
+4. Kopieren (máŋgen)
+
+Studeanttat ja olggobealgeavaheaddjit sáhttet atnit girjerádjosa kopimášiinna$(conm,0-ij;vowlat,0-a;vowc,á-a|kopiijamašiinna) go lea kopierenkoarta. Kopierenkoartta oažžu oastit skuvllas.
 
 
-5. Luoikaneavttut 
+5. Luoikaneavttut
 
-a) Dábálaš luoikanáigi girjerádjosa girjjiide lea 4 vahkku, ja (govvá-ja)$(typo|govva- ja) jietnamediaide lea fas 1 vahkku jos eará ii leat daddjon. Ii leat mearri galle girjji luoikkaheaddji sáhttá oktanaga ruoktot luoikkahit, muhto luoikkaheadjit$(conc,dj-ddj|luoikkaheaddjit) ávžžuhuvvojit buktit ruovttoluotta mediaid nu jođánit go vejolaš. 
-á) Girjjit ja eará almmuhusat mat leat biddjon gáldoossodahkii dehe eará erenoamážit merkejuvvon hilduide (omd. pensumhilduide) sáhttet dušše atnot$(conc,tn-dn|adnot) girjerádjosis/lohkánlanjas$(vowlat,á-a|lohkanlanjas). 
-b) Áigečállagat ja áviissat sáhttet dušše adnot girjeradjosis$(vowc,a-á|girjerádjosis)/lohkánlanjas$(vowlat,á-a|lohkanlanjas). Dáid ii sáhte luoikkahit. Fágabargit sáhttet luoikkahit sierra šiehtadusa mielde. 
-c) Girjerádjosa erenoamáščoakkáldagá$(vowlat,á-a|erenoamáščoakkáldaga) sáhtta$(vowlat,a-á|sáhttá) atnit dušše girjerádjosis. Dát čoakkáldat lea sierra merkejuvvon. 
-č) Luoikkahuvvon girjjiid sáhttá várret. Várrejeadji$(conc,dj-ddj|Várrejeaddji) biddjo vuordinlistui ja oažžu dieđu go girjji sáhttá viežžat. Jus máŋggas vurdet seamma girjji, de meannuduvvo listu kronologalaččat. 
+a) Dábálaš luoikanáigi girjerádjosa girjjiide lea 4 vahkku, ja (govvá-ja)$(typo|govva- ja) jietnamediaide lea fas 1 vahkku jos eará ii leat daddjon. Ii leat mearri galle girjji luoikkaheaddji sáhttá oktanaga ruoktot luoikkahit, muhto luoikkaheadjit$(conc,dj-ddj|luoikkaheaddjit) ávžžuhuvvojit buktit ruovttoluotta mediaid nu jođánit go vejolaš.
 
-6. Máhcaheapmi / ruovttuluotta buktin 
+á) Girjjit ja eará almmuhusat mat leat biddjon gáldoossodahkii dehe eará erenoamážit merkejuvvon hilduide (omd. pensumhilduide) sáhttet dušše atnot$(conc,tn-dn|adnot) girjerádjosis/lohkánlanjas$(vowlat,á-a|lohkanlanjas).
 
-a) Go luoikanáigi lea nohkán$(vowlat,á-a|nohkan), galget girjjit/mediat buktot ruovttuluotta$(vowlat,u-o|ruovttoluotta). Muđui sáddejuvvo buktinmuittuhus/-gáibádus. Jus eará luoikkaheaddji ii vuordde dehe jus eará ii hehtte, de sáhttet girjeloanat ođástuvvot$(vowlat,á-a|ođastuvvot). 
-á) Jus ii buvtte ruovttuluotta$(vowlat,u-o|ruovttoluotta) áigemeari sisa, de sáddejuvvo buhtadusgáibadus$(vowlat,a-á|buhtadusgáibádus) girjjiin dehe eará mediain maid leš luoikkahan girjerádjosis. Dat mielddisbuktá maid ahte luoikkaheaddji massá vuoigatvuođa luoikkahit dan lohkanbajis ja vel čuovvovaš lohkanbajis. 
-b) Luoikkaheaddjis lea geatnegasvuohta buhtadit girjjiid dálá njuolggadusaid mielde (gea. haddelisttu). Jus muhtun girji ii leat bukton ruovttuluotta$(vowlat,u-o|ruovttoluotta) maŋŋil go golmma geardde lea gáibiduvvon, de sáddejuvvo reive dán birra ja das maŋŋil rehket. 
+b) Áigečállagat ja áviissat sáhttet dušše adnot girjeradjosis$(vowc,a-á|girjerádjosis)/lohkánlanjas$(vowlat,á-a|lohkanlanjas). Dáid ii sáhte luoikkahit. Fágabargit sáhttet luoikkahit sierra šiehtadusa mielde.
+
+c) Girjerádjosa erenoamáščoakkáldagá$(vowlat,á-a|erenoamáščoakkáldaga) sáhtta$(vowlat,a-á|sáhttá) atnit dušše girjerádjosis. Dát čoakkáldat lea sierra merkejuvvon.
+
+č) Luoikkahuvvon girjjiid sáhttá várret. Várrejeadji$(conc,dj-ddj|Várrejeaddji) biddjo vuordinlistui ja oažžu dieđu go girjji sáhttá viežžat. Jus máŋggas vurdet seamma girjji, de meannuduvvo listu kronologalaččat.
+
+6. Máhcaheapmi / ruovttuluotta buktin
+
+a) Go luoikanáigi lea nohkán$(vowlat,á-a|nohkan), galget girjjit/mediat buktot ruovttuluotta$(vowlat,u-o|ruovttoluotta). Muđui sáddejuvvo buktinmuittuhus/-gáibádus. Jus eará luoikkaheaddji ii vuordde dehe jus eará ii hehtte, de sáhttet girjeloanat ođástuvvot$(vowlat,á-a|ođastuvvot).
+
+á) Jus ii buvtte ruovttuluotta$(vowlat,u-o|ruovttoluotta) áigemeari sisa, de sáddejuvvo buhtadusgáibadus$(vowlat,a-á|buhtadusgáibádus) girjjiin dehe eará mediain maid leš luoikkahan girjerádjosis. Dat mielddisbuktá maid ahte luoikkaheaddji massá vuoigatvuođa luoikkahit dan lohkanbajis ja vel čuovvovaš lohkanbajis.
+
+b) Luoikkaheaddjis lea geatnegasvuohta buhtadit girjjiid dálá njuolggadusaid mielde (gea. haddelisttu). Jus muhtun girji ii leat bukton ruovttuluotta$(vowlat,u-o|ruovttoluotta) maŋŋil go golmma geardde lea gáibiduvvon, de sáddejuvvo reive dán birra ja das maŋŋil rehket.
 
 
 #7. BÁLVALUSAID HATTIT JA BUHTADUSDIVÁDAT$(vowlat,á-a|BUHTADUSDIVADAT)
-#KOPIEREN (MÁŊGEN) 
-1,- ruvnno juohke kopiijas (kopikoarta$(conm,0-ij;vowlat,0-a|kopiijakoarta) gáibiduvvo) 
-#BUHTADUS GIRJJIIN / MEDIAIN MAT EAI BUKTO 
-#RUOVTTOLUOTTA 
-Girjjiin gitta 100 siiddu rádjái: 200,- ruvnno 
-Girjjiin main leat eambbo go 100 siiddu: 400,- ruvnno 
-Eará mediain 200,- ruvnno 
-Hattit leat biddjon dan vuođul ahte galget gokčat ođđa girjji/áigečállaga oastima, ja visot goluid mat leat mannan sisagáibideapmái gitta dassážii go rehket lea sáddejuvvon. (Njuolggadusat sisabuktimii luoikkahuvvon girjjiide/áigečállagiidda). Luoikkaheaddjis lea maid vejolaš oastit seammálágán$(vowlat,á-a|seammalágán) girjji sádjái$(vowc,á-a|sadjái). 
-Earenoamáš divrras girjjiide/mediaide biddjo haddi sierra, ja sáhttá biddjot badjelii go dábálaš haddi. 
-#BÁLVALUSAT OLGGOBEALGEAVAHEDDJIIDE 
-Sierra šiehtadusa mielde olggosgoluid ektui. 
-Reviderejun$(conc,0-vv;vowlat,0-o|Reviderejuvvon) 08.06.07 
+#KOPIEREN (MÁŊGEN)
+
+1,- ruvnno juohke kopiijas (kopikoarta$(conm,0-ij;vowlat,0-a|kopiijakoarta) gáibiduvvo)
+
+#BUHTADUS GIRJJIIN / MEDIAIN MAT EAI BUKTO
+
+#RUOVTTOLUOTTA
+
+Girjjiin gitta 100 siiddu rádjái: 200,- ruvnno
+
+Girjjiin main leat eambbo go 100 siiddu: 400,- ruvnno
+
+Eará mediain 200,- ruvnno
+
+Hattit leat biddjon dan vuođul ahte galget gokčat ođđa girjji/áigečállaga oastima, ja visot goluid mat leat mannan sisagáibideapmái gitta dassážii go rehket lea sáddejuvvon. (Njuolggadusat sisabuktimii luoikkahuvvon girjjiide/áigečállagiidda). Luoikkaheaddjis lea maid vejolaš oastit seammálágán$(vowlat,á-a|seammalágán) girjji sádjái$(vowc,á-a|sadjái).
+
+Earenoamáš divrras girjjiide/mediaide biddjo haddi sierra, ja sáhttá biddjot badjelii go dábálaš haddi.
+
+#BÁLVALUSAT OLGGOBEALGEAVAHEDDJIIDE
+
+Sierra šiehtadusa mielde olggosgoluid ektui.
+
+Reviderejun$(conc,0-vv;vowlat,0-o|Reviderejuvvon) 08.06.07
+
 Allaskuvlla direktora$(vowlat,o-e;conm,r-vr|direktevra) dohkkehan fágaservviiguin ráđđádallama vuođul.

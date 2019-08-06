@@ -1,4 +1,5 @@
 #14.12.12
+
 #kjell are guttorm nils h måsø berit marie lise eira
 
 
@@ -11,11 +12,13 @@ Finnmárkku filkkaráđđealmmái$(vowc,i-y|fylkkaráđđealmmái) ja filkkaláv
 – Dál gal lean hui movtta go eai heaittit skuvlla, lohká oahppi Vibeke Johnsen.
 
 Jahkásaš áitta
+
 Vaikke joatkkaskuvllaoahpi$(case,gen-nom;conc,hp-hpp|joatkkaskuvlaoahppi) Vibeke Johnsen leage duđavaš dál, de ballá ahte dás duohko juohke jagi vehážiid mielde geahpeduvvojit oahppofáladagat$(typo|oahppofálaldagat) eanandoalloskuvllas.
 
 - Ákkastallet sihkkarit fas dainna ahte menddo unnán oahppit dán skuvllas, dadjá Johnsen.
 
 Sihkkarastton$(conc,stt-st|Sihkkaraston) moatti jahkkái$(conc,hkk-hk|jahkái)
+
 Finnmárkku filkkasátnejođiheaddji$(vowc,i-y|fylkkasátnejođiheaddji) Runar Sjåstad, dadjá bušeahta dál leat meannuduvvon čuvvovaš$(vowc,dihp|čuovvovaš) njealjji$(conc,ljj-lj|njealji) jahkái, ja eanadoalloskuvla, Deanu joatkkaskuvla ii galgga heaittihuvvot dán áigodagas.
 
 – Vaikke in sáhtege dađi guhkelii$(conc,hk-hkk|guhkkelii) dáhkidit, de in leat 13 jagi filkapoletihkkemis$(vowc,i-y;conc,lk-lkk;vowlat,e-i|fylkkapolitihkkemis) leamaš mielde ovttage skuvlla heaittiheamen, loahpaha Sjåstad.

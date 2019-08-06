@@ -1,4 +1,5 @@
 #14.12.12
+
 #brita åse norlemann ja siv eli vuolab
 
 Risku vođđun$(vowc,o-uo|vuođđun) silbačiŋaide
@@ -11,7 +12,9 @@ Vaikko son guhká lea orron olggobeal$(vowlat,0-e|olggobeale) sámi birrasa, de 
 Ášši doaimmaha Brita Åse Norlemann
 
 Gollerávde-oahppi Lisbeth Somby háliida sámi čiŋaid fuomášuhttit máilbmái ja muitala dássážii vuohttán ahte su sámi designa boktá beroštumi.
+
 Sámivuohta$(vowlat,i-e|Sámevuohta) vuhtto čiŋain
+
 Son lea beannot jagi vázzán skuvlla Fredrikstadas, lulli-Norggas$(vowinit,cap|Lulli-Norggas). Fargga lea son oahppan gollerávdi.
 
 
@@ -21,7 +24,7 @@ Su dáidagis oidnoge bures sámivuohta$(vowlat,i-e|sámevuohta) vaikko ii lean g
 
 
 Risku inspirašuvdnan
+
 Lea váttis gávdnat barggu go geargá oahpuin, muhto son sávvá goit beassat joaktit$(typo|joatkit) gazzames$(vowm,e-i|gazzamis) oahpu soames oahppan, hárjánán$(vowm,á-a|hárjánan) gollečeahpi luhtte. De sávvá ráhkadišgoahtit čiŋaid mat leat vuolggahuvvon riskuin$(conc,sk-skk|riskkuin).
 
 - Háliidan ráhkadit čiŋaid main solju lea inspirašuvdnan. Seammás háliidan ahte earát, eai dušše sápmelaččat, geavahit mu čiŋaid. Soljju-čiŋat$(case,gen-nom|Soljočiŋat) rivguide.
-

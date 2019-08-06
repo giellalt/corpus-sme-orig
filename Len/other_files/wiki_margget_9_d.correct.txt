@@ -2,16 +2,25 @@
 #29.11.12
 
 Sámi Girječálliid Searvi - Samisk Forfatterforening -SGS- vuođđuduvvui Láhpoluobbalis, norggabeale Sámis Guovdageainnu suohkanis jagis 1979.
-Sisdoallu  [čiega] 
+
+Sisdoallu  [čiega]
 1 Ulbmilat
 2 Doaimmat
 3 Miellahttu
 4 Ovttasbargu
+
 Ulbmilat
+
 Ulbmilat leat ovddidit ja oainnusin dahkat sámegiel ja sámi girjjálašvuođa, ásahit stipeanddaid, foanddaid ja eará ekonomalaš ortnegiid sámi girječálliide, fuolahit ahte sámgiel$(typo|sámegiel) girjjálašvuođa ilbmadeapmi šattašii seamma buorre go Davviriikkain muđui oččodit stáhta garantiijabálkkáid sámi girječállide$(conm,d-id|girječálliide), ásahit bissovaš oastinortnega sámegiel girjjiide ja oččodit šiehtadallanvuoigatvuođa kopiija- ja bibliotehkabuhtadusaide Suomas ja Ruoŧas, oččodit stipeanddaid Suoma ja Ruoŧa Sámedikkiin ovttasbargat eará (álgoálbmot girječálliiguin)$(cmp,2-1|álgoálbmotgirječálliiguin).
+
 Doaimmat
+
 SGS lea ovttas eará dáiddaservviiguin ásahan sierra hálddáhusa$(vowlat,á-a|hálddahusa), Sámi Dáiddárráđi, sámi dáiddáriidda. SGS lea ožžon šiehtadallanvuoigatvuođa Norgga stáhtain bibliotehka- ja kopijjabuhtadusaide$(loan,conc,jj-ij|kopiijabuhtadusaide), ja maiddái ožžon sierra stipeanddaid sámi dáiddáriidda Norgga Sámedikkis. Lea maid ásahan Sámikopiija ja ásahan Sámi Dáiddáriid ja Girčálliid$(typo|Girječálliid) Buhtadusfoandda (SDGB). Maiddái šiehtadallan dáiddáršiehtadusa Norgga Sámedikkiin ja ásahan Sámi Girjeriemuid.
+
 Miellahttu
+
 SGSas$(acro,suf|SGS:s) leat sullii 50 miellahttu$(conc,htt-ht|miellahtu) miehtá Sámi. Miellahttun beassá sápmelaš ja sámegielat girječálli, sámegielat jorgaleaddji gii lea jorgalan sámegillii, sámi árbevirolaš muitaleaddji, máinnasteaddji ja luohtepoehta. Jahkečoahkkin dollo jahkásaččat ja lea searvvi alimus mearredeaddji$(vowlat,e-i|mearrideaddji). Jahkečoahkkin vállje jođiheaddji ja stivrra. Stivrras leat vihtta (5) mielahttu$(conc,htt-ht|miellahtu). SGS ruhtaduvvo doaibmadoarjagiin maid oažžu Sámedikkiin ja velá miellahttomávssuin.
+
 Ovttasbargu
+
 SGS bargá ovttas Sámi Dáiddačehpiid Servviin, Sámi Teahter$(loan,vowc,a-á|Teáhter) Servviin, Juigiid Servviin ja Komponisttaid Servviin. SGS lea miellahttu Sámi Dáiddáráđis$(prop,vowlat,á-a|Dáiddaráđis) (SDR). SGS bargá maid ovttas eará girječáliid$(conc,l-ll|girječálliid) servviiguin Davviriikkain.

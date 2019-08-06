@@ -1,62 +1,57 @@
-
 Guovttegielat (ruhta geaveheapmi$(vowlat,e-a|geavaheapmi))¢(cmp,2-1|ruhtageavaheapmi) Unjárggas
 
-Unjárgga Sámeálbmot bellodak lea miellahtučoahkkimis$(case,gen-nom|miellahttočoahkkimis) mearridan sáddet breava gos bivdit Unjárgga gielddas guorahallat geavaha go gielda ruđaid eavttuid mielde. 
+Unjárgga Sámeálbmot bellodak lea miellahtučoahkkimis$(case,gen-nom|miellahttočoahkkimis) mearridan sáddet breava gos bivdit Unjárgga gielddas guorahallat geavaha go gielda ruđaid eavttuid mielde.
 Unjárgga gielda
- 
+
 9840 Vuonnabahta/ Varangerbotn
- 
+
 Unjárgga gielda
 
 Departemeantta birra
-Mánáid- ja (dásseárvodepartemeanta bargu)£(case,nom-gen|dásseárvodepartemeantta bargu) lea:
- 
- 
-	nannet golaheddjiid rivtiiid$(typo|rivttiid), beroštumiid ja sihkkarvuođa  
-addit mánáide ja nuoraide oadjebas bajasšaddandili$(vowlat,a-á|bajásšaddandili), ja vejolašvuođa searvat
-	servodahkii ja leat fárus mearrideamin$(vowlat,i-e|mearrideamen) servogagas$(typo|servodagas)
-	sihkkarastit bearašiid$(conc,r-rr|bearrašiid) eallima ekonomalaččat ja sosialalaččat$(vowc,a-á|sosiálalaččat)
-	oaččuhit ollislaš ja duohta dásseárvvu nissoniid ja dievdduid gaskka
-Min bargosuorggit gusket eanas olbmuid árgabeaivái, ja mearrádusat mat dahkkojit sáhttet leat hirbmat mávssolaččat juohke olbmui. 
-Eanas oassi MLD bušeahtas manná juolludemiide mánnábearrášiidda$(vowlat,á-a|mánnábearrašiidda) - mánnáoadju, riegadahttinruhtii$(vowlat,a-á|riegádahttinruhtii) ja reaidadoarjagii. Buorredilledoaimmaid dáfus (leat mánáidsuodjalus)£(kongr,pl-sg|lea mánáidsuodjalus) okta dain stuorimus bušeahttapoasttain.	
 
- 
+Mánáid- ja (dásseárvodepartemeanta bargu)£(case,nom-gen|dásseárvodepartemeantta bargu) lea:
+
+- nannet golaheddjiid rivtiiid$(typo|rivttiid), beroštumiid ja sihkkarvuođa
+addit mánáide ja nuoraide oadjebas bajasšaddandili$(vowlat,a-á|bajásšaddandili), ja vejolašvuođa searvat
+- servodahkii ja leat fárus mearrideamin$(vowlat,i-e|mearrideamen) servogagas$(typo|servodagas)
+- sihkkarastit bearašiid$(conc,r-rr|bearrašiid) eallima ekonomalaččat ja sosialalaččat$(vowc,a-á|sosiálalaččat)
+- oaččuhit ollislaš ja duohta dásseárvvu nissoniid ja dievdduid gaskka
+
+Min bargosuorggit gusket eanas olbmuid árgabeaivái, ja mearrádusat mat dahkkojit sáhttet leat hirbmat mávssolaččat juohke olbmui.
+
+Eanas oassi MLD bušeahtas manná juolludemiide mánnábearrášiidda$(vowlat,á-a|mánnábearrašiidda) - mánnáoadju, riegadahttinruhtii$(vowlat,a-á|riegádahttinruhtii) ja reaidadoarjagii. Buorredilledoaimmaid dáfus (leat mánáidsuodjalus)£(kongr,pl-sg|lea mánáidsuodjalus) okta dain stuorimus bušeahttapoasttain.
+
+
 Fágaossodagat hálddašit lágaid ja doarjjasortnegiid$(typo|doarjjaortnegiid), barget plánemiin, čielggademiiguin, váikkuhandoaimmaiguin, bagadallamiin, diehtojuohkimiin álbmogii ja joavkkuide geaidda guoská. Ossodagat addet maiddái doarjaga dutkamii, (geahččalan ja ovdánahttinbargui)¢(hyph,0-1|geahččalan- ja ovdánahttinbargui), ja servet riikkaidgaskasaš ovttasbargguide sin fágasurggiineaset.
 
-
 Heterofiila ja homofiila páraid oktasaš náittosláhka
-[14.03.2008]
-Ráđđehus ovddida odne oktasaš náittoslága evttohusa. Láhka addá homofiillaide seamma vuoigatvuođa náitalit go heterofiillain ge lea. Seammás sihkkarastá láhka lesbalaš páraid mánáide guokte juridihkalaš váhnema jo eallima álggu rájes, ja homofiila náittospárat ožžot vejolašvuođa árvvoštallojuvvot adoptiivaváhnemin seamma láhkai go heterofiila náittospárat ge. – Ovttadássásašvuođa barggu historjjálaš lávki, dadjá mánáid- ja dásseárvoministtar Anniken Huitfeldt.
 
+[14.03.2008]
+
+Ráđđehus ovddida odne oktasaš náittoslága evttohusa. Láhka addá homofiillaide seamma vuoigatvuođa náitalit go heterofiillain ge lea. Seammás sihkkarastá láhka lesbalaš páraid mánáide guokte juridihkalaš váhnema jo eallima álggu rájes, ja homofiila náittospárat ožžot vejolašvuođa árvvoštallojuvvot adoptiivaváhnemin seamma láhkai go heterofiila náittospárat ge. – Ovttadássásašvuođa barggu historjjálaš lávki, dadjá mánáid- ja dásseárvoministtar Anniken Huitfeldt.
 
 Eanet dokumeanttat fáttá birra
 anlávdegoddi
 9840 Vuonnabahta / Varangerbotn
- 
- 
- 
+
 Guovttegielat ruhtageavaheapmi Unjárggas
- 
- 
- 
- 
+
 Unjárgga Sámeálbmot Bellodak (SáB) lea media bokte dihtosii ožžon dan ahte gielddat geat ožžot ruhtajuolludeame Sámedikkis, eai sáhte duođaštit dan geavaheame. Sámegiella lea hui hearkkes dilis, ja lea danne dárbbašlaš ahte diet juolludeapmi geavahuvvo eavttuid mielde.
- 
+
 (Dahko bokte bivdit ahte)¢(vowc,a-á;conc,hk-kk|Dákko bokte bivdit ahte) čađahuvvo guorahallan mo Unjárgga gielda hálddaša guovttegielat ruđaid maid gielda oažžu Sámedikkis.
- 
-Mii bivdit Unjárgga gielda dárkkistanlávdegotti bokte, čađahit dien iskosa.  
- 
+
+Mii bivdit Unjárgga gielda dárkkistanlávdegotti bokte, čađahit dien iskosa.
+
 (Bohtosat fertejit boahtit oidnosii, ja erenoamážit dan ahte geavahuvvo
 juolluduvvon ruhta ulbmiliid ja eavttuid mielde)£(case,acc-nom|Bohtosat fertejit boahtit oidnosii, ja erenoamážit dat ahte geavahuvvo juolluduvvon ruhta ulbmiliid ja eavttuid mielde).
- 
+
 Unjárgga SáB boahtá čuovvut ášši, guđe láhkai gieldda bealis barget iskat guovttegielat ruhtadeame.
- 
- 
+
+
 Unjárga, 16.6. 2008
- 
+
 Unjárgga Sámeálbmot Bellodak
- 
- 
+
+
 Elfrid Boine
 Jođiheaddji
-

@@ -1,22 +1,24 @@
 #8.12.12
 
 Sámi Siida čielggada sámegielat skuvllaid ja beaiveruovttuid ásaheami
+
 Ođđasat jahkečoahkkimis
+
 Sámi Siidda jahkečoahkkin ii leat duđavaš dálá dilis sámegielat oahpahusas ja beaiveruovttuin. Danne mearridii čielgadišgoahtit sámegielat skuvllaid ja beaiveruovttuid ásaheami. Ođđa jođiheaddji Torkel Rasmussen lohká dákkár ásahemiid leat sihke vejolažžan ja ruđalaččat gánnehahttin.
 
 Ohcejoga gielddaráđđehus lea sihkastan eret guokte oahpaheaddjiidvirggi$(vowc,mono|oahpaheddjiidvirggi) ja doaimmaha sámegielat beaiveruovttuid dohkkemeahttumis gáržžes latnjadilis.
 
-Sámi Siida oaidná nu buriid ruhtadanvejolašvuođaid sámegielat skuvllain ja beaiveruovttuin ahte jáhkká iežas nákcet sihke ásahit ja doaimmahit skuvllaid ja beaiveruovttuid. 
+Sámi Siida oaidná nu buriid ruhtadanvejolašvuođaid sámegielat skuvllain ja beaiveruovttuin ahte jáhkká iežas nákcet sihke ásahit ja doaimmahit skuvllaid ja beaiveruovttuid.
 
-- Suoma stáhta doarju priváhta skuvllaid ja beaiveruovttuid ja gokčá sámegielat oahpahusa oahpaheaddjigoluid$(vowlat,i-e|oahpaheaddjegoluid). Dasa lassin juolluda Sámediggi doarjaga sámegielat beaiveruovttuide ja giellabesiide. Lea maid vejolaš vuovdit buori hattis beaiveruovttu sajiid gránnjágielddaide$(coninit,gr-kr|kránnjágielddaide). Dan dahká Ohcejoga gielda dál ja dine bures das, čilge Sámi Siidda jođiheaddji Torkel Rasmussen 
+- Suoma stáhta doarju priváhta skuvllaid ja beaiveruovttuid ja gokčá sámegielat oahpahusa oahpaheaddjigoluid$(vowlat,i-e|oahpaheaddjegoluid). Dasa lassin juolluda Sámediggi doarjaga sámegielat beaiveruovttuide ja giellabesiide. Lea maid vejolaš vuovdit buori hattis beaiveruovttu sajiid gránnjágielddaide$(coninit,gr-kr|kránnjágielddaide). Dan dahká Ohcejoga gielda dál ja dine bures das, čilge Sámi Siidda jođiheaddji Torkel Rasmussen
 
-Sámi Siidda jahkečoahkkin mearridii muđui (joatkit dálá doaimmaiguin dego mannan jagi, omd mánáid ja nuoraiddoaimmaguin)$(typo|nuoraiddoaimmaiguin)¢(hyph,0-1|joatkit dálá doaimmaiguin dego mannan jagi, omd mánáid- ja nuoraiddoaimmaiguin). Čoahkkima beavdegirji ja doaibmaplána biddjojuvvo lohkanláhkai$(cmp,1-2|lohkan láhkai) go lea dárkkistuvvon. 
+Sámi Siidda jahkečoahkkin mearridii muđui (joatkit dálá doaimmaiguin dego mannan jagi, omd mánáid ja nuoraiddoaimmaguin)$(typo|nuoraiddoaimmaiguin)¢(hyph,0-1|joatkit dálá doaimmaiguin dego mannan jagi, omd mánáid- ja nuoraiddoaimmaiguin). Čoahkkima beavdegirji ja doaibmaplána biddjojuvvo lohkanláhkai$(cmp,1-2|lohkan láhkai) go lea dárkkistuvvon.
 
-Das namahuvvo dušše ahte (njuolggadusaide leat boahtán guokte nuppástusa mii nanne sámegiela sajádaga)£(kongr,sg-pl|njuolggadusaide leat boahtán guokte nuppástusa mat nannejit sámegiela sajádaga) searvvi doaimmain ja deattuhit searvvi doaimma davvisámegielat searvin mii doarju, nanne ja ealáskahttá sámegiela. 
+Das namahuvvo dušše ahte (njuolggadusaide leat boahtán guokte nuppástusa mii nanne sámegiela sajádaga)£(kongr,sg-pl|njuolggadusaide leat boahtán guokte nuppástusa mat nannejit sámegiela sajádaga) searvvi doaimmain ja deattuhit searvvi doaimma davvisámegielat searvin mii doarju, nanne ja ealáskahttá sámegiela.
 
-Ođđa 2 § (Searvvi čoahkkin ja beavdegirjegiella lea sámegiella)¢(hyph,0-1|Searvvi čoahkkin- ja beavdegirjegiella lea sámegiella) 
-Ođđa 3 § Searvvi ulbmilin lea doarjut, nannet ja ealáskahttit davvisámegiela. Dan lassin ulbmilin lea dorvvastit sámiid vuoigatvuođaid doalahit, ollašuhttit ja ovddidit iežas kultuvrra sihke doarjut ja ovddidit sámi kultuvrralaš, sosiálalaš, vuoigatvuođalaš ja almmolaš ekonomalaš vikkamušaid$(conc,kk-gg|viggamušaid) ja maiddái bargat ovttas riikka rájáid badjel. 
+Ođđa 2 § (Searvvi čoahkkin ja beavdegirjegiella lea sámegiella)¢(hyph,0-1|Searvvi čoahkkin- ja beavdegirjegiella lea sámegiella)
 
-Ságajođiheaddji Torkel Rasmussen lassin válljejuvvui várraságajođiheaddjin$(vowlat,a-e|várreságajođiheaddjin) Karen Kitti, stivralahttun$(case,nom-gen|stivrralahttun) Heidi Kitti, Niilo Kalevi Länsman ja Siskko Länsman 
+Ođđa 3 § Searvvi ulbmilin lea doarjut, nannet ja ealáskahttit davvisámegiela. Dan lassin ulbmilin lea dorvvastit sámiid vuoigatvuođaid doalahit, ollašuhttit ja ovddidit iežas kultuvrra sihke doarjut ja ovddidit sámi kultuvrralaš, sosiálalaš, vuoigatvuođalaš ja almmolaš ekonomalaš vikkamušaid$(conc,kk-gg|viggamušaid) ja maiddái bargat ovttas riikka rájáid badjel.
+
+Ságajođiheaddji Torkel Rasmussen lassin válljejuvvui várraságajođiheaddjin$(vowlat,a-e|várreságajođiheaddjin) Karen Kitti, stivralahttun$(case,nom-gen|stivrralahttun) Heidi Kitti, Niilo Kalevi Länsman ja Siskko Länsman
 Várrelahttun: Erika Sarivaara, Maarit K. Peski, Jouni Esa Nuosuniemi$(typo|Nousuniemi), Juha Pohjanraito ja Heidi Eriksen
-

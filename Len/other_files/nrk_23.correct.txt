@@ -1,5 +1,7 @@
 #3.12.12
+
 ##Aslak Ilkka Niittyvuopio  ja Klemet Andres Sara
+
 #Publisert∞(nob) 03.12.2012 10:19.
 
 
@@ -20,6 +22,7 @@ Artihkkal$(conc,hkk-hk|Artihkal) joatkašuvvá gova vuolde.
 Roger Ingebrigtsen čálii iežas Facebook siiddus ášši birra.
 
 Nominašuvnnat maŋiduvvon
+
 Guokte beaivvi ovdal go Romssa Bargiidbellodat galggai mearridit gii sin (njunuš áirras)¢(cmp,2-1|njunušáirras) galgá leat boahtte jagi Stuoradikkeválggas$(case,gen-nom|Stuoradiggeválggas), de bođii Roger Ingebrigtsen ášši. Son lei (nubbi gilvaleaddjin)£(case,nom-ess|nubbin gilvaleaddjin) bellodaga njunnošii. Harstad BB sátnejođiheaddji, Marianne Bremnes gal oaivvilda ahte (Ingebrigtsen bidjui dán dillái)¢(conc,dj-ddj|Ingebrigtsen biddjui dán dillái) Vibeke Ek bealis go son jođiha nissoniid áššiid Romssa bargiidbellodagas, ja son livččii galgan eará árvvoštallama dahkat dás.
 
 - Son reagere dasa, go Roger Ingebrigtsen dahkko dán ovdanbuktimis gillájeaddjin ja go Ek jođiha nissoniid áššiid Romssa bargiidbellodagas, (de livčče son galgan váldit dán ášši veahá eará láhkai)£(infl,conneg-sg3|de livččii son galgan váldit dán ášši veahá eará láhkai), čilge Bremnes.
@@ -29,4 +32,3 @@ Romssa bargiidbellodaga fylkajođiheaddji$(case,nom-gen|fylkkajođiheaddji), Bj�
 Romssa bargiidbellodat lea maŋidan (nominašuvdna čoahkkima)¢(cmp,2-1|nominašuvdnačoahkkima) dán mánu gaskamuddui dán ášši geažil dadjá, fylkajođiheaddji$(case,nom-gen|fylkkajođiheaddji), Bjørn Inge Mo
 
 - Dál fertejit sii jurddašit dán ášši ja bosihit veháš, go leat gullan dán ja danne leat sii mearridan maŋidit nominašuvnna.
-

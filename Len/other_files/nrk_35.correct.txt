@@ -1,8 +1,11 @@
 #7.12.12
+
 #anne.olli@nrk.no∞(url)
+
 #Publisert∞(nob) 26.09.2012 13:59.
 
 Heahpanattaid$(fin,i-id|Heahpanattai) go lei indiána
+
 Cree-indiána galledii sámiid
 
 Jim Poitras muitalii iežas eallimis.
@@ -12,11 +15,13 @@ Sámis lea dál jođašan Cree-indiána Jim Poitras. Son lea galledan sámiid da
 Ášši doaimmaha Ánne Olli
 
 Ii beassan iežas olbmuid luhtte bajášaddat$(conwb,š-sš|bajásšaddat)
+
 Ieažas$(typo|Iežas) muitala Albertas riegádan, muhto ii beassan vánhemiddis$(conc,dd-idd|vánhemiiddis) luhte$(conc,ht-htt|luhtte) gal bajásšaddat, danne go dan áigge go son riegádii, de válde indiánáin$(vowlat,á-a|indiánain) eiseválddit mánáid dađis go nissonat riegádahtte.
 
 Jim Poitras čuojahii ja dánssui olbmuide geat bohte su čájáhussii
 
 Šattaid$(fin,id-i|Šattai) bajás vilgesolbmuid ruovttus
+
 Iežas muitala bajásšaddan vilgesolbmuid luhtte. Easka ollesolmmožin válddii son iežas duogáža ja eallinvugiid ruovttoluotta. Boares olbmot leat rávvejeaddjit ja buorideaddjit, nu son oaivvilda.
 
 Indiánaid eallin dego sámiid eallin
@@ -24,4 +29,3 @@ Indiánaid eallin dego sámiid eallin
 Jim Poitras ja Piera Jovnna Somby
 
 Kárášjohkalaš Piera Jovnna Somby muitala iežas fitnan cree-indiánaid guovllus, ja doppe lei son dego ruovttus. Su mielas muittuhedje sin vierut dološ sámi oskku. - Sin lávlun lea dego min juoiogan$(typo|juoigan), ja sis leat maid dego lávut gos ijastallet. Siige (leat nannosit čatnon luonddu ealáhusaide)¢(conc,tn-dn|leat nannosit čadnon luonddu ealáhusaide), nu muitala Piera Jovnna Somby, gii iežas muitala leat čállimin masterbarggus vuoiŋŋalašvuođas.
-

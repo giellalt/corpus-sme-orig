@@ -1,5 +1,7 @@
 #30.11.12
+
 #Anne Olli
+
 #Publisert∞(nob) 14.11.2012 14:34.
 
 
@@ -13,8 +15,11 @@ Dolenáigge$(vowlat,e-i;cmp,1-2|Dolin áigge) lei buot biergasiin juoga man diht
 Ášši doaimmaha Ánne Olli
 
 Silbbat suddjejit
-Guovssahas orkestera$(vowc,diph;vowc,e-a|orkeastara) son lohká leat dien jorba čiŋa sisa bidjan, baldindihtii$(cmp,1-2|baldin dihtii) ulddaid ja eará bálddonasaid$(vowc,á-a|balddonasaid). Son leage ráhkadan dien stuorra jorba čiŋa mii silbaleankkis$(conc,nkk-ŋkk;vowlat,i-a|silbaleaŋkkas) galgá heaŋgát. Dolin heŋgejedje dákkáraš silbačiŋa, mas jorba lávggastagat vel ledje, njuoratmáná gietkama goavdái, dát galggai doaibmat nu ahte gufihttarat dahjege eananvuložat$(case,nom-gen|eatnanvuložat) eai galgan lonuhit njuoratmáná alcceseaset mánnán. Silbačiŋat ledje anolaš biergasat. Dat várjáledje$(vowlat,á-a|várjaledje) maid mánáid, ja meahccis$(conc,hcc-hc|meahcis) ges balde guovžžaid. 
+
+Guovssahas orkestera$(vowc,diph;vowc,e-a|orkeastara) son lohká leat dien jorba čiŋa sisa bidjan, baldindihtii$(cmp,1-2|baldin dihtii) ulddaid ja eará bálddonasaid$(vowc,á-a|balddonasaid). Son leage ráhkadan dien stuorra jorba čiŋa mii silbaleankkis$(conc,nkk-ŋkk;vowlat,i-a|silbaleaŋkkas) galgá heaŋgát. Dolin heŋgejedje dákkáraš silbačiŋa, mas jorba lávggastagat vel ledje, njuoratmáná gietkama goavdái, dát galggai doaibmat nu ahte gufihttarat dahjege eananvuložat$(case,nom-gen|eatnanvuložat) eai galgan lonuhit njuoratmáná alcceseaset mánnán. Silbačiŋat ledje anolaš biergasat. Dat várjáledje$(vowlat,á-a|várjaledje) maid mánáid, ja meahccis$(conc,hcc-hc|meahcis) ges balde guovžžaid.
+
 Son lea hutkás duojár
+
 Petteri Laiti lea silbarávdi ja duojár, iešge lea alcces hutkan veahkkeneavvuid, bázahusain (sáhttá fitnet buriid biergasiid)¢(conc,tn-dn|sáhttá fidnet buriid biergasiid). Nu son loktesa$(typo|loktesta) guvssi maid báhkis lea ráhkadan. Go šlugila$(typo|šluvgila) de geavjjainge gullá čuodjama, gollebihtážat ráhkadit jiena.
 
 

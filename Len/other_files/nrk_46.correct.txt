@@ -1,4 +1,5 @@
 #10.12.12
+
 #Publisert∞(nob) 10.12.2012 07:41.
 
 – Áiggun oahppat sámegiela
@@ -12,6 +13,7 @@ Son lea Bargiidbellodaga vuosttaš nissonolmmoš (sámediggepresideanta evttohas
 Olli lohká (Ávjováris válgaguovllus)£(case,loc-gen|Ávjovári válgaguovllus) hálidan$(conm,d-id|háliidan) sámegielat presideantta ja lohká buorre go (várrepresideantta hálddaša sámegiela)¢(conc,ntt-nt|várrepresideanta hálddaša sámegiela).
 
 Lei movtta
+
 Vibeke Larsen valljejuvvui$(vowc,a-á|válljejuvvui) bargiidbellodaga (presideantta evttohassan)¢(cmp,2-1;case,gen-nom|presideantaevttohassan) lavvardaga$(vowc,a-á|lávvardaga). Vaikko Larsen ii lean válgalávdegotti árvalus, de oaččui son 15 jiena 21 jienas.
 
 Várrepresideanttan$(conc,ntt-nt|Várrepresideantan) valljejuvvui$(vowc,a-á|válljejuvvui) Johan Vasara. Maŋŋá valljemiid$(vowc,a-á|válljemiid) lei Larsen hui movtta go bellodagas lea luohttámuš sutnje.
@@ -19,6 +21,7 @@ Várrepresideanttan$(conc,ntt-nt|Várrepresideantan) valljejuvvui$(vowc,a-á|vá
 – (Vuollegašvuođa vuolggán)£(case,acc-com|Vuollegašvuođain vuolggán) dán doibmi$(fin,0-i|doibmii) ja (lean hui giitevaš go dáhttut)¢(vowlat,u-o|lean hui giitevaš go dáhttot) mu (sámedikkepresideantta$(cmp,gen-nom|sámediggepresideantta) evttohassan)¢(cmp,2-1;case,gen-nom|sámediggepresideantaevttohassan), lohká Vibeke Larsen.
 
 Oahppat sámegiela
+
 Go (earát bellodagat)£(infl,nom-attr|eará bellodagat) leat buktán sámegielat presideanttaevttohasaid$(case,gen-nom|presideantaevttohasaid), lea Bargiidbellodagas dárogielat presideanttaevttohas$(case,gen-nom|presideantaevttohas).
 
 Dál áigu Larsen maid oahppat sámegiela, dan mađe goit ahte ádde maid olbmot hupmet.
@@ -26,6 +29,7 @@ Dál áigu Larsen maid oahppat sámegiela, dan mađe goit ahte ádde maid olbmot
 – In leat jurddašan digáštallamiidda$(vowlat,á-a|digaštallamiidda) mat sámegilli mannet, in álggus gal, lohká Larsen.
 
 Veaháš hástalus
+
 – Čielggas ahte lea veaháš hehttehus jos (sámediggepresideantta ii sáhte searvat)¢(conc,ntt-nt|sámediggepresideanta ii sáhte searvat) digáštallamiidda$(vowlat,á-a|digaštallamiidda) go mannet sámegilli, lohká Kåre Olli.
 
 Olli jáhkká gal bellodaga birget bures go jo várrepresideanttaevttohas$(case,gen-nom|várrepresideantaevttohas) hállá sámegiela, vaikko buktá muhtin hástalusaid.

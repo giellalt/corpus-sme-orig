@@ -1,5 +1,7 @@
 #7.12.12
+
 #anne.olli@nrk.no∞(url)
+
 #Publisert∞(nob) 07.11.2012 14:46.
 
 Dánsumiin čájehit máhtolašvuođaset
@@ -12,6 +14,7 @@ Dál leat Avvila/ Ivalon Lukio nuppiluohkkálaččat oahpahallagohtán$(vowc,dip
 Ášši doaimmaha Ánne Olli
 
 Nuppi luohkkálaččat dánsot
+
 Nuppi luohkás dat Avvila logahaga oahppit dánsot ovddešáigge dánssaid čájehandihtii$(cmp,1-2|čájehan dihtii) ahte dál leat sii dat boarraseapmosat$(vowlat,a-á;vowc,mono|boarrásepmosat) lagahagas$(typo|logahagas). Dáhpin lea áinnat$(vowc,diph|oainnat) ahte goalmmát luohkkálaččat guđđet logahaga guovvamánus, go dalle álget sii ráhkkanit loahppageahčalemiide$(conc,hč-hčč|loahppageahččalemiide).
 
 
@@ -20,9 +23,9 @@ Mattias West
 Kalle Välitalo
 
 Dánsumis ožžot árvosániid
+
 Nuppi luohkkálaččaid dánsun lea oassin lásmmohallanfágas$(conc,smm-šmm|lášmmohallanfágas). Dánsumis ožžot maid árvosániid, ja dalle leat ollugat geahččamin, sihke vánhemat ja earáge guossit.
 
 Avvila logahaga dánssat guovvamánnu 2012
-
 
 Marjaana Aikio
