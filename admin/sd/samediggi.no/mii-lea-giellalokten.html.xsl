@@ -9,11 +9,11 @@
         The original name of the file that comes from the
         submitter of the document or the URL where the document has been fetched.
         These days it is automatically added by the add_files_to_corpus tool.
-        http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
+        https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://www.samediggi.no/Samedikki-birra2/Arkiiva-aigodat-2016-2017/Samediggeraddi'"/>
+    <xsl:variable name="filename" select="'https://www.samediggi.no/Balvalusat2/Giella/Mii-lea-Giellalokten'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámediggeráđđi'"/>
+    <xsl:variable name="title" select="'Mii lea Giellalokten?'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="'2017'"/>
+    <xsl:variable name="year" select="'2019'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -98,8 +98,8 @@
     <!-- e.g. Sámediggi journal number -->
     <xsl:variable name="contract_id" select="''"/>
     <!-- The name and email of the submitter -->
-    <xsl:variable name="sub_name" select="'Kevin Brubeck Unhammer'"/>
-    <xsl:variable name="sub_email" select="'unhammer@fsfe.org'"/>
+    <xsl:variable name="sub_name" select="''"/>
+    <xsl:variable name="sub_email" select="''"/>
     <!-- Keep empty, this is automatically filled in by CorpusTools -->
     <xsl:variable name="wordcount" select="''"/>
     <!-- This variable can have the following values:
@@ -141,7 +141,7 @@
     -->
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="nob"/><language xml:lang="eng"/><language xml:lang="sme"/></xsl:variable>
+    </xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
@@ -168,11 +168,11 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="sametingsraadet.html"/>
+        <parallel_text xml:lang="nob" location="hva-er-spraakloeftet.html"/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="saemiedigkieraerie.html"/>
+        <parallel_text xml:lang="sma" location="mij-gielelutnjeme.html"/>
         <parallel_text xml:lang="sme" location=""/>
-        <parallel_text xml:lang="smj" location="samedikkerade.html"/>
+        <parallel_text xml:lang="smj" location="mij-la-giellalaapptim.html"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

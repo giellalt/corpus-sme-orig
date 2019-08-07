@@ -168,7 +168,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="tilskudd-og-stipend_tag=89.html"/>
+        <parallel_text xml:lang="nob" location="tilskudd-og-stipend.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="daaarjoe-jih-stipende.html"/>
         <parallel_text xml:lang="sme" location=""/>
