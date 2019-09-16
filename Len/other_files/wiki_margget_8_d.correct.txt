@@ -1,38 +1,38 @@
 #http://se.wikipedia.org/w/index.php?title=Kåre_Willoch&oldid=138434
 #29.11.12
 
-Kåre Isaachsen Willoch (riegádan golggotmánu 3. beaivve jagis 1928 Oslos) lea ovddeš norgga politihkkár (Olgešbellodat). Son leai Olgešbellodaga generálačállin jagis 1963 rájes gitta 1965 jahkái, Olgešbellodaga jođiheaddjin jagi 1970 rájes 1974 rádjai, hánddalministtarin jagis 1963 ja jagiin 1965-1970. Maŋŋá go son geassádii riikkapolitihkas leai son Oslo ja Akershusa filkamánnen$(loan,vowc,i-y;conc,lk-lkk;vowlat,e-i|fylkkamánnin)(1989-1998) ja stivrajođiheaddjin NRK:as$(acro,suf|NRK:s) (1998-2000).
+Kåre Isaachsen Willoch (riegádan golggotmánu 3. beaivve jagis 1928 Oslos) lea ovddeš norgga politihkkár (Olgešbellodat). Son leai Olgešbellodaga generálačállin jagis 1963 rájes gitta 1965 jahkái, Olgešbellodaga jođiheaddjin jagi 1970 rájes 1974 rádjai, hánddalministtarin jagis 1963 ja jagiin 1965-1970. Maŋŋá go son geassádii riikkapolitihkas leai son Oslo ja Akershusa filkamánnen$(noun,mix|fylkkamánnin)(1989-1998) ja stivrajođiheaddjin$(noun,cmp,nomsg,gensg|stivrrajođiheaddjin) NRK:as$(acr,suf|NRK:s) (1998-2000).
 
 Duogáš Son lea oahppan sosiálaekonoma, ja bargan ovdal Norges Rederiforbund:as$(prop,suf|Rederiforbundas) ja Norges Industriforbund:as$(prop,suf|Industriforbundas).
 
-Politihkálaš$(loan,vowlat,á-a|Politihkalaš) ámmáhat Willoch leai bellodatpolitihkkárin Olgežis beakkán jođiheaddji, ja hui čielga ovddasteaddji olgešbellodatbárus mii bođii johtui 1970-logu loahpas. Jienasteaddjit doarjugohte konservatiivalaš$(loan,conc,iv-ivv|konservatiivvalaš) ja márkanliberalisttálaš$(loan,vowlat,á-a|márkanliberalisttalaš) politihka, dagahii ahte Olgeš, Willocha jođihemiin, stuorui riikka nubbin stuorámus bellodahkan. Nuba jagis 1981 son šattai stádaministtarin dan vuosttaš čielga Olgeš-ráđđehusas, jagi 1928 Ivar Lykke ráđđehusa rájes. Ráđđehus viiddiduvvui jagis 1983:as$(num,suf|1983:s) vel guvttiin bellodagain, Guovddášbellodagain ja Risttalaš Álbmotbellodagain, nuba leai čielga eanetlohku su duogábeale Stuorradikkis. Jagi 1985 stuorradikkeválggain maŋŋá šattai Willoch ráđđehus unnitloguráđđehussan. Guokte dehálaš (reforbma rievdadusa)$(cmp,2-1|reforbmarievdadusa) dán ráđđehusáiggis ledje earret eará unnidit almmolašvuođa vejolašvuođa seaguhit áššiide. Dainnavugiin$(cmp,1-2|Dainna vugiin) galggai servodat dahkkon£dahkkot eanet rabasin mas lea unnit almmolaš detáljastivrema£detáljastivren ja ráddjema£ráddjen. Numo omd. giddenlága ovdii bođii rahpanáigeláhka, juoga mii divttii ealáhusdoalliid$(nomag,vowc,mono|ealáhusdolliid) (gávppiid) leat rabasin maŋŋá diibmu 17.00 maddái$(typo|maiddái). Lagasradiot$(loan,vowc,a-á|Lagasrádiot) leai lohpi ásahit ja NRK sáddenmonopola nogai. Maiddái dearvvašvuođabálvalusaid monopola nogai go šattai lohpi ásahit priváhta medisiinnálaš$(loan,vowlat,á-a|medisiinnalaš) klinihkaid.
+Politihkálaš$(adj,a|Politihkalaš) ámmáhat Willoch leai bellodatpolitihkkárin Olgežis beakkán jođiheaddji, ja hui čielga ovddasteaddji olgešbellodatbárus mii bođii johtui 1970-logu loahpas. Jienasteaddjit doarjugohte konservatiivalaš$(adj,conc|konservatiivvalaš) ja márkanliberalisttálaš$(adj,a|márkanliberalisttalaš) politihka, dagahii ahte Olgeš, Willocha jođihemiin, stuorui riikka nubbin stuorámus bellodahkan. Nuba jagis 1981 son šattai stádaministtarin dan vuosttaš čielga Olgeš-ráđđehusas, jagi 1928 Ivar Lykke ráđđehusa rájes. Ráđđehus viiddiduvvui jagis 1983:as$(num,suf|1983:s) vel guvttiin bellodagain, Guovddášbellodagain ja Risttalaš Álbmotbellodagain, nuba leai čielga eanetlohku su duogábeale Stuorradikkis. Jagi 1985 stuorradikkeválggain$(noun,cmp,gensg,nomsg|stuorradiggeválggain) maŋŋá šattai Willoch ráđđehus unnitloguráđđehussan. Guokte dehálaš (reforbma rievdadusa)$(noun,cmp|reforbmarievdadusa) dán ráđđehusáiggis ledje earret eará unnidit almmolašvuođa vejolašvuođa seaguhit áššiide. Dainnavugiin$(noun,notcmp|Dainna vugiin) galggai servodat dahkkon eanet rabasin mas (lea unnit almmolaš detáljastivrema ja ráddjema)£(noun,pred,nomsg,accsg,case|lea unnit almmolaš detáljastivren ja ráddjen). Numo omd. giddenlága ovdii bođii rahpanáigeláhka, juoga mii divttii ealáhusdoalliid (gávppiid) leat rabasin maŋŋá diibmu 17.00 maddái$(adv,typo|maiddái). Lagasradiot$(noun,á|Lagasrádiot) leai lohpi ásahit ja NRK sáddenmonopola nogai. Maiddái dearvvašvuođabálvalusaid monopola nogai go šattai lohpi ásahit priváhta medisiinnálaš$(adj,a|medisiinnalaš) klinihkaid.
 
-Kåre ja Gro Dat politihkálaš$(loan,vowlat,á-a|politihkalaš) digáštallan$(vowlat,á-a|digaštallan) Norggas šattai garrasit vuostálagai$(fin,i-id|vuostálagaid) Olgeža jođiheaddji Willocha ja stuorámus vašálačča Bargiidbellodaga jođiheaddji Gro Harlem Brundtlanda gaskka. «Gro og Kåre» gaskasaš TV-debáhtat ledje stuorra mediadáhpáhusat. Digáštallamiin$(vowlat,á-a|Digaštallamiin) čalmmustahtii Willoch iežas su čeahpes hállanvugiin, ja mievžžadeaddji ráfálašvuođain. Son almmuhii jagis 2008 ságastallangirjji «Alvorlig talt» ovttas Odvar Nordli:ain$(prop,suf|Nordliin).
+Kåre ja Gro Dat politihkálaš$(adj,a|politihkalaš) digáštallan$(verb,a|digaštallan) Norggas šattai garrasit vuostálagai$(adv,fin|vuostálagaid) Olgeža jođiheaddji Willocha ja stuorámus vašálačča Bargiidbellodaga jođiheaddji Gro Harlem Brundtlanda gaskka. («)$(cit|")Gro og Kåre(»)$(cit|") gaskasaš TV-debáhtat ledje stuorra mediadáhpáhusat. Digáštallamiin$(noun,a|Digaštallamiin) čalmmustahtii Willoch iežas su čeahpes hállanvugiin, ja mievžžadeaddji ráfálašvuođain. Son almmuhii jagis 2008 ságastallangirjji «Alvorlig talt» ovttas Odvar Nordli:ain$(prop,suf|Nordliin).
 
 Virggit / barggut:
 - 1953: Oahppan cand.oecon.
 - 1954–1963: Bargi Norges Industriforbund:as$(prop,suf|Industriforbundas)
 - 1957–1989: Stuorradikkeovddasteaddji Oslo Olgežii
-- 1963–1965: Generálčálli$(loan,cmp,ál-ála|Generálačálli) Olgešbellodagas
-- 1963: Hánddalministtar i Lyng-ráđđehusas (borgemánnu-čakčamánnu)
+- 1963–1965: Generálčálli$(noun,vow|Generálačálli) Olgešbellodagas
+- 1963: Hánddalministtar i¥0 Lyng-ráđđehusas (borgemánnu-čakčamánnu)
 - 1965–1970: Hánddalministtar Bortenráđđehusas
 - 1970–1974: Olgešbellodaga jođiheaddji
-- 1970–1981: Parlamentáralaš jođiheaddji Olgešbellodaga stuorradikkejoavku$(cmp,gen-nom|stuorradiggejovkui)
+- 1970–1981: Parlamentáralaš jođiheaddji Olgešbellodaga stuorradikkejoavku$(noun,cmp,gen,nom|stuorradiggejoavku)
 - 1981–1986: Norgga stádaministtarin
 - 1986: Sadjásašpresideantan riikkaidgaskasaš Demokráhtalaš Uniovdnan
-- 1986–1989: Olgoriikalávdegottijođiheaddji$(cmp,gen-nom|Olgoriikalávdegoddejođiheaddji)
+- 1986–1989: Olgoriikalávdegottijođiheaddji
 - 1986–1992: Norsk-tysk selskap presideanta (Deutsch-Norwegische Gesellschaft)
-- 1989–1998: Oslo ja Akershus Filkamánne$(loan,vowc,i-y;conc,lk-lkk;vowlat,e-i|Fylkkamánni)
+- 1989–1998: Oslo ja Akershus Filkamánne$(noun,mix|Fylkkamánne)
 - 1990: Suodjaluskommišuvnna jođiheaddji jagis 1990
-- 1998–2000: NRK:a$(acro,suf|NRK) stivrajođiheaddji
-- 1999–2000: Jođiheaddji Sårbarhetsutvalget nammaduvvon Bondevik-ráđđehusas čakčamán$(typo|čakčamánu) 3. beaivve 1999, dainna ulbmiliin čielggadit servodaga rašesvuođa ja ráhkkaneami.
+- 1998–2000: NRK:a$(acr,suf|NRK) stivrajođiheaddji$(noun,cmp,nom,gen|stivrrajođiheaddji)
+- 1999–2000: Jođiheaddji Sårbarhetsutvalget nammaduvvon Bondevik-ráđđehusas čakčamán$(noun,typo|čakčamánu) 3. beaivve 1999, dainna ulbmiliin čielggadit servodaga rašesvuođa ja ráhkkaneami.
 
 Bálkkašumit/Nammadeamit
 - 1983 gudnedoavttirin St. Olaf College:s Minneapolis, USA
-- 1996 nammaduvvui «Årets opinionsdanner» (dánjagaš opiniondahkki$(loan,cmp,on-ovdna|opiniovdnadahkki) ) Redaktørforeningen:a$(prop,suf|Redaktørforeningen) ja seamma jagi geigejedje Norges Bondelag:a$(prop,suf|Bondelag) bálkkašumi «Sunt Bondevett»
-- 1996 nammaduvvui St. Olavs Orden:a$(prop,suf|Orden) kommandør:an$(loan,ør-evra;suf|kommandevran) násttiin 1997 oaččui Fritt Ord-bálkkašumi, (friddja-sátni).
+- 1996 nammaduvvui («)$(cit|")Årets opinionsdanner(»)$(cit|") (dánjagaš opiniondahkki) Redaktørforeningen:a$(prop,suf|Redaktørforeningen) ja seamma jagi geigejedje Norges Bondelag:a$(prop,suf|Bondelag) bálkkašumi («)$(cit|")Sunt Bondevett(»)$(cit|")
+- 1996 nammaduvvui St. Olavs Orden:a$(prop,suf|Orden) kommandør:an$(noun,mix|kommandevran) násttiin 1997 oaččui Fritt Ord-bálkkašumi, (friddja-sátni).
 - 2003 Gudnemiellahttun Studentersamfundet i Trondhjem, (studeanttaidservodagas Troandimis)
 - 2005 gudnejahtton Willy Brandt-bálkkašumiin.
 - 2006 gudnebálkkašumi «Bypatrioten» juogadii Oslo Byes Vel.
 
-Willoch lea maid Den gyldne gris:a$(prop,suf|gris) riddár šealgi$(infl,adj|šelges spiidni). Det Norske Studentersamfunds orden, (Norgga studeanttaidservodaga ortnet)
+Willoch lea maid Den gyldne gris:a$(prop,suf|gris) riddár šealgi$(adj,infl|šelges spiidni). Det Norske Studentersamfunds orden, (Norgga studeanttaidservodaga ortnet)
