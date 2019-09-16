@@ -5,11 +5,11 @@
 #Publisert∞(nob) 14.11.2012 10:59. Oppdatert∞(nob) 14.11.2012 11:02.
 
 Duddjo nu guhká go mokta bistá
-Duojár Jovnna Ovllá Andersen (80) gii lea moadde vahku áigi ožžon Norgga Kulturárbbi gudnibálkašumi$(vowlat,i-e;conc,lk-lkk|gudnebálkkašumi) (Norsk Kulturarvs ærespris) lohká sámi árbevirolaš duoji hui deaŧálažžan$(vowlat,á-a|deaŧalažžan) sámiide.
+Duojár Jovnna Ovllá Andersen (80) gii lea moadde vahku áigi ožžon Norgga Kulturárbbi gudnibálkašumi$(noun,mix|gudnebálkkašumi) (Norsk Kulturarvs ærespris) lohká sámi árbevirolaš duoji hui deaŧálažžan$(adj,a|deaŧalažžan) sámiide.
 
-Jovnna Ovllá lea bajásšaddan Horpmás, Deanus, muhto fárrii Kárášjohki$(fin,0-i|Kárášjohkii) go lei viehka nuorra. Son lea olu snihkken ovdal ja lea huksen sihke stobuid ja stuorra návehiid.
+Jovnna Ovllá lea bajásšaddan Horpmás, Deanus, muhto fárrii Kárášjohki$(prop,fin|Kárášjohkii) go lei viehka nuorra. Son lea olu snihkken ovdal ja lea huksen sihke stobuid ja stuorra návehiid.
 
-Son lea maiddái huksen alccesii$(fin,i-s|alccesis) duodjelanja iežas stohpui.
+Son lea maiddái huksen alccesii$(refl,fin|alccesis) duodjelanja iežas stohpui.
 
 Bajásšaddan dujiin
 

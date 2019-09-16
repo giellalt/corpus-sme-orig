@@ -13,7 +13,7 @@ Virggit / barggut:
 - 1953: Oahppan cand.oecon.
 - 1954–1963: Bargi Norges Industriforbund:as$(prop,suf|Industriforbundas)
 - 1957–1989: Stuorradikkeovddasteaddji Oslo Olgežii
-- 1963–1965: Generálčálli$(noun,vow|Generálačálli) Olgešbellodagas
+- 1963–1965: Generálčálli$(noun,cmp,vow|Generálačálli) Olgešbellodagas
 - 1963: Hánddalministtar i¥0 Lyng-ráđđehusas (borgemánnu-čakčamánnu)
 - 1965–1970: Hánddalministtar Bortenráđđehusas
 - 1970–1974: Olgešbellodaga jođiheaddji
