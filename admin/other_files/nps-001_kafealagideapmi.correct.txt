@@ -40,7 +40,7 @@ Geassemánus leat (4 oahppit)£(noun,numph,gensg,nompl,kongr|4 oahppi). Maŋemus
 ČORGEN:
 Maŋŋel kaféa doaluid dalle fertejit (sii geas leat ovddasvástádus)£(pers,subj,nompl,locpl,case|sii geas lea ovddasvástádus)£(rel,hab,nompl,nomsg,kongr|sii geain lea ovddasvástádus) čorget seammá bures nu go lei. Láhtti moppain, ruskkaid doalvut, bevddiid ja stuoluid saddjái¢(noun,conc|sadjái) bidjat nu mo lei, jna(. ovdal)¢(adv,cap|. Ovdal) lea leamaš nu ahte Sámi váhnenfierpmádat lea leamaš mielde čorgemis, jus dát šaddá dán jagi maid ii leat vuos čielgan.
 
-KAFEA-KÁSSA: kaféa-kássa vižžojuvvo skuvllas. Gii dan viežžá fertebehtet ieža mearridit. Maŋŋel doaluid de galgá kaféa-kássa buktojuvvot skuvlii mánnodagas£(noun,advl,gensg,locsg,case|mánnodaga). (Jus lea mii nu mii váilu kássas- de fertebehtet čálistit unna girjážii$(noun,conc|girjjážii))¥(punct|Jus lea mii nu mii váilu kássas, de fertebehtet čálistit unna girjjážii) mii lea ruhta-kássas.
+KAFEA-KÁSSA: kaféa-kássa vižžojuvvo skuvllas. Gii dan viežžá fertebehtet ieža mearridit. Maŋŋel doaluid de galgá kaféa-kássa buktojuvvot skuvlii mánnodagas£(noun,advl,gensg,locsg,case|mánnodaga). (Jus lea mii nu mii váilu kássas- de fertebehtet čálistit unna girjážii$(noun,conc|girjjážii))¥(noun,nothyph|Jus lea mii nu mii váilu kássas, de fertebehtet čálistit unna girjjážii) mii lea ruhta-kássas.
 
 RUHTA-KÁSSAS: galgá álohit€(adv,fin|álohii) leat (1000,- .)¥(notspace|1000,-.) Maŋŋel doaluid, fertebehtet rehkenastit dietnasa ja čállet dan unna girjjážii mii lea ruhta-kássas. Dietnasa bidjabehtet sierra (plastihka-bosi¢(noun,mix|plastihkkabussii nu ahte mii skuvllas eat dárbbaš lohkat dáid.
 
