@@ -6,36 +6,36 @@
 
 Olles Kárášjoga bibmet
 
-Berit Nikkinen Varsi ja Laila Rasmus gumpposteamen$(vowlat,o-u|gumppusteamen)
-Gumppostit$(vowlat,o-u|Gumppustit) olmmoš ii gille juohke beaivvii$(fin,i-0|beaivvi). Danne lea vuogas go gávdnojit doalut gos gumposiid fidne oastit.
+Berit Nikkinen Varsi ja Laila Rasmus gumpposteamen$(verb,svow|gumppusteamen)
+Gumppostit$(verb,svow|Gumppustit) olmmoš ii gille juohke beaivvii$(noun,fin|beaivvi). Danne lea vuogas go gávdnojit doalut gos gumposiid fidne oastit.
 
 
-Guokte nissonolbmo čuožžuba liegga gievkkanis ja gumpposteaba$(vowlat,o-u|gumppusteaba). Lossat lea lovttohallat kásterollaid$(conc,ll-l|kásterolaid), muhto eaba vuollán.
+Guokte nissonolbmo čuožžuba liegga gievkkanis ja gumpposteaba$(verb,svow|gumppusteaba). Lossat lea lovttohallat kásterollaid$(noun,conc|kásterolaid), muhto eaba vuollán.
 
-Kárášjogas lea kulturvahkku dán vahku ja dasa gullet diehttalasat mállásat. Málesteaddji nissonid$(fin,d-id|nissoniid) gávdnat servvodatviesus - olggobealdde$(conc,ldd-ld|olggobealde) čuččodit muhtin albmát.
+Kárášjogas lea kulturvahkku dán vahku ja dasa gullet diehttalasat mállásat. Málesteaddji nissonid$(noun,fin|nissoniid) gávdnat servvodatviesus - olggobealdde$(adv,conc|olggobealde) čuččodit muhtin albmát.
 
 Manne eaba veahki jeara, imaštallat.
 
-- Ášš, almmánolbmot$(typo|almmáiolbmot) leat njoazit boahtit, lohká Berit Nikkinen Varsi ja (lokteba dan lossa kásterolla)¢(conc,ll-l|lokteba dan lossa kásterola) mas leat dievva gumposat
+- Ášš, almmánolbmot$(noun,typo|almmáiolbmot) leat njoazit boahtit, lohká Berit Nikkinen Varsi ja (lokteba dan lossa kásterolla)£(noun,obj,accsg,nomsg,case|lokteba dan lossa kásterola) mas leat dievva gumposat
 
-– (Moai han lávime$(conm,m-im|láviime) leat hui gievrra)¢(fin,0-1|Moai han láviime leat hui gievrrat), lasiha Laila Rasmus gis.
+– (Moai han lávime$(verb,vow|láviime) leat hui gievrra)£(adj,spred,plnom,accsg,kongr|Moai han láviime leat hui gievrrat), lasiha Laila Rasmus gis.
 
-Olles Kárasjohka$(vowlat,a-á;conwb,sj-šj|Kárášjohka) veadjá boahtit borrat gumposiid servodatviesus dál guokte beaivvi, muhto nissonolbmo guovttos (eaba gal dara dan dihti)¢(fin,0-i|eaba gal dara dan dihtii) ja leaikkastallaba das gaskaneaskka.
+Olles Kárasjohka$(prop,mix|Kárášjohka) veadjá boahtit borrat gumposiid servodatviesus dál guokte beaivvi, muhto nissonolbmo guovttos (eaba gal dara dan dihti)¢(adv,fin|eaba gal dara dan dihtii) ja leaikkastallaba das gaskaneaskka.
 
 
-Gumposat Karasjoga$(vowc,a-á;vowlat,a-á;conwb,sj-šj|Kárášjoga) kulturvahku
+Gumposat Karasjoga$(prop,mix|Kárášjoga) kulturvahku
 
 – Hui somá bargat
 
-Kásterolain duldet gumposat ja bierggut. Nisson guovttos máisttašeaba - (lea go son doarváid$(fin,id-i|doarvái) sálttit)£(kongr,sg-pl|leat go son doarvái sálttit) - ja jorbeba vel eambbo gumposiid, vai livččii doarvái buohkaide.
+Kásterolain duldet gumposat ja bierggut. Nisson guovttos máisttašeaba - (lea go son doarváid$(adv,fin|doarvái) sálttit)£(verb,fin,pl3prs,sg3prs,kongr|leat go son doarvái sálttit) - ja jorbeba vel eambbo gumposiid, vai livččii doarvái buohkaide.
 
-Ruhta mii dán gávppis boahtá manná Kárásjoga$(conwb,sj-šj|Kárášjoga) searvegoddái. Berit Nikkinen Varsi ja Laila Rasmus gal bargaba nuvttá eaba ge váidal dan dihtii.
+Ruhta mii dán gávppis boahtá manná Kárásjoga$(prop,ascii|Kárášjoga) searvegoddái. Berit Nikkinen Varsi ja Laila Rasmus gal bargaba nuvttá eaba ge váidal dan dihtii.
 
-- Dáppe lea hui somá bargat, mun gal liikon hirmasit$(conc,rm-rbm;vowlat,a-o|hirbmosit). Liikon bargat olu olbmuiguin, lohkká$(conc,hkk-hk|lohká) Berit Nikkinen Varsi.
+- Dáppe lea hui somá bargat, mun gal liikon hirmasit$(adv,mix|hirbmosit). Liikon bargat olu olbmuiguin, lohkká$(verb,conc|lohká) Berit Nikkinen Varsi.
 
 Unna gávppážat
 
-Olbmot gal bohtet. Go diibmu lea guokte lea serdodatviessu$(typo|servodatviessu) dievva olbmuin geat borret gumposiid ja geahčađit$(conm,đ-d|geahčadit) (daid unna gávppažiin$(gávppážiin))£(case,acc-loc|dain unna gávppážiin) mat vuvdet girjjiid ja dudjiid$(conc,dj-j|dujiid).
+Olbmot gal bohtet. Go diibmu lea guokte lea serdodatviessu$(noun,typo|servodatviessu) dievva olbmuin geat borret gumposiid ja geahčađit$(verb,lime|geahčadit) (daid unna gávppažiin$(noun,á|gávppážiin))£(dem,det,locsg,gensg,case|dain unna gávppážiin) mat vuvdet girjjiid ja dudjiid$(noun,conc|dujiid).
 
 Kulturvahkku bistá miehtá vahku.
 

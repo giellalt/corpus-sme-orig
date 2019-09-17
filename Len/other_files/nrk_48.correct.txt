@@ -28,7 +28,7 @@ Ruošša álgoálbmotorganisašuvdna RAIPON ii áiggo vuollánit vaikko Ruošša
 
 (Árktalas ráđi)$(prop,ascii|Árktalaš ráđi) čoahkkimis Haparandas$(prop,foreign|Háhpáránddis), ovddidii RAIPON cealkámuša mas čilgejuvvo mo Ruošša eiseváldit$(noun,conc|eiseválddit) leat njulgestaga áitán sin doaimmaid.
 
-RAIPON ossodatjođiheaddji Sulyandziga lohká ovttasbargoguimmid$(noun,svow|ovttasbargoguimmiid) veahki dehálaččan$(adj,conc|dehálažžan).
+RAIPON ossodatjođiheaddji Sulyandziga lohká ovttasbargoguimmid$(noun,fin|ovttasbargoguimmiid) veahki dehálaččan$(adj,conc|dehálažžan).
 
 Organisašuvdna lea máŋgii geahččalan rievdadit njuolggadusaid, muhto das ii leamašan ávki.
 
