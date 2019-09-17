@@ -3,37 +3,37 @@
 #Publisert∞(nob) 11.12.2012 07:14.
 
 
-Maŋimuš ođđasat sámegillii– Gulahallat Raipon birra
+Maŋimuš ođđasat sámegillii–$(space|sámegillii –) Gulahallat Raipon birra
 
 – Gulahallat Raipon birra
 
-Sámedikki ovddasdeaddjit$(conwb,sd-st|ovddasteaddjit) deaivvadit otne Oslos Ruošša ámbassadan$(vowc,á-a;vowc,a-á;fin,n-in|ambassádain), gulahallat earret eará Raipon eamialbmotorganisašuvnna$(vowc,a-á|eamiálbmotorganisašuvnna) (boahtteáigi birra)¢(conc,ig-igg|boahtteáiggi birra) ja obbalaččat Ruošša sámiid dili birra.
+Sámedikki ovddasdeaddjit$(noun,con|ovddasteaddjit) deaivvadit otne Oslos Ruošša ámbassadan$(noun,mix|ambassádain), gulahallat earret eará Raipon eamialbmotorganisašuvnna$(noun,á|eamiálbmotorganisašuvnna) (boahtteáigi birra)£(noun,pph,gensg,nomsg,case|boahtteáiggi birra) ja obbalaččat Ruošša sámiid dili birra.
 
 
-– Mis lea buorre gulahallan sihke eamiálbmotorganisašuvnnain ja sámiiguin ruoššas, danin (lea dárbu dál ságastallan)£(case,nom-ill|lea dárbu dál ságastallamii) ruošša eiseválddiiguin dán dili birra, (lohká Sámediggepresideantta Egil Olli)¢(conc,ntt-nt|lohká Sámediggepresideanta Egil Olli).
+– Mis lea buorre gulahallan sihke eamiálbmotorganisašuvnnain ja sámiiguin ruoššas, danin (lea dárbu dál ságastallan)£(noun,advl,illsg,nomsg,case|lea dárbu dál ságastallamii) ruošša eiseválddiiguin dán dili birra, (lohká Sámediggepresideantta Egil Olli)£(noun,subj,nomsg,accsg,case|lohká Sámediggepresideanta Egil Olli).
 
-Máŧkis$(conc,ŧk-tkk|Mátkkis) Osloi lea maid Sámediggedirektevra Rune Fjellheim ja Hege Fjellheim.
+Máŧkis$(noun,conc|Mátkkis) Osloi lea maid Sámediggedirektevra Rune Fjellheim ja Hege Fjellheim.
 
 Loga maid: – Mii fertet juoidá bargat
 
-(Čielga diehttu)¢(conc,htt-ht|Čielga diehtu)
+(Čielga diehttu)¢(noun,conc|Čielga diehtu)
 
-Ruošša riekteministtar lea mearridan ahte RAIPON doaimmat galget bissehuvvot danin go oaivvildit rihkkut Ruošša lága, go ovttasbarget (olgoriika organisašuvnnaiguin)¢(conc,ik-ikk|olgoriikka organisašuvnnaiguin).
+Ruošša riekteministtar lea mearridan ahte RAIPON doaimmat galget bissehuvvot danin go oaivvildit rihkkut Ruošša lága, go ovttasbarget (olgoriika organisašuvnnaiguin)£(noun,det,gensg,nomsg,case|olgoriikka organisašuvnnaiguin).
 
-– Lei oanehis, muhto čielga diehtu mii bođii departemeanttas ahte organisašuvdna galgá heaittihuvvot, nu dajai RAIPON ossodatjođiheaddji, Radion Sulyandziga, golggotmánus NRK:ii$(acro,suf|NRK:i).
+– Lei oanehis, muhto čielga diehtu mii bođii departemeanttas ahte organisašuvdna galgá heaittihuvvot, nu dajai RAIPON ossodatjođiheaddji, Radion Sulyandziga, golggotmánus NRK:ii$(acr,suf|NRK:i).
 
 Eai vuollán
 
 Ruošša álgoálbmotorganisašuvdna RAIPON ii áiggo vuollánit vaikko Ruošša eiseválddit leat mearridan bissehit sin doaimmaid.
 
-Árktalas$(fin,s-š|Árktalaš) ráđi čoahkkimis Haparandas$(foreign|Háhpáránddis), ovddidii RAIPON cealkámuša mas čilgejuvvo mo Ruošša eiseváldit$(conc,ld-ldd|eiseválddit) leat njulgestaga áitán sin doaimmaid.
+(Árktalas ráđi)$(prop,ascii|Árktalaš ráđi) čoahkkimis Haparandas$(prop,foreign|Háhpáránddis), ovddidii RAIPON cealkámuša mas čilgejuvvo mo Ruošša eiseváldit$(noun,conc|eiseválddit) leat njulgestaga áitán sin doaimmaid.
 
-RAIPON ossodatjođiheaddji Sulyandziga lohká ovttasbargoguimmid$(fin,d-id|ovttasbargoguimmiid) veahki dehálaččan$(conc,čč-žž|dehálažžan).
+RAIPON ossodatjođiheaddji Sulyandziga lohká ovttasbargoguimmid$(noun,svow|ovttasbargoguimmiid) veahki dehálaččan$(adj,conc|dehálažžan).
 
 Organisašuvdna lea máŋgii geahččalan rievdadit njuolggadusaid, muhto das ii leamašan ávki.
 
 Olgoriikaministtar maid áššis
 
-(Sámediggepresideantta Egil Olli lohká)¢(conc,ntt-nt|Sámediggepresideanta Egil Olli lohká) maid Norgga eiseválddiid gulahallan dán ášši birra ruoššain.
+(Sámediggepresideantta Egil Olli lohká)£(noun,det,gensg,nomsg,case|Sámediggepresideanta Egil Olli lohká) maid Norgga eiseválddiid gulahallan dán ášši birra ruoššain.
 
-– Olgoriikaministtar lea gulahallan áššis ja dál mannat mii Oosloi$(typo|Osloi), go lea dárbu gozihit ášši, čilge Olli.
+– Olgoriikaministtar lea gulahallan áššis ja dál mannat mii Oosloi$(prop,typo|Osloi), go lea dárbu gozihit ášši, čilge Olli.
