@@ -186,7 +186,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="'1-18, 22-26, 34-49, 197'"/>
+    <xsl:variable name="skip_pages" select="'1-18, 22-26, 34-49, 75-76, 197'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
