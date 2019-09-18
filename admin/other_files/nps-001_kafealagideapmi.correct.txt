@@ -3,13 +3,13 @@ KAFEA-LÁGIDIEAPMI  (2009- 2010)¥(notspace|2009-2010)
 (OVDDASVÁSTÁDUS LISTTU)¥(noun,cmp|OVDDASVÁSTÁDUSLISTU) GUOVSSAHAS MÁNÁIDGÁRDDIS
 
 
-(Sis geas lea ovddasvástádus)£(pers,subj,nompl,locpl,case|Sii geas lea ovddasvástádus)£(rel,hab,nompl,nomsg,kongr|Sii geain lea ovddasvástádus) lágidit kaféa, vižžet kaféa-kássa skuvllas. Doppe leat ee. gohput, servieahtat ja smávvaruđat. Kássas galgá álohit€(adv,fin|álohii) leat 1000,- smávvaruhtan. Kirsten Alette viežžá smávvaruđaid sámeluohká kontos ja bidjá kaféa-kássii.
+(Sis geas lea ovddasvástádus)£(pers,subj,nompl,locpl,case|Sii geas lea ovddasvástádus)£(rel,hab,nompl,nomsg,kongr|Sii geain lea ovddasvástádus) lágidit kaféa, vižžet kaféa-kássa skuvllas. Doppe leat ee. gohput, servieahtat ja smávvaruđat. Kássas galgá álohit¢(adv,fin|álohii) leat 1000,- smávvaruhtan. Kirsten Alette viežžá smávvaruđaid sámeluohká kontos ja bidjá kaféa-kássii.
 
 Sisaboahtu addojuvvo Kirsten Alehttái ja son bidjá ruđa sámeluohká kontui(.  Nugo)¥(notspace|. Nugo) mii leat váhnenčoahkkimis šiehtadan (de manná ruhta skuvla giđđa-mátkái)£(noun,det,gensg,nomsg,case|de manná ruhta skuvlla giđđa-mátkái).
 
-Mirja ja Line leaba (gulahallan olbmožat)¥(noun,cmp|gulahallanolbmožat, ja váldet oktavuođa sudnuin (jus dárbbašehket)£(verb,fin,indic,imprt,mode|jus dárbbašehpet). Jus kaféa-kássas váilu (mii dál nu)¢(adv,a|mii dal nu), dieđihehket oahpaheddjiide. Fuom! Jus dat beaivi ii heive didjiide (de fertebehtet ieža gaskaneaset)£(adv,advl,pl2,pl3,kongr|de fertebehtet ieža gaskaneattet) molsut earáiguin€(verb|lonuhit earáiguin).
+Mirja ja Line leaba (gulahallan olbmožat)¥(noun,cmp|gulahallanolbmožat, ja váldet oktavuođa sudnuin (jus dárbbašehket)£(verb,fin,indic,imprt,mode|jus dárbbašehpet). Jus kaféa-kássas váilu (mii dál nu)¢(adv,a|mii dal nu), dieđihehket oahpaheddjiide. Fuom! Jus dat beaivi ii heive didjiide (de fertebehtet ieža gaskaneaset)£(adv,advl,pl2,pl3,kongr|de fertebehtet ieža gaskaneattet) (molsut earáiguin)€(verb|lonuhit earáiguin).
 
-Sámi váhnenfierpmádaga ovddasteaddji rahpá Guovssahas mánáidgárddi uvssaid álohit€(adv,fin|álohii) go leat doalut. (Sis geas lea ovddasvástádus)£(pers,subj,nompl,locpl,case|Sii geas lea ovddasvástádus)£(rel,hab,nompl,nomsg,kongr|Sii geain lea ovddasvástádus) lágidit kaféa bohtet dii. 12.00 ja (kaféa rahppasa)¢(verb,conc|kaféa rahpasa)€(der|kaféa rahppojuvvo) dii. 13.00.
+Sámi váhnenfierpmádaga ovddasteaddji rahpá Guovssahas mánáidgárddi uvssaid álohit¢(adv,fin|álohii) go leat doalut. (Sis geas lea ovddasvástádus)£(pers,subj,nompl,locpl,case|Sii geas lea ovddasvástádus)£(rel,hab,nompl,nomsg,kongr|Sii geain lea ovddasvástádus) lágidit kaféa bohtet dii. 12.00 ja (kaféa rahppasa)¢(verb,conc|kaféa rahpasa)€(der|kaféa rahppojuvvo) dii. 13.00.
 
 (Doalut bistte)£(verb,fin,pl3prs,conneg,infl|Doalut bistet) gitta dii. 16:00¥(missing|16:00 rádjai). Maŋŋá doaluid fertejit maiddái (čorget ovttas sámi váhnenfierpmádat miellahtuiguin)£(noun,det,gensg,nomsg,case|čorget ovttas sámi váhnenfierpmádaga miellahtuiguin).
 
@@ -42,7 +42,7 @@ Maŋŋel kaféa doaluid dalle fertejit (sii geas leat ovddasvástádus)£(pers,s
 
 KAFEA-KÁSSA: kaféa-kássa vižžojuvvo skuvllas. Gii dan viežžá fertebehtet ieža mearridit. Maŋŋel doaluid de galgá kaféa-kássa buktojuvvot skuvlii mánnodagas£(noun,advl,gensg,locsg,case|mánnodaga). (Jus lea mii nu mii váilu kássas- de fertebehtet čálistit unna girjážii$(noun,conc|girjjážii))¥(noun,nothyph|Jus lea mii nu mii váilu kássas, de fertebehtet čálistit unna girjjážii) mii lea ruhta-kássas.
 
-RUHTA-KÁSSAS: galgá álohit€(adv,fin|álohii) leat (1000,- .)¥(notspace|1000,-.) Maŋŋel doaluid, fertebehtet rehkenastit dietnasa ja čállet dan unna girjjážii mii lea ruhta-kássas. Dietnasa bidjabehtet sierra (plastihka-bosi¢(noun,mix|plastihkkabussii nu ahte mii skuvllas eat dárbbaš lohkat dáid.
+RUHTA-KÁSSAS: galgá álohit¢(adv,fin|álohii) leat (1000,- .)¥(notspace|1000,-.) Maŋŋel doaluid, fertebehtet rehkenastit dietnasa ja čállet dan unna girjjážii mii lea ruhta-kássas. Dietnasa bidjabehtet sierra (plastihka-bosi¢(noun,mix|plastihkkabussii nu ahte mii skuvllas eat dárbbaš lohkat dáid.
 
 MÁNÁID-GÁRDDI RAHPAN JA LÁSSEN: Dát ášši ii leat vuos čielggas. Ovdal lea leamaš nu ahte muhtin Sámi váhnenfierpmádagas rahpán$(verb,fin|rahpá) ja lásse uvssa.
 
