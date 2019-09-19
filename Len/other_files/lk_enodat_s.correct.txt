@@ -29,7 +29,7 @@ Váikkuhusat maid luondduealáhusaide?
 
 Neakkela bálgosa badjeolmmái Jouni Näkkälä mielas gielddaid ovttastahttin soaittálii hehttet maid luonddugeavaheami
 
-– Skohterastiid ja njealljejuvllagiin$(adj,cmp,nomsg,gensg|njealjejuvllagiin) vuodjiid$(noun,conc|vuoddjiid) mearri lassanivččii$(verb,á|lassánivččii) sihkkarit Eanodaga guovllus, juos ovddeš Muonio, Kolari ja Gihttela (olbmot oččole seamma vuoigatvuođaid vuojášit)£(verb,infin,indic,cond,mode|olbmot oččole seamma vuoigatvuođaid vuojašit), go enodatlaččain leat dál. Dát soaittálii hehttet sámiid boazodoalu, guollebivddu ja iežá meahcceealáhusaid.
+– Skohterastiid ja njealljejuvllagiin$(adj,cmp,nomsg,gensg|njealjejuvllagiin) vuodjiid$(noun,conc|vuoddjiid) mearri lassanivččii$(verb,á|lassánivččii) sihkkarit Eanodaga guovllus, juos ovddeš Muonio, Kolari ja Gihttela (olbmot oččole seamma vuoigatvuođaid vuojášit)£(verb,infin,ind,cond,mode|olbmot oččole seamma vuoigatvuođaid vuojašit), go enodatlaččain leat dál. Dát soaittálii hehttet sámiid boazodoalu, guollebivddu ja iežá meahcceealáhusaid.
 
 – ILO-soahpámuša$(noun,a|ILO-soahpamuša) ratifisieren$(verb,mono|ratifiseren) soaitálii$(verb,conc|soaittálii) dieđusge čoavdit dákkár váttisvuođaid, navdá Näkkälä.
 

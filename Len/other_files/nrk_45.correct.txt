@@ -4,19 +4,19 @@
 
 Mari Boine signerii girjjiid
 
-Mari Boine ii loga ábuhit čiegadit dan (mii lei báhčá)¢(vowc,á-a;vowlat,á-a|mii lei bahča), váivi ja lossat, go eallimis leat máŋggalágan vásáhusat.
+Mari Boine ii loga ábuhit čiegadit dan (mii lei báhčá)¢(adj,mix|mii lei bahča), váivi ja lossat, go eallimis leat máŋggalágan vásáhusat.
 
-Mari Boine lea viimmat fas boahtán ruoktot, Kárášjohkii. Dál (son áigo)¢(vowlat,o-u|son áigu) vuoiŋŋastit guokte mánu iežas lagámušaid$(vowlat,á-a|lagamušaid) luhtte.
+Mari Boine lea viimmat fas boahtán ruoktot, Kárášjohkii. Dál (son áigo)£(verb,fin,sg3prs,pl3prt,infl|son áigu) vuoiŋŋastit guokte mánu iežas lagámušaid$(adj,a|lagamušaid) luhtte.
 
-– (Lei hui somá fas vuoddjit)¢(conc,ddj-dj|Lei hui somá fas vuodjit) duoddara badjel Leavnnjas deike. Mun dovddan ahte lean váillahan ritnon muoraid ja (skábma čuovgga)¢(conc,bm-pm|skápma čuovgga), lohká Mari.
+– (Lei hui somá fas vuoddjit)¢(verb,conc|Lei hui somá fas vuodjit) duoddara badjel Leavnnjas deike. Mun dovddan ahte lean váillahan ritnon muoraid ja (skábma čuovgga)¥(noun,cmp|skábmačuovgga), lohká Mari.
 
-Ártista$(vowlat,á-a|Artista) lea lávvardaga Kárášjoga girjegávppis signeremin iežas ja Per Lars Thonstad girjji "Fly med meg", "Girdde mu mielde". - Dat lea hui somá oaidnit dal man olusat beroštit dan girjjis. Ja mun gulan dat leat olusat juo oastán dan ovddalgihtii, lohká Mari.
+Ártista$(noun,a|Artista) lea lávvardaga Kárášjoga girjegávppis signeremin iežas ja Per Lars Thonstad girjji "Fly med meg", "Girdde mu mielde". - Dat lea hui somá oaidnit dal man olusat beroštit dan girjjis. Ja mun gulan dat leat olusat juo oastán dan ovddalgihtii, lohká Mari.
 
 Reakšuvnnaid ožžon?
 
 Máŋggas lohket, ahte sii leat nu olu oahppan, go leat lohkan dan girjji. Okta lea, ahte olbmot lohket sáhkkiivuođain, vai dihtet eambbo mu birra, muhto earenoamážit dážamáilmmis lohket, ahte sii nu olu ohppet, ja ožžot dieđuid mat sis ovdal eai lean.
 
-- Mun jáhkán dat lea juoga mii dárbbašuvvo. Dat leige jurdda (munnos Per Lars Thonstadin)$(vowlat,0-a|Thonstadain), ahte moai háliideimme ráhkadit dakkár girjji, gos galget maiddai boahtit dieđut min duogáža birra ja min historjjá birra.
+- Mun jáhkán dat lea juoga mii dárbbašuvvo. Dat leige jurdda (munnos Per Lars Thonstadin)$(prop,svow|Thonstadain), ahte moai háliideimme ráhkadit dakkár girjji, gos galget maiddai boahtit dieđut min duogáža birra ja min historjjá birra.
 
 Dat sáhttá ahte dakkár olbmuide geat juo dihtet ovdagihtii daid áššiid ahte sii háliidit njuikut. -(Eat mii viša dien lohkkat)¢(conc,hkk-hk|Eat mii viša dien lohkat), mii háliidit lohkat eambbo Mari birra.
 
