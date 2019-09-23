@@ -1,11 +1,11 @@
-KAFEA-LÁGIDIEAPMI  (2009- 2010)¥(notspace|2009-2010)
+(KAFEA-LÁGIDIEAPMI  (2009- 2010)‰(notspace|2009-2010))‰(notspace|KAFEA-LÁGIDIEAPMI 2009-2010)
 
 (OVDDASVÁSTÁDUS LISTTU)¥(noun,cmp|OVDDASVÁSTÁDUSLISTU) GUOVSSAHAS MÁNÁIDGÁRDDIS
 
 
 (Sis geas lea ovddasvástádus)£(pers,subj,nompl,locpl,case|Sii geas lea ovddasvástádus)£(rel,hab,nompl,nomsg,kongr|Sii geain lea ovddasvástádus) lágidit kaféa, vižžet kaféa-kássa skuvllas. Doppe leat ee. gohput, servieahtat ja smávvaruđat. Kássas galgá álohit¢(adv,fin|álohii) leat 1000,- smávvaruhtan. Kirsten Alette viežžá smávvaruđaid sámeluohká kontos ja bidjá kaféa-kássii.
 
-Sisaboahtu addojuvvo Kirsten Alehttái ja son bidjá ruđa sámeluohká kontui(.  Nugo)¥(notspace|. Nugo) mii leat váhnenčoahkkimis šiehtadan (de manná ruhta skuvla giđđa-mátkái)£(noun,det,gensg,nomsg,case|de manná ruhta skuvlla giđđa-mátkái).
+Sisaboahtu addojuvvo Kirsten Alehttái ja son bidjá ruđa sámeluohká kontui(.  Nugo)‰(notspace|. Nugo) mii leat váhnenčoahkkimis šiehtadan (de manná ruhta skuvla giđđa-mátkái)£(noun,det,gensg,nomsg,case|de manná ruhta skuvlla giđđa-mátkái).
 
 Mirja ja Line leaba (gulahallan olbmožat)¥(noun,cmp|gulahallanolbmožat, ja váldet oktavuođa sudnuin (jus dárbbašehket)£(verb,fin,ind,imprt,mode|jus dárbbašehpet). Jus kaféa-kássas váilu (mii dál nu)¢(adv,a|mii dal nu), dieđihehket oahpaheddjiide. Fuom! Jus dat beaivi ii heive didjiide (de fertebehtet ieža gaskaneaset)£(adv,advl,pl2,pl3,kongr|de fertebehtet ieža gaskaneattet) (molsut earáiguin)€(verb|lonuhit earáiguin).
 
@@ -25,7 +25,8 @@ Dearvuođaiguin
 
 
 
-DIEĐUT  KAFEA-LÁGIDIEAMI BIRRA  (2009- 2010)¥(notspace|2009-2010)
+(DIEĐUT  KAFEA-LÁGIDIEAMI)‰(notspace|DIEĐUT KAFEA-LÁGIDIEAMI)
+(BIRRA  (2009- 2010)‰(notspace|2009-2010))‰(notspace|BIRRA 2009-2010)
 
 RIEVDADUS:
 
