@@ -26,7 +26,7 @@ Eai vuollán
 
 Ruošša álgoálbmotorganisašuvdna RAIPON ii áiggo vuollánit vaikko Ruošša eiseválddit leat mearridan bissehit sin doaimmaid.
 
-(Árktalas ráđi)$(prop,ascii|Árktalaš ráđi) čoahkkimis Haparandas$(prop,foreign|Háhpáránddis), ovddidii RAIPON cealkámuša mas čilgejuvvo mo Ruošša eiseváldit$(noun,conc|eiseválddit) leat njulgestaga áitán sin doaimmaid.
+(Árktalas ráđi)$(prop,ascii|Árktalaš ráđi) čoahkkimis Haparandas∞(prop,foreign|Háhpáránddis), ovddidii RAIPON cealkámuša mas čilgejuvvo mo Ruošša eiseváldit$(noun,conc|eiseválddit) leat njulgestaga áitán sin doaimmaid.
 
 RAIPON ossodatjođiheaddji Sulyandziga lohká ovttasbargoguimmid$(noun,fin|ovttasbargoguimmiid) veahki dehálaččan$(adj,conc|dehálažžan).
 
