@@ -22,4 +22,4 @@ Malin Soli ja Kim Haugen neaktiba Sonja ja juovlanigá filmmas
 
 Filbma vuovdá bures olgoriikii
 
-Filmmas lei vuosttas čájahus$(noun,á|čájáhus) ovddit sotnabeaivvi, ja dát váldui bures vuostá, lohká Gaup. Seammás leat filmma juo vuovdán 67 riikii, earret eará Durkui$(prop,svow|Durkii), (Gaska Nuortái)$(prop,cmp|Gaska-Nuortái), Indonesijai$(prop,con|Indonesiai), ovddeš Jugosláviai$(prop,a|Jugosláviai) ja Thailándii€(prop,w|Thaieatnamii). Dáinna Gaup illuda.
+Filmmas lei vuosttas čájahus$(noun,á|čájáhus) ovddit sotnabeaivvi, ja dát váldui bures vuostá, lohká Gaup. Seammás leat filmma juo vuovdán 67 riikii, earret eará Durkui$(prop,svow|Durkii), (Gaska Nuortái)$(prop,cmp|Gaska-Nuortái), Indonesijai$(prop,con|Indonesiai), ovddeš Jugosláviai$(prop,a|Jugoslaviai) ja Thailándii€(prop,w|Thaieatnamii). Dáinna Gaup illuda.
