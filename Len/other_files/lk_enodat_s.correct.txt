@@ -11,7 +11,7 @@ Plánenjoavkku mielas gieldaođastus lea vealtameahttun, vai gielddat cevzet boa
 
 Ođđa gielda livččii 20 502 njealjehaskilometera$(noun,conc|njealjehaskilomehtera) viiddis ja doppe orole sullii 14300 olbmo.
 
-Enodaga gielddas ledje jagi 2010 loahpas 187, Gihttelis 11, Muonios$(prop,mix|Muonás) 5 ja Kolaris 2 sámegielaga. Sápmelaččaid gielalaš rivttiid dorvvasteami dihte Enodat galggalii meroštallojuvvot sámiid ruovttuguovlun. Juos gieldalaktin ollašuvvá, de dat gáibida láhkaásaheami rievdadeami. Sámi ruovttuguovllu gielddaide guoski láhkaásaheami rievdadeapmi gáibidá$(verb,a|gáibida) ráđđádallamiid sámedikkiin.
+Enodaga gielddas ledje jagi 2010 loahpas 187, Gihttelis 11, Muonios∞(prop,foreign|Muonás) 5 ja Kolaris 2 sámegielaga. Sápmelaččaid gielalaš rivttiid dorvvasteami dihte Enodat galggalii meroštallojuvvot sámiid ruovttuguovlun. Juos gieldalaktin ollašuvvá, de dat gáibida láhkaásaheami rievdadeami. Sámi ruovttuguovllu gielddaide guoski láhkaásaheami rievdadeapmi gáibidá$(verb,a|gáibida) ráđđádallamiid sámedikkiin.
 
 Sámegielagiid vuoigatvuođat hedjonit?
 

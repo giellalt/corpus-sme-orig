@@ -20,7 +20,7 @@ Virggit / barggut:
 - 1970–1981: Parlamentáralaš jođiheaddji Olgešbellodaga stuorradikkejoavku$(noun,cmp,gen,nom|stuorradiggejoavku)
 - 1981–1986: Norgga stádaministtarin
 - 1986: Sadjásašpresideantan riikkaidgaskasaš Demokráhtalaš Uniovdnan
-- 1986–1989: Olgoriikalávdegottijođiheaddji
+- 1986–1989: Olgoriikalávdegottijođiheaddji$(noun,cmp,mix|Olgoriikkalávdegoddejođiheaddji)
 - 1986–1992: Norsk-tysk selskap presideanta (Deutsch-Norwegische Gesellschaft)
 - 1989–1998: Oslo ja Akershus Filkamánne$(noun,mix|Fylkkamánne)
 - 1990: Suodjaluskommišuvnna jođiheaddji jagis 1990

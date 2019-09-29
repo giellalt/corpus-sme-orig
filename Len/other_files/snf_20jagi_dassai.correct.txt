@@ -17,6 +17,6 @@ SNF álggaha ja čađaha prošeavttaid, buktá cealkámušaid, searvá iežamet 
 
 Vare jagis 2013 – SNF ávvojagi – SNF (oaččošii)$(verb,mono|oččošii) dan mađi doaibmadoarjaga ahte beassat cegget sámi nissonáššiid- ja dásseárvobargui bistevaš čállingotti!
 
-SNF stivralahtut 2012 leat: May-Lisbeth Myrhaug, Oslo, Alla Igontova, Lujávri, Káre-Jon Biret Ristena Åsá-Márgget/Åsá-Márgget Holm, Deatnu/Ohcejohka, Mirka Halonen, Roavvenjárga ja Julius-Iŋggá Gudrun Eliissá/Gudrun E E Lindi, Kárášjohka. Várrelahtut leat Ellacarin Blind, Ubmi, Alla Vasiljeva, Lujávri ja Iŋgos-Máhte Iŋgá/Inga Ravna Eira, Kárášjohka.
+SNF stivralahtut$(noun,cmp,gensg,nomsg|stivrralahtut) 2012 leat: May-Lisbeth Myrhaug, Oslo, Alla Igontova, Lujávri, Káre-Jon Biret Ristena Åsá-Márgget/Åsá-Márgget Holm, Deatnu/Ohcejohka, Mirka Halonen, Roavvenjárga ja Julius-Iŋggá Gudrun Eliissá/Gudrun E E Lindi, Kárášjohka. Várrelahtut leat Ellacarin Blind, Ubmi, Alla Vasiljeva, Lujávri ja Iŋgos-Máhte Iŋgá/Inga Ravna Eira, Kárášjohka.
 
 Govas: Movttegis joavku ja illusáhka go SNF:ii$(acr,suf|SNF:i) geigejuvvui SPR dásseárvobálkkašupmi 2012! Bálkkašumi geigejumis skábmamánu 1.b. 2012 Romssa gávpogis, gurut bealde Valentina Sovkina, Alla Vasiljeva, Biret-Elle Láilá ja Anna Igontova. Govven: V. Sovkina

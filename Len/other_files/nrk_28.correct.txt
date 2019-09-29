@@ -15,7 +15,7 @@ Mii oaidnit su jámma facebookas$(prop,cap|Facebookas) muitaleamen gos dal lea v
 
 Ja almmái dat gal orru juo vázzimin juohke beaivvi - muhtimin fitnan duon várrečohkas Kárášjogas, nuppi vuoru gis duon.
 
-Dat geat facebookas$(prop,cap|Facebookas) su čuvodit leat maid oahpásmuvvan Charlieii$(prop,fin|Charliei). Nu leat maid oahppán ahte Charlie ii leat mihkkige olbmuid, muhto beana.
+Dat geat facebookas$(prop,cap|Facebookas) su čuvodit leat maid oahpásmuvvan Charlieii$(prop,fin|Charliei). Nu leat maid oahppán$(verb,a|oahppan) ahte Charlie ii leat mihkkige olbmuid, muhto beana.
 
 Piera oaidná ipmašiid maid váccedettiin. Gula rádioášši dás:
 
