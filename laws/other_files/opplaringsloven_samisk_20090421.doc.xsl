@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.regjeringen.no/upload/KD/Vedlegg/Opplæringsloven_samisk_20090421.doc'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'LÁHKA 1998-07-17 nr 61: Láhka vuođđoskuvlla ja joatkkaoahpahusa birra (oahpahusláhka).'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -167,8 +167,8 @@
         <parallel_text xml:lang="isl" location=""/>
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
-        <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="1998-07-17-61.html"/>
+        <parallel_text xml:lang="nno" location="1998-07-17-61.html"/>
+        <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
