@@ -20,5 +20,5 @@ Ođđa 2 § (Searvvi čoahkkin ja beavdegirjegiella lea sámegiella)¥(noun,hyph
 
 Ođđa 3 § Searvvi ulbmilin lea doarjut, nannet ja ealáskahttit davvisámegiela. Dan lassin ulbmilin lea dorvvastit sámiid vuoigatvuođaid doalahit, ollašuhttit ja ovddidit iežas kultuvrra sihke doarjut ja ovddidit sámi kultuvrralaš, sosiálalaš, vuoigatvuođalaš ja almmolaš ekonomalaš vikkamušaid$(noun,conc|viggamušaid) ja maiddái bargat ovttas riikka rájáid badjel.
 
-Ságajođiheaddji Torkel Rasmussen lassin válljejuvvui várraságajođiheaddjin$(noun,svow|várreságajođiheaddjin) Karen Kitti, stivralahttun$(noun,cmp,nomsg,gensg|stivrralahttun) Heidi Kitti, Niilo Kalevi Länsman ja Siskko Länsman
+Ságajođiheaddji Torkel Rasmussen lassin válljejuvvui várraságajođiheaddjin¢(noun,svow|várreságajođiheaddjin) Karen Kitti, stivralahttun$(noun,cmp,nomsg,gensg|stivrralahttun) Heidi Kitti, Niilo Kalevi Länsman ja Siskko Länsman
 Várrelahttun: Erika Sarivaara, Maarit K. Peski, Jouni Esa Nuosuniemi$(prop,meta|Nousuniemi), Juha Pohjanraito ja Heidi Eriksen
