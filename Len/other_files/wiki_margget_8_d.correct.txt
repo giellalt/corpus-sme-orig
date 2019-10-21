@@ -1,7 +1,7 @@
 #http://se.wikipedia.org/w/index.php?title=Kåre_Willoch&oldid=138434
 #29.11.12
 
-Kåre Isaachsen Willoch (riegádan golggotmánu 3. beaivve jagis 1928 Oslos) lea ovddeš norgga politihkkár (Olgešbellodat). Son leai Olgešbellodaga generálačállin jagis 1963 rájes gitta 1965 jahkái, Olgešbellodaga jođiheaddjin jagi 1970 rájes 1974 rádjai, hánddalministtarin jagis 1963 ja jagiin 1965-1970. Maŋŋá go son geassádii riikkapolitihkas leai son Oslo ja Akershusa (filkamánnen$(noun,mix|fylkkamánnin(1989-1998)‰(space|fylkkamánnin (1989-1998)) ja stivrajođiheaddjin$(noun,cmp,nomsg,gensg|stivrrajođiheaddjin) NRK:as$(acr,suf|NRK:s) (1998-2000).
+Kåre Isaachsen Willoch (riegádan golggotmánu 3. beaivve jagis 1928 Oslos) lea ovddeš norgga politihkkár (Olgešbellodat). Son leai Olgešbellodaga generálačállin jagis 1963 rájes gitta 1965 jahkái, Olgešbellodaga jođiheaddjin jagi 1970 rájes 1974 rádjai, hánddalministtarin jagis 1963 ja jagiin 1965-1970. Maŋŋá go son geassádii riikkapolitihkas leai son Oslo ja Akershusa (filkamánnen$(noun,mix|fylkkamánnin(1989-1998)‰(space|fylkkamánnin (1989-1998)))) ja stivrajođiheaddjin$(noun,cmp,nomsg,gensg|stivrrajođiheaddjin) NRK:as$(acr,suf|NRK:s) (1998-2000).
 
 Duogáš Son lea oahppan sosiálaekonoma, ja bargan ovdal Norges Rederiforbund:as$(prop,suf|Rederiforbundas) ja Norges Industriforbund:as$(prop,suf|Industriforbundas).
 
@@ -30,7 +30,7 @@ Virggit / barggut:
 Bálkkašumit/Nammadeamit
 - 1983 gudnedoavttirin St. Olaf College:s Minneapolis, USA
 - 1996 nammaduvvui («)‰(cit|”)Årets opinionsdanner(»)‰(cit|”) (dánjagaš opiniondahkki) Redaktørforeningen:a$(prop,suf|Redaktørforeningen) ja seamma jagi geigejedje Norges Bondelag:a$(prop,suf|Bondelag) bálkkašumi («)‰(cit|”)Sunt Bondevett(»)‰(cit|”)
-- 1996 nammaduvvui St. Olavs Orden:a$(prop,suf|Orden) kommandør:an$(noun,mix|kommandevran) násttiin 1997 oaččui Fritt Ord-bálkkašumi, (friddja-sátni).
+- 1996 nammaduvvui (St. Olavs Orden:a)$(prop,suf|St. Olavs Ordena) kommandør:an$(noun,mix|kommandevran) násttiin 1997 oaččui Fritt Ord-bálkkašumi, (friddja-sátni).
 - 2003 Gudnemiellahttun Studentersamfundet i Trondhjem, (studeanttaidservodagas Troandimis)
 - 2005 gudnejahtton Willy Brandt-bálkkašumiin.
 - 2006 gudnebálkkašumi («)‰(cit|”)Bypatrioten(»)‰(cit|”) juogadii Oslo Byes Vel.
