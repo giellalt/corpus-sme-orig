@@ -51,7 +51,7 @@ c) Girjerádjosa erenoamáščoakkáldagá$(vowlat,á-a|erenoamáščoakkáldaga
 
 č) Luoikkahuvvon girjjiid sáhttá várret. Várrejeadji$(conc,dj-ddj|Várrejeaddji) biddjo vuordinlistui ja oažžu dieđu go girjji sáhttá viežžat. Jus máŋggas vurdet seamma girjji, de meannuduvvo listu kronologalaččat.
 
-6. Máhcaheapmi / ruovttuluotta(vowlat,u-o|ruovttoluotta) buktin
+6. Máhcaheapmi / ruovttuluotta$(vowlat,u-o|ruovttoluotta) buktin
 
 a) Go luoikanáigi lea nohkán$(vowlat,á-a|nohkan), galget girjjit/mediat buktot ruovttuluotta$(vowlat,u-o|ruovttoluotta). Muđui sáddejuvvo buktinmuittuhus/-gáibádus. Jus eará luoikkaheaddji ii vuordde dehe jus eará ii hehtte, de sáhttet girjeloanat ođástuvvot$(vowlat,á-a|ođastuvvot).
 
