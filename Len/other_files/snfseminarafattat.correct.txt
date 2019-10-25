@@ -5,7 +5,7 @@
 SNFa$(acr,suf|SNF) seminárafáttát: Mánáidkultuvra(,  Sámenissoniid)‰(notspace|, Sámenissoniid) doaibmaplána ja Bargu alkoholakeahtes$(adj,suf|alkoholahis) eamiálbmotservodagaid ovdii(.  Roavvenjárggas)‰(notspace|. Roavvenjárggas) 31.10.-02.11.08
 SNF lágida seminára ”Sielu ráfi(”  ja)‰(notspace|” ja) jahkečoahkkima Roavvenjárggas.
 
-Doalut leat Cumulus hoteallas Roavvenjárggas, ja álget golggotmánu 31(.b.)$(space|. b.) eahkedis ja bistet skábmamánu (2.beaivái)$(notcmp|2. beaivái). Seminára aigu$(verb,á|áigu) loktet diliid mat (leat atnon)¢(verb,conc|leat adnon) sámenissoniid ”privahta$(adj,á|priváhta) ja bearašbirrasa” dillin almmolašvuhtii – ja dá leat dilit mas menddo unnán ságastallo almmolaččat. Máŋggat áššit main nissonolbmot beroštit leat tabu, ja danne hárve oidnojit sámi servodatáššin. SNF háliida dán čalmmustahttit, ja bidjat ”priváhta” áššiid, maid illá duostá almmolaččat váldit ovdan, sámi servodaga almmolašvuhtii. Dát lea dan nammii vai nanosmahttit sámenissoniid rolla aktiivva servodatáŋggirdeaddjin, ja movttidahttit$(verb,con|movttiidahttit) sámenissoniid beroštit (váikkuhit servodatovdánahttima)£(noun,advl,illsg,accsg,case|váikkuhit servodatovdánahttimii).
+Doalut leat Cumulus hoteallas Roavvenjárggas, ja álget golggotmánu 31(.b.)$(space|. b.) eahkedis ja bistet skábmamánu 2(.beaivái)$(notcmp|(. beaivái). Seminára aigu$(verb,á|áigu) loktet diliid mat (leat atnon)¢(verb,conc|leat adnon) sámenissoniid ”privahta$(adj,á|priváhta) ja bearašbirrasa” dillin almmolašvuhtii – ja dá leat dilit mas menddo unnán ságastallo almmolaččat. Máŋggat áššit main nissonolbmot beroštit leat tabu, ja danne hárve oidnojit sámi servodatáššin. SNF háliida dán čalmmustahttit, ja bidjat ”priváhta” áššiid, maid illá duostá almmolaččat váldit ovdan, sámi servodaga almmolašvuhtii. Dát lea dan nammii vai nanosmahttit sámenissoniid rolla aktiivva servodatáŋggirdeaddjin, ja movttidahttit$(verb,con|movttiidahttit) sámenissoniid beroštit (váikkuhit servodatovdánahttima)£(noun,advl,illsg,accsg,case|váikkuhit servodatovdánahttimii).
 
 Semináras logaldallet: Petra Biret Magga Vuohčus eret, Risten Rauna Magga, Njunnásis eret, guktot Suomas, ja Larisa Abryutina, RAIPON – Ruošša davvi eamiálbmogiid lihttu.
 
@@ -21,7 +21,7 @@ Som$(pers,typo|Son) čilge SNFa$(acr,suf|SNF) semináras iežas barggu birra ja 
 
 Seminára leat ruhtadan Norgga Sámediggi ja Barentsčállingoddi, ja Sámiráđđi.
 
-Jahkečoahkkin 2008 ja (seminára  (“)$(cit|”)Sielu ráfi”)$(notspace|seminára ”Sielu ráfi”), Roavvenjárggas 31.10.-02.11.08
+Jahkečoahkkin 2008 ja (seminára  (“)$(cit|”)Sielu)$(notspace|seminára ”Sielu) ráfi, Roavvenjárggas 31.10.-02.11.08
 
 Stivra bovde miellahtuid SNF jahkečoahkkimii 2008 Roavvenjárgii. Dollo velá seminára (“)‰(cit|”)Sielu ráfi: Dearvvasvuohta, Biras, Bajásšaddan”. SNF doalut álget (bearjadat eahkeda)¥(noun,cmp|bearjadateahkeda) golggotmánu 31(.b.)$(space|. b.) ja (bistet sotnabeaivve skábmamánu 02. beaivái)£(noun,advl,illsg,accsg,case|bistet sotnabeaivái skábmamánu 02. beaivái).
 
@@ -29,6 +29,6 @@ Stivra bovde miellahtuid SNF jahkečoahkkimii 2008 Roavvenjárgii. Dollo velá s
 
 #www.saamicouncil.net∞(url)
 
-Nuvttá oasseváldin. Jos dieđihat SNF jahkečoahkkimii ja seminárii čakčamánu (20.beaivái)$(space|20. beaivái), de SNF gokčá belohahkii du mátkegoluid ja kulturvahko-/konferánssaoassálastima Roavvenjárggas. Bivdde eanet dieđuid dás, sádde e-poastta:
+Nuvttá oasseváldin. Jos dieđihat SNF jahkečoahkkimii ja seminárii čakčamánu 20(.beaivái)$(space|. beaivái), de SNF gokčá belohahkii du mátkegoluid ja kulturvahko-/konferánssaoassálastima Roavvenjárggas. Bivdde eanet dieđuid dás, sádde e-poastta:
 
 #(snf@trollnet.no)∞(url)
