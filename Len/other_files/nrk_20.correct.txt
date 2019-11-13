@@ -33,11 +33,11 @@ Loga maiddái:
 
 Gudnibálkašupmi$(noun,mix|Gudnebálkkašupmi)
 
-Jovnna Ovllá (oaččui Norsk Kulturarvs ærespris 2012, Norgga Kulturárbbi gudnibálkašumi$(noun,mix|gudnebálkkašumi) dá (moatti vahku áigge)¢(po,mix,gensg,nomsg|moatti vahku áigi). Son oaččui bálkašumi$(noun,conc|bálkkašumi) go lei báktesárgomiid$(noun,svow|báktesárgumiid) mielde ráhkadan sistefatnasa ja nagodii duođaštit ahte diekkár fatnasat govdot. Son sugai Kárášjogas Deatnuráigge$(noun,cmp,svow|Deatnoráigge) vulos gitta Deanunjálbmái. (NRK filbmii olles su mátki)£(noun,obj,accsg,nomsg,case|NRK filbmii olles su mátkki) ja čájehedje dan TV's$(acr,suf|TV:s).
+Jovnna Ovllá (oaččui Norsk Kulturarvs ærespris 2012, Norgga Kulturárbbi gudnibálkašumi$(noun,mix|gudnebálkkašumi) dá (moatti vahku áigge)£(po,pph,nomsg,gensg,case|moatti vahku áigi). Son oaččui bálkašumi$(noun,conc|bálkkašumi) go lei báktesárgomiid$(noun,svow|báktesárgumiid) mielde ráhkadan sistefatnasa ja nagodii duođaštit ahte diekkár fatnasat govdot. Son sugai Kárášjogas Deatnuráigge$(noun,cmp,svow|Deatnoráigge) vulos gitta Deanunjálbmái. (NRK filbmii olles su mátki)£(noun,obj,accsg,nomsg,case|NRK filbmii olles su mátkki) ja čájehedje dan TV's$(acr,suf|TV:s).
 
 Son gudnejahttojuvvo maiddái danne go lea sihke čájehan ja oahpahan earáide mo darfegođiid ráhkada. Juo 1980 logus lei son mielde filmmas mii čájeha mo darfegoađi ráhkada.
 
-- Lei hui somá go ožžon gudnibálkášumi$(vowlat,i-e;conc,lk-lkk;vowlat,á-a|gudnebálkkašumi). Illá jáhkken dat lei duohta. Dat lei hui stuoris munnje. Ja dat (lea maiddái stuorra bálkášupmi$(conc,lk-lkk;vowlat,á-a|bálkkašupmi) olles dan duoddjái)¢(conc,ddj-dj|lea maiddái stuorra bálkkašupmi olles dan duodjái).
+- Lei hui somá go ožžon gudnibálkášumi$(noun,mix|gudnebálkkašumi). Illá jáhkken dat lei duohta. Dat lei hui stuoris munnje. Ja dat (lea maiddái stuorra bálkášupmi$(noun,mix|bálkkašupmi) olles dan (duoddjái)¢(conc,conc|duodjái).
 
 Norgga Kulturárbi lea juohkán gudnibálkašumi$(noun,mix|gudnebálkkašumi) 2007 rájes. Bálkašupmi$(noun,conc|Bálkkašupmi) addo eaŋkilolbmuide dahje servviide mat árjjálaččat barget norgga kulturárbbi ovddas ja dahket dan dovddusin otná áiggis maiddái. Jovnna Ovllá lea guđát gii dán bálkašumi$(noun,conc|bálkkašumi) oažžu.
 
@@ -45,4 +45,4 @@ Duddjo nu guhká go mokta ja oaidnu
 
 80 jagi boaris, muhto áigi gollá bures duojárin. Duddjon lea bargu masa liiko. Dál (duddjo dušše muhttomin)¢(adv,conc|duddjo dušše muhtomin).
 
-(Sus lávejit ain muhttomin fitnat olbmot)¢(adv,conc|Sus lávejit ain muhtomin fitnat olbmot) su luhtte geat leat oahppamin duddjot. Jovnna Ovllá muitala ahte boahtá duddjot ain duolletdálle$(adv,notcmp|duollet dálle) nu guhká go bissu dearvvasin ja nu guhká go oaidnu lea.
+Sus lávejit ain (muhttomin)¢(adv,conc|muhtomin) fitnat olbmot su luhtte geat leat oahppamin duddjot. Jovnna Ovllá muitala ahte boahtá duddjot ain duolletdálle$(adv,notcmp|duollet dálle) nu guhká go bissu dearvvasin ja nu guhká go oaidnu lea.

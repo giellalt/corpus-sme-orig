@@ -5,7 +5,7 @@ Enodat guđđo olggos sámegielddas
 #Kuva: ANTTI SALLINEN Oula-Antti LabbaLähetä palautetta toimittajalle
 
 Enodagas leat fuolas mo stuorra gildii laktin váikkuha luondduealahusaide$(noun,á|luondduealáhusaide) ja sámegiela sajádahkii. Antti Sallinen govven.
-Suoma ráđđehusa ásahan virgeolmmošbargojoavku evttoha Lappi oarjedavveoassái (Enodaga, Gihttela, Muonio ja Kolari laktima oktasaš gielddan)¢(noun,conc|Enodaga, Gihttela, Muonio ja Kolari laktima oktasaš gieldan).
+Suoma ráđđehusa ásahan virgeolmmošbargojoavku evttoha Lappi oarjedavveoassái Enodaga, Gihttela, Muonio ja Kolari laktima oktasaš (gielddan)¢(noun,conc|gieldan).
 
 Plánenjoavkku mielas gieldaođastus lea vealtameahttun, vai gielddat cevzet boarasmuvvama$(noun,á|boarásmuvvama) ja gielddaekonomiija ovdanbuktin hástalusain. Maid skuvllaid unna oahppimearit dagahit dan, ahte bálvalusaid galggaše guorahallat čiekŋaleabbut$(adj,mix|čiekŋaleappot) dán njealje gieldda gaskkas.
 
@@ -19,7 +19,7 @@ Bargojoavkku evttohusas mieđihit, ahte sápmelaččaid rievttit hedjonivčče d
 
 Enodaga Gárasavvonis orru oahpaheaddji Virpi Väisänen lea fuolas dákkár plánain. Su mielas váttisvuođaid buvttalii$(verb,á|buvttálii) ee. gieldda mearehis stuora viidodaga lassin maid sámegielat bálvalusaid ollašuhttin
 
-– Juo (dála dilis)¢(adj,á|dálá dilis) lea dievas bargu vuođustit sámegielabálvalusaid$(noun,cmp,vow|sámegielbálvalusaid) dárbbu ja ain stuorit gielddas dat livččii jo mihá garrasit hástalus.
+– Juo (dála)¢(adj,á|dálá) dilis lea dievas bargu vuođustit sámegielabálvalusaid$(noun,cmp,vow|sámegielbálvalusaid) dárbbu ja ain stuorit gielddas dat livččii jo mihá garrasit hástalus.
 
 Dákkár váttisvuođat leat omd. sámegielat beaivedikšumis ja sámegielat skuvllain, gos leat unna oahppimearit.
 
