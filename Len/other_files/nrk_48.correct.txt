@@ -16,7 +16,7 @@ Máŧkis$(noun,conc|Mátkkis) Osloi lea maid Sámediggedirektevra Rune Fjellheim
 
 Loga maid: – Mii fertet juoidá bargat
 
-(Čielga diehttu)¢(noun,conc|Čielga diehtu)
+Čielga diehttu¢(noun,conc|diehtu)
 
 Ruošša riekteministtar lea mearridan ahte RAIPON doaimmat galget bissehuvvot danin go oaivvildit rihkkut Ruošša lága, go ovttasbarget (olgoriika organisašuvnnaiguin)£(noun,det,gensg,nomsg,case|olgoriikka organisašuvnnaiguin).
 

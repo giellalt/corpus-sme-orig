@@ -20,7 +20,7 @@ Manne eaba veahki jeara, imaštallat.
 
 – (Moai han lávime$(verb,vow|láviime) leat hui gievrra)£(adj,spred,plnom,accsg,kongr|Moai han láviime leat hui gievrrat), lasiha Laila Rasmus gis.
 
-Olles Kárasjohka$(prop,mix|Kárášjohka) veadjá boahtit borrat gumposiid servodatviesus dál guokte beaivvi, muhto nissonolbmo guovttos (eaba gal dara dan dihti)¢(adv,fin|eaba gal dara dan dihtii) ja leaikkastallaba das gaskaneaskka.
+Olles Kárasjohka$(prop,mix|Kárášjohka) veadjá boahtit borrat gumposiid servodatviesus dál guokte beaivvi, muhto nissonolbmo guovttos eaba gal dara dan dihti¢(adv,fin|dihtii) ja leaikkastallaba das gaskaneaskka.
 
 
 Gumposat Karasjoga$(prop,mix|Kárášjoga) kulturvahku
