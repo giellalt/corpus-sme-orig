@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="''"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Sámedikki dievasčoahkkin. Čoahkkingirji 01/17'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2017'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -86,7 +86,7 @@
         Three letter language code.
         https://no.wikipedia.org/wiki/Liste_over_ISO_639-1-koder
     -->
-    <xsl:variable name="translated_from" select="''"/>
+    <xsl:variable name="translated_from" select="'nob'"/>
     <!-- Translator variables have the same format as the author ones -->
     <xsl:variable name="translator_fn" select="''"/>
     <xsl:variable name="translator_ln" select="''"/>
@@ -168,7 +168,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="sp2017-1.odt"/>
+        <parallel_text xml:lang="nob" location="sp2017-1.docx"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
@@ -280,7 +280,7 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="linespacing" select="''"/>
+    <xsl:variable name="linespacing" select="'all=1'"/>
 
     <!--
         Choose which chapters to exclude from an epub file.
