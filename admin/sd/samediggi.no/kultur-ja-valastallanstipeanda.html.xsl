@@ -170,9 +170,9 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location="kultur-og-idrettsstipend.html"/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
+        <parallel_text xml:lang="sma" location="kultuvre-jih-gaarsjelimmiestipende.html"/>
         <parallel_text xml:lang="sme" location=""/>
-        <parallel_text xml:lang="smj" location=""/>
+        <parallel_text xml:lang="smj" location="kultur-ja-valastallamstipenda.html"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

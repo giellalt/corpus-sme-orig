@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://www.samediggi.no/Samedikki-birra2/Arkiiva-aigodat-2016-2017/Odasarkiiva/Samediggepresideantta-sardni-radi-diedahussii'"/>
+    <xsl:variable name="filename" select="'https://www.samediggi.no/Odasarkiiva/Samediggepresideantta-sardni-radi-diedahussii'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Sámediggepresideantta sárdni ráđi dieđáhussii'"/>
     <!--
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="'2017'"/>
+    <xsl:variable name="year" select="'2019'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>

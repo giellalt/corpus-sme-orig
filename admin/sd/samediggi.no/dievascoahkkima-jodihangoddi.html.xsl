@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://www.samediggi.no/Politihkka2/Dievascoahkkima-jodihangoddi'"/>
+    <xsl:variable name="filename" select="'https://www.samediggi.no/Samedikki-birra2/Arkiiva-aigodat-2016-2017/Dievascoahkkima-jodihangoddi'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Dievasčoahkkima jođihangoddi'"/>
     <!--
