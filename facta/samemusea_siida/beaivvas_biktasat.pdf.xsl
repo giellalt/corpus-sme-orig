@@ -160,8 +160,8 @@
     -->
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
-        <parallel_text xml:lang="eng" location="Beaivvas_biktasat.pdf"/>
-        <parallel_text xml:lang="fin" location="Beaivvas_biktasat.pdf"/>
+        <parallel_text xml:lang="eng" location="beaivvas_biktasat.pdf"/>
+        <parallel_text xml:lang="fin" location="beaivvas_biktasat.pdf"/>
         <parallel_text xml:lang="fit" location=""/>
         <parallel_text xml:lang="fkv" location=""/>
         <parallel_text xml:lang="ger" location=""/>
@@ -282,6 +282,21 @@
         1;3;8=20, 4;5;7=10
     -->
     <xsl:variable name="linespacing" select="''"/>
+
+    <!--
+        This variable is used for pdf files.
+
+        This is the -wbt option of pdftohtml, which converts pdf files to
+        a poppler specific xml.
+
+        If a file converted from pdf contains words that are separated by
+        spaces that really should have no spaces (e.g. W O R D), raising
+        this value may help.
+
+        Quote from the pdftohtml help:
+        -wbt <fp> : word break threshold (default 10 percent)
+    -->
+    <xsl:variable name="word_break_threshold" select="'10'"/>
 
     <!--
         Choose which chapters to exclude from an epub file.
