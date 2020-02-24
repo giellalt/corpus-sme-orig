@@ -25,7 +25,7 @@ Virggit / barggut:
 - 1989–1998: Oslo ja Akershus Filkamánne$(noun,mix|Fylkkamánne)
 - 1990: Suodjaluskommišuvnna jođiheaddji jagis 1990
 - 1998–2000: NRK:a$(acr,suf|NRK) stivrajođiheaddji$(noun,cmp,nom,gen|stivrrajođiheaddji)
-- 1999–2000: Jođiheaddji Sårbarhetsutvalget nammaduvvon Bondevik-ráđđehusas čakčamán$(noun,typo|čakčamánu) 3. beaivve 1999, dainna ulbmiliin čielggadit servodaga rašesvuođa ja ráhkkaneami.
+- 1999–2000: Jođiheaddji Sårbarhetsutvalget nammaduvvon Bondevik-ráđđehusas čakčamán$(noun,typo|čakčamánu) 3. beaivve 1999, dainna ulbmiliin čielggadit¥(ahte čielggadit) servodaga rašesvuođa ja ráhkkaneami.
 
 Bálkkašumit/Nammadeamit
 - 1983 gudnedoavttirin St. Olaf College:s Minneapolis, USA
