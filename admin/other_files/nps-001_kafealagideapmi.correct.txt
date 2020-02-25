@@ -34,7 +34,7 @@ Mii eat doala kaféa juovlamánus go dalle (lea muđui olu eará barggut)£(verb
 
 Skábmamánus leat (4 oahpi$(noun,conc|oahppi) geas)£(rel,hab,nompl,nomsg,kongr|4 oahppi geain) lea ovddasvástádus, jus dalle šaddat (omd. Juovlabeavdi lágidit)£(noun,obj,accsg,nomsg,case|omd. Juovlabeavddi lágidit) (ovttas Sámi váhnenfierpmádagas)£(noun,advl,comsg,locsg,case|ovttas Sámi váhnenfierpmádagain)
 
-Guovvamánus leat 4 oahpi$(noun,conc|oahppi). Jus lágidit 6.b (ovttas Sámi váhnenfierpmádagas)£(noun,advl,comsg,locsg,case|ovttas Sámi váhnenfierpmádagain)
+Guovvamánus leat 4 oahpi$(noun,conc|oahppi). Jus lágidit (6.b)‰(space|6. b) (ovttas Sámi váhnenfierpmádagas)£(noun,advl,comsg,locsg,case|ovttas Sámi váhnenfierpmádagain)
 
 Geassemánus leat (4 oahppit)£(noun,numph,gensg,nompl,kongr|4 oahppi). Maŋemus doalut ovdal geasseluomu.
 
