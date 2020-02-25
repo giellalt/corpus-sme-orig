@@ -18,7 +18,7 @@ Sii geat lágidit kaféa fertejit váldit mielde daid maid galget vuovdit (omd. 
 (Bruvssa, káfe, teaja, sohkkarat, muorje-meastu, servieahta jna. leat)£(noun,subj,accsg,nompl,case|Bruvssat, káfet, teajat, sohkkarat, muorje-measttut, servieahtat jna. leat) kaféa-kássas(.
 váldet)¢(verb,cap|. Váldet) áinnas oktavuođa jus leaš eahpečielggas.
 
-Váhnenfierpmádagas lea stivračoahkkin$(noun,cmp,gensg,nomsg|stivrračoahkkin) čakčamánus 26. b. gos mearriduvvo dáhton goas káfea$(noun,a|kafea) doalut lágiduvvojit. Stivračoahkkima$(noun,cmp,gensg,nomsg|Stivrračoahkkima) maŋŋel oahpaheaddjit sáddejit ođđa (ovddasvástádus listtu)¥(noun,cmp|ovddasvástáduslisttu) váhnemiidda. Jus háliidehpet rievdadit evttohuvvon áiggi dieđihehket midjiide ovdal disdaga čakčamánu 29.b. Váhnemat fertejit gaskaneaset šiehtadit gii bargá maid. Mielddus: ovdamearkan mo juogadit barggu. Giitu!
+Váhnenfierpmádagas lea stivračoahkkin$(noun,cmp,gensg,nomsg|stivrračoahkkin) (čakčamánus 26. b.)£(noun,attr ,gensg,locsg,case|čakčamánu 26. b.) gos mearriduvvo dáhton goas káfea$(noun,a|kafea) doalut lágiduvvojit. Stivračoahkkima$(noun,cmp,gensg,nomsg|Stivrračoahkkima) maŋŋel oahpaheaddjit sáddejit ođđa (ovddasvástádus listtu)¥(noun,cmp|ovddasvástáduslisttu) váhnemiidda. Jus háliidehpet rievdadit evttohuvvon áiggi dieđihehket midjiide ovdal disdaga čakčamánu 29.b. Váhnemat fertejit gaskaneaset šiehtadit gii bargá maid. Mielddus: ovdamearkan mo juogadit barggu. Giitu!
 
 Dearvuođaiguin
 
