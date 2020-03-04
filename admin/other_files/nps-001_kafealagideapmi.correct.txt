@@ -45,7 +45,7 @@ KAFEA-KÁSSA: kaféa-kássa vižžojuvvo skuvllas. Gii dan viežžá fertebehtet
 
 RUHTA-KÁSSAS: galgá álohit¢(adv,fin|álohii) leat (1000,- .)‰(notspace|1000,-.) (Maŋŋel doaluid, fertebehtet)‰(notcomma|Maŋŋel doaluid fertebehtet) (rehkenastit dietnasa ja čállet dan unna girjjážii)£(verb,infin,infinite,pl3prs,number|rehkenastit dietnasa ja čállit dan unna girjjážii) mii lea ruhta-kássas. Dietnasa bidjabehtet sierra (plastihka-bosi¢(noun,mix|plastihkkabussii nu ahte mii skuvllas eat dárbbaš lohkat dáid.
 
-MÁNÁID-GÁRDDI RAHPAN JA LÁSSEN: Dát ášši ii leat vuos čielggas. Ovdal lea leamaš nu ahte muhtin Sámi váhnenfierpmádagas rahpán$(verb,fin|rahpá) ja lásse uvssa.
+MÁNÁID-GÁRDDI$(noun,nothyph|MÁNÁIDGÁRDDI) RAHPAN JA LÁSSEN: Dát ášši ii leat vuos čielggas. Ovdal lea leamaš nu ahte muhtin Sámi váhnenfierpmádagas rahpán$(verb,fin|rahpá) ja lásse uvssa.
 
 DÁHTON: mii eat leat vuos ožžon dáhtoniid sámi váhnenfierpmádagas go dát eai leat vuos čielgan.
 
