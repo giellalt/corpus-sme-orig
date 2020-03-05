@@ -4,7 +4,7 @@
 Márjjábeaivve historiijjá$(vowlat,i-0;conm,ij-0|historjá)
 
 
-Árbevirolaččat Sámitč leat čoahkkanan meassostallat$(verb,mono|messostallat) girkobáikkiide Márjjábeivviid áigge. Čoahkkaneapmái ledje dieđusge girkolaš sivat, muhto leihan olbmuin dárbu muđuinnai$(adv,fin|muđuinai) beassat oaidnalit. Ja Márjjábeivviid áígge$(noun,typo|áigge) olbmuin lei astu ovdal davasjohtima$(noun,á|davásjohtima).
+Árbevirolaččat Sámit¢(noun,cap|sámit) leat čoahkkanan meassostallat$(verb,mono|messostallat) girkobáikkiide Márjjábeivviid áigge. Čoahkkaneapmái ledje dieđusge girkolaš sivat, muhto leihan olbmuin dárbu muđuinnai$(adv,fin|muđuinai) beassat oaidnalit. Ja Márjjábeivviid áígge$(noun,typo|áigge) olbmuin lei astu ovdal davasjohtima$(noun,á|davásjohtima).
 
 Vuosttaš girku ceggejuvvui Ruovdnálii 1500-logu gaskkamuttus. (1600- logu)¥(noun,cmp|1600-logu) álggus girkobáikin bođii Márkan. Go Suopma šattai Ruošša válddi vuollái, sirdojuvvui Márkana girku Bálojotnjálbmái$(prop,con|Bálojohnjálbmái) 1826, mii bisui girkosiidan 50 jagi.
 
