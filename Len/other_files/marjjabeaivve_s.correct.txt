@@ -8,7 +8,7 @@ Márjjábeaivve historiijjá$(vowlat,i-0;conm,ij-0|historjá)
 
 Vuosttaš girku ceggejuvvui Ruovdnálii 1500-logu gaskkamuttus. (1600- logu)¥(noun,cmp|1600-logu) álggus girkobáikin bođii Márkan. Go Suopma šattai Ruošša válddi vuollái, sirdojuvvui Márkana girku Bálojotnjálbmái$(prop,con|Bálojohnjálbmái) 1826, mii bisui girkosiidan 50 jagi.
 
-Eanodaga ođđa girku huksejuvvui Heahttái 1800-logu loahpabealde$(cmp,1-2|loahpa bealde). Girku ceaggáige das sulaid 70 jagi ovdal duiskalaččat bolde dan čakčat 1944. Dáláš girku lea huksejuvvon jagis 1951 seamma girkodievvái go ovdditnai.
+Eanodaga ođđa girku huksejuvvui Heahttái 1800-logu loahpabealde$(cmp,1-2|loahpa bealde). Girku ceaggáige das sulaid 70 jagi ovdal¥(ovdal go) duiskalaččat bolde dan čakčat 1944. Dáláš girku lea huksejuvvon jagis 1951 seamma girkodievvái go ovdditnai.
 
 Dolin Márjjábeivviid áigge sámit bohte girkosiidii gásttašit mánáid, doallat heajaid ja hávdádit váinniid. Nuorat bohte rihppaskuvlii, ja konfirmerejuvvojedje Márjjábeaivve.
 
