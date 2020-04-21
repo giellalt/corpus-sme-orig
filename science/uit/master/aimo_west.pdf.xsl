@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://munin.uit.no/bitstream/handle/10037/16088/thesis.pdf?sequence=2&isAllowed=y'"/>
+    <xsl:variable name="filename" select="'https://munin.uit.no/bitstream/handle/10037/16088/thesis.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Davvisámegiela molssaeakto- ja ohcanjearaldagaid semantihkka ja pragmatihkka '"/>
     <!--
@@ -186,7 +186,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'1, 5-6, 89-90'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
@@ -196,7 +196,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_lines" select="'1, 5-6, 89-90'"/>
+    <xsl:variable name="skip_lines" select="''"/>
 
     <!--
         Margin of a page in a pdf document expressed as a percentage of
@@ -280,7 +280,7 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="linespacing" select="''"/>
+    <xsl:variable name="linespacing" select="'all=3'"/>
 
     <!--
         Choose which chapters to exclude from an epub file.
