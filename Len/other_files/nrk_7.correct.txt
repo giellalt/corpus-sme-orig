@@ -2,22 +2,22 @@
 
 #Tor Emil Schanche
 
-#Publisert∞(nob) 22.11.2012 16:01. Oppdatert∞(nob) 22.11.2012 16:21.
+{#Publisert}∞{nob} 22.11.2012 16:01. {Oppdatert}∞{nob} 22.11.2012 16:21.
 
 
 Fasttit givssiduvvon dávddaid dihtii
 
 26-jahkásaš Ruben Klipper logaldallá Deanu nuoraidskuvla-oahppiide iežas váivves mánná- ja nuorravuođa vásáhusaid.
-Miela vuostá gárrudit¢(verb,a|garrudit), dahje fáhkka huikkádit. Nu soaittát jos dus leat sihke ADHD- ja Tourettes-dávddat. Ruben Klipper lea fasttit givssiduvvon dáid dávddaid dihtii, ja johtá dál ja muitala iežas vásáhusaid birra.
+Miela vuostá {gárrudit}¢{verb,a|garrudit}, dahje fáhkka huikkádit. Nu soaittát jos dus leat sihke ADHD- ja Tourettes-dávddat. Ruben Klipper lea fasttit givssiduvvon dáid dávddaid dihtii, ja johtá dál ja muitala iežas vásáhusaid birra.
 
 
 – Háliidan buktit ovdan ja deattuhit ahte ADHD- ja Tourettes-gillájeaddjit leat guhkkin eret jallat, dadjá Ruben Klipper rádiojearahallamis.
 
 26-jahkásaš almmái lea mánná- ja nuorravuođas fasttit givssiduvvon, go guktot dávddat sus leat.
 
-Ollesolmmožin johtá dál miehttá$(pp,conc|miehtá) Norgga ja logaldallá skuvllaoahppiide$(noun,cmp,gensg,nomsg|skuvlaoahppiide) – mo dávddaiguin lea eallit, ja mo lei givssiduvvot.
+Ollesolmmožin johtá dál {miehttá}${pp,conc|miehtá} Norgga ja logaldallá {skuvllaoahppiide}${noun,cmp,gensg,nomsg|skuvlaoahppiide} – mo dávddaiguin lea eallit, ja mo lei givssiduvvot.
 
-NRK Sápmi deaivvadii albmáin, go Deanu Nuoraidskuvlla-oahppiide$(noun,cmp,gensg,nomsg|Nuoraidskuvlaoahppiide) logaldalai Deanu birasvisttis.
+NRK Sápmi deaivvadii albmáin, go Deanu {Nuoraidskuvlla-oahppiide}${noun,cmp,gensg,nomsg|Nuoraidskuvlaoahppiide} logaldalai Deanu birasvisttis.
 
 Rabasvuođain muitala rádioreportášas manne son lea válljen johtit ja muitalit iežas mánná- ja nuorravuođa gillámušaid birra.
 

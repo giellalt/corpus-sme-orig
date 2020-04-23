@@ -1,7 +1,7 @@
 #http://se.wikipedia.org/w/index.php?title=Luohti&oldid=137453
 #29.11.12
 
-Luohti lea sápmelaččaid álbmotmusihkka/lávlunvuohki doloža rájes. Luohti gullá lyrálaš$(loan,vowlat,á-a|lyralaš) šaŋŋerii$(loan,vowc,á-a|šáŋŋerii). Daddjo ahte luođi ruohttasat mannet gitta geađgeáiggi rádjai. Luohti juigojuvvo otná sámi servodagas, muhto ii nu olu go ovdalaš áiggis. Sivat leat máŋga, ja norgga dáruiduhttin ja girkku$(conc,rkk-rk|girku) ja girkolaš joavkkuid oainnus luohti atnojuvvui$(conc,tn-dn|adnojuvvui) suddun, lea mearkkašan olu. 1950-logus gildojuvvui luohti skuvllain sámi guovlluin, ja oassi duogážis das ahte luohti leai kontroversiella$(loan,vowc,diph|kontroversiealla) sáhttá boahtet$(vowlat,e-i|boahtit) das go dat gulai noaidái ja ovdal-risttalašvuođa$(cmp,2-1;hyph-0|ovdalristtalašvuođa) myhtalaš ritualaide$(loan,vowc,a-á|rituálaide).
+Luohti lea sápmelaččaid álbmotmusihkka/lávlunvuohki doloža rájes. Luohti gullá {lyrálaš}${loan,vowlat,á-a|lyralaš} {šaŋŋerii}${loan,vowc,á-a|šáŋŋerii}. Daddjo ahte luođi ruohttasat mannet gitta geađgeáiggi rádjai. Luohti juigojuvvo otná sámi servodagas, muhto ii nu olu go ovdalaš áiggis. Sivat leat máŋga, ja norgga dáruiduhttin ja {girkku}${conc,rkk-rk|girku} ja girkolaš joavkkuid oainnus luohti {atnojuvvui}${conc,tn-dn|adnojuvvui} suddun, lea mearkkašan olu. 1950-logus gildojuvvui luohti skuvllain sámi guovlluin, ja oassi duogážis das ahte luohti leai {kontroversiella}${loan,vowc,diph|kontroversiealla} sáhttá {boahtet}${vowlat,e-i|boahtit} das go dat gulai noaidái ja {ovdal-risttalašvuođa}${cmp,2-1;hyph-0|ovdalristtalašvuođa} myhtalaš {ritualaide}${loan,vowc,a-á|rituálaide}.
 
 Son guhte juoigá luođi, lea juoigi. Luohti gohčoduvvo maid juoiggusin.
 

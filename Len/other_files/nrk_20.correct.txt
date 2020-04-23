@@ -2,28 +2,28 @@
 
 #Maret Inge Smuk
 
-#Publisert∞(nob) 14.11.2012 10:59. Oppdatert∞(nob) 14.11.2012 11:02.
+{#Publisert}∞{nob} 14.11.2012 10:59. {Oppdatert}∞{nob} 14.11.2012 11:02.
 
 Duddjo nu guhká go mokta bistá
-Duojár Jovnna Ovllá Andersen (80) gii lea moadde vahku áigi ožžon Norgga Kulturárbbi gudnibálkašumi$(noun,mix|gudnebálkkašumi) (Norsk Kulturarvs ærespris) lohká sámi árbevirolaš duoji hui deaŧálažžan$(adj,a|deaŧalažžan) sámiide.
+Duojár Jovnna Ovllá Andersen (80) gii lea moadde vahku áigi ožžon Norgga Kulturárbbi {gudnibálkašumi}${noun,mix|gudnebálkkašumi} (Norsk Kulturarvs ærespris) lohká sámi árbevirolaš duoji hui {deaŧálažžan}${adj,a|deaŧalažžan} sámiide.
 
-Jovnna Ovllá lea bajásšaddan Horpmás, Deanus, muhto fárrii Kárášjohki$(prop,fin|Kárášjohkii) go lei viehka nuorra. Son lea olu snihkken ovdal ja lea huksen sihke stobuid ja stuorra návehiid.
+Jovnna Ovllá lea bajásšaddan Horpmás, Deanus, muhto fárrii {Kárášjohki}${prop,fin|Kárášjohkii} go lei viehka nuorra. Son lea olu snihkken ovdal ja lea huksen sihke stobuid ja stuorra návehiid.
 
-Son lea maiddái huksen alccesii$(refl,fin|alccesis) duodjelanja iežas stohpui.
+Son lea maiddái huksen {alccesii}${refl,fin|alccesis} duodjelanja iežas stohpui.
 
 Bajásšaddan dujiin
 
-Duddjonmokta gal lea Jovnna Ovllás vissa leamaš jo mánnávuođa rájes. Sus duddjui sihke eadni ja áhčči, eadnis diibmaduiid$(noun,mix|dipmadujiid) ja áhččis gis garradujiid. Go veahá rávásmuvai, de álggi$(verb,fin|álggii) johtit duodjekurssain. Muhto duođai duddjot, dan ii álgán ovdal go ealáhahkii manai, muitala ieš.
+Duddjonmokta gal lea Jovnna Ovllás vissa leamaš jo mánnávuođa rájes. Sus duddjui sihke eadni ja áhčči, eadnis {diibmaduiid}${noun,mix|dipmadujiid} ja áhččis gis garradujiid. Go veahá rávásmuvai, de {álggi}${verb,fin|álggii} johtit duodjekurssain. Muhto duođai duddjot, dan ii álgán ovdal go ealáhahkii manai, muitala ieš.
 
 Oahpai čeahpimusain
 
 Sus ledje máŋga {duojár ovdagova}¥{noun,cmp|duojárovdagova}. Guovttis leigga Paulus Utsi ja Lauri Keskitalo. Jovnna Ovllás lei nu buorre vuorbi ahte beasai sudnos oahppat vel duddjot.
 
-Álggi$(verb,fin|álggii) ieš ge kurssain oahpahit - nu go dadjá {“}‰{cit|”}go gáddegođii$(verb,svow|gáddigođii) son maid máhttá duddjot”, ja čaibmá.
+{Álggi}${verb,fin|álggii} ieš ge kurssain oahpahit - nu go dadjá {“}‰{cit|”}go {gáddegođii}${verb,svow|gáddigođii} son maid máhttá duddjot”, ja čaibmá.
 
 Loga maiddái:
 
-- Oaččui Norgga kulturárbbi gudnibálkašumi$(noun,mix|gudnebálkkašumi)
+- Oaččui Norgga kulturárbbi {gudnibálkašumi}${noun,mix|gudnebálkkašumi}
 
 - Gudnejahtte {80 jahkásačča}¥{adj,cmp|80-jahkásačča}
 
@@ -31,18 +31,18 @@ Loga maiddái:
 
 - Sámi duoji nana bázzi
 
-Gudnibálkašupmi$(noun,mix|Gudnebálkkašupmi)
+{Gudnibálkašupmi}${noun,mix|Gudnebálkkašupmi}
 
-Jovnna Ovllá (oaččui Norsk Kulturarvs ærespris 2012, Norgga Kulturárbbi gudnibálkašumi$(noun,mix|gudnebálkkašumi) dá {moatti vahku áigge}£{po,pph,nomsg,gensg,case|moatti vahku áigi}. Son oaččui bálkašumi$(noun,conc|bálkkašumi) go lei báktesárgomiid$(noun,svow|báktesárgumiid) mielde ráhkadan sistefatnasa ja nagodii duođaštit ahte diekkár fatnasat govdot. Son sugai Kárášjogas Deatnuráigge$(noun,cmp,svow|Deatnoráigge) vulos gitta Deanunjálbmái. {NRK filbmii olles su mátki}£{noun,obj,accsg,nomsg,case|NRK filbmii olles su mátkki} ja čájehedje dan TV's$(acr,suf|TV:s).
+Jovnna Ovllá (oaččui Norsk Kulturarvs ærespris 2012, Norgga Kulturárbbi {gudnibálkašumi}${noun,mix|gudnebálkkašumi} dá {moatti vahku áigge}£{po,pph,nomsg,gensg,case|moatti vahku áigi}. Son oaččui {bálkašumi}${noun,conc|bálkkašumi} go lei {báktesárgomiid}${noun,svow|báktesárgumiid} mielde ráhkadan sistefatnasa ja nagodii duođaštit ahte diekkár fatnasat govdot. Son sugai Kárášjogas {Deatnuráigge}${noun,cmp,svow|Deatnoráigge} vulos gitta Deanunjálbmái. {NRK filbmii olles su mátki}£{noun,obj,accsg,nomsg,case|NRK filbmii olles su mátkki} ja čájehedje dan {TV's}${acr,suf|TV:s}.
 
 Son gudnejahttojuvvo maiddái danne go lea sihke čájehan ja oahpahan earáide mo darfegođiid ráhkada. Juo 1980 logus lei son mielde filmmas mii čájeha mo darfegoađi ráhkada.
 
-- Lei hui somá go ožžon gudnibálkášumi$(noun,mix|gudnebálkkašumi). Illá jáhkken dat lei duohta. Dat lei hui stuoris munnje. Ja dat lea maiddái stuorra bálkášupmi$(noun,mix|bálkkašupmi) olles dan duoddjái¢(noun,conc|duodjái).
+- Lei hui somá go ožžon {gudnibálkášumi}${noun,mix|gudnebálkkašumi}. Illá jáhkken dat lei duohta. Dat lei hui stuoris munnje. Ja dat lea maiddái stuorra {bálkášupmi}${noun,mix|bálkkašupmi} olles dan {duoddjái}¢{noun,conc|duodjái}.
 
-Norgga Kulturárbi lea juohkán gudnibálkašumi$(noun,mix|gudnebálkkašumi) 2007 rájes. Bálkašupmi$(noun,conc|Bálkkašupmi) addo eaŋkilolbmuide dahje servviide mat árjjálaččat barget norgga kulturárbbi ovddas ja dahket dan dovddusin otná áiggis maiddái. Jovnna Ovllá lea guđát gii dán bálkašumi$(noun,conc|bálkkašumi) oažžu.
+Norgga Kulturárbi lea juohkán {gudnibálkašumi}${noun,mix|gudnebálkkašumi} 2007 rájes. {Bálkašupmi}${noun,conc|Bálkkašupmi} addo eaŋkilolbmuide dahje servviide mat árjjálaččat barget norgga kulturárbbi ovddas ja dahket dan dovddusin otná áiggis maiddái. Jovnna Ovllá lea guđát gii dán {bálkašumi}${noun,conc|bálkkašumi} oažžu.
 
 Duddjo nu guhká go mokta ja oaidnu
 
-80 jagi boaris, muhto áigi gollá bures duojárin. Duddjon lea bargu masa liiko. Dál duddjo dušše muhttomin¢(adv,conc|muhtomin).
+80 jagi boaris, muhto áigi gollá bures duojárin. Duddjon lea bargu masa liiko. Dál duddjo dušše {muhttomin}¢{adv,conc|muhtomin}.
 
-Sus lávejit ain muhttomin¢(adv,conc|muhtomin) fitnat olbmot su luhtte geat leat oahppamin duddjot. Jovnna Ovllá muitala ahte boahtá duddjot ain duolletdálle$(adv,notcmp|duollet dálle) nu guhká go bissu dearvvasin ja nu guhká go oaidnu lea.
+Sus lávejit ain {muhttomin}¢{adv,conc|muhtomin} fitnat olbmot su luhtte geat leat oahppamin duddjot. Jovnna Ovllá muitala ahte boahtá duddjot ain {duolletdálle}${adv,notcmp|duollet dálle} nu guhká go bissu dearvvasin ja nu guhká go oaidnu lea.

@@ -2,23 +2,23 @@
 
 #Maren Inga Baer
 
-#Publisert∞(nob) 30.11.2012 15:41.
+{#Publisert}∞{nob} 30.11.2012 15:41.
 
 
-Mánáid-Tv$(acro,cap|Mánáid-TV) ruskabáikkis
+{Mánáid-Tv}${acro,cap|Mánáid-TV} ruskabáikkis
 
 Ribat-Rábat
 
-Ođđajagimánus boahta$(vowlat,a-á|boahtá) ođđa mánáid ráidu Ribat-Rábat tv:i. Doppe ohppet mánát ruskaiguin$(conc,sk-skk|ruskkaiguin) ráhkađit$(conm,đ-d|ráhkadit) ođđa biergasiid.
+Ođđajagimánus {boahta}${vowlat,a-á|boahtá} ođđa mánáid ráidu Ribat-Rábat tv:i. Doppe ohppet mánát {ruskaiguin}${conc,sk-skk|ruskkaiguin} {ráhkađit}${conm,đ-d|ráhkadit} ođđa biergasiid.
 
-Dál lea báddemin maŋimuš osid$(fin,d-id|osiid) ođđa {mánáid ráidui}¢{cmp,2-1|mánáidráidui} maid sáddegohtet ođđajagimánus.
+Dál lea báddemin maŋimuš {osid}${fin,d-id|osiid} ođđa {mánáid ráidui}¢{cmp,2-1|mánáidráidui} maid sáddegohtet ođđajagimánus.
 
-Ribat-Rábat lea namma, ja doppe mánát ožžot oaidnit got sáhttá fas geavahit ruskkaid, {ovdamearka dihte}¢{conc,rk-rkk|ovdamearkka dihte} bohtaliiguin$(conc,ht-htt|bohttaliiguin) ja hivsetbáhppárrullaiguin$(conc,vs-vss;conc,hpp-b;vowlat,á-e|hivssetbáberrullaiguin).
+Ribat-Rábat lea namma, ja doppe mánát ožžot oaidnit got sáhttá fas geavahit ruskkaid, {ovdamearka dihte}¢{conc,rk-rkk|ovdamearkka dihte} {bohtaliiguin}${conc,ht-htt|bohttaliiguin} ja {hivsetbáhppárrullaiguin}${conc,vs-vss;conc,hpp-b;vowlat,á-e|hivssetbáberrullaiguin}.
 
 Beassá maiddái čuovvut Ruskagonagasa ja Garjjá, mii lea ođđa unnit ráidu. Dasa lassin bohtet musihkkavideot main leat ođđa ja ovddeš {mánáid lávlagat}¢{cmp,2-1|mánáidlávlagat}.
 
 Govven ruskabáikkis
 
-Dán čavčča, ovdal go muohttái, lea bádden "Ruskagonagasaja$(cmp,typo|"Ruskagonagasa ja) Gárjjá$(vowc,á-a|Garjjá) ". Ádjánedje guhtta vahku báddet, muhto ii lean dábálaš bádden. Ruskagonagas ii orron dábálaš dálus meahcis, muhto ruskabáikkis. Danin manne buohkat geat barge dainna Leavnnja ruskabáikái báddet.
+Dán čavčča, ovdal go muohttái, lea bádden {"Ruskagonagasaja}${cmp,typo|"Ruskagonagasa ja} {Gárjjá}${vowc,á-a|Garjjá} ". Ádjánedje guhtta vahku báddet, muhto ii lean dábálaš bádden. Ruskagonagas ii orron dábálaš dálus meahcis, muhto ruskabáikkis. Danin manne buohkat geat barge dainna Leavnnja ruskabáikái báddet.
 
 Ja ođđajagimánus oaidnit got manai dien báddemis.

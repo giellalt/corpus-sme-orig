@@ -1,16 +1,16 @@
 #6.12.12
 
-#Publisert∞(nob) 06.12.2012 09:47.
+{#Publisert}∞{nob} 06.12.2012 09:47.
 
 Doaivva Deanu eanandoalloskuvlii
 
-Gálbbit besset doaivumis ain orođit$(conm,đ-d|orodit) joatkaskuvlla$(conc,tk-tkk|joatkkaskuvlla) návehis.
+Gálbbit besset doaivumis ain {orođit}${conm,đ-d|orodit} {joatkaskuvlla}${conc,tk-tkk|joatkkaskuvlla} návehis.
 
 - Livččii roassun Finnmárkku eanadoalu rekrutteremii, jus fylkka áidna eanandoalloskuvla heaittihuvvošii, váruha Finnmárkku boanddaidsearvvi jođiheaddji.
 
 Dálá joatkkaskuvlafálaldagat Finnmárkkus galget bisuhuvvot, mearridii Finnmárkku gelbbolašvuođa váldolávdegoddi ikte.
 
-Finnmárkku boanddaidsearvvi jođiheaddji, Ola Tangen lohká dán mearrádusa addit doaivaga dasa, ahte Deanu eanandoalloskuvla ii heaittihuvvo. - Ealáhussii livččii stuorra roassun jus nuorat eai šat oaččošivčče$(infl,cond|oččoše) oahpu ruovttufylkkásteaset$(vowlat,á-a|ruovttufylkkasteaset), čilge Tangen.
+Finnmárkku boanddaidsearvvi jođiheaddji, Ola Tangen lohká dán mearrádusa addit doaivaga dasa, ahte Deanu eanandoalloskuvla ii heaittihuvvo. - Ealáhussii livččii stuorra roassun jus nuorat eai šat {oaččošivčče}${infl,cond|oččoše} oahpu {ruovttufylkkásteaset}${vowlat,á-a|ruovttufylkkasteaset}, čilge Tangen.
 
 - Ealáhusa {vuođđudan vejolašvuođaide}¢{cmp,2-1|vuođđudanvejolašvuođaide} {livčče dat sihkkarit heittot}£{infl,pl-sg|livččii dat sihkkarit heittot}, {jus eanandoalu sáhtašii oahppat iežas guovllus}¢{vowlat,a-á|jus eanandoalu sáhtášii oahppat iežas guovllus}.
 
@@ -20,7 +20,7 @@ Nuorat šattašedje fárret
 
 Tangen lohká, ahte heaittiheapmi livččii stuorra roassun Finnmárkku eanandollui, go dát čuozašii rekrutteremii. Dalle fertešedje nuorat johtit eret fylkkas jus áigot váldit eanandoallooahpu.
 
-- Dalle gal šattašii váddábun$(infl,adj|váddásabbon) rekruteret nuoraid eanandollui, dadjá Tangen.
+- Dalle gal šattašii {váddábun}${infl,adj|váddásabbon} rekruteret nuoraid eanandollui, dadjá Tangen.
 
 Deanu sátnejođiheaddji Frank Ingilæ maid doaivu skuvlla dál bisuhuvvot.
 

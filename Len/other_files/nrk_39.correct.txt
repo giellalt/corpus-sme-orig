@@ -1,29 +1,29 @@
 #7.12.12
 
-#piera.balto@nrk.no∞(url)
+{#piera.balto@nrk.no}∞{url}
 
-#Publisert∞(nob) 04.10.2012 10:02.
+{#Publisert}∞{nob} 04.10.2012 10:02.
 
 Eai leat juhkkit
 
-Eanaš ealgabivdit eai juga eambbo bivddus, lohká Kárášjoga ealgabivdiid searvvi nubbejođiheaddji$(noun,cmp,svow|nubbijođiheaddji), Jan Helge Soleng
+Eanaš ealgabivdit eai juga eambbo bivddus, lohká Kárášjoga ealgabivdiid searvvi {nubbejođiheaddji}${noun,cmp,svow|nubbijođiheaddji}, Jan Helge Soleng
 
 Kárášjoga ealgabivdiid searvvis lohket váidalahttin go buot bivdiid navdet juhkkin ja láhkarihkkun.
-Ealgabivdiid searvvi nubbejođiheaddji$(noun,cmp,svow|nubbijođiheaddji), Jan Helge Soleng, ii mieđit diekkár láhttenvuogi gullat bivdokultuvrii.
+Ealgabivdiid searvvi {nubbejođiheaddji}${noun,cmp,svow|nubbijođiheaddji}, Jan Helge Soleng, ii mieđit diekkár láhttenvuogi gullat bivdokultuvrii.
 
 
-Maŋimuš beivviid lea mediain beaggán Kárášjot$(prop,infl|Kárášjoga) ealgabivdiid vejolaš láhkarihkkumat£(verb,fin,pl3prs,sg3prs,kongr|Maŋimuš beivviid leat mediain beaggán Kárášjoga ealgabivdiid vejolaš láhkarihkkumat).
+Maŋimuš beivviid lea mediain beaggán {Kárášjot}${prop,infl|Kárášjoga} ealgabivdiid vejolaš {láhkarihkkumat}£{verb,fin,pl3prs,sg3prs,kongr|Maŋimuš beivviid leat mediain beaggán Kárášjoga ealgabivdiid vejolaš láhkarihkkumat}.
 
 Ealgabivdiid searvi ii dohkket
 
-Lávvardatija dat gávdne Kárášjogas bivdoleairra ja fievrru buollimin. Beana lei sorron njealljjejuvllagii$(adj,conc|njealjejuvllagii) ja jápman$(verb,á|jápmán). Bissut, luođat ja guoros vuollaburkket vel miehtá guovllu, eaige olbmot gostige.
+Lávvardatija dat gávdne Kárášjogas bivdoleairra ja fievrru buollimin. Beana lei sorron {njealljjejuvllagii}${adj,conc|njealjejuvllagii} ja {jápman}${verb,á|jápmán}. Bissut, luođat ja guoros vuollaburkket vel miehtá guovllu, eaige olbmot gostige.
 
 
 Beana jámii ja biergasat bulle
 
 Rihkkon vearjolága
 
-Dal leat politiát$(noun,mix|politiijat) dutkamin máŋga láhkarihkkuma ášši olis, earret eará vearjolága - ja elliidsuodjalanlága rihkkuma.
+Dal leat {politiát}${noun,mix|politiijat} dutkamin máŋga láhkarihkkuma ášši olis, earret eará vearjolága - ja elliidsuodjalanlága rihkkuma.
 Bivdojoavkkus lohket iežaset sivaheapmin. Sii han ledje baicce leamaš márkanis pubbas.
 
 Áitán eará joavkku
@@ -32,11 +32,11 @@ Bivdiid biras ovdána, oaivvilda Soleng.
 
 Seamma bivdojoavku lea vel váidon go galgá leat áitán nuppi bivdojoavkku.
 
-Kárášjoga ealgabivdiidsearvvi Jan Helge Soleng, deattuha ahte lea dieđus olles olbmuid iežaset duohken maid barget astoaiggis$(noun,á|astoáiggis).
-Goittetge$(adv,svow|Goittotge) lohká unohassan go bivdit orrot jo dupmejuvvon$(verb,conc|dubmejuvvon) ovddagihtii$(noun,cmp,gensg,nomsg|ovdagihtii).
+Kárášjoga ealgabivdiidsearvvi Jan Helge Soleng, deattuha ahte lea dieđus olles olbmuid iežaset duohken maid barget {astoaiggis}${noun,á|astoáiggis}.
+{Goittetge}${adv,svow|Goittotge} lohká unohassan go bivdit orrot jo {dupmejuvvon}${verb,conc|dubmejuvvon} {ovddagihtii}${noun,cmp,gensg,nomsg|ovdagihtii}.
 
 Nuorat ja nissonat
 
 Su mielas orru bivdomáilbmi rievdamin:
-– Mii leat hui ilus go maŋimuš jagiid leat ollu nuorat ja maiddái ollu nissonolbmot searvan bivdui, ja {soaitá diet lea}£{verb,fin,inf,sg3prs,infl|soaitá diet leat} okta bealli mii boahtteáiggis dagaha ahte mii eat gulá$(verb,agula) nu hirbmat olu šat dákkár áššiid birra, loahpaha Soleng.
+– Mii leat hui ilus go maŋimuš jagiid leat ollu nuorat ja maiddái ollu nissonolbmot searvan bivdui, ja {soaitá diet lea}£{verb,fin,inf,sg3prs,infl|soaitá diet leat} okta bealli mii boahtteáiggis dagaha ahte mii eat {gulá}${verb,agula} nu hirbmat olu šat dákkár áššiid birra, loahpaha Soleng.
 

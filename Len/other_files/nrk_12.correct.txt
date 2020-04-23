@@ -2,7 +2,7 @@
 
 #Anne Olli
 
-#Publisert∞(nob) 21.11.2012 11:50.
+{#Publisert}∞{nob} 21.11.2012 11:50.
 
 
 {Lávlun buorida geahpes-áhppi}¢{conc,hpp-hp|Lávlun buorida geahpesáhpi}
@@ -12,16 +12,16 @@ Son oaivvilda leat buorre lávlut, danne go {lávlun buorida geahpes-áhppi}¢{c
 Ášši doaimmaha Ánne Olli
 
 {Buorida geahpes-áhppi}¢{conc,hpp-hp|Buorida geahpesáhpi} go lávlu
-Hjalmar Strømeng lávlu Skádjil-koaras, iežas lohká dáinna vugiin buoridit geahpáidis$(conc,hp-hpp|geahppáidis). Áinnat$(vowc,diph|Oainnat) go lávlu dahje juoigá, de hárjehallá olmmos$(fin,s-š|olmmoš) geahpáide$(conc,hp-hpp|geahppáide) kapasitehtta$(conc,htt-ht|kapasitehta). Iige dušše dan, koaras gávdná maid usttibiid$(conc,stt-st|ustibiid), ja somá lea maid lávlut.
+Hjalmar Strømeng lávlu Skádjil-koaras, iežas lohká dáinna vugiin buoridit {geahpáidis}${conc,hp-hpp|geahppáidis}. {Áinnat}${vowc,diph|Oainnat} go lávlu dahje juoigá, de hárjehallá {olmmos}${fin,s-š|olmmoš} {geahpáide}${conc,hp-hpp|geahppáide} {kapasitehtta}${conc,htt-ht|kapasitehta}. Iige dušše dan, koaras gávdná maid {usttibiid}${conc,stt-st|ustibiid}, ja somá lea maid lávlut.
 
 Somá lávlut máŋggajitnii
 
 Karen Marie Strømeng lávlu maid koaras.
 
-Karen Marie Strømeng lohká ges somá lávlut koaras danne go lea oalle hástalus oahppat lávlut máŋggajitnii. Iežas muitala lávlut koaras "alt"-jiena. Son liiko dasa, ja dovdá dán jiena leat alccesii$(fin,i-s|alccesis) buoremussan.
+Karen Marie Strømeng lohká ges somá lávlut koaras danne go lea oalle hástalus oahppat lávlut máŋggajitnii. Iežas muitala lávlut koaras "alt"-jiena. Son liiko dasa, ja dovdá dán jiena leat {alccesii}${fin,i-s|alccesis} buoremussan.
 
-Lillian Kemi muitala iežas lávlun koaras juo badjel 50 jagi. Dása son gal liiko, ja iežas muitala lávlut "soprána"-jiena. Sutnje leage dat lunddoleamos. Soai lávluga$(conm,g-b|lávluba) koaras danne go lea somá, seammás diehtalasat$(conc,ht-htt|diehttalasat) {hárjehallaba soaige seamma go Hjalmar Strømeng geahpes-áhppi}¢{conc,hpp-hp|hárjehallaba soaige seamma go Hjalmar Strømeng geahpesáhpi}, dahjege geahpeskapasitehta.
+Lillian Kemi muitala iežas lávlun koaras juo badjel 50 jagi. Dása son gal liiko, ja iežas muitala lávlut "soprána"-jiena. Sutnje leage dat lunddoleamos. Soai {lávluga}${conm,g-b|lávluba} koaras danne go lea somá, seammás {diehtalasat}${conc,ht-htt|diehttalasat} {hárjehallaba soaige seamma go Hjalmar Strømeng geahpes-áhppi}¢{conc,hpp-hp|hárjehallaba soaige seamma go Hjalmar Strømeng geahpesáhpi}, dahjege geahpeskapasitehta.
 
-Dáhtošii koarii$(vowc,mono;conc,r-rr|korrii) eanet lávluid
+Dáhtošii {koarii}${vowc,mono;conc,r-rr|korrii} eanet lávluid
 
-Skádjil-koara láidesteaddji Maria Sakalovski dáhtošii ges eanebuid searvat lávlut koaras, danne go koarra galggašii gullot buorebut go lávlot. Mađi eanet lávlut, dađi buoret jieta$(typo|jietna), lohká son.
+Skádjil-koara láidesteaddji Maria Sakalovski dáhtošii ges eanebuid searvat lávlut koaras, danne go koarra galggašii gullot buorebut go lávlot. Mađi eanet lávlut, dađi buoret {jieta}${typo|jietna}, lohká son.

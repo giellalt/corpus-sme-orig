@@ -1,12 +1,12 @@
 #7.12.12
 
-#aslak.ilkka.niittyvuopio@nrk.no∞(url)
+{#aslak.ilkka.niittyvuopio@nrk.no}∞{url}
 
-#Publisert∞(nob) 24.10.2012 10:42.
+{#Publisert}∞{nob} 24.10.2012 10:42.
 
 Deanu sámeskuvlla njunnošis
 
-Deanu sámeskuvlla oahppit Dieđátgo gilvvu algovuorus$(vowc,a-á|álgovuorus) 2012.
+Deanu sámeskuvlla oahppit Dieđátgo gilvvu {algovuorus}${vowc,a-á|álgovuorus} 2012.
 
 Deanu sámeskuvlla oahppit ledje Finnmárkku buoremusat matematihkas. Čájehit {vuođđoskuvllaid giđa čálalaš iskosiid bohtosat logat luohkkái}¢{vowlat,a-á|vuođđoskuvllaid giđa čálalaš iskosiid bohtosat logát luohkkái}.
 
@@ -14,7 +14,7 @@ Sámeskuvlla oahppit ledje measta ovtta árvosáni badjelis eará Finnmárkku oh
 
 Buorre vuođđu lea dehálaš
 
-Oahpaheaddji Irene Pettersen muittuha, ahte buorre vuođđu oahppamis lea dehálaš ja juogada gutni$(conc,tn-dn|gudni) maid gaska- ja vuođđodási oahpahussii. Muđui “gahččet” oahppit johtilit eret fágas joatkkaskuvllain.
+Oahpaheaddji Irene Pettersen muittuha, ahte buorre vuođđu oahppamis lea dehálaš ja juogada {gutni}${conc,tn-dn|gudni} maid gaska- ja vuođđodási oahpahussii. Muđui “gahččet” oahppit johtilit eret fágas joatkkaskuvllain.
 
 Irene Pettersen oahpaha sámeskuvllas.
 
@@ -24,4 +24,4 @@ Oahpahus guovtti gillii
 
 Giđa rádjai geavahuvvui skuvllas Mega oahpponeavvu. Dat ii lean máhttu loktema oahppoplána mielde. Pettersen čuoččuha, ahte {eai dát girjjit sáhte leat nu fuoni}£{kongr,sg-pl|eai dát girjjit sáhte leat nu fuonit}, go {bohtosat leamaš nu buori}£{kongr,sg-pl|bohtosat leamaš nu buorit}. Easkka dál čakčat leat sii sirdašuvvan Sirkel nammasaš oahpponeavvuide, go vuosttas sámegiel girjjit ledje gárvánan.
 
-Pettersen geavaha guktuid gielaid oahpaheamis. Son oaivvilda, ahte oahppit berrejit máhttit tearpmaid ja doahpagiid sihke dáro - ja sámegillii. Sii mannet jáhkkimis dasto joatkkaskuvllaide, omd. Girkonjárgii dahje Čáhcesullui ja doppe eai oaččo gal matematihkaoahpu$(conc,hk-hkk|matematihkkaoahpu) sámegillii.
+Pettersen geavaha guktuid gielaid oahpaheamis. Son oaivvilda, ahte oahppit berrejit máhttit tearpmaid ja doahpagiid sihke dáro - ja sámegillii. Sii mannet jáhkkimis dasto joatkkaskuvllaide, omd. Girkonjárgii dahje Čáhcesullui ja doppe eai oaččo gal {matematihkaoahpu}${conc,hk-hkk|matematihkkaoahpu} sámegillii.

@@ -1,14 +1,14 @@
 #13.12.12
 
-#Publisert∞(nob) 13.12.2012 11:13.
+{#Publisert}∞{nob} 13.12.2012 11:13.
 
-Sámediggi dáhkkida$(conc,hkk-hk|dáhkida) mávssu Oslo sámi vissui
+Sámediggi {dáhkkida}${conc,hkk-hk|dáhkida} mávssu Oslo sámi vissui
 
 Oslo Sámi viesus leat ilus go Sámediggi lohpida dáhkidit ovddalgihtii mávssu maid viesu láigoheaddji gáibida sis.
 
 Norgga Sámediggeráđđi lohpida dáhkidit ovddalgihtii mávssu maid Oslo Sámi viessu ferte máksit KLP Eiendom fitnodahkii ovdalgo besset láigohit lanjaid sis.
 
-Dát lea Oslo Sámi viesu stivrra nubbejođiheaddji$(vowlat,e-i|nubbijođiheaddji), Ann-Elise Finbog, mielas illusáhka.
+Dát lea Oslo Sámi viesu stivrra {nubbejođiheaddji}${vowlat,e-i|nubbijođiheaddji}, Ann-Elise Finbog, mielas illusáhka.
 
 - Almmá dán dáhkádusa haga livčče sii vajot ferten giddet uvssaid, čilge Finbog.
 
@@ -16,9 +16,9 @@ Ođđa dállui
 
 Golggotmánus dán jagi fárrii Oslo Sámi viessu ođđa vuogas lanjaide Grunerløkkai, maŋŋágo sullii jagi ledje leamaš almmá dihto lanjaid haga.
 
-KLP Eiendom dat oamasta opmodaga, ja sii leat gáibidan 320.000 ruvnnu ovddalgihtii máksun dahje nugohčoduvvon$(cmp,1-2|nu gohčoduvvon) depositumain$(fin,in-n|deposituman) ovdalgo láigohit lanjaid.
+KLP Eiendom dat oamasta opmodaga, ja sii leat gáibidan 320.000 ruvnnu ovddalgihtii máksun dahje {nugohčoduvvon}${cmp,1-2|nu gohčoduvvon} {depositumain}${fin,in-n|deposituman} ovdalgo láigohit lanjaid.
 
-– Sii dáhkkedit$(conc,hkk-hk;vowlat,e-i|dáhkidit) dán supmi Oslo Sámi vissui, lohká Sámediggeráđđelahttu Vibeke Larsen.
+– Sii {dáhkkedit}${conc,hkk-hk;vowlat,e-i|dáhkidit} dán supmi Oslo Sámi vissui, lohká Sámediggeráđđelahttu Vibeke Larsen.
 
 Geahččat šiehtadusa ođđasit
 

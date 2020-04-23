@@ -1,6 +1,6 @@
 #7.12.12
 
-#Publisert∞(nob) 10.10.2012 09:02.
+{#Publisert}∞{nob} 10.10.2012 09:02.
 
 #Comp-norvagismmat
 
@@ -12,12 +12,12 @@ Norgga Sámedikki presideanta Egil Olli ohcala eambbo ovttasbarggu bissehit eret
 
 - Son gal jáhkká sis buohkain leat ovttaoaivilvuohta das, ahte go dákkár sámi báikegottit guorranit, de dat lea ovtta láhkai katastrofa sámi kultuvrii ja eallinvuohkái, dadjá Olli.
 
-Mearrásámi$(vowlat,á-a|Mearrasámi) gielddat heajumusat
+{Mearrásámi}${vowlat,á-a|Mearrasámi} gielddat heajumusat
 
 Romssa Universitehta dutki, Ann Ragnhild Broderstad, dat ovddetbeaivvi dovddahii ahte guhkit áigodagas sáhttá šaddat njulgestaga roassun mearrasámi gielddaide jus eretfárremat joatkašuvvet.
 
 
-Leat eanáš nuorat olbmot álbmogis geat fárrejit gávpotbáikkiide. Dan dahket go ruovttugielddain váilot bargosajit ja oahppovejolašvuođat,čájeha$(cmp,1-2|oahppovejolašvuođat, čájeha) varas raporta maid Sámi allaskuvlla almmuhii gieskat.
+Leat eanáš nuorat olbmot álbmogis geat fárrejit gávpotbáikkiide. Dan dahket go ruovttugielddain váilot bargosajit ja {oahppovejolašvuođat,čájeha}${cmp,1-2|oahppovejolašvuođat, čájeha} varas raporta maid Sámi allaskuvlla almmuhii gieskat.
 
 - Go nuorat olbmot jávket, de báhcet áiggi mielde beare boaresolbmot giliide ja nu eai riegát ođđa olbmot šat dohko, muitala Broderstad.
 
@@ -29,5 +29,5 @@ Jus sii eai nagot dál oaidnit ollislaš gova dás, de dat hehtte olu oažžumis
 
 Geat berrejit leat mielde ráhkadeamen du namuhan obbalaš strategiija?
 
-- Sii geain leat beroštumit {dáid guovlluin}£{case,gen-loc|dáin guovlluin}. Nu¥(Nu go)  Finnmárkkus muđuige, lea mearragáttis maid boazodoallu okta doaibmi, man birra ii sáhte mannat ja seamma lea eará sámi beroštumit, dego guolásteapmi, buohkat berrejit leat mielde dás, dadjá Olli.
+- Sii geain leat beroštumit {dáid guovlluin}£{case,gen-loc|dáin guovlluin}. {Nu}¥{Nu go}  Finnmárkkus muđuige, lea mearragáttis maid boazodoallu okta doaibmi, man birra ii sáhte mannat ja seamma lea eará sámi beroštumit, dego guolásteapmi, buohkat berrejit leat mielde dás, dadjá Olli.
 

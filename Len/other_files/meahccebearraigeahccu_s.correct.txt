@@ -2,17 +2,17 @@
 
 Meahccebearráigeahčču
 
-Meahciráđđehusa meahccebearráigehččiid bargogieddin leat Meahciráđđehusa dikšun stáhta eanan- ja čáhceviidodagat. Dát viidodagat leat sulaid golmmádas$(noun,vowc|goalmmádas) riikkamet$(noun,conc|riikamet) ollesviidodagas. Meahccebearráigeahččit bearráigehččet ja bagadallet luonddus lihkadeddjiid. Meahccebearráigeahčču ollašuhttojuvvo oktasašbargun sierra eiseválddiiguin ja čanusjoavkkuiguin.
+Meahciráđđehusa meahccebearráigehččiid bargogieddin leat Meahciráđđehusa dikšun stáhta eanan- ja čáhceviidodagat. Dát viidodagat leat sulaid {golmmádas}${noun,vowc|goalmmádas} {riikkamet}${noun,conc|riikamet} ollesviidodagas. Meahccebearráigeahččit bearráigehččet ja bagadallet luonddus lihkadeddjiid. Meahccebearráigeahčču ollašuhttojuvvo oktasašbargun sierra eiseválddiiguin ja čanusjoavkkuiguin.
 
 Meahccebearráigeahčuin viggojuvvojit suodjaluvvot eallit, dorvvastuvvot luonddus lihkadeapmi ja eastaduvvot sierralágán rihkkumušat. Meahccebearráigehččiid bargguide gullá bearráigeahččat, ahte juohkeolbmovuoigatvuođat doahttaluvvojit. Sii dárkkistit maid, ahte guolásteddjiid, meahccebivdiid ja mohtorgielkávuddjiid lobit leat ortnegis.
 
 Meahccedárkkisteaddji ja bearráigeahčči dovdá soadjemearkkas ja dábálaččat maid mohtorgielkká dehe fatnasa dovddaldagain. Máŋggain meahccebearráigeahču ámmátolbmuineamet lea sihke meahccesuorggi ja boliissa skuvlejupmi.
 
-Meahccebearráigeahču meahccedárkkisteaddjimet$(noun,á|meahccedárkkisteaddjámet) ja bearráigeahččimet$(noun,á|bearráigeahččámet) dahket oktasašbarggu sierra eiseválddiiguin sihke boliissain, rádjebearráigeahččolágádusain ja duolluinnai. Dasa lassin oktasašbargu dahkkojuvvo meahcivaljiservviiguin$(noun,cmp,gensg,nomsg|meahcivalljiservviiguin) ja guolástanguovlluiguin.
+Meahccebearráigeahču {meahccedárkkisteaddjimet}${noun,á|meahccedárkkisteaddjámet} ja {bearráigeahččimet}${noun,á|bearráigeahččámet} dahket oktasašbarggu sierra eiseválddiiguin sihke boliissain, rádjebearráigeahččolágádusain ja duolluinnai. Dasa lassin oktasašbargu dahkkojuvvo {meahcivaljiservviiguin}${noun,cmp,gensg,nomsg|meahcivalljiservviiguin} ja guolástanguovlluiguin.
 
 Vuosttaš meahccefávtta virggit vuođđuduvvoje boaittobeallái, maidda boliissa vuoimmit eai reahkkán. Otná beaivve meahccebearráigeahču ámmátolbmot bidjet návccaid rihkkumušaid ovddalgihtii eastadeapmái. Sii mannet muitaleame buriin meahccevieruin sihke skuvllain ja servviinnai.
 
-Meahccebearráigeaččit$(noun,conc|Meahccebearráigeahččit), geat barget riikka sierra sajiin, ráhkadit Meahciráđđehusas bargojoavkku, mii doaibmá luonddusuodjaleami guovddášovttadagas.
+{Meahccebearráigeaččit}${noun,conc|Meahccebearráigeahččit}, geat barget riikka sierra sajiin, ráhkadit Meahciráđđehusas bargojoavkku, mii doaibmá luonddusuodjaleami guovddášovttadagas.
 
 
 

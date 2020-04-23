@@ -1,6 +1,6 @@
 #8.12.12
 
-Sámi nuorra nástit$(conc,st-stt|násttit) besset fas čuovgat Ohcejogas!
+Sámi nuorra {nástit}${conc,st-stt|násttit} besset fas čuovgat Ohcejogas!
 
 Sápmi Talent lágiduvvo nuppes
 

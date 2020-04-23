@@ -1,8 +1,8 @@
 #7.12.12
 
-#ase.pulk@nrk.no∞(url)
+{#ase.pulk@nrk.no}∞{url}
 
-#Publisert∞(nob) 30.10.2012 09:21.
+{#Publisert}∞{nob} 30.10.2012 09:21.
 
 – Ii leat heahti
 
@@ -12,13 +12,13 @@ Sámi filbmadahkki lea New Yorkas, muhto son ii loga vuohttit orkána Sandy nu b
 
 Boliissat vuojehit olbmuid eret Brooklyn Heights Boardwalk-guovllus, disdaga čuovganeapmái, báikkálaš áiggi.
 
-Idivuoma lea fitname gávpogis vieljjainis$(conc,ljj-lj|vieljainis) ja ássaba Park Slope guovllus Brooklyn-gávpotoasis oahppásiid luhtte. Diet guovlu lea smávva čohka alde ja doppe ii dovdo garra dálki nu bures.
+Idivuoma lea fitname gávpogis {vieljjainis}${conc,ljj-lj|vieljainis} ja ássaba Park Slope guovllus Brooklyn-gávpotoasis oahppásiid luhtte. Diet guovlu lea smávva čohka alde ja doppe ii dovdo garra dálki nu bures.
 
-Idivuoma muitala ahte stuora oasit New Yorkas ja New Jerseyas$(fin,yas-ys|Jerseys) USAs$(acro,suf|USA:s) leat dál čáze vuolde maŋŋel go «Sandy» nammasaš orkána ollii gávpogii ikte eahkes.
+Idivuoma muitala ahte stuora oasit New Yorkas ja New {Jerseyas}${fin,yas-ys|Jerseys} {USAs}${acro,suf|USA:s} leat dál čáze vuolde maŋŋel go «Sandy» nammasaš orkána ollii gávpogii ikte eahkes.
 
 New Yorka sátnejođiheaddji lea ovdal go orkána ollii gávpogii gohččon measta {njeallječuođi duhát}¢{cmp,2-1|njeallječuođiduhát} olbmo evakueret vuollegis guovlluin, ja togat, busset ja girdit lea bissehuvvon.
 
-Oktiibuot leat unnimusat 13 olbmo jápmán orkána dihte USAs$(acro,suf|USA:s) ja Canadas$(coninit,c-k|Kanadas).
+Oktiibuot leat unnimusat 13 olbmo jápmán orkána dihte {USAs}${acro,suf|USA:s} ja {Canadas}${coninit,c-k|Kanadas}.
 
 Sámi filbmadahkki Per Josef Idivuoma lea dál New Yorkas ja ná son muitalii disdatiđida dálkki birra:
 

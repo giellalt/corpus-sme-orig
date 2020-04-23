@@ -1,16 +1,16 @@
 #9.12.12
 
-#Publisert∞(nob) 09.12.2012 16:53.
+{#Publisert}∞{nob} 09.12.2012 16:53.
 
 Mari Boine signerii girjjiid
 
-Mari Boine ii loga ábuhit čiegadit dan mii lei báhčá¢(adj,mix|bahča), váivi ja lossat, go eallimis leat máŋggalágan vásáhusat.
+Mari Boine ii loga ábuhit čiegadit dan mii lei {báhčá}¢{adj,mix|bahča}, váivi ja lossat, go eallimis leat máŋggalágan vásáhusat.
 
-Mari Boine lea viimmat fas boahtán ruoktot, Kárášjohkii. Dál {son áigo}£{verb,fin,sg3prs,pl3prt,infl|son áigu} vuoiŋŋastit guokte mánu iežas lagámušaid$(adj,a|lagamušaid) luhtte.
+Mari Boine lea viimmat fas boahtán ruoktot, Kárášjohkii. Dál {son áigo}£{verb,fin,sg3prs,pl3prt,infl|son áigu} vuoiŋŋastit guokte mánu iežas {lagámušaid}${adj,a|lagamušaid} luhtte.
 
 – Lei hui somá fas {vuoddjit}¢{verb,conc|vuodjit} duoddara badjel Leavnnjas deike. Mun dovddan ahte lean váillahan ritnon muoraid ja {skábma čuovgga}¥{noun,cmp|skábmačuovgga}, lohká Mari.
 
-Ártista$(noun,a|Artista) lea lávvardaga Kárášjoga girjegávppis signeremin iežas ja Per Lars Thonstad girjji "Fly med meg", "Girdde mu mielde". - Dat lea hui somá oaidnit dal man olusat beroštit dan girjjis. Ja mun gulan dat leat olusat juo oastán dan ovddalgihtii, lohká Mari.
+{Ártista}${noun,a|Artista} lea lávvardaga Kárášjoga girjegávppis signeremin iežas ja Per Lars Thonstad girjji "Fly med meg", "Girdde mu mielde". - Dat lea hui somá oaidnit dal man olusat beroštit dan girjjis. Ja mun gulan dat leat olusat juo oastán dan ovddalgihtii, lohká Mari.
 
 Reakšuvnnaid ožžon?
 
@@ -18,15 +18,15 @@ Máŋggas lohket, ahte sii leat nu olu oahppan, go leat lohkan dan girjji. Okta 
 
 - Mun jáhkán dat lea juoga mii dárbbašuvvo. Dat leige jurdda {munnos Per Lars Thonstadin}${prop,svow|Thonstadain}, ahte moai háliideimme ráhkadit dakkár girjji, gos galget maiddai boahtit dieđut min duogáža birra ja min historjjá birra.
 
-Dat sáhttá ahte dakkár olbmuide geat juo dihtet ovdagihtii daid áššiid ahte sii háliidit njuikut. -Eat mii viša dien lohkkat¢(verb,conc|lohkat), mii háliidit lohkat eambbo Mari birra.
+Dat sáhttá ahte dakkár olbmuide geat juo dihtet ovdagihtii daid áššiid ahte sii háliidit njuikut. -Eat mii viša dien {lohkkat}¢{verb,conc|lohkat}, mii háliidit lohkat eambbo Mari birra.
 
-Kárášjoga bahčá¢(adj,a|bahča) muittut
+Kárášjoga {bahčá}¢{adj,a|bahča} muittut
 
-- Dat lea nu go gálga¢(verb,mix|galgá) muitalit muitalusa, de lea mus dat oaidnu ahte ii don¥0 ábut čiegadit dat mii lei bahča ja váivi ja lossat, go eallimis leat máŋggalágan vásáhusat ja mun dovddan ahte mun lean muitalan dien ja mun lean olu lávlagiid čállán dieid birra.
+- Dat lea nu go {gálga}¢{verb,mix|galgá} muitalit muitalusa, de lea mus dat oaidnu ahte ii don¥0 ábut čiegadit dat mii lei bahča ja váivi ja lossat, go eallimis leat máŋggalágan vásáhusat ja mun dovddan ahte mun lean muitalan dien ja mun lean olu lávlagiid čállán dieid birra.
 
 Mun gal lean ieš geargan ja addán ándagassii, muhto mu mielas lei dehálaš muitalit ahte vaikko lei olu mii ii lean nu álki, {de sáhtát lihkka ovdánit, nanusmuvvat ja {váldit iežas eret}£{verb,fin,sg3prs,sg2prs,infl|de sáhttá lihkka ovdánit, nanusmuvvat ja váldit iežas eret} morrašiiguin ja váivviiguin}£{noun,advl,locpl,compl,case|váldit iežas eret morrašiin ja váivviin}. Mun lean álo háliidan inspireret earáid.
 
-Máŋgii sáhttet olbmot jurddašit go oidnet olbmuid geat lihkostuvvet ja manna$(verb,á|manná) bures ahte {daiguin lea álo leamaš beare álki}£{dem,hab,locgpl,compl,case|dain lea álo leamaš beare álki}. Olbmo eallin lea girjái ja doppe leat buorit ja bahát.
+Máŋgii sáhttet olbmot jurddašit go oidnet olbmuid geat lihkostuvvet ja {manna}${verb,á|manná} bures ahte {daiguin lea álo leamaš beare álki}£{dem,hab,locgpl,compl,case|dain lea álo leamaš beare álki}. Olbmo eallin lea girjái ja doppe leat buorit ja bahát.
 
-- Lei hui somá fas vuoddjit¢(verb,conc|vuodjit) duoddara badjel Leavnnjas deike. Mun dovddan ahte lean váillahan ritnon muoraid ja {skábma čuovgga}¥{noun,cmp|skábmačuovgga}. Mun lean dál dáppe guokte mánu ja mun áibbašan vuoiŋŋastit, muitala Mari Boine.
+- Lei hui somá fas {vuoddjit}¢{verb,conc|vuodjit} duoddara badjel Leavnnjas deike. Mun dovddan ahte lean váillahan ritnon muoraid ja {skábma čuovgga}¥{noun,cmp|skábmačuovgga}. Mun lean dál dáppe guokte mánu ja mun áibbašan vuoiŋŋastit, muitala Mari Boine.
 

@@ -1,8 +1,8 @@
 #7.12.12
 
-#lemet.ailu.anti@nrk.no∞(url)
+{#lemet.ailu.anti@nrk.no}∞{url}
 
-#Publisert∞(nob) 06.11.2012 11:25.
+{#Publisert}∞{nob} 06.11.2012 11:25.
 
 Maŋimuš ođđasat sámegillii
 
@@ -10,10 +10,10 @@ Beassá báhčit albasa
 
 Albbas ráppi alde.
 
-{Dieldda sullos}¢{cmp,2-1|Dielddasullos} Nordlanddas$(vowc,a-á|Nordlánddas) besset dál báhčit albasa, go dat lea speaddjan$(conc,ddj-dj|speadjan) bohccuid.
+{Dieldda sullos}¢{cmp,2-1|Dielddasullos} {Nordlanddas}${vowc,a-á|Nordlánddas} besset dál báhčit albasa, go dat lea {speaddjan}${conc,ddj-dj|speadjan} bohccuid.
 
-Nordlandda$(vowc,a-á|Nordlándda) filkkamánne$(vowc,i-y;vowlat,e-i|fylkkamánni) lea áddán$(vowc,á-a|addán) lobi báhčit albasa {Dieldda sullos}${cmp,2-1|Dielddasullos} Nordlanddas$(vowc,a-á|Nordlánddas), go dat goddá bohccuid doppe. Boazoeaiggát Magne Huva muitala ahte olbmot leat oaidnán stuorra álbasa$(vowc,á-a|albasa) rastildeamen$(conc,st-stt|rasttildeamen) nuori, šaldi mielde. Dan máŋŋá$(vowc,á-a|maŋŋá) gávdne ge sii ráppiid, lohká Huva.
+{Nordlandda}${vowc,a-á|Nordlándda} {filkkamánne}${vowc,i-y;vowlat,e-i|fylkkamánni} lea {áddán}${vowc,á-a|addán} lobi báhčit albasa {Dieldda sullos}${cmp,2-1|Dielddasullos} {Nordlanddas}${vowc,a-á|Nordlánddas}, go dat goddá bohccuid doppe. Boazoeaiggát Magne Huva muitala ahte olbmot leat oaidnán stuorra {álbasa}${vowc,á-a|albasa} {rastildeamen}${conc,st-stt|rasttildeamen} nuori, šaldi mielde. Dan {máŋŋá}${vowc,á-a|maŋŋá} gávdne ge sii ráppiid, lohká Huva.
 
 Boazoeaiggát Magne {Huva lohka gávdnan ráppiid}¢{vowlat,a-á|Huva lohká gávdnan ráppiid}.
 
-Dán guovllus {eai galggašii}£{infl,sg3-conneg|eai galggaše} leat boranávddit, ja dáid máŋemuš$(vowc,á-a|maŋemuš) jágiid$(vowc,á-a|jagiid) (leat bivdit báhččán álbasiid$(vowc,á-a|albasiid))¢(conc,hčč-hč|leat bivdit báhčán albasiid) Dielddasullos. Albasa besset bivdit skábmamánu 18 beaivve rádjái. Dál livččii dán guovllu suohkaniid ámmátbivdojoavku ( Interkommunalt jaktlag) gearggus bivdigoahtit albasa, muhto bivvalat ja arvvit leat dagahan váttisin vuohttit albasa.
+Dán guovllus {eai galggašii}£{infl,sg3-conneg|eai galggaše} leat boranávddit, ja dáid {máŋemuš}${vowc,á-a|maŋemuš} {jágiid}${vowc,á-a|jagiid} (leat bivdit báhččán {álbasiid${vowc,á-a|albasiid}}}¢{conc,hčč-hč|leat bivdit báhčán albasiid} Dielddasullos. Albasa besset bivdit skábmamánu 18 beaivve rádjái. Dál livččii dán guovllu suohkaniid ámmátbivdojoavku ( Interkommunalt jaktlag) gearggus bivdigoahtit albasa, muhto bivvalat ja arvvit leat dagahan váttisin vuohttit albasa.

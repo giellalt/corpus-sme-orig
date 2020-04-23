@@ -10,7 +10,7 @@ Kultur- ja valáštallanministtar geigii ikte Helssegis dáidaga stáhtabálkka�
 
 Sámedáidaga doarjjasearvi lea ordnen jagi 1999 rájes álgoálbmogiid filbmafestivála Skábmagovaid Anáris.
 
-Dáidaga stáhtabálkkašumit leat dovddastumit maŋemus golmma jagi áigge dahkon$(conc,hk-hkk|dahkkon) dáiddalaš barggus dehe guhkesáigásaš ja mearkkašahtti dáiddalaš doaimmas.
+Dáidaga stáhtabálkkašumit leat dovddastumit maŋemus golmma jagi áigge {dahkon}${conc,hk-hkk|dahkkon} dáiddalaš barggus dehe guhkesáigásaš ja mearkkašahtti dáiddalaš doaimmas.
 
 Iežát geat ožžo bálkkašumi ledje Miljoonasade-joavkkus beakkán musihkar Heikki Salo ja dáiddafestivála Piknik Frequency. Bálkkašumi sturrodat lea 15.000 euro.
 

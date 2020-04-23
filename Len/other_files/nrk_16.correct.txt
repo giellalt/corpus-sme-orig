@@ -1,6 +1,6 @@
 #30.11.12
 
-#Publisert∞(nob) 21.11.2012 10:18.
+{#Publisert}∞{nob} 21.11.2012 10:18.
 
 #Aslak Ilkka Niittyvuopio ja Nils H Måsø
 
@@ -29,7 +29,7 @@ Ja jus nu geavvá ahte gielddastivrra ii juollut ruđaid boahtte jahkái, de Mea
 
 Čohkke ja juohká dieđuid
 
-Mearrasámi diehtoguovddáš rahppui 2003:as$(acr,suf|2003:s) Billávutnii. Guovddáža ulbmil lea ovddidit dieđuid mearrasápmelaččaid birra ja hástalusaid birra, mat leat otná servvodagas.
+Mearrasámi diehtoguovddáš rahppui {2003:as}${acr,suf|2003:s} Billávutnii. Guovddáža ulbmil lea ovddidit dieđuid mearrasápmelaččaid birra ja hástalusaid birra, mat leat otná servvodagas.
 
 Stuorámus bargun leamašan duođaštit, ahte mo olbmot leat viežžan birgejumi mearas ja mehciin vuona birra.
 

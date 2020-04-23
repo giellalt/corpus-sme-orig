@@ -4,9 +4,9 @@ Gulahallan e-poastta bokte minguin: snf(at)trollnet.no
 
 Gii lea SNF ?
 
-Nissonolbmot sis-Finnmárkkus$(coninit,cap|Sis-Finnmárkkus) eret vuođđudedje SNF jagis 1993, álggos fierbmádahkan$(conc,rbm-rpm|fierpmádahkan), das go sii dáhtto politihkain bargagoahtit iežaset gielddas ja guovllus. Sámi Nissonolbmuid Lista Kárášjogas, ceggejuvvon vuosttas sámediggeválgii Norgga bealde 1989, álggahii Sámi NissonForuma.
+Nissonolbmot {sis-Finnmárkkus}${coninit,cap|Sis-Finnmárkkus} eret vuođđudedje SNF jagis 1993, álggos {fierbmádahkan}${conc,rbm-rpm|fierpmádahkan}, das go sii dáhtto politihkain bargagoahtit iežaset gielddas ja guovllus. Sámi Nissonolbmuid Lista Kárášjogas, ceggejuvvon vuosttas sámediggeválgii Norgga bealde 1989, álggahii Sámi NissonForuma.
 
-Jagis 1998 SNF šattai sierra organisašuvdnan (NGO). SNFas$(suf|SNF:s) leat miellahtut njealri$(typo|njealji) riikkas. SNFas$(suf|SNF:s) ii leat sierra čállingoddi, iige oktage fásta bargi. Stivrralahtut jođihit barggu áŋgirit ja oskkáldasat.  Poastačujuhus lea: SNF, P.b. 110, 9735 Kárášjohka.
+Jagis 1998 SNF šattai sierra organisašuvdnan (NGO). {SNFas}${suf|SNF:s} leat miellahtut {njealri}${typo|njealji} riikkas. {SNFas}${suf|SNF:s} ii leat sierra čállingoddi, iige oktage fásta bargi. Stivrralahtut jođihit barggu áŋgirit ja oskkáldasat.  Poastačujuhus lea: SNF, P.b. 110, 9735 Kárášjohka.
 
 Maid SNF áigu?
 
@@ -28,7 +28,7 @@ Danne go nissonáššiid ja dásseárvvu FERTE áimmahuššat maiddái Sámis.  
 
 Maid doaimmahat:
 
-Gaskkustit ja oidnosin$(infl,mix|oainnusin) dahkat nissonolbmuid eallima:
+Gaskkustit ja {oidnosin}${infl,mix|oainnusin} dahkat nissonolbmuid eallima:
 
 - Ilbmadat Gába, dáro-/sámegiel áigečállaga, 1996 rájes.
 
@@ -38,21 +38,21 @@ Gaskkustit ja oidnosin$(infl,mix|oainnusin) dahkat nissonolbmuid eallima:
 
 Fuopmášuhttit ja čuvget:
 
-- Sihke ižamet$(typo|iežamet) miellahtuide ja servodahkii muđui.
+- Sihke {ižamet}${typo|iežamet} miellahtuide ja servodahkii muđui.
 
 - SNF vuolggahii jurdaga ja jođihii barggu lágidit Sámi Dásseárvokonferánssa Oslos cuoŋománus 2007.
 
 Ovttasbargat:
 
-- SNF:as$(suf|SNF:s) lea sierra ossodat Guoládagas Ruoššas, ja SNF váldá árjjálaččat oasi barentsguovllu$(coninit,cap|Barentsguovllu) ovttasbargodoaimmain.
+- {SNF:as}${suf|SNF:s} lea sierra ossodat Guoládagas Ruoššas, ja SNF váldá árjjálaččat oasi {barentsguovllu}${coninit,cap|Barentsguovllu} ovttasbargodoaimmain.
 
 - SNF ovttasbargá báskalaš nissonorganisašuvnnain Bilgune Feminista, Euskal Herria.
 
-- SNF lea FOKUSa lahttun. FOKUS lea Nissonolbmuid ja ovdánahttináššiid vástesaš$(conm,s-v|vástevaš) Forum Norggas.
+- SNF lea FOKUSa lahttun. FOKUS lea Nissonolbmuid ja ovdánahttináššiid {vástesaš}${conm,s-v|vástevaš} Forum Norggas.
 
 Gudnejahttit nissonolbmuid – ja albmáid:
 
-- Juohke jagi geiget SNFa$(suf|SNF) ovdánahttinbálkkašumi sutnje dahje sidjiide geat ovddidit dásseárvvu ja ovttaárvosašvuođa.
+- Juohke jagi geiget {SNFa}${suf|SNF} ovdánahttinbálkkašumi sutnje dahje sidjiide geat ovddidit dásseárvvu ja ovttaárvosašvuođa.
 
 Sámi nissonolbmot deaivvadit:
 
@@ -64,4 +64,4 @@ Ruhtadeapmi:
 
 - SNF oažžu jahkásaš doaibmaruđa Norgga Sámedikkis. Jagis 2008: 97 000 nkr.
 
-- Prošeavttaid ruhtadat doarjagiiguin maid SNF ohcá, ee. FOKUS:as$(suf|FOKUSis), Barentsčállingottis, Olgoriikadepartementtas$(vowc,e-ea|Olgoriikadepartemeanttas) ja Sámedikkis, Norgga bealde.
+- Prošeavttaid ruhtadat doarjagiiguin maid SNF ohcá, ee. {FOKUS:as}${suf|FOKUSis}, Barentsčállingottis, {Olgoriikadepartementtas}${vowc,e-ea|Olgoriikadepartemeanttas} ja Sámedikkis, Norgga bealde.

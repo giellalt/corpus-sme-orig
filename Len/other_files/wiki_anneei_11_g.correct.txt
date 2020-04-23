@@ -1,9 +1,9 @@
 #http://se.wikipedia.org/w/index.php?title=Ánde_Somby&oldid=143351
 #29.11.12
 
-Ánde Somby (riegádan 12. beaivvi miessemánu 1958:s Buolbmágis Deatnu-gielddas) lea sámi girječálli, juoigi, musihkkár ja juridihkkas$(loan,conc,hkk-hk|juridihkas) vuosttašamanuensii£vuosttašamanueansa . Son orru Romssas ja bargá Romssa Universitehtas.
+Ánde Somby (riegádan 12. beaivvi miessemánu 1958:s Buolbmágis Deatnu-gielddas) lea sámi girječálli, juoigi, musihkkár ja {juridihkkas}${loan,conc,hkk-hk|juridihkas} vuosttašamanuensii£vuosttašamanueansa . Son orru Romssas ja bargá Romssa Universitehtas.
 
-2003 rájes lea son leamašan miellahttu Vajas-joavkkus, ja lea joavkku juoigi ja vokalistta$(loan,conc,stt-st|vokalista). Son lea maiddái dat nubbi sápmelaš historjjás gii lea váldán doavttirgráda juridihkkas$(loan,conc,hkk-hk|juridihkas), 259 jagi maŋŋel dan ruoŧa lullisápmelačča Johan Jonæ.[1]
+2003 rájes lea son leamašan miellahttu Vajas-joavkkus, ja lea joavkku juoigi ja {vokalistta}${loan,conc,stt-st|vokalista}. Son lea maiddái dat nubbi sápmelaš historjjás gii lea váldán doavttirgráda {juridihkkas}${loan,conc,hkk-hk|juridihkas}, 259 jagi maŋŋel dan ruoŧa lullisápmelačča Johan Jonæ.[1]
 
 Sus leat guokte máná; Lawra Westerfjell Somby (riegádan 15. beaivvi guovvamánus 1980:s) gii lea mielde Adjágas-joavkkus ja Anna Cicilie Kristine Somby (riegádan 16. beaivvi golggotmánus 1988:s).
 

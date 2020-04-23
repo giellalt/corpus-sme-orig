@@ -4,32 +4,32 @@ Enodat guđđo olggos sámegielddas
 
 #Kuva: ANTTI SALLINEN Oula-Antti LabbaLähetä palautetta toimittajalle
 
-Enodagas leat fuolas mo stuorra gildii laktin váikkuha luondduealahusaide$(noun,á|luondduealáhusaide) ja sámegiela sajádahkii. Antti Sallinen govven.
+Enodagas leat fuolas mo stuorra gildii laktin váikkuha {luondduealahusaide}${noun,á|luondduealáhusaide} ja sámegiela sajádahkii. Antti Sallinen govven.
 Suoma ráđđehusa ásahan virgeolmmošbargojoavku evttoha Lappi oarjedavveoassái Enodaga, Gihttela, Muonio ja Kolari laktima oktasaš {gielddan}¢{noun,conc|gieldan}.
 
-Plánenjoavkku mielas gieldaođastus lea vealtameahttun, vai gielddat cevzet boarasmuvvama$(noun,á|boarásmuvvama) ja gielddaekonomiija ovdanbuktin hástalusain. {Maid skuvllaid unna oahppimearit dagahit dan}¥{adv,wo|Skuvllaid unna oahppimearit dagahit maid dan}, ahte bálvalusaid galggaše guorahallat čiekŋaleabbut$(adj,mix|čiekŋaleappot) dán njealje gieldda gaskkas.
+Plánenjoavkku mielas gieldaođastus lea vealtameahttun, vai gielddat cevzet {boarasmuvvama}${noun,á|boarásmuvvama} ja gielddaekonomiija ovdanbuktin hástalusain. {Maid skuvllaid unna oahppimearit dagahit dan}¥{adv,wo|Skuvllaid unna oahppimearit dagahit maid dan}, ahte bálvalusaid galggaše guorahallat {čiekŋaleabbut}${adj,mix|čiekŋaleappot} dán njealje gieldda gaskkas.
 
-Ođđa gielda livččii 20 502 njealjehaskilometera$(noun,conc|njealjehaskilomehtera) viiddis ja doppe orole sullii 14300 olbmo.
+Ođđa gielda livččii 20 502 {njealjehaskilometera}${noun,conc|njealjehaskilomehtera} viiddis ja doppe orole sullii 14300 olbmo.
 
-Enodaga gielddas ledje jagi 2010 loahpas 187, Gihttelis 11, Muonios∞(prop,foreign|Muonás) 5 ja Kolaris 2 sámegielaga. Sápmelaččaid gielalaš rivttiid dorvvasteami dihte Enodat galggalii meroštallojuvvot sámiid ruovttuguovlun. Juos gieldalaktin ollašuvvá, de dat gáibida láhkaásaheami rievdadeami. Sámi ruovttuguovllu gielddaide guoski láhkaásaheami rievdadeapmi gáibidá$(verb,a|gáibida) ráđđádallamiid sámedikkiin.
+Enodaga gielddas ledje jagi 2010 loahpas 187, Gihttelis 11, {Muonios}∞{prop,foreign|Muonás} 5 ja Kolaris 2 sámegielaga. Sápmelaččaid gielalaš rivttiid dorvvasteami dihte Enodat galggalii meroštallojuvvot sámiid ruovttuguovlun. Juos gieldalaktin ollašuvvá, de dat gáibida láhkaásaheami rievdadeami. Sámi ruovttuguovllu gielddaide guoski láhkaásaheami rievdadeapmi {gáibidá}${verb,a|gáibida} ráđđádallamiid sámedikkiin.
 
 Sámegielagiid vuoigatvuođat hedjonit?
 
 Bargojoavkku evttohusas mieđihit, ahte sápmelaččaid rievttit hedjonivčče dán ođđa dilis. Dán vihkot maid enodatlaččat.
 
-Enodaga Gárasavvonis orru oahpaheaddji Virpi Väisänen lea fuolas dákkár plánain. Su mielas váttisvuođaid buvttalii$(verb,á|buvttálii) ee. gieldda mearehis stuora viidodaga lassin maid sámegielat bálvalusaid {ollašuhttin}‰{punc|ollašuhttin.}
+Enodaga Gárasavvonis orru oahpaheaddji Virpi Väisänen lea fuolas dákkár plánain. Su mielas váttisvuođaid {buvttalii}${verb,á|buvttálii} ee. gieldda mearehis stuora viidodaga lassin maid sámegielat bálvalusaid {ollašuhttin}‰{punc|ollašuhttin.}
 
-– Juo {dála}¢{adj,á|dálá} dilis lea dievas bargu vuođustit sámegielabálvalusaid$(noun,cmp,vow|sámegielbálvalusaid) dárbbu ja ain stuorit gielddas dat livččii jo mihá garrasit hástalus.
+– Juo {dála}¢{adj,á|dálá} dilis lea dievas bargu vuođustit {sámegielabálvalusaid}${noun,cmp,vow|sámegielbálvalusaid} dárbbu ja ain stuorit gielddas dat livččii jo mihá garrasit hástalus.
 
 Dákkár váttisvuođat leat omd. sámegielat beaivedikšumis ja sámegielat skuvllain, gos leat unna oahppimearit.
 
-– Vaikko bálvalusaide boahtáge eanas ruhtadeapmi stáhtas, nu gielda sáhtá$(verb,conc|sáhttá) maid muhtin muttus oassálastit dasa. Leatgo dát golbma iežá gieldda válbmašat ja leago dain dáhttu oassálastit dasa, go dain orrot nu unnán sápmelaččat, lohká Väisänen.
+– Vaikko bálvalusaide boahtáge eanas ruhtadeapmi stáhtas, nu gielda {sáhtá}${verb,conc|sáhttá} maid muhtin muttus oassálastit dasa. Leatgo dát golbma iežá gieldda válbmašat ja leago dain dáhttu oassálastit dasa, go dain orrot nu unnán sápmelaččat, lohká Väisänen.
 
 Váikkuhusat maid luondduealáhusaide?
 
 Neakkela bálgosa badjeolmmái Jouni Näkkälä mielas gielddaid ovttastahttin soaittálii hehttet maid {luonddugeavaheami}‰{punc|luonddugeavaheami.}
 
-– Skohterastiid ja njealljejuvllagiin$(adj,cmp,nomsg,gensg|njealjejuvllagiin) vuodjiid$(noun,conc|vuoddjiid) mearri lassanivččii$(verb,á|lassánivččii) sihkkarit Eanodaga guovllus, juos ovddeš Muonio, Kolari ja Gihttela {olbmot oččole seamma vuoigatvuođaid vuojášit}£{verb,infin,ind,cond,mode|olbmot oččole seamma vuoigatvuođaid vuojašit}, go enodatlaččain leat dál. Dát soaittálii hehttet sámiid boazodoalu, guollebivddu ja iežá meahcceealáhusaid.
+– Skohterastiid ja {njealljejuvllagiin}${adj,cmp,nomsg,gensg|njealjejuvllagiin} {vuodjiid}${noun,conc|vuoddjiid} mearri {lassanivččii}${verb,á|lassánivččii} sihkkarit Eanodaga guovllus, juos ovddeš Muonio, Kolari ja Gihttela {olbmot oččole seamma vuoigatvuođaid vuojášit}£{verb,infin,ind,cond,mode|olbmot oččole seamma vuoigatvuođaid vuojašit}, go enodatlaččain leat dál. Dát soaittálii hehttet sámiid boazodoalu, guollebivddu ja iežá meahcceealáhusaid.
 
-– ILO-soahpámuša$(noun,a|ILO-soahpamuša) ratifisieren$(verb,mono|ratifiseren) soaitálii$(verb,conc|soaittálii) dieđusge čoavdit dákkár váttisvuođaid, navdá Näkkälä.
+– {ILO-soahpámuša}${noun,a|ILO-soahpamuša} {ratifisieren}${verb,mono|ratifiseren} {soaitálii}${verb,conc|soaittálii} dieđusge čoavdit dákkár váttisvuođaid, navdá Näkkälä.
 

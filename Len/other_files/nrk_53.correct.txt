@@ -1,25 +1,25 @@
-#brita.ase.norlemann@nrk.no∞(url)
+{#brita.ase.norlemann@nrk.no}∞{url}
 
 #13.12.12
 
-#Publisert∞(nob) 13.12.2012 13:27.
+{#Publisert}∞{nob} 13.12.2012 13:27.
 
-Dáhkkida$(conc,hkk-hk|Dáhkida) mávssu Oslo sámi vissui
+{Dáhkkida}${conc,hkk-hk|Dáhkida} mávssu Oslo sámi vissui
 
 Sámi dáidda boktá beroštumi Oslos
 
 Dán lásedáidaga lea Norgga Sámediggi oastán.
 
-Sámi dáiddár Tomas Colbengtson Ruotas$(conc,t-ŧ|Ruoŧas) eret, čájeha dán mánu dáidagis Norgga oaivegávppogis$(conc,vpp-vp|oaivegávpogis). Galleriijabargit vásihit Colbengtsona dáidaga boktit olu dovdduid gehččiin.
+Sámi dáiddár Tomas Colbengtson {Ruotas}${conc,t-ŧ|Ruoŧas} eret, čájeha dán mánu dáidagis Norgga {oaivegávppogis}${conc,vpp-vp|oaivegávpogis}. Galleriijabargit vásihit Colbengtsona dáidaga boktit olu dovdduid gehččiin.
 
-Galleriija bargiguovttos$(cmp,1-2|bargi guovttos) Line Harr Skagestad ja Benedicte Stensrud vuohttiba gehččiin stuora beroštumi sámi kultuvrii ja historjái, ja sii háliidit diehtit eanet sámivuođa$(cmp,vowlat|sámevuođa) birra.
+Galleriija {bargiguovttos}${cmp,1-2|bargi guovttos} Line Harr Skagestad ja Benedicte Stensrud vuohttiba gehččiin stuora beroštumi sámi kultuvrii ja historjái, ja sii háliidit diehtit eanet {sámivuođa}${cmp,vowlat|sámevuođa} birra.
 
-Sámivuohta$(cmp,vowlat|Sámevuohta) bođii maŋŋit
+{Sámivuohta}${cmp,vowlat|Sámevuohta} bođii maŋŋit
 
-Thomas Colbengtson lea bajasšaddan$(vowlat,a-á|bajásšaddan) Deartná guovlluin, Ruotabeal$(conc,t-ŧ;vowlat,0-e|Ruoŧabeale) Sámis, muhto orru dál Stockholmas. Badjel 30 jagi lea son eallán dáidagiin. Son muitala ahte hui árrat dáiddaoahpus jearai soames oahapheaddji$(typo|oahpaheaddji) makkár govvaruohttasat ja kulturruohttasat leat sus. Ja son ii nagodan vástidit. Easkka dál lea sámi hearvvaid(,)¥0 herveme, symbolaid ja mánnánvuođa$(fin,n-0|mánnávuođa) guovllu luonddu váldán oassin dáidagii.
+Thomas Colbengtson lea {bajasšaddan}${vowlat,a-á|bajásšaddan} Deartná guovlluin, {Ruotabeal}${conc,t-ŧ;vowlat,0-e|Ruoŧabeale} Sámis, muhto orru dál Stockholmas. Badjel 30 jagi lea son eallán dáidagiin. Son muitala ahte hui árrat dáiddaoahpus jearai soames {oahapheaddji}${typo|oahpaheaddji} makkár govvaruohttasat ja kulturruohttasat leat sus. Ja son ii nagodan vástidit. Easkka dál lea sámi hearvvaid(,)¥0 herveme, symbolaid ja {mánnánvuođa}${fin,n-0|mánnávuođa} guovllu luonddu váldán oassin dáidagii.
 
 Erenoamáš ávdnasat
 
-Dáidda lea erenoamáš máŋgga ládje. Vuosttačettiin$(conm,č-ž|Vuosttažettiin) geavaha son pleksiláse, aluminiuma$(foreign|alumiinna), silkkiid ja dábálaš láse govain. Dáid son bordá badjálaga, nu ahte dáidagis leat dego mánga$(conc,ng-ŋg|máŋga) gearddi. Dás lea symbolihkka ja čanastupmi sámi erenoamáš historjái ja máŋggabealát$(vowlat,á-a|máŋggabealat), čiekŋalis kultuvrii, oaivvildit galleriijas.
+Dáidda lea erenoamáš máŋgga ládje. {Vuosttačettiin}${conm,č-ž|Vuosttažettiin} geavaha son pleksiláse, {aluminiuma}${foreign|alumiinna}, silkkiid ja dábálaš láse govain. Dáid son bordá badjálaga, nu ahte dáidagis leat dego {mánga}${conc,ng-ŋg|máŋga} gearddi. Dás lea symbolihkka ja čanastupmi sámi erenoamáš historjái ja {máŋggabealát}${vowlat,á-a|máŋggabealat}, čiekŋalis kultuvrii, oaivvildit galleriijas.
 
 Line Harr Skagestad (gurutbealde) ja Benedicte Stensrud vuohttiba gehččiin stuora beroštumi sámi kultuvrii ja dáidagii

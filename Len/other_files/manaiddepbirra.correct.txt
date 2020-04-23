@@ -1,6 +1,6 @@
-Guovttegielat (ruhta geaveheapmi$(vowlat,e-a|geavaheapmi))¢(cmp,2-1|ruhtageavaheapmi) Unjárggas
+Guovttegielat (ruhta {geaveheapmi${vowlat,e-a|geavaheapmi}}}¢{cmp,2-1|ruhtageavaheapmi} Unjárggas
 
-Unjárgga Sámeálbmot bellodak lea miellahtučoahkkimis$(case,gen-nom|miellahttočoahkkimis) mearridan sáddet breava gos bivdit Unjárgga gielddas guorahallat geavaha go gielda ruđaid eavttuid mielde.
+Unjárgga Sámeálbmot bellodak lea {miellahtučoahkkimis}${case,gen-nom|miellahttočoahkkimis} mearridan sáddet breava gos bivdit Unjárgga gielddas guorahallat geavaha go gielda ruđaid eavttuid mielde.
 Unjárgga gielda
 
 9840 Vuonnabahta/ Varangerbotn
@@ -11,18 +11,18 @@ Departemeantta birra
 
 Mánáid- ja {dásseárvodepartemeanta bargu}£{case,nom-gen|dásseárvodepartemeantta bargu} lea:
 
-- nannet golaheddjiid rivtiiid$(typo|rivttiid), beroštumiid ja sihkkarvuođa
-addit mánáide ja nuoraide oadjebas bajasšaddandili$(vowlat,a-á|bajásšaddandili), ja vejolašvuođa searvat
-- servodahkii ja leat fárus mearrideamin$(vowlat,i-e|mearrideamen) servogagas$(typo|servodagas)
-- sihkkarastit bearašiid$(conc,r-rr|bearrašiid) eallima ekonomalaččat ja sosialalaččat$(vowc,a-á|sosiálalaččat)
+- nannet golaheddjiid {rivtiiid}${typo|rivttiid}, beroštumiid ja sihkkarvuođa
+addit mánáide ja nuoraide oadjebas {bajasšaddandili}${vowlat,a-á|bajásšaddandili}, ja vejolašvuođa searvat
+- servodahkii ja leat fárus {mearrideamin}${vowlat,i-e|mearrideamen} {servogagas}${typo|servodagas}
+- sihkkarastit {bearašiid}${conc,r-rr|bearrašiid} eallima ekonomalaččat ja {sosialalaččat}${vowc,a-á|sosiálalaččat}
 - oaččuhit ollislaš ja duohta dásseárvvu nissoniid ja dievdduid gaskka
 
 Min bargosuorggit gusket eanas olbmuid árgabeaivái, ja mearrádusat mat dahkkojit sáhttet leat hirbmat mávssolaččat juohke olbmui.
 
-Eanas oassi MLD bušeahtas manná juolludemiide mánnábearrášiidda$(vowlat,á-a|mánnábearrašiidda) - mánnáoadju, riegadahttinruhtii$(vowlat,a-á|riegádahttinruhtii) ja reaidadoarjagii. Buorredilledoaimmaid dáfus {leat mánáidsuodjalus}£{kongr,pl-sg|lea mánáidsuodjalus} okta dain stuorimus bušeahttapoasttain.
+Eanas oassi MLD bušeahtas manná juolludemiide {mánnábearrášiidda}${vowlat,á-a|mánnábearrašiidda} - mánnáoadju, {riegadahttinruhtii}${vowlat,a-á|riegádahttinruhtii} ja reaidadoarjagii. Buorredilledoaimmaid dáfus {leat mánáidsuodjalus}£{kongr,pl-sg|lea mánáidsuodjalus} okta dain stuorimus bušeahttapoasttain.
 
 
-Fágaossodagat hálddašit lágaid ja doarjjasortnegiid$(typo|doarjjaortnegiid), barget plánemiin, čielggademiiguin, váikkuhandoaimmaiguin, bagadallamiin, diehtojuohkimiin álbmogii ja joavkkuide geaidda guoská. Ossodagat addet maiddái doarjaga dutkamii, {geahččalan ja ovdánahttinbargui}¢{hyph,0-1|geahččalan- ja ovdánahttinbargui}, ja servet riikkaidgaskasaš ovttasbargguide sin fágasurggiineaset.
+Fágaossodagat hálddašit lágaid ja {doarjjasortnegiid}${typo|doarjjaortnegiid}, barget plánemiin, čielggademiiguin, váikkuhandoaimmaiguin, bagadallamiin, diehtojuohkimiin álbmogii ja joavkkuide geaidda guoská. Ossodagat addet maiddái doarjaga dutkamii, {geahččalan ja ovdánahttinbargui}¢{hyph,0-1|geahččalan- ja ovdánahttinbargui}, ja servet riikkaidgaskasaš ovttasbargguide sin fágasurggiineaset.
 
 Heterofiila ja homofiila páraid oktasaš náittosláhka
 

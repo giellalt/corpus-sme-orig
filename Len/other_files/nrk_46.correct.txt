@@ -1,35 +1,35 @@
 #10.12.12
 
-#Publisert∞(nob) 10.12.2012 07:41.
+{#Publisert}∞{nob} 10.12.2012 07:41.
 
 – Áiggun oahppat sámegiela
 
-Bargiidbellodaga {Sámediggepresideantta evttohas}¢{cmp,2-1;case,gen-nom|Sámediggepresideantaevttohas} áigu oahppat sámegiela vuoi gulahallá olbmuiguin, muhto {ii dáhtu}¢{vowlat,u-o|ii dáhto} sámegilli gal searvat digáštallamiidda$(vowlat,á-a|digaštallamiidda).
+Bargiidbellodaga {Sámediggepresideantta evttohas}¢{cmp,2-1;case,gen-nom|Sámediggepresideantaevttohas} áigu oahppat sámegiela vuoi gulahallá olbmuiguin, muhto {ii dáhtu}¢{vowlat,u-o|ii dáhto} sámegilli gal searvat {digáštallamiidda}${vowlat,á-a|digaštallamiidda}.
 
-Son lea Bargiidbellodaga vuosttaš nissonolmmoš {sámediggepresideanta evttohassan}¢{cmp,2-1|sámediggepresideantaevttohassan}, ii sámás ja vuosttaš presideanttaevttohas$(case,gen-nom|presideantaevttohas) olggobeale Finnmárkku. Mannan lávvardaga (váljjejuvvui$(conc,ljj-llj|válljejuvvui) Sámediggeráđđi Vibeke Larsen)£(case,nom-gen|válljejuvvui Sámediggeráđi Vibeke Larsen) Bargiidbellodaga {sámediggepresideantta evttohassan}¢{cmp,2-1;case,gen-nom|sámediggepresideantaevttohassan}.
+Son lea Bargiidbellodaga vuosttaš nissonolmmoš {sámediggepresideanta evttohassan}¢{cmp,2-1|sámediggepresideantaevttohassan}, ii sámás ja vuosttaš {presideanttaevttohas}${case,gen-nom|presideantaevttohas} olggobeale Finnmárkku. Mannan lávvardaga {{váljjejuvvui}${conc,ljj-llj|válljejuvvui} Sámediggeráđđi Vibeke {Larsen}}£{case,nom-gen|válljejuvvui Sámediggeráđi Vibeke Larsen} Bargiidbellodaga {sámediggepresideantta evttohassan}¢{cmp,2-1;case,gen-nom|sámediggepresideantaevttohassan}.
 
-– Giella buktá hástalusaid, muhto mii leat váljjen$(conc,ljj-llj|válljen) ovttasbargat ja čohkket bellodaga ovdal Sámediggeválggaid boahtte jagi, lohká Ávjovári Kåre Olli (Bb), gii muittuha ahte várrepresideanttaevttohas$(case,gen-nom|várrepresideantaevttohas) Johan Vasara sámásta.
+– Giella buktá hástalusaid, muhto mii leat {váljjen}${conc,ljj-llj|válljen} ovttasbargat ja čohkket bellodaga ovdal Sámediggeválggaid boahtte jagi, lohká Ávjovári Kåre Olli (Bb), gii muittuha ahte {várrepresideanttaevttohas}${case,gen-nom|várrepresideantaevttohas} Johan Vasara sámásta.
 
-Olli lohká {Ávjováris válgaguovllus}£{case,loc-gen|Ávjovári válgaguovllus} hálidan$(conm,d-id|háliidan) sámegielat presideantta ja lohká buorre go {várrepresideantta hálddaša sámegiela}¢{conc,ntt-nt|várrepresideanta hálddaša sámegiela}.
+Olli lohká {Ávjováris válgaguovllus}£{case,loc-gen|Ávjovári válgaguovllus} {hálidan}${conm,d-id|háliidan} sámegielat presideantta ja lohká buorre go {várrepresideantta hálddaša sámegiela}¢{conc,ntt-nt|várrepresideanta hálddaša sámegiela}.
 
 Lei movtta
 
-Vibeke Larsen valljejuvvui$(vowc,a-á|válljejuvvui) bargiidbellodaga {presideantta evttohassan}¢{cmp,2-1;case,gen-nom|presideantaevttohassan} lavvardaga$(vowc,a-á|lávvardaga). Vaikko Larsen ii lean válgalávdegotti árvalus, de oaččui son 15 jiena 21 jienas.
+Vibeke Larsen {valljejuvvui}${vowc,a-á|válljejuvvui} bargiidbellodaga {presideantta evttohassan}¢{cmp,2-1;case,gen-nom|presideantaevttohassan} {lavvardaga}${vowc,a-á|lávvardaga}. Vaikko Larsen ii lean válgalávdegotti árvalus, de oaččui son 15 jiena 21 jienas.
 
-Várrepresideanttan$(conc,ntt-nt|Várrepresideantan) valljejuvvui$(vowc,a-á|válljejuvvui) Johan Vasara. Maŋŋá valljemiid$(vowc,a-á|válljemiid) lei Larsen hui movtta go bellodagas lea luohttámuš sutnje.
+{Várrepresideanttan}${conc,ntt-nt|Várrepresideantan} {valljejuvvui}${vowc,a-á|válljejuvvui} Johan Vasara. Maŋŋá {valljemiid}${vowc,a-á|válljemiid} lei Larsen hui movtta go bellodagas lea luohttámuš sutnje.
 
-– {Vuollegašvuođa vuolggán}£{case,acc-com|Vuollegašvuođain vuolggán} dán doibmi$(fin,0-i|doibmii) ja {lean hui giitevaš go dáhttut}¢{vowlat,u-o|lean hui giitevaš go dáhttot} mu (sámedikkepresideantta$(cmp,gen-nom|sámediggepresideantta) evttohassan)¢(cmp,2-1;case,gen-nom|sámediggepresideantaevttohassan), lohká Vibeke Larsen.
+– {Vuollegašvuođa vuolggán}£{case,acc-com|Vuollegašvuođain vuolggán} dán {doibmi}${fin,0-i|doibmii} ja {lean hui giitevaš go dáhttut}¢{vowlat,u-o|lean hui giitevaš go dáhttot} mu {{sámedikkepresideantta}${cmp,gen-nom|sámediggepresideantta} {evttohassan}}¢{cmp,2-1;case,gen-nom|sámediggepresideantaevttohassan}, lohká Vibeke Larsen.
 
 Oahppat sámegiela
 
-Go {earát bellodagat}£{infl,nom-attr|eará bellodagat} leat buktán sámegielat presideanttaevttohasaid$(case,gen-nom|presideantaevttohasaid), lea Bargiidbellodagas dárogielat presideanttaevttohas$(case,gen-nom|presideantaevttohas).
+Go {earát bellodagat}£{infl,nom-attr|eará bellodagat} leat buktán sámegielat {presideanttaevttohasaid}${case,gen-nom|presideantaevttohasaid}, lea Bargiidbellodagas dárogielat {presideanttaevttohas}${case,gen-nom|presideantaevttohas}.
 
 Dál áigu Larsen maid oahppat sámegiela, dan mađe goit ahte ádde maid olbmot hupmet.
 
-– In leat jurddašan digáštallamiidda$(vowlat,á-a|digaštallamiidda) mat sámegilli mannet, in álggus gal, lohká Larsen.
+– In leat jurddašan {digáštallamiidda}${vowlat,á-a|digaštallamiidda} mat sámegilli mannet, in álggus gal, lohká Larsen.
 
 Veaháš hástalus
 
-– Čielggas ahte lea veaháš hehttehus jos {sámediggepresideantta ii sáhte searvat}¢{conc,ntt-nt|sámediggepresideanta ii sáhte searvat} digáštallamiidda$(vowlat,á-a|digaštallamiidda) go mannet sámegilli, lohká Kåre Olli.
+– Čielggas ahte lea veaháš hehttehus jos {sámediggepresideantta ii sáhte searvat}¢{conc,ntt-nt|sámediggepresideanta ii sáhte searvat} {digáštallamiidda}${vowlat,á-a|digaštallamiidda} go mannet sámegilli, lohká Kåre Olli.
 
-Olli jáhkká gal bellodaga birget bures go jo várrepresideanttaevttohas$(case,gen-nom|várrepresideantaevttohas) hállá sámegiela, vaikko buktá muhtin hástalusaid.
+Olli jáhkká gal bellodaga birget bures go jo {várrepresideanttaevttohas}${case,gen-nom|várrepresideantaevttohas} hállá sámegiela, vaikko buktá muhtin hástalusaid.

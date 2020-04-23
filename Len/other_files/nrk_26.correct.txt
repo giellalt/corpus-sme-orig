@@ -1,30 +1,30 @@
 #5.12.12
-#Publisert∞(nob) 05.12.2012 10:37.
+{#Publisert}∞{nob} 05.12.2012 10:37.
 
 
 Sámediggi ON dálkkádatčoahkkimis
 
-Dálkkádatčohkkin dollojuvvo Qatara$(prop,vowc|Quatara) Dohas.
+Dálkkádatčohkkin dollojuvvo {Qatara}${prop,vowc|Quatara} Dohas.
 
 Sámediggi lea sajis ON dálkkádatčoahkkimis sihkkarastimin,
 ahte stáhtat vuhtiiváldet eamiálbmogiid go vigget čoavdit dálkkádat-hástalusaid.
 
-Dán vahkku leat máilmme$(noun,svow|máilmmi) birasministarat Dohas, Qataras$(prop,vowc|Quataras),
-Ovttastuvvan Nášuvnnaid$(prop,a|Našuvnnaid) dálkkádat-čoahkkimis. Máilmme$(noun,svow|Máilmmi) stáhtat galggašedje golmma jagi siste šiehtadallat globála geatnegahtti dálkkádatsoahpamuša.
-Sámediggi searvá čoahkkimii oassin Norgga delegašuvnnas, ja politihkakálaš$(adj,typo|politihkalaš) ráđđeaddi Johan Vasara dadjá dehálažžan, ahte sii gozihit sámiid - ja eamiálbmogiid beliid.
+Dán vahkku leat {máilmme}${noun,svow|máilmmi} birasministarat Dohas, {Qataras}${prop,vowc|Quataras},
+Ovttastuvvan {Nášuvnnaid}${prop,a|Našuvnnaid} dálkkádat-čoahkkimis. {Máilmme}${noun,svow|Máilmmi} stáhtat galggašedje golmma jagi siste šiehtadallat globála geatnegahtti dálkkádatsoahpamuša.
+Sámediggi searvá čoahkkimii oassin Norgga delegašuvnnas, ja {politihkakálaš}${adj,typo|politihkalaš} ráđđeaddi Johan Vasara dadjá dehálažžan, ahte sii gozihit sámiid - ja eamiálbmogiid beliid.
 
 - Erenoamážit go lea sáhka das, mo galggašii ođđa ja ng. ruoná energiija ávkkástallat, dego bieggamilluid ja čáhce-energiija hukset, de lea dehálaš. Ahte sámediggi lea mielde stáhta delegašuvnnas ja gozihit dáid áššiid álgoálbmogiid čalmmiin.
 
 Sámedikki ráđđeaddi Johan Vasara čuovvu čoahkkima.
 
-Go máilmme$(noun,svow|máilmmi) stáhtat ovttasráđiid galget šiehtadallat doaibmabijuin, mo bissehit máilmme$(noun,svow|máilmmi) liegganeami, de fertejit maid guldalit eamiálbmogiid,
-go {doaimmat - vaikke vel dat livčče {biras seastevačča}¥{adj,cmp|birasseastevačča}}£{adj,spred,nompl,accsg,kongr|doaimmat - vaikke vel dat livčče biras seastevaččat} ge-$(space|ge -) dávjá čuhcet sidjiide, dadjá sámedikki politihkakálaš$(adj,typo|politihkalaš) ráđđeaddi Johan Vasara.
+Go {máilmme}${noun,svow|máilmmi} stáhtat ovttasráđiid galget šiehtadallat doaibmabijuin, mo bissehit {máilmme}${noun,svow|máilmmi} liegganeami, de fertejit maid guldalit eamiálbmogiid,
+go {doaimmat - vaikke vel dat livčče {biras seastevačča}¥{adj,cmp|birasseastevačča}}£{adj,spred,nompl,accsg,kongr|doaimmat - vaikke vel dat livčče biras seastevaččat} {ge-}${space|ge -} dávjá čuhcet sidjiide, dadjá sámedikki {politihkakálaš}${adj,typo|politihkalaš} ráđđeaddi Johan Vasara.
 
 Geahpedit CO2 luoitima
 
-Fáddán ON-čoahkkimis, mii dál lágiduvvo Qataras$(prop,vowc|Quataras) lea earet eará, mo bissehit vuovdečuollamiid ja mo ođasmahttet Kyoto-protokolla, mii geatnegahttá riikkaid geahpedit CO2-luoitima.
+Fáddán ON-čoahkkimis, mii dál lágiduvvo {Qataras}${prop,vowc|Quataras} lea earet eará, mo bissehit vuovdečuollamiid ja mo ođasmahttet Kyoto-protokolla, mii geatnegahttá riikkaid geahpedit CO2-luoitima.
 
-Čoahkkimis leat badjel 17.000 delegáhta, ja sullii 50 eamiálbmot-áirasa. Sámedikkis lea ovddasvástádus muittuhit stáhtaid, ahte dálkkádat-rievdan garrasit čuohcá álbmogiidda mat ellet láhka¢(pr,a|lahka) luonddu.
+Čoahkkimis leat badjel 17.000 delegáhta, ja sullii 50 eamiálbmot-áirasa. Sámedikkis lea ovddasvástádus muittuhit stáhtaid, ahte dálkkádat-rievdan garrasit čuohcá álbmogiidda mat ellet {láhka}¢{pr,a|lahka} luonddu.
 
 
 Ođasmuvvi energiija ii leat álo dat buoremus álgoálbmogiidda.

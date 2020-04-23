@@ -2,29 +2,29 @@
 
 #brita åse norlemann ja siv eli vuolab
 
-Risku vođđun$(noun,vowc|vuođđun) silbačiŋaide
+Risku {vođđun}${noun,vowc|vuođđun} silbačiŋaide
 
-Gollerávde-oahppi Lisbeth Somby háliida sámi čiŋaid fuomášuhttit máilbmái, nu ahte maiddái rivgut ja dáččat geavahišgoađáše risko-lágán$(adj,cmp,nomsg,gensg|riskkulágán) čiŋaid.
+Gollerávde-oahppi Lisbeth Somby háliida sámi čiŋaid fuomášuhttit máilbmái, nu ahte maiddái rivgut ja dáččat geavahišgoađáše {risko-lágán}${adj,cmp,nomsg,gensg|riskkulágán} čiŋaid.
 
-Vaikko son guhká lea orron olggobeal$(pp,svow|olggobeale) sámi birrasa, de lea sus Sápmi álo jurdagis go ráhkada golle- ja silbačiŋaidis.
+Vaikko son guhká lea orron {olggobeal}${pp,svow|olggobeale} sámi birrasa, de lea sus Sápmi álo jurdagis go ráhkada golle- ja silbačiŋaidis.
 
 
 Ášši doaimmaha Brita Åse Norlemann
 
 Gollerávde-oahppi Lisbeth Somby háliida sámi čiŋaid fuomášuhttit máilbmái ja muitala dássážii vuohttán ahte su sámi designa boktá beroštumi.
 
-Sámivuohta$(noun,svow|Sámevuohta) vuhtto čiŋain
+{Sámivuohta}${noun,svow|Sámevuohta} vuhtto čiŋain
 
-Son lea beannot jagi vázzán skuvlla Fredrikstadas, lulli-Norggas$(prop,cap|Lulli-Norggas). Fargga lea son oahppan gollerávdi.
+Son lea beannot jagi vázzán skuvlla Fredrikstadas, {lulli-Norggas}${prop,cap|Lulli-Norggas}. Fargga lea son oahppan gollerávdi.
 
 
-Su dáidagis oidnoge bures sámivuohta$(noun,svow|sámevuohta) vaikko ii lean gal áigumuš guorrasit sámi symbolaide.
+Su dáidagis oidnoge bures {sámivuohta}${noun,svow|sámevuohta} vaikko ii lean gal áigumuš guorrasit sámi symbolaide.
 
-- Muhto go álgen tevdnet, de oidnen sámivuođa$(noun,svow|sámevuođa) das. Dat lea mu siste, ja dat beare boahtá.
+- Muhto go álgen tevdnet, de oidnen {sámivuođa}${noun,svow|sámevuođa} das. Dat lea mu siste, ja dat beare boahtá.
 
 
 Risku inspirašuvdnan
 
-Lea váttis gávdnat barggu go geargá oahpuin, muhto son sávvá goit beassat joaktit$(verb,meta|joatkit) gazzames$(noun,vow|gazzamis) oahpu soames oahppan, hárjánán$(verb,a|hárjánan) gollečeahpi luhtte. De sávvá ráhkadišgoahtit čiŋaid mat leat vuolggahuvvon riskuin$(noun,conc|riskkuin).
+Lea váttis gávdnat barggu go geargá oahpuin, muhto son sávvá goit beassat {joaktit}${verb,meta|joatkit} {gazzames}${noun,vow|gazzamis} oahpu soames oahppan, {hárjánán}${verb,a|hárjánan} gollečeahpi luhtte. De sávvá ráhkadišgoahtit čiŋaid mat leat vuolggahuvvon {riskuin}${noun,conc|riskkuin}.
 
-- Háliidan ráhkadit čiŋaid main solju lea inspirašuvdnan. Seammás háliidan ahte earát, eai dušše sápmelaččat, geavahit mu čiŋaid. Soljju-čiŋat$(noun,cmp,gensg,nomsg|Soljočiŋat) rivguide.
+- Háliidan ráhkadit čiŋaid main solju lea inspirašuvdnan. Seammás háliidan ahte earát, eai dušše sápmelaččat, geavahit mu čiŋaid. {Soljju-čiŋat}${noun,cmp,gensg,nomsg|Soljočiŋat} rivguide.

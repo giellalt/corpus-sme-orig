@@ -7,7 +7,7 @@ Suovastuhttin lea vuohki seailudit bierggu ja guoli. Suovastuhttin dahká ahte b
 
 Galbmasis suovastuhttit
 
-Galbmasis suovastuhttin lea dábáleamis$(typo|dábáleamos) vuohki suovastuhttit sáivaguliid, danne go lea buorre riibadanvuohki$(conc,ib-b|ribadanvuohki). Go suovastuhttá de šaddá borramuššii suodjaleaddji "cuozza" mii goddá baktearaid. Ovttas sohkkariin ja sálttiin dahká dát ahte biebmu riibá máŋga vahkku gállosis. Suovasguolis leat valjit antioksidánttat.
+Galbmasis suovastuhttin lea {dábáleamis}${typo|dábáleamos} vuohki suovastuhttit sáivaguliid, danne go lea buorre {riibadanvuohki}${conc,ib-b|ribadanvuohki}. Go suovastuhttá de šaddá borramuššii suodjaleaddji "cuozza" mii goddá baktearaid. Ovttas sohkkariin ja sálttiin dahká dát ahte biebmu riibá máŋga vahkku gállosis. Suovasguolis leat valjit antioksidánttat.
 
 Lieggasis suovastuhttit
 

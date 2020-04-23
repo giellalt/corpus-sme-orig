@@ -2,19 +2,19 @@
 
 #Anne Olli
 
-#Publisert∞(nob) 22.11.2012 15:33.
+{#Publisert}∞{nob} 22.11.2012 15:33.
 
 
 Ođđa girji boađi-boađi
 
-Thomas Marainen lea čállán girjji muitalusain maid mánnán lea gullan. Dalle máinnastedje ollesolbmot hálddiin$(conc,ldd-ld|háldiin) ja eananvuložiin$(case,nom-gen|eatnanvuložiin). Girji almmustuvvá juovllaide.
-Hálddiin$(conc,ldd-ld|Háldiin) son muitala girjjistis
+Thomas Marainen lea čállán girjji muitalusain maid mánnán lea gullan. Dalle máinnastedje ollesolbmot {hálddiin}${conc,ldd-ld|háldiin} ja {eananvuložiin}${case,nom-gen|eatnanvuložiin}. Girji almmustuvvá juovllaide.
+{Hálddiin}${conc,ldd-ld|Háldiin} son muitala girjjistis
 
 
 Girječálli Thomas Marainen
 
-Marainen muitala girjjis leat sága guovtti bártnážis, soai mannaga$(conm,g-b|mannaba) meahccái ja doppe de geavvá nu ahte nuppi máná lonuhit hálddit$(conc,ldd-ld|háldit) iežaset mánáin. Dan sáhtte dahkat danne go dan nuppi bátnis$(typo|bártnis) ii leat silba mii suddjii su lonohallamis hálddiide$(conc,ldd-ld|háldiide). Ii dáidde leat nu álki lonuhit máná ruovttluotta$(typo|ruovttoluotta). Mo de geavva$(vowlat,a-á|geavvá), dan ferte lohkat girjjis.
+Marainen muitala girjjis leat sága guovtti bártnážis, soai {mannaga}${conm,g-b|mannaba} meahccái ja doppe de geavvá nu ahte nuppi máná lonuhit {hálddit}${conc,ldd-ld|háldit} iežaset mánáin. Dan sáhtte dahkat danne go dan nuppi {bátnis}${typo|bártnis} ii leat silba mii suddjii su lonohallamis {hálddiide}${conc,ldd-ld|háldiide}. Ii dáidde leat nu álki lonuhit máná {ruovttluotta}${typo|ruovttoluotta}. Mo de {geavva}${vowlat,a-á|geavvá}, dan ferte lohkat girjjis.
 
 Váttis lei oažžut ruđa deaddileapmái
 
-Thomas Marainen muitala {lean váttisin fitnet ruđa}¢{conc,tn-dn|lean váttisin fidnet ruđa} girjji gárvvisteapmái ja prenteheapmai$(vowlat,a-á|prenteheapmái). Ovdal lohká {lean vejolaš fitnet ruhtadeami}¢{conc,tn-dn|lean vejolaš fidnet ruhtadeami} Norgga Sámedikkis, dál ii leange šat nu. Danne manai áigi dušše ohcat ruđaid almmustahttit girjji. Loahpa loahpas meinnestuvai ruhtadeapmi, ja leage Ruoŧa Sámediggi mii juolludii ruđa prentehit girjji. Davvi Girji dat almmustahttá Thomas Marainena girjji "Háldi lonuhus".
+Thomas Marainen muitala {lean váttisin fitnet ruđa}¢{conc,tn-dn|lean váttisin fidnet ruđa} girjji gárvvisteapmái ja {prenteheapmai}${vowlat,a-á|prenteheapmái}. Ovdal lohká {lean vejolaš fitnet ruhtadeami}¢{conc,tn-dn|lean vejolaš fidnet ruhtadeami} Norgga Sámedikkis, dál ii leange šat nu. Danne manai áigi dušše ohcat ruđaid almmustahttit girjji. Loahpa loahpas meinnestuvai ruhtadeapmi, ja leage Ruoŧa Sámediggi mii juolludii ruđa prentehit girjji. Davvi Girji dat almmustahttá Thomas Marainena girjji "Háldi lonuhus".

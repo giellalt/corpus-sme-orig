@@ -1,14 +1,14 @@
 
-Dán siiddus sáhtát lohkat eambbo oðða$(conc,ð-đ|ođđa) sámi oahpaheaddjioahpu$(vowlat,i-e|oahpaheaddjeoahpu) barggu birra. Mii ávžžuhit buohkaid guorahallat mii dáhpáhuvvá ja sáddet oainnuset midjiide ja Máhttodepartementii ovdal gulaskuddanáigemeari 08.02.2010.
+Dán siiddus sáhtát lohkat eambbo {oðða}${conc,ð-đ|ođđa} sámi {oahpaheaddjioahpu}${vowlat,i-e|oahpaheaddjeoahpu} barggu birra. Mii ávžžuhit buohkaid guorahallat mii dáhpáhuvvá ja sáddet oainnuset midjiide ja Máhttodepartementii ovdal gulaskuddanáigemeari 08.02.2010.
 
-2010 čavčča rájes šaddá stuora oahpaheaddji-oahppooðastus$(vowlat,i-e;conc,ð-đ|oahpaheaddjeoahppoođastus) Norggas. Guokte ođđa suorggi bohtet oahpahussii. Dála vuoððoskuvlla$(conc,ð-đ|vuođđoskuvlla) oppalaš oahpaheaddjioahpu$(vowlat,i-e|oahpaheaddjeoahpu) sadjái šaddet guokte suorggi¢(vowlat,a-á|Dálá vuođđoskuvlla oppalaš oahpaheaddjeoahpu sadjái šaddet guokte suorggi);
+2010 čavčča rájes šaddá stuora {oahpaheaddji-oahppooðastus}${vowlat,i-e;conc,ð-đ|oahpaheaddjeoahppoođastus} Norggas. Guokte ođđa suorggi bohtet oahpahussii. Dála {vuoððoskuvlla}${conc,ð-đ|vuođđoskuvlla} oppalaš {oahpaheaddjioahpu}${vowlat,i-e|oahpaheaddjeoahpu} sadjái šaddet guokte {suorggi}¢{vowlat,a-á|Dálá vuođđoskuvlla oppalaš oahpaheaddjeoahpu sadjái šaddet guokte suorggi};
 
-1-7.-luohkáid ja 5.-10. luohkáid oahpaheapmái. Seammás šaddet studeanttat lohkat unnit fágaid go ovdal, muhto oahpaheddjiid gealbu galgá loktojuvvot fágain maid sii oahpahit. Dát oðastus$(conc,ð-đ|ođastus) šaddá maiddái guoskat sámi oahpaheaddjiohppui$(vowlat,i-e|oahpaheaddjeohppui).
+1-7.-luohkáid ja 5.-10. luohkáid oahpaheapmái. Seammás šaddet studeanttat lohkat unnit fágaid go ovdal, muhto oahpaheddjiid gealbu galgá loktojuvvot fágain maid sii oahpahit. Dát {oðastus}${conc,ð-đ|ođastus} šaddá maiddái guoskat sámi {oahpaheaddjiohppui}${vowlat,i-e|oahpaheaddjeohppui}.
 
-Máhttodepartemeanta lea nammadan guokte lávdegotti, mat galget evttohit rámmaplánaid oðða$(conc,ð-đ|ođđa) oahpaheaddjioahpu$(vowlat,i-e|oahpaheaddjeoahpu) várás, nubbi našunála$(conc,š-ti;vowlat,u-o|nationála) oahpu ja nubbi fas sámi oahpu várás. Rámmaplánat šaddet ee. cealkit mat fágaid galget leat geatnegahtton ja mo fágat galget juhkkojuvvot 4 jagi oahpahusas.
+Máhttodepartemeanta lea nammadan guokte lávdegotti, mat galget evttohit rámmaplánaid {oðða}${conc,ð-đ|ođđa} {oahpaheaddjioahpu}${vowlat,i-e|oahpaheaddjeoahpu} várás, nubbi {našunála}${conc,š-ti;vowlat,u-o|nationála} oahpu ja nubbi fas sámi oahpu várás. Rámmaplánat šaddet ee. cealkit mat fágaid galget leat geatnegahtton ja mo fágat galget juhkkojuvvot 4 jagi oahpahusas.
 
-Sáhtát lohkat našunála$(conc,š-ti;vowlat,u-o|nationála) oahpaheaddjioahpu$(vowlat,i-e|oahpaheaddjeoahpu) birra DÁS.
+Sáhtát lohkat {našunála}${conc,š-ti;vowlat,u-o|nationála} {oahpaheaddjioahpu}${vowlat,i-e|oahpaheaddjeoahpu} birra DÁS.
 
-Dán siiddus gávnnat dieðuid$(conc,ð-đ|dieđuid) barggu birra ráhkadit oðða$(conc,ð-đ|ođđa) sámi oahpaheaddjiohppui$(vowlat,i-e|oahpaheaddjeohppui) rámmaplána, njuolgadusaid$(conc,lg-lgg|njuolggadusaid) ja indikahtoriid$(vowc,a-á|indikáhtoriid).
+Dán siiddus gávnnat {dieðuid}${conc,ð-đ|dieđuid} barggu birra ráhkadit {oðða}${conc,ð-đ|ođđa} sámi {oahpaheaddjiohppui}${vowlat,i-e|oahpaheaddjeohppui} rámmaplána, {njuolgadusaid}${conc,lg-lgg|njuolggadusaid} ja {indikahtoriid}${vowc,a-á|indikáhtoriid}.
 
 Rámmaplánaevttohus lea sáddejuvvon Máhttodepartementii 02.11.2009. Máhttodepartemeanta lea rievdadan evttohusa ja sádden dan gulaskuddamii 14.12.2009

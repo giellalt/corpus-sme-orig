@@ -2,9 +2,9 @@
 
 #Rávdná Buljo Gaup lea NRK Sámi ođasredaktevra.
 
-#Publisert∞(nob) 23.11.2012 19:03.
+{#Publisert}∞{nob} 23.11.2012 19:03.
 
-Juoga maid mii fertet - maiddái sámediggepresidenta$(vowc,diph|sámediggepresideanta)
+Juoga maid mii fertet - maiddái {sámediggepresidenta}${vowc,diph|sámediggepresideanta}
 
 Boahtte vahkkus dihkkáda Sámediggi sámi servodaga geainnu ovddos guvlui. Ášši lea deaŧalaš midjiide buohkaide. Válljejumit mat dahkkojuvvojit, šaddet doaivumis jorgalahttit surgadis mannolaga, mii lea goasii jávkadan olles álbmoga. Ášši lea sámegiela dilálašvuohta.
 
@@ -21,9 +21,9 @@ Gielladieđáhus lea nappo juoga mii guoská buohkaide. Seammás čilge dat dil�
 
 Loga: Heaittihit hálddašanguovllu
 
-Sámi álbmot ii jávkka vaikko giella jávkkašii ge, muhto mii de báhcá jus maiddái giella jápmá? Unnán. Ii mihkke? Jus ámmátolbmát ja politihkkárat geat barge dan ovdii ahte hukset Norgga natiovnna$(coninit,ti-š;vowc,o-u|našuvnna) 1800- ja 1900-logus, livčče beassan oaidnit ahte sápmelaččat leat šaddan «buorren dáččan», de livčče soaitán mojohallat ja dadjan: -- Viimmat lea dáruiduhttin ollašuvvan.
+Sámi álbmot ii jávkka vaikko giella jávkkašii ge, muhto mii de báhcá jus maiddái giella jápmá? Unnán. Ii mihkke? Jus ámmátolbmát ja politihkkárat geat barge dan ovdii ahte hukset Norgga {natiovnna}${coninit,ti-š;vowc,o-u|našuvnna} 1800- ja 1900-logus, livčče beassan oaidnit ahte sápmelaččat leat šaddan «buorren dáččan», de livčče soaitán mojohallat ja dadjan: -- Viimmat lea dáruiduhttin ollašuvvan.
 
-Muhto go garra dáruidihttin$(typo|dáruiduhttin) ii oalát lihkostuvvan, ja go sápmelaččain ledje ovddasmannit ja ovddosgeahččit nu mo Paulus Utsi, de lea sámegielas – ja sámi álbmogis ain doaivva.
+Muhto go garra {dáruidihttin}${typo|dáruiduhttin} ii oalát lihkostuvvan, ja go sápmelaččain ledje ovddasmannit ja ovddosgeahččit nu mo Paulus Utsi, de lea sámegielas – ja sámi álbmogis ain doaivva.
 
 – Giella lea sihke priváhta ja almmolaš ášši. Sámegiela boahtteáigi lea dan duohken movt guhtege mis atná sámegiela lunddolaš gulahallangiellan nu ollu oktavuođain go vejolaš ja dan duohken movt servodat lágida dilálašvuođaid dasa ahte dat galgá leat vejolaš, daddjojuvvo dieđáhusas.
 
@@ -41,7 +41,7 @@ Ja vai ii leat eahpádus das man deaŧalaš dihtomielalašvuohta lea sámegiela 
 «Ovttaskas giellageavaheaddjis lea stuora ovddasvástádus, muhto Sámediggi áigu maid duvdit eambbo ovddasvástádusa ásahusaide ja politihkkáriidda. Sámi ásahusat ja politihkkárat leat ovdagovat sámi servodagas ja sis lea stuora váikkuhanváldi.»
 
 Berre go vai galgá go sámiid njunuš?
-Nie čielga galgá-ávžžuhusa olis ii berreše leat eahpádus das máid sámediggepresideanta galgá. Seamma gáibádus mii biddjojuvvo váhnemiidda, ásahusaide ja báhpaide, ferte maiddái biddjojuvvot Norgga sápmelaččaid njunnožii$(conm,ž-š|njunnošii) - ja ofelažžii.
+Nie čielga galgá-ávžžuhusa olis ii berreše leat eahpádus das máid sámediggepresideanta galgá. Seamma gáibádus mii biddjojuvvo váhnemiidda, ásahusaide ja báhpaide, ferte maiddái biddjojuvvot Norgga sápmelaččaid {njunnožii}${conm,ž-š|njunnošii} - ja ofelažžii.
 
 Olles gielladieđáhusa vuođđu bieđgana jus sápmelaččaid deaŧaleamos jietnaguoddi ii daga dan maid earát fertejit.
 
