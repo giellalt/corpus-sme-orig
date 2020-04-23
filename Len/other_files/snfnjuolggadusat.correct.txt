@@ -74,7 +74,7 @@ Jahkečoahkkin galgá meannudit:
 - Bušeahta
 - Lahttomávssu sturrodaga
 - Árvaluvvon áššiid
-- Válljet (vihtta (5) stivralahttu)$(case,nom-gen;conc,htt-ht|vihtta (5) stivrralahtu) ja (golbma (3) várrelahttu)¢(conc,htt-ht|golbma (3) várrelahtu)
+- Válljet {vihtta (5) stivralahttu}${case,nom-gen;conc,htt-ht|vihtta (5) stivrralahtu} ja {golbma (3) várrelahttu}¢{conc,htt-ht|golbma (3) várrelahtu}
 - Válljet golmma olbmo válgalávdegotti
 
 Jahkečoahkkimis lea mearridanváldi daiguin lahtuiguin geat leat {boahtan}${vowlat,a-á|boahtán} ja geain lea jienastanriekti. Árvaluvvon áššit maid jahkečoahkkin galggašii meannudit fertejit leat stivrra hálddus maŋimustá golbma vahku ovdal jahkečoahkkima.

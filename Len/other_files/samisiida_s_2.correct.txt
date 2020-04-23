@@ -17,6 +17,6 @@ Jos háliidat fárrui dán bargui de
 2. {Jos háliidat báddet vuoras olbmuid de oažžut mis luoikkasin báddenmašiinna}¢{conc,žž-čč|Jos háliidat báddet vuoras olbmuid de oaččut mis luoikkasin báddenmašiinna}. {Jos háliidat váldit videogova de oažžot mis luoikkasin}¢{conc,žž-čč|Jos háliidat váldit videogova de oaččut mis luoikkasin} {videokamera}${vowc,a-á|videokámera}.
 3. {Jos háliidat de sáhttát váldit govaid}¢{conc,htt-ht|Jos háliidat de sáhtát váldit govaid} sierra báikkiin ja/dahje {ohcat boares govaid dáid báikkiin}£{case,gen-loc|ohcat boares govaid dáin báikkiin}, olbmuin geat leat báikki geavahan, {olbmuin gean mielde báiki lea ožžon namaset}£{kongr,sg-pl|olbmuin geaid mielde báiki lea ožžon namaset} dahje eará boares govat mat laktásit báikái.
 4. {Báiki birra sáhttet leat maid luođit}¢{conc,ik-ikk|Báikki birra sáhttet leat maid luođit}, lávlagat dahje divttat. {Daid maid livččii buorre čohket}¢{conc,hk-hkk|Daid maid livččii buorre čohkket}.
-5. (Merket sihke iežat ja du informántta (olmmoš gii dutnje muitala) diimmuid)€(w,pers-refl|Merket sihke iežat ja iežat informántta (olmmoš gii dutnje muitala) diimmuid) eaktodáhtolaš barggu diibmolistui.
+5. {Merket sihke iežat ja du informántta (olmmoš gii dutnje muitala) diimmuid}€{w,pers-refl|Merket sihke iežat ja iežat informántta (olmmoš gii dutnje muitala) diimmuid} eaktodáhtolaš barggu diibmolistui.
 
 Válddes oktavuođa čuovvovaš olbmuide jos háliidat lassedieđuid dahje háliidat searvat báikenammaprošektii:

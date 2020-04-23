@@ -16,7 +16,7 @@ Galleriija {bargiguovttos}${cmp,1-2|bargi guovttos} Line Harr Skagestad ja Bened
 
 {Sámivuohta}${cmp,vowlat|Sámevuohta} bođii maŋŋit
 
-Thomas Colbengtson lea {bajasšaddan}${vowlat,a-á|bajásšaddan} Deartná guovlluin, {Ruotabeal}${conc,t-ŧ;vowlat,0-e|Ruoŧabeale} Sámis, muhto orru dál Stockholmas. Badjel 30 jagi lea son eallán dáidagiin. Son muitala ahte hui árrat dáiddaoahpus jearai soames {oahapheaddji}${typo|oahpaheaddji} makkár govvaruohttasat ja kulturruohttasat leat sus. Ja son ii nagodan vástidit. Easkka dál lea sámi hearvvaid(,)¥0 herveme, symbolaid ja {mánnánvuođa}${fin,n-0|mánnávuođa} guovllu luonddu váldán oassin dáidagii.
+Thomas Colbengtson lea {bajasšaddan}${vowlat,a-á|bajásšaddan} Deartná guovlluin, {Ruotabeal}${conc,t-ŧ;vowlat,0-e|Ruoŧabeale} Sámis, muhto orru dál Stockholmas. Badjel 30 jagi lea son eallán dáidagiin. Son muitala ahte hui árrat dáiddaoahpus jearai soames {oahapheaddji}${typo|oahpaheaddji} makkár govvaruohttasat ja kulturruohttasat leat sus. Ja son ii nagodan vástidit. Easkka dál lea sámi hearvvaid{,}¥{0} herveme, symbolaid ja {mánnánvuođa}${fin,n-0|mánnávuođa} guovllu luonddu váldán oassin dáidagii.
 
 Erenoamáš ávdnasat
 

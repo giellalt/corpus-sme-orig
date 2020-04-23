@@ -89,7 +89,7 @@ Hánnoluohkká 31, 9520 Guovdageaidnu
 
 Mohtorliekkanat
 
-Ássit {Hánnoluohka}${vowlat,a-á|Hánnoluohká} 40 kvm {ásodagáin}${vowlat,á-a|ásodagain}, {Lulit-}¢{hyph,1-0|Lulit} Gáhkkorjeakkis ja ¥(Lulit) {Gáhkkkorčorus}${typo|Gáhkkorčorus} sáhttet láigohit elčuggestaga mohtorliekkaniidda 400,- ru. ovddas dálvái. Hánnoluohká 60 kvm ásodaga ássiin leat iežaset elčuggestat.
+Ássit {Hánnoluohka}${vowlat,a-á|Hánnoluohká} 40 kvm {ásodagáin}${vowlat,á-a|ásodagain}, {Lulit-}¢{hyph,1-0|Lulit} Gáhkkorjeakkis ja Lulit {Gáhkkkorčorus}${typo|Gáhkkorčorus} sáhttet láigohit elčuggestaga mohtorliekkaniidda 400,- ru. ovddas dálvái. Hánnoluohká 60 kvm ásodaga ássiin leat iežaset elčuggestat.
 
 Olggos fárren
 
@@ -140,9 +140,9 @@ Hánnoluohkká,
 
 Elrávdnji
 
-Hánnoluohká ásodagaid ássit mákset ieža {elrávnnnji}${typo|elrávnnji}. Nord-Troms Kraftlag sádde rehkega midjiide, ja elrávdnjegolut {bidjojit}${conc,dj-ddj|biddjojit} viessoláigorehkegii. Dat mearkkaša ahte ássit eai dárbbat ieža dieđihit iežaset ođđa kunddarin. Go elrávdnjerehket boahtá juohke nuppi mánu (lea vuosttaš mánu a-konto {máksn}${typo|máksin}
-(500,- ru.), ja maŋit mánu rehkega vuosttá)¢(conc,stt-st|lea vuosttaš mánu a-konto máksin
-(500,- ru.), ja maŋit mánu rehkega vuostá).
+Hánnoluohká ásodagaid ássit mákset ieža {elrávnnnji}${typo|elrávnnji}. Nord-Troms Kraftlag sádde rehkega midjiide, ja elrávdnjegolut {bidjojit}${conc,dj-ddj|biddjojit} viessoláigorehkegii. Dat mearkkaša ahte ássit eai dárbbat ieža dieđihit iežaset ođđa kunddarin. Go elrávdnjerehket boahtá juohke nuppi mánu {lea vuosttaš mánu a-konto {máksn}${typo|máksin}
+(500,- ru.), ja maŋit mánu rehkega vuosttá}¢{conc,stt-st|lea vuosttaš mánu a-konto máksin
+(500,- ru.), ja maŋit mánu rehkega vuostá}.
 
 Máksinmuittuhus
 

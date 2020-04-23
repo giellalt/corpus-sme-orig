@@ -202,7 +202,7 @@ Olu mearraolbmáidgirkut sáhttet vihahemiid áiccalmahttit ja nu lasihit sisabo
 
 Sámi girkoráđi váldočálli Tore Johnsen ávžžuha searvegottiid min riikkas oidnosii buktit Sámi álbmoga beaivvi ipmilbálvalusas:
 
--Lávlot sámegillii kyrie ja rohkadallet sámi álbmoga ovddas, lea Johnsena ávžžuhus. Son sávvá ahte ollu ipmilbálvalusain guovvamánu 5.beaivvi namuhuvvo Sámi álbmoga beaivi (mii lea guovvamánnu 6.beaivvi)£(case,nom-gen|(mii lea guovvamánu 6.beaivvi). Sámi girkoeallima plánas maid Girkočoahkkin dohkkehii diibmá, deattuhuvvo ahte girkut miehtá riikka sáhttet roahkka oidnosii buktit Sámi álbmoga beaivvi, čállá kirken.no
+-Lávlot sámegillii kyrie ja rohkadallet sámi álbmoga ovddas, lea Johnsena ávžžuhus. Son sávvá ahte ollu ipmilbálvalusain guovvamánu 5.beaivvi namuhuvvo Sámi álbmoga beaivi ({mii lea guovvamánnu 6.beaivvi}£{case,nom-gen|mii lea guovvamánu 6.beaivvi}). Sámi girkoeallima plánas maid Girkočoahkkin dohkkehii diibmá, deattuhuvvo ahte girkut miehtá riikka sáhttet roahkka oidnosii buktit Sámi álbmoga beaivvi, čállá kirken.no
 
 Jus ii heive dán oidnosii buktit juste dan beaivvi, de sáhttá dan dahkat ipmilbálvalusas beaivvi ovdal. Norgga girku ipmilbálvalusa ođastusas lea Sámi álbmoga beaivi váldojuvvon vuosttaš geardde mielde mearkabeaivin girkolaš ortnegiidda. Johnsena mielas leage dasto lunddolaš čuovvolit sihke {riikadásis}${case,nom-gen|riikkadásis} ja báikkálaš dásis Norgga girku mihtu ja dohkkehit ahte sápmelaččat leat dán riikkas. KPK
 

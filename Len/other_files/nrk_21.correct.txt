@@ -12,7 +12,7 @@ Boares biktasiid sáhttá ođasmahttit, nu leat kurssas dahkan Kárášjogas. Ja
 
 Ášši doaimmaha Ánne Olli
 
-Bivttasčájáhusas leat {máŋggalaganaš}${vowc,a-á;vowm,a-0;fin,š-0|máŋggalágan} biktasat, ja sii geat serve dán {redisign kursii}${cmp,2-1|redesignkursii},(.)¥0 sii bukte boares biktasiid maid eai šat geavahan
+Bivttasčájáhusas leat {máŋggalaganaš}${vowc,a-á;vowm,a-0;fin,š-0|máŋggalágan} biktasat, ja sii geat serve dán {redisign kursii}${cmp,2-1|redesignkursii},{.}¥{0} sii bukte boares biktasiid maid eai šat geavahan
 
 
 Ođasmahtton biktasat
@@ -22,7 +22,7 @@ Boares vuolppus šattai mánnái {prinsessačuvla}${vowc,diph|prinseassačuvla}
 Mánná ii coggan vuolppu, danne goarostii eadni vuolppus čuvlla
 Muhtin {biktasiid lohke baskkun}¢{conc,skk-sk;vowlat,u-o|biktasiid lohke baskon} skáhppii heaŋgát, eaige šat heiven. Danne dain lei vuogas goarrut áibba eará.
 
-Dát smávva čuvllat(,)¥0 leat maid {gorrojuvvon biktasiin mat ledje nie baskun}¢{vowlat,u-o|gorrojuvvon biktasiin mat ledje nie baskon}.
+Dát smávva čuvllat{,}¥{0} leat maid {gorrojuvvon biktasiin mat ledje nie baskun}¢{vowlat,u-o|gorrojuvvon biktasiin mat ledje nie baskon}.
 
 {Bivttashápmejeaddji}${conc,pm-bm|Bivttashábmejeaddji} Ánne Biret Anti dat lei veahkkin hutkamin mo boares biktasiin {fitnejedje}${conc,tn-dn|fidnejedje} {ođđa mállet}¢{comp,2-1|ođđamállet} biktasiid.
 
