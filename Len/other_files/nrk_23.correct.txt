@@ -10,7 +10,7 @@ Ingebrigtsen geassádii stáhtačállin
 
 Romssa bargiidbellodat šaddá maŋidit iežaset nominašuvnna boahtte jagi {Stuoradikkeválgii}${case,gen-nom|Stuoradiggeválgii}, maŋŋel go árvaluvvon njunuš geassádii.
 
-Romsalaš Roger Ingebrigtsen geassádii mannan bearjadaga stáhtačálli doaimmas ja maid Stuoradikki válgga nominašuvnnas, guokte beaivvi ovdal go Romssa Bargiidbellodat galggai válljet {njunuš áirasis}¢{cmp,2-1|njunušáirasis} válgii. Ingebrigtsen muitalii bearjadaga, ahte (sus lei seksuála oktavuohta {2004:is}${suf,is-s|2004:s} ovtta AUF nuoran)£{case,gen-com|sus lei seksuála oktavuohta 2004:s ovttain AUF nuoran}¢{fin,n-in|sus lei seksuála oktavuohta 2004:s ovttain AUF nuorain}, gii lei dalle {17-jahkkásaš}${conc,hkk-hk|17-jahkásaš}.
+Romsalaš Roger Ingebrigtsen geassádii mannan bearjadaga stáhtačálli doaimmas ja maid Stuoradikki válgga nominašuvnnas, guokte beaivvi ovdal go Romssa Bargiidbellodat galggai válljet {njunuš áirasis}¢{cmp,2-1|njunušáirasis} válgii. Ingebrigtsen muitalii bearjadaga, ahte {sus lei seksuála oktavuohta {2004:is}${suf,is-s|2004:s} ovtta AUF nuoran}£{case,gen-com|sus lei seksuála oktavuohta 2004:s ovttain AUF nuoran}¢{fin,n-in|sus lei seksuála oktavuohta 2004:s ovttain AUF nuorain}, gii lei dalle {17-jahkkásaš}${conc,hkk-hk|17-jahkásaš}.
 
 Ingebrigtsen dajai bearjadaga, ahte buot lea su sivva, ja manne dát ii leat gullon ovdal, de dan ii sáhte smiehttat dál.
 
