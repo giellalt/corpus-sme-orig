@@ -18,7 +18,7 @@ Gietkka maid Liv Bangsund lea {eadnestis}${conc,dn-tn;vowlat,e-i|eatnistis} ož�
 
 Luonddu oaidnu guovddážis
 
-Čájáhusa namma lea "Bastilis ravddat leat jorbon, ja olles juhkosat leat gahččan" mii lea čilgejuvvon ná: áiggit ja sajit beaškkehit oktii, (leat biddjon vuostálaga dahje fas {šadda${vowlat,a-á|šaddá}}}£{kongr,sg-pl|leat biddjon vuostálaga dahje fas šaddet}.
+Čájáhusa namma lea "Bastilis ravddat leat jorbon, ja olles juhkosat leat gahččan" mii lea čilgejuvvon ná: áiggit ja sajit beaškkehit oktii, (leat biddjon vuostálaga dahje fas {{šadda}${{}vowlat,a-á|šaddá}}}£{kongr,sg-pl|leat biddjon vuostálaga dahje fas šaddet}.
 
 Guldal rádioášši čájáhusa birra
 
@@ -30,4 +30,4 @@ Studeanttat ožžo inspirašuvnna Kárášjogas {go fidne studeantamátkkis}¢{c
 
 Eai dáhto dušše oahpásmuvvat báikkiin, muhto maiddái oahpásmuvvat ja gáimmadit olbmuiguin.
 
-(Guorus Mack bovssa mii lea gollin {muoiduduvvon${vowc,mono;conc,id-idd;vowlat,u-o|moiddoduvvon}}}£{case,acc-nom|Guorus Mack boksa mii lea gollin moiddoduvvon} lea Georg F. W. Rohlfing buvtta dán čájáhusas.
+(Guorus Mack bovssa mii lea gollin {{muoiduduvvon}${{}vowc,mono;conc,id-idd;vowlat,u-o|moiddoduvvon}}}£{case,acc-nom|Guorus Mack boksa mii lea gollin moiddoduvvon} lea Georg F. W. Rohlfing buvtta dán čájáhusas.

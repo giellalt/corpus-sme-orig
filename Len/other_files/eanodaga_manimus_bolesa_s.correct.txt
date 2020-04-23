@@ -9,7 +9,7 @@ Govva: YLE
 
 Eanodagas ii leat iežas boles šat borgemánus {ovddosguvlui}${cmp,1-2|ovddos guvlui}. {Helsingin Sanomat -aviissa}¢{cmp,2-1|Helsingin Sanomat-aviissa} mielde Giehtaruohttasa guovllu davimus doaibmasaji áidna bolesa sirdet Heahtás Muonái borgemánus.
 
-Eanodaga áidna boles, {boarrásot${vowm,o-u|boarrásut}¢{infl,comp-pos|boares}}€{w,vuoras} konstáhpel Riitta Laitkorpi jáhkká, ahte Giehtaruohttasa guovllu dorvvolašvuohta hedjona, go boles šaddá ain {guhkkelabbui}${vowc,a-e|guhkkelebbui} guovllus. Laitkorpi lohká, ahte boles ii geargga heahtedilis báikki ala guhkes gaskkaid dihte.
+Eanodaga áidna boles, {{boarrásot}${{}vowm,o-u|boarrásut}¢{infl,comp-pos|boares}}€{w,vuoras} konstáhpel Riitta Laitkorpi jáhkká, ahte Giehtaruohttasa guovllu dorvvolašvuohta hedjona, go boles šaddá ain {guhkkelabbui}${vowc,a-e|guhkkelebbui} guovllus. Laitkorpi lohká, ahte boles ii geargga heahtedilis báikki ala guhkes gaskkaid dihte.
 
 Peräpohjola boleslágádusa hoavda Seppo Kinnunen fas oaivvilda, ahte dorvvolašvuohta ii hedjon, daningo {alármmat}${conc,rmm-rpm|alárpmat} eai dánge dilis vuolgge Heahtás.
 

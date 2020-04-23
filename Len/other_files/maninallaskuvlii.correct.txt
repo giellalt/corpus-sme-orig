@@ -14,7 +14,7 @@ Dáppe leat oahppofálaldagat mat leat {dunnje}${conc,nnj-tnj|dutnje} heivehuvvo
 
 Sámi allaskuvllas don beasat
 •	 oahppat sámegillii ealli sámi birrasis
-•	 oažžut sámi ja álgoálbmot perpektiivva${typo|perspektiivva}¢{cmp,2-1|álgoálbmotperspektiivva} buot oahpahusas
+•	 oažžut sámi ja álgoálbmot {perpektiivva}${{}typo|perspektiivva}¢{cmp,2-1|álgoálbmotperspektiivva} buot oahpahusas
 •	 vásihit buori oahpahusa ja lagasvuođa earáide, sihke miel-studeanttaide ja oahpaheddjiide
 •	 {oahpasmuvvat}${vowlat,a-á|oahpásmuvvat} {iešguđetguovllu}${cmp,1-2|iešguđet guovllu} sámi servodagaide ja sámiide
 •	 fuomášit árbevierromáhtu ođđa ja ođđaáigásaš oktavuođain

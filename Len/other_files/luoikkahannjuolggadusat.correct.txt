@@ -45,7 +45,7 @@ a) Dábálaš luoikanáigi girjerádjosa girjjiide lea 4 vahkku, ja {govvá-ja}$
 
 á) Girjjit ja eará almmuhusat mat leat biddjon gáldoossodahkii dehe eará erenoamážit merkejuvvon hilduide (omd. pensumhilduide) sáhttet dušše {atnot}${conc,tn-dn|adnot} {girjerádjosis/lohkánlanjas}${vowlat,á-a|lohkanlanjas}.
 
-b) Áigečállagat ja áviissat sáhttet dušše adnot {girjeradjosis${vowc,a-á|girjerádjosis}/lohkánlanjas}${vowlat,á-a|lohkanlanjas}. Dáid ii sáhte luoikkahit. Fágabargit sáhttet luoikkahit sierra šiehtadusa mielde.
+b) Áigečállagat ja áviissat sáhttet dušše adnot {{girjeradjosis}${{}vowc,a-á|girjerádjosis}/lohkánlanjas}${vowlat,á-a|lohkanlanjas}. Dáid ii sáhte luoikkahit. Fágabargit sáhttet luoikkahit sierra šiehtadusa mielde.
 
 c) Girjerádjosa {erenoamáščoakkáldagá}${vowlat,á-a|erenoamáščoakkáldaga} {sáhtta}${vowlat,a-á|sáhttá} atnit dušše girjerádjosis. Dát čoakkáldat lea sierra merkejuvvon.
 

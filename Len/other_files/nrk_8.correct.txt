@@ -9,7 +9,7 @@ Niibbástallan Guovdageainnus
 
 Guokte {guovttitlot jahkásaš}¢{vowlat,i-e;fin,t-0;cmp,2-1|guovttelotjahkásaš} albmá {čukkohalaiga olggobealde Guovdageainnu Thon hotealla mannán ija}¢{vowlat,á-a|čukkohalaiga olggobealde Guovdageainnu Thon hotealla mannan ija}.
 
-Albmáid dolvo vuos Guovdageainnu dearvvasvuođa guovddážii váktadoaktára lusa, dasto soai (sáddejuvvuiga viidásut {Hamarfeastta}${conc,m-mm;vowc,a-á;vowlat,a-á|Hámmárfeastta} {buohccivissui${vowlat,i-e|buohccevissui}}}€{w,adj-adv|sáddejuvvuiga viidáseappot Hámmárfeastta buohccevissui}.
+Albmáid dolvo vuos Guovdageainnu dearvvasvuođa guovddážii váktadoaktára lusa, dasto soai (sáddejuvvuiga viidásut {Hamarfeastta}${conc,m-mm;vowc,a-á;vowlat,a-á|Hámmárfeastta} {{buohccivissui}${{}vowlat,i-e|buohccevissui}}}€{w,adj-adv|sáddejuvvuiga viidáseappot Hámmárfeastta buohccevissui}.
 Albmáid dilli ii leat heakkavárálaš. Soai čukkohalaiga ee. čoavjái.
 
 Váldojuvvui gitta Álttás
