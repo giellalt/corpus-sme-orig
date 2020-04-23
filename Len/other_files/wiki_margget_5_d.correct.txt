@@ -1,7 +1,7 @@
 #http://se.wikipedia.org/w/index.php?title=Einar_Gerhardsen&oldid=137845
 #29.11.12
 
-Einar Henry Gerhardsen (riegádan miessemánu 10.b. 1897 {Asker:is}${prop,suf|Askeris} Norggas, namainis Einar Henry Olsen, jápmán čakčamánu 19. beaivve 1987) leai norgga politihkkár gii ovddastii Bargiidbellodaga. Son leai Norgga stádaministtarin jagi 1945 rájes gitta 1951 rádjai, 1955 rájes 1963 rádjai ja 1963 rájes 1965 rádjai. Norggas dovdet su buddestatnamain «landsfaderen», mii mearkkaša riikkaáhččin, ja son namuhuvvo okta£oktan váldoolmmožin huksemis norgga velferdsstáhta mii viidugođii nuppi {máilmme soađi}${cmp,2-1;cmp,vowlat,e-i|máilmmisoađi} maŋŋá.
+Einar Henry Gerhardsen (riegádan miessemánu 10.b. 1897 {Asker:is}${prop,suf|Askeris} Norggas, namainis Einar Henry Olsen, jápmán čakčamánu 19. beaivve 1987) leai norgga politihkkár gii ovddastii Bargiidbellodaga. Son leai Norgga stádaministtarin jagi 1945 rájes gitta 1951 rádjai, 1955 rájes 1963 rádjai ja 1963 rájes 1965 rádjai. Norggas dovdet su buddestatnamain «landsfaderen», mii mearkkaša riikkaáhččin, ja son namuhuvvo {okta}£{oktan} váldoolmmožin huksemis norgga velferdsstáhta mii viidugođii nuppi {máilmme soađi}${cmp,2-1;cmp,vowlat,e-i|máilmmisoađi} maŋŋá.
 
 Ovddasteamit 1897–1940
 

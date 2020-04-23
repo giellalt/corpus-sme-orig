@@ -19,5 +19,5 @@ Eai oro berošteamen
 
 - Sámediggi lea dahkan soahpamuša Norgga {našunalmuseain}${conc,š-ti;vowlat,u-o;vowc,a-á;vowlat,0-a|nationálamuseain}, {dáid sámi dávviriin}£{case,gen-loc|dáin sámi dávviriin}. Ii leat dušše Nuortasámi musea gos {lea váilevašvuođat}£{kongr,sg-pl|leat váilevašvuođat} áibmomolsumis ja eará rusttegiin, muhto ná lea iešalddis buot sámi museain Norggas, dáinna lágiin eat sáhte váldit vuostá sámi kulturárvvuid, dadjá Sámi museasearvvi {stivrajođiheaddji}${case,nom-gen|stivrrajođiheaddji}, Lars Magne Andreassen.
 
-Andreassen dadjá dál leat kulturdepartemeanta duohken buoridit dili buot sámi museaid ektui, maiddái Nuorta-sámi musea ektui. Dát ahte váldá ná guhkes áiggi dohkkehit sámi museaid, čájeha dušše ahte¥0 mo sámi {museaid meannudit}£{case,acc-com|museaiguin meannudit}, vaikko Sámediggi juo {logi jagi áigi válddi badjelasas sámi museaid}¢{fin,0-i|logi jagi áigi válddii badjelasas sámi museaid}, dadjá Andreassen.
+Andreassen dadjá dál leat kulturdepartemeanta duohken buoridit dili buot sámi museaid ektui, maiddái Nuorta-sámi musea ektui. Dát ahte váldá ná guhkes áiggi dohkkehit sámi museaid, čájeha dušše {ahte}¥{0} mo sámi {museaid meannudit}£{case,acc-com|museaiguin meannudit}, vaikko Sámediggi juo {logi jagi áigi válddi badjelasas sámi museaid}¢{fin,0-i|logi jagi áigi válddii badjelasas sámi museaid}, dadjá Andreassen.
 
