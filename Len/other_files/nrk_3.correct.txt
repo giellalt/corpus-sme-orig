@@ -29,7 +29,7 @@ Bákte-, oljo- ja {gásabuvttádan fitnodagat}${cmp,2-1|gásabuvttadanfitnodagat
 
 – Berre leat ávkin buohkaide
 
-- Sihke Fálesnuorri, Mátta-Várjjat ja Guovdageaidnu {hálidit}${conm,d-id|háliidit} sisaboađu {báikkálaččát}${vowlat,á-a|báikkálaččat} ruvkedoaimmaid dihte, muhto Olli mielas eai berre dušše oktonas suohkanat dušše álgoálbmot {divvada}${{}conc,vv-v|divada}¢{cmp,2-1|álgoálbmotdivada}.
+- Sihke Fálesnuorri, Mátta-Várjjat ja Guovdageaidnu {hálidit}${conm,d-id|háliidit} sisaboađu {báikkálaččát}${vowlat,á-a|báikkálaččat} ruvkedoaimmaid dihte, muhto Olli mielas eai berre dušše oktonas suohkanat dušše {álgoálbmot {divvada}${conc,vv-v|divada}}¢{cmp,2-1|álgoálbmotdivada}.
 
 – Finnmárkkus han leat ovttaoaivilis leamašan ahte ii buvtte buori jus dušše soames suohkanat galget oažžut ávkki oljo- ja {gásabohkámiin}${vowlat,á-a|gásabohkamiin}.
 

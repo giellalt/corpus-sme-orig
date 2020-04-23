@@ -2,7 +2,7 @@
 
 #Sara Kristine Eira ja Klemet Anders Sara
 
-{#Publisert}∞{nob} 27.11.2012 10:38.
+#{Publisert}∞{nob} 27.11.2012 10:38.
 
 Guohtoneatnamat sáhttet gáržut
 
@@ -12,6 +12,6 @@ Boazodoallu Romssa fylkkas vásiha ahte guohtuneatnamat gáržot dađistaga. Dá
 
 Sálašvákki ássit muosehuvvet go báhčinšillju lea sin lagasbirrasis, ja danne lea mearriduvvon ahte dat galgá sirdojuvvot. Tromssa gávpotráđđi {hálidivččii}${conm,d-id|háliidivččii} sirdit dan moatti báikái Sálliris dahje Ráneš sullui.
 
-Buot {dieid báikkiin}£{case,gen-loc|diein báikkiin} lea boazodoallu, ja Ráneš {orohat ii goit gal fuolašii militeara báhčinšillju}£{infl,sg3-conneg|orohat ii goit gal fuolaše militeara {báhčinšillju}}¢{conc,llj-lj|orohat ii goit gal fuolaše militeara báhčinšilju} iežaset orohahkii. Ránešhasain lea birra jagi doallu sullos, ja jus huksegohtet máidege dohko, de gáržot guohtuneatnamat.
+Buot {dieid báikkiin}£{case,gen-loc|diein báikkiin} lea boazodoallu, ja Ráneš {{orohat ii goit gal fuolašii militeara báhčinšillju}£{infl,sg3-conneg|orohat ii goit gal fuolaše militeara báhčinšillju}}¢{conc,llj-lj|orohat ii goit gal fuolaše militeara báhčinšilju} iežaset orohahkii. Ránešhasain lea birra jagi doallu sullos, ja jus huksegohtet máidege dohko, de gáržot guohtuneatnamat.
 
 Eai Sállira boazoeaiggádat ge fuolaše báhčalemiid iežaset lusa. Dán birra dat odne galget ge hupmat čoahkkimis. Oassálastit leat Romssa guovllustivra, Boazodoallohálddahus ja Tromssa suohkan.

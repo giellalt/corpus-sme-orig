@@ -52,7 +52,7 @@ Maŋŋelaš beassážiid, cuoŋománu 11.-17. beivviid vuolgá Radio DSF Guolád
 
 Finnmárkku {politihkkar}${vowlat,a-á|politihkkár} muitala oskku birra
 
-Mortensrud girku Oslos doallá gaskkohagaid {{nudaddjon}${cmp,1-2|nu daddjon} Vádjolaneahkediid masa bovdejit dovddus olbmuid muitalit oskkuset birra. Cuoŋománu {11.beaivvi}${cmp,1-2|11. beaivvi} lea stuoradiggeáirras ja Bargiidbellodaga {nubbejođiheaddji}${vowlat,e-i|nubbijođiheaddji} Helga Pedersen vuorru jearahallojuvvot oskku birra. Helga lea bajásšaddan Deanodagas, smávva báiki gos girku atnet árvvus.
+Mortensrud girku Oslos doallá gaskkohagaid {nudaddjon}${cmp,1-2|nu daddjon} Vádjolaneahkediid masa bovdejit dovddus olbmuid muitalit oskkuset birra. Cuoŋománu {11.beaivvi}${cmp,1-2|11. beaivvi} lea stuoradiggeáirras ja Bargiidbellodaga {nubbejođiheaddji}${vowlat,e-i|nubbijođiheaddji} Helga Pedersen vuorru jearahallojuvvot oskku birra. Helga lea bajásšaddan Deanodagas, smávva báiki gos girku atnet árvvus.
 
 -Mun in háleš nu dávjá oskku birra. Lea álkit háleštit politihkalaš árvvuin, dadjá Helga Pedersen.
 
@@ -234,7 +234,7 @@ Ollu skeaŋkkat {Frelsesarmeái}${vowlat,á-a|Frelsesarmeai}
 
 {Frelsesarmeá}${vowlat,á-a|Frelsesarmea} Norggas oaččui measta 75 milj. kruvnno testamenterejuvvon skeaŋkkaid, čájehit álgologut jahkái 2011. {Frelsesarmeá}${vowlat,á-a|Frelsesarmea} lea hui {duhtávaš}${vowlat,a-á|duhtavaš} dáinna {ruhtasummain}${vowlat,a-á|ruhtasummáin}, vaikko dát lohku lea vuollelis go olahusjagis 2010, go oaččui 95 milj. kruvnno testamenterejuvvon skeaŋkkaid.
 
-Sullii {beallii}${typo|bealli} skeaŋkaruđas lea várrejuvvon vásedin ((doaimmaide nu mo {korps}${vowlat,0-a|korpsa}, ásahusat ja {mišuvdna}${conm,š-šš|miššuvdna}}}£{kongr,nom-ill|doaimmaide nu mo korpsii, ásahusaide ja miššuvdnii}.
+Sullii {beallii}${typo|bealli} skeaŋkaruđas lea várrejuvvon vásedin {doaimmaide nu mo {korps}${vowlat,0-a|korpsa}, ásahusat ja {mišuvdna}${conm,š-šš|miššuvdna}}£{kongr,nom-ill|doaimmaide nu mo korpsii, ásahusaide ja miššuvdnii}.
 
 Muđui adnojuvvo skeaŋkaruhta doaimmahit {Frelsesarmeá}${vowlat,á-a|Frelsesarmea} eará bargguid.
 - Mun lean nu giitevaš go nu oallugat muitet maiddái min barggu go čállet testameantta, dadjá njunuš {diehtojuohki}${conc,hk-hkk|diehtojuohkki} Andrew Hannevik. KPK

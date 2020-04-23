@@ -26,7 +26,7 @@ Norgga ja Ruoŧa sámedikkiin giellabargit barggašedje fas davvi-, julev- ja lu
 
 Ohcanáigi giellabargiid báikkiide Suoma bealde nohká 10.12.2012 d. 16, dan ovdal ferte sáddet ohcamušaid Sajosii.
 
-Prošeavtta leat ruhtadan Interreg IVA-Nord prográmmas ja Suomas Lappi lihttu ja Sámediggi, Ruoŧas Sámediggi ja Norggas Sámediggi, Tromssa {fylkakommuna}${{}case,nom-gen|fylkkakommuna}€{w|fylkkasuohkan} ja Norrbotten {lenstyrensen}${{}mix|länsstyrelsen}€{w|leanastivra}.
+Prošeavtta leat ruhtadan Interreg IVA-Nord prográmmas ja Suomas Lappi lihttu ja Sámediggi, Ruoŧas Sámediggi ja Norggas Sámediggi, Tromssa {{fylkakommuna}${case,nom-gen|fylkkakommuna}}€{w|fylkkasuohkan} ja Norrbotten {{lenstyrensen}${mix|länsstyrelsen}}€{w|leanastivra}.
 
 Ailu Valle & Irene Länsman / Yle Sápmi
 

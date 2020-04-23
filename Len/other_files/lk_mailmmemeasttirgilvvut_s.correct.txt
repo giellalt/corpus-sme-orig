@@ -13,7 +13,7 @@ Jurdda sierranas MM-gilvvuid ordnemis lea jorran šiehtadallamiin ovdalge.
 
 – {Humaimet diibmá Roavvenjárgga čoahkkimis, ahte ordneleimmet sierranas MM-gilvvuid, gosa searvale buot riikkaid buoremusat}£{conc,rv-rvv|Humaimet diibmá Roavvenjárgga čoahkkimis, ahte ordneleimmet sierranas MM-gilvvuid, gosa searvvale buot riikkaid buoremusat}. (Delle lihtut doalale iežaset
 
-{Cuppa}${{}conc,pp-p|Cupa}¢{vowc,e-a|Dalle lihtut doalale iežaset Cupa} juohke {riikas}${conc,ik-ikk|riikkas} ja de dan maŋŋel doalale sierranas loahppagilvvu, muitala Mikkel Per Sara.
+{{Cuppa}${conc,pp-p|Cupa}}¢{vowc,e-a|Dalle lihtut doalale iežaset Cupa} juohke {riikas}${conc,ik-ikk|riikkas} ja de dan maŋŋel doalale sierranas loahppagilvvu, muitala Mikkel Per Sara.
 
 Riikkaidgaskasaš MM-gilvvut buoridivčče heargevuodjimiid sajádaga, muhto ordnengeavadagas galggalii Sara mielde váldit vuhtii, ahte gait riikkat beasale ordnet daid.
 

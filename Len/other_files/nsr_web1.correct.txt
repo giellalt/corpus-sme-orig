@@ -1,4 +1,4 @@
-{#nsr.no}∞{url} 
+{#nsr.no}∞{url}
 #21.04.2012
 
 {Hálida}${conm,d-id|Háliida} ođđa sámi mátkkoštanplána
@@ -7,7 +7,7 @@
 
 Sámediggi juolluda doarjaga sámi mátkkošteapmái. (Man {lahkai}${vowc,a-á|láhkai} kvalitehtasihkkarastá Sámediggi ahte lea sámi buvtta man Sámediggi doarju, jeara {NSR}}¢{conc,r-rr;vowlat,a-á|Man láhkai kvalitehtasihkkarastá Sámediggi ahte lea sámi buvtta man Sámediggi doarju, jearrá NSR}.
 
-Almmuhuvvon: 20.04.2012 
+Almmuhuvvon: 20.04.2012
 
 – Maŋimuš sámi mátkkoštanplána lea jagi 2000 rájes, {dadjá NSR/SáB Nuortaguovllu válgabiire sámediggeáirras Trond Are Anti}¢{conc,ir-irr|dadjá NSR/SáB Nuortaguovllu válgabiirre sámediggeáirras Trond Are Anti}. Anti muitala ahte NSR evttohii Sámedikkis juovlamánu 2008 ođđa áššin álggahit barggu ráhkadit ođđa ollislaš sámi mátkkoštanplána, ja {jearra}${vowlat,a-á|jearrá} dan ektui maid Sámediggi lea {bárgan}${vowc,á-a|bargan} dan ášši olis.
 
@@ -17,9 +17,9 @@ Almmuhuvvon: 20.04.2012
 
 Oktasaš cealkámuš riddoássiid vuoigatvuođain
 
-NSR oaččui doarjaga oktasaš Sámedikke cealkámuššii riddoássiid vuoigatvuođain. {Dál váilo vel dat duođalaš bargu}¢{vowlat,o-u|Dál váilu vel dat duođalaš bargu}, ja NSR lea gearggus bargat ulbmillaččat Stuorradikke ektui. 
+NSR oaččui doarjaga oktasaš Sámedikke cealkámuššii riddoássiid vuoigatvuođain. {Dál váilo vel dat duođalaš bargu}¢{vowlat,o-u|Dál váilu vel dat duođalaš bargu}, ja NSR lea gearggus bargat ulbmillaččat Stuorradikke ektui.
 
-Almmuhuvvon: 20.04.2012 
+Almmuhuvvon: 20.04.2012
 
 Leai stuorra eahpesihkkarvuohta das ahte oažžu go Sámediggi meannudit láhkaproposišuvnna 70L; láhkaevttohusas gártet stuorra váikkuhusat riddoássiide miehtá Sámi. Ášši ii lean áššelisttus, muhto NSR {fitnii}${conc,tn-dn|fidnii} gáibidit oktasaš cealkámuša mii čielggada maid Sámediggi oaivvilda áššis.
 
@@ -27,7 +27,7 @@ Mii leat ilus go NSR {fitnii}${conc,tn-dn|fidnii} doarjaga oktasaš cealkámuš�
 
 – Stuorradiggi dárbbaša oažžut čielga rávvagiid Sámedikkis ahte historjjálaš vuoigatvuođaid galget dohkkehuvvot lágalaččat, joatká Pedersen.
 
-Dát lea čielga signála {NSR:ii}${acro,suf|NSR:i} ahte Sámedikki mielas ráđđehusa láhkaproposišuvdna Riddoguolástanlávdegotti árvalusa maŋŋá lea menddo heittot. – Ráđđehus iská dahkat riddogátti olbmuid {vuoigtavuođaid}${typo|vuoigatvuođaid} haga, go biehttalit historjjálaš guolástanrievtti sidjiide geat {asset}${vowc,a-á|ásset} vuotnagáttiin, dadjá Pedersen. – Ráđđehus lea čájehan ahte sii eai dohkket historjjálaš {guolastusvuoigatvuođaid}${vowlat,a-á|guolástusvuoigatvuođaid} Finnmárkui eaige eará vuonaide mearragáttis, ja danin fertet mii bargat garrasit {oažžundihte}${cmp,1-2|oažžun dihte} dohkkehuvvot dáid go de proposišuvdna galgá šaddat láhkan Stuorradikkis, loahpaha Pedersen. 
+Dát lea čielga signála {NSR:ii}${acro,suf|NSR:i} ahte Sámedikki mielas ráđđehusa láhkaproposišuvdna Riddoguolástanlávdegotti árvalusa maŋŋá lea menddo heittot. – Ráđđehus iská dahkat riddogátti olbmuid {vuoigtavuođaid}${typo|vuoigatvuođaid} haga, go biehttalit historjjálaš guolástanrievtti sidjiide geat {asset}${vowc,a-á|ásset} vuotnagáttiin, dadjá Pedersen. – Ráđđehus lea čájehan ahte sii eai dohkket historjjálaš {guolastusvuoigatvuođaid}${vowlat,a-á|guolástusvuoigatvuođaid} Finnmárkui eaige eará vuonaide mearragáttis, ja danin fertet mii bargat garrasit {oažžundihte}${cmp,1-2|oažžun dihte} dohkkehuvvot dáid go de proposišuvdna galgá šaddat láhkan Stuorradikkis, loahpaha Pedersen.
 
 Báhčaveaivuotna billistuvvo mirkobázahusaid luoitima geažil
 
@@ -35,7 +35,7 @@ Báhčaveaivuotna billistuvvo mirkobázahusaid luoitima geažil
 
 – Nationála luondduluossavuotna Báhčaveaivuotna billistuvvo go Mátta-Várjjaga {ruvkkit}${vowlat,i-e|ruvkket} luitet dohko bázahusaid main leat mirkkot
 
-Almmuhuvvon: 19.04.2012 
+Almmuhuvvon: 19.04.2012
 
 {NSR/SáB Nuortaguovllu válgabiire sámediggeáirras Trond Are Anti čilge}¢{conc,ir-irr|NSR/SáB Nuortaguovllu válgabiirre sámediggeáirras Trond Are Anti čilge} ahte dát {hástalus lea ovddiduvvon ođđa áššiin ja jerron}¢{fin,in-n|hástalus lea ovddiduvvon ođđa áššin ja jerron} ovdalis ráđis Sámedikki dievasčoahkkimis.
 
@@ -43,9 +43,9 @@ Dán olis jearrá Anti sámediggeráđis maid lea sámediggeráđđi bargan biss
 
 {Gažaldat ráđđái doaibmabijut sámiide}£{case,nom-loc|Gažaldat ráđđái doaibmabijuin sámiide} geat ásset gávpogiin
 
-Sámediggeáirras Geir Tommy Pedersen {jearra}${vowlat,a-á|jearrá} mainna lágiin {sámediggeráđđi lea jurddašan buoridit sámiid dili stuorát gávpugiin}£{infl,comp-pos|sámediggeráđđi lea jurddašan buoridit sámiid dili stuorra {gávpugiin}}${vowlat,u-o|gávpogiin}.
+Sámediggeáirras Geir Tommy Pedersen {jearra}${vowlat,a-á|jearrá} mainna lágiin {sámediggeráđđi lea jurddašan buoridit sámiid dili stuorát gávpugiin}£{infl,comp-pos|sámediggeráđđi lea jurddašan buoridit sámiid dili stuorra {gávpugiin}${vowlat,u-o|gávpogiin}.
 
-Almmuhuvvon: 18.04.2012 
+Almmuhuvvon: 18.04.2012
 
 {Dáđistaga}${vowc,á-a|Dađistaga} ásaiduvvet eanet ja eanet sápmelaččat gávpogiidda go ássanminsttar lea rievdan. Dát mielddisbuktá maiddái dan ahte gávpogat váldet badjelasaset ovddasvástádusa láhčit bálvalusaid sámi álbmoga várás. {Šallošit}${vowc,a-á|Šállošit} go Romssa ođđa gávpotstivra gesii eret ohcama ahte laktit Romssa sámegiela hálddašanguvlui, dán {šalloša}${vowc,a-á|šálloša} NSR sakka.
 
@@ -68,13 +68,13 @@ Sámediggeáirras Rolf Johansen
 
 NSR oaivvilda ahte sámi kulturmuitohálddašeapmi ferte árvvoštallojuvvot. Ahte sámi kulturmuittut leat automáhtalaččat suddjejuvvon go 100 jagi leat gollan sáhttá boahtteáiggis dagahit hástalusaid dan ektui ahte mii gohčoduvvo kulturmuitun.  NSR lea maid fuolastuvvan ahte ovttaskas olbmot ieža fertejit máksit min oktasaš kulturárbbi iskkademiid ja registreremiid ovddas.
 
-Almmuhuvvon: 17.04.2012 
+Almmuhuvvon: 17.04.2012
 
 - Mii oaivvildat ahte kulturmuitohálddašeapmi ferte guorahallojuvvot, dadjá Rolf Johansen, sámediggeáirras {Ivggus}${conc,vgg-vg|Ivgus} eret. - NSR oaidná dehálažžan ahte sámi {kulturmuittut lea suddjejuvvon}£{kongr,sg-pl|kulturmuittut leat suddjejuvvon} nu oanehis áiggi maŋŋá go 100 jagi.  {Sámi kultuvra ii leat guođđán nu stuorra luottaid lundui ja servodahkii, ja galgá váldit vara dan veaháš mii gávdno}¢{vowc,a-á|Sámi kultuvra ii leat guođđán nu stuorra luottaid lundui ja servodahkii, ja galgá váldit vára dan veaháš mii gávdno}.  Muhto boahtteáiggis lea hástalus, dadjá Rolf, ja čilge: - Jus otná njuolggadusat, mas buot mii lea sámi ja badjel 100 jagi automáhtalaččat suddjejuvvo, maiddá doibmet boahtteáiggis, de sáhttit mii ovdamearkka dihte oažžut stuorra hástalusaid ođđaáiggi {eanandoalureaidduid}${case,gen-nom|eanandoalloreaidduid} ja skohteriid ektui.  - Danne fertet mii oažžut čielggadeami njuolggadusain dan ektui ahte maid {hálidat}${conm,d-id|háliidat} suddjet, dadjá son.
 
 Nubbi {poeŋga}${vowc,diph|poeaŋga} lea ahte otná ortnegis lea ovttaskas olbmuin ovddasvástádus ruhtadit kulturmuittuid iskkademiid ja registreremiid huksenprošeavttaid oktavuođas. - Dát lea máksinprinsihppa mii duohtavuođas mearkkaša ahte oktasaš kulturárbi máksojuvvo olbmuid priváhta burssas, čilge Johansen. NSR ballá ahte dát áiggi mielde sáhttá heajosmahttit dehálaš kulturmuittuid registrerema ja áimmahuššama. - Lea go álbmot ovttaoaivilis dáinna ortnegiin, vai sáhttá go nu geavvat ahte olbmot válljejit ahte eai atte dieđuid suddjejuvvon kulturmuittuid birra go dat dagaha váttisvuođaid, ja njulgestaga olggosgoluid guovlluid, visttiid ja dávviriid geavaheami hárrái, imaštallá Rolf Johansen.
 
-NSR buktá dán ođđa áššin Sámedikki dievasčoahkkimii dán vahku, ja sávvá ahte Sámediggeráđđi {čuovvolahttá}${vowlat,o-u|čuovvulahttá} dan ja gieđahallá dan albma láhkái. 
+NSR buktá dán ođđa áššin Sámedikki dievasčoahkkimii dán vahku, ja sávvá ahte Sámediggeráđđi {čuovvolahttá}${vowlat,o-u|čuovvulahttá} dan ja gieđahallá dan albma láhkái.
 
 
 
@@ -83,11 +83,11 @@ NSR buktá dán ođđa áššin Sámedikki dievasčoahkkimii dán vahku, ja sáv
 
 NSR oaivvilda ahte ferte váldit boazodoalu vuhtii go Stáhta geaidnolágádus galgá mearridit gos dat ođđa E10-geaidnu Evenášši ja {Suorttáid}${vowlat,á-a;number,pl-sg|Suortta} gaskka galgá huksejuvvot.
 
-Almmuhuvvon: 18.04.2012 
+Almmuhuvvon: 18.04.2012
 
-Stáhta geaidnolágádusa almmuhuvvon {konsepta-lávedgottičielggadus}${vowc,diph;typo;case,gen-nom|konseapta-lávdegoddečielggadus} lea čájehan ahte viiddis {guovllut Evenáššis, Dielddanuoris ja Lodegiin gielddain}£{case,loc-gen|guovllut Evenášši, Dielddanuori ja Lodegiid gielddain} leat meroštallon boazoguohtunguovlun. NSR diehtá dan ahte geainnu áigot hukset hui dehálaš boazoguohtuneatnamiidda mat gusket {Iinnásullo}${vowlat,á-a|Iinnasullo} orohahkii {{Ganasvuotna}${{}vowc,a-á|Gánasvuotna}/Lulli-Iinná}${vowlat,á-a|Lulli-Iinna}.
+Stáhta geaidnolágádusa almmuhuvvon {konsepta-lávedgottičielggadus}${vowc,diph;typo;case,gen-nom|konseapta-lávdegoddečielggadus} lea čájehan ahte viiddis {guovllut Evenáššis, Dielddanuoris ja Lodegiin gielddain}£{case,loc-gen|guovllut Evenášši, Dielddanuori ja Lodegiid gielddain} leat meroštallon boazoguohtunguovlun. NSR diehtá dan ahte geainnu áigot hukset hui dehálaš boazoguohtuneatnamiidda mat gusket {Iinnásullo}${vowlat,á-a|Iinnasullo} orohahkii {Ganasvuotna}${vowc,a-á|Gánasvuotna}/{Lulli-Iinná}${vowlat,á-a|Lulli-Iinna}.
 
-{Sámedikkeáirras}${case,gen-nom|Sámediggeáirras} Ann-Mari Thomassen {NSRas}${acro,suf|NSR:s} oaivvilda dát čoavddus fuolastuhttá. – Geaidnu botke dehálaš johtin- ja bálgangeainnu bohccuide {{{Ganasvuotna}${{}vowc,a-á|Gánasvuotna}/Lulli-Iinná}${vowlat,á-a|Lulli-Iinna} {orohagas}}£{case,nom-gen|Gánasvuona/Lulli-Iinna orohagas}. Nu guhká go boazodoallu lea leamaš guovllus de leat bohccot geavahan justa dán gaskka jođáhahkan sivas dan baskkes gutko/johtinsaji Guollevuona ja {Ganasvuona}${vowc,a-á|Gánasvuona}, čilge Thomassen. Son njulgestaga ballá duođalaš váikkuhusain guovllu boazodollui: – {Dát gáržžes johtinsaji geažil}£{case,nom-gen|Dán gáržžes johtinsaji geažil} ii leat bohccuin eará báiki johtit go justa dakko gosa geainnu leat áigumin, ja dát sáhttá váikkuhit garrasit ja heittogit boazodollui.
+{Sámedikkeáirras}${case,gen-nom|Sámediggeáirras} Ann-Mari Thomassen {NSRas}${acro,suf|NSR:s} oaivvilda dát čoavddus fuolastuhttá. – Geaidnu botke dehálaš johtin- ja bálgangeainnu bohccuide {{Ganasvuotna}${vowc,a-á|Gánasvuotna}/{Lulli-Iinná}${vowlat,á-a|Lulli-Iinna} orohagas}}£{case,nom-gen|Gánasvuona/Lulli-Iinna orohagas}. Nu guhká go boazodoallu lea leamaš guovllus de leat bohccot geavahan justa dán gaskka jođáhahkan sivas dan baskkes gutko/johtinsaji Guollevuona ja {Ganasvuona}${vowc,a-á|Gánasvuona}, čilge Thomassen. Son njulgestaga ballá duođalaš váikkuhusain guovllu boazodollui: – {Dát gáržžes johtinsaji geažil}£{case,nom-gen|Dán gáržžes johtinsaji geažil} ii leat bohccuin eará báiki johtit go justa dakko gosa geainnu leat áigumin, ja dát sáhttá váikkuhit garrasit ja heittogit boazodollui.
 
 NSR ovddida ihttin ođđa ášši Sámedikkis, gos {sámedikkeráđđi}${case,gen-nom|sámediggeráđđi} bivdo váikkuhit áššis nu ahte {válljejuvvo dat molssaeaktu mas lea boazodollui.}£{case,ill-nom|válljejuvvo dat molssaeaktu mas lea boazodollui.} – Sámedikkis lea váikkuhanvejolašvuohta go sáhttet bivdit konsultašuvnnaid Stáhta geaidnolágádusain. Mii vuordit ahte ráđđi dál ávkkástallá dáinna vejolašvuođain cealkit čielgasit ahte boazodoallu galgá vuhtiiváldot, gáibida Thomassen.
 
@@ -95,20 +95,20 @@ Borjadat lea vástádus
 
 {Cealkamuš}${vowlat,a-á|Cealkámuš} {NSRas}${acro,suf|NSR:s} maŋŋel go ráđđehus lea {ovdánbuktan}${vowlat,a-á|ovdanbuktán} {stuoradikkiproposišuvnnai}${case,gen-nom;fin,i-id|stuoradiggeproposišuvnnaid} {čuovvoleami}${vowlat,o-u|čuovvuleami} {Riddoguolastuslávdegotti}${vowlat,a-á|Riddoguolástuslávdegotti} evttohussii.
 
-Almmuhuvvon: 29.03.2012 
+Almmuhuvvon: 29.03.2012
 
 NSR lea diibmá juo {hilgon šiehtadusa Ráđđehusa ja Sámedikki gaska}¢{conc,sk-skk|hilgon šiehtadusa Ráđđehusa ja Sámedikki gaskka} mii guoská {čuovvolit}${vowlat,o-u|čuovvulit} Riddoguolástuslávdegotti evttohusa dáiguin ákkastagaiguin:
 
 Šiehtaduvvon evttohus šiehtadussii ii {árvvusane}${cmp,1-2|árvvus ane} daid historjjálaš rivttiid mat min álbmogis leat guolásteapmái.
- 
+
 Sámedikkis ii leat ollislašfápmu šiehtadallat eret historjjálaš rivttiid guolástit min álbmoga ovddas.
- 
+
 Šiehtadus ovddasta hilguma {Ridduguolástusalávdegotti}${vowlat,u-o|Riddoguolástuslávdegotti} ovttajienalaš evttohusa
- 
+
 Šiehtadus ii leat álbmotrivttiid unnimusstandárda siskkobealde.
- 
+
 {Fátmmastit šiehtadussii}£{case,ill-acc|Fátmmastit šiehtadusa} {sáhttá atnot sámi {vuoigatvuođaeaiggadiid}${vowlat,a-á|vuoigatvuođaeaiggádiid} vuosttá}¢{conc,tn-dn|sáhttá adnot sámi vuoigatvuođaeaiggádiid vuosttá}¢{conc,stt-st|sáhttá adnot sámi vuoigatvuođaeaiggádiid vuostá}, ja eará álgoálbmogiid sullasaš vuoigatvuođaiguin boahttevaš riekteproseassain.
- 
+
 Vejolaš (doaimmaid {nannendihte}${cmp,1-2|nannen dihte} dili mearrasámi guovlluin sáhttá {dahkkát}}¢{conc,hkk-hk;vowlat,á-a|doaimmaid nannen dihte dili mearrasámi guovlluin sáhttá dahkat} vaikko eai šatta láhkarievdadusat
 {NSR oaidná ahte dát vuođđudusat čuččot ain.}¢{conc,čč-žž|NSR oaidná ahte dát vuođđudusat čužžot ain.} NSR šálloša garrasit {go vánis eanetlohku Sámedikkis mearridii}£{infl,nom-attr|go vátna eanetlohku Sámedikkis mearridii} šiehtadusa. (Dál go proposišuvdna lea gárvvis ollislaččat berre leat vuođđu váldit ášši fas bajás Sámedikkis ođđa meannudeapmái.) NSR šálloša maid go presideanta Egil Olli šiehtadusa máidnu, iige namutge buot daid várrehusaid {maid vánis eanetlohku bijai šiehtadussii}£{infl,nom-attr|maid vátna eanetlohku bijai šiehtadussii}.
 
@@ -120,7 +120,7 @@ NSR áigu maiddái ovdanbidjat ođđa meannudeami Borjadat evttohusa – sierra 
 
 Evttohus maid ráđđehus lea bidjan ovdan duođašta ahte lea dárbu {viidáseabbo}${conc,bb-pp;fin,0-t|viidáseappot} bargat {sihkarastindihte}${cmp,1-2|sihkkarastin dihte} mearrasámi kultuvrra riektevuođu, dadjá {NSRa}${acro,suf|NSR} {nubbinjođiheaddji}${case,ess-nom|nubbijođiheaddji} Gunn-Britt Retter. – Borjadat lea min vástádus dán hástalussii. Dat lea prošeakta mas lea ulbmil hukset ovttasbargoguimmiid {našunála}${conc,š-ti;vowlat,u-o|nationála} ja gaskariikkalaš dásis, {sihkarastit}${conc,hk-hkk|sihkkarastit} riektevuođu ja vuođu ovdánit mearrasámi guovlluin. Mii ovddidit dán evttohusa ja bivdit ođđa meannudeami Sámedikkis.
 
- 
+
 
 Gulahallanolbmot:
 
@@ -132,7 +132,7 @@ Gunn-Britt Retter, 913 59 222
 
 Ann-Mari Thomassen, {NSRa}${acro,suf|NSR} {sámedikkeáirras}${case,gen-nom|sámediggeáirras}, lea čuvvon mielde ja {vuorjašuvva}${vowlat,a-á|vuorjašuvvá} go skuvllat heaittihuvvojit sámi giliin ja guovlluin.
 
-Almmuhuvvon: 19.03.2012 
+Almmuhuvvon: 19.03.2012
 
 -Heaittihit giliskuvllaid vaikke gos leaš šaddá {váikkuhit mánáid ja dan gili}£{case,acc-ill;case,acc-ill|váikkuhit mánáide ja dan gillái} gos sii orrot máŋgga láhkái. Gielalaččat ja kultuvrralaččat šaddá čuohcat go giliskuvllat heaittihuvvojit sámi giliin, dadjá Thomassen.
 
@@ -144,30 +144,30 @@ Thomassen oaivvilda ahte {suohkanis váilo ipmárdus}¢{vowlat,o-u|suohkanis vá
 
 NSR lea heaittiheami {duogažis}${vowlat,a-á|duogážis} evttohan ahte sámediggeráđđi ferte gulahallat {váhnemiiguin geas}£{kongr,sg-pl|váhnemiiguin geain} leat mánát geain lea sámegiella skuvllas ja {Skánit suohkaniin}£{case,nom-gen|Skániid suohkaniin} doalahit ja {nannet Vatnjavári {skovlá}${vowc,o-u;vowlat,á-a|skuvla}}£{case,nom-acc|nannet Vatnjavári skuvlla} {nugo}¥{0} sámi {ressursaskuvlan}${conm,ss-s|resursaskuvlan} gos mihttu lea oažžut guovttegielat mánáid. Sámediggi berre guorahallat vejolašvuođa ásahit {ruhttadanortnega}${conc,htt-ht|ruhtadanortnega} go skuvllat ásahit gos lea pedagogalaš vuođđu {Mahttolokten}${vowc,a-á|Máhttolokten} sámegiella {sihkkarastindihte}${cmp,1-2|sihkkarastin dihte} ohppiid sámegiel oahpu. Dát berre váldot {bajas}${vowlat,a-á|bajás} {Mahttodepartamentain}${vowc,a-á;vowc,diph;conc,nt-ntt|Máhttodepartemeanttain} go stáhta oassi berre leat guoddi ruhtadeapmi.
 
-Ann-Mari Thomassen {ii hálit}${fin,t-it|ii háliit} {vuollánit}${vowc,a-á|vuollánit} gádjut Vatnjavári skuvlla. – Jus suohkan ii meine váldit {ovddasvástadusa}${vowlat,a-á|ovddasvástádusa} sámegielas ja kultuvrras suohkanis fertet mii leat čeahpit ja gávdnat eará čovdosiid. 
+Ann-Mari Thomassen {ii hálit}${fin,t-it|ii háliit} {vuollánit}${vowc,a-á|vuollánit} gádjut Vatnjavári skuvlla. – Jus suohkan ii meine váldit {ovddasvástadusa}${vowlat,a-á|ovddasvástádusa} sámegielas ja kultuvrras suohkanis fertet mii leat čeahpit ja gávdnat eará čovdosiid.
 #– Mus lea doainna skuvlii!, loahpaha Ann-Mari Thomassen.
 
 
 Nissonbeaivvi dearvvuođat
 
-{NSRa}${acro,suf|NSR} jođiheaddji  Aili Keskitalo (čujuha iežas njukčamánu 8.beaivve-dearvvuođaiguin {veahkáválddalašvuođa}${vowlat,á-a|veahkaválddálašvuođa} nissonolbmuid ja mánáid {vuosttá}}¢{conc,st-stt|čujuha iežas njukčamánu 8.beaivve-dearvvuođaiguin veahkaválddálašvuođa nissonolbmuid ja mánáid vuostá} leamen dat stuorámus eaŋkilhástalus. 
+{NSRa}${acro,suf|NSR} jođiheaddji  Aili Keskitalo (čujuha iežas njukčamánu 8.beaivve-dearvvuođaiguin {veahkáválddalašvuođa}${vowlat,á-a|veahkaválddálašvuođa} nissonolbmuid ja mánáid {vuosttá}}¢{conc,st-stt|čujuha iežas njukčamánu 8.beaivve-dearvvuođaiguin veahkaválddálašvuođa nissonolbmuid ja mánáid vuostá} leamen dat stuorámus eaŋkilhástalus.
 
 
 
-Almmuhuvvon: 08.03.2012 
+Almmuhuvvon: 08.03.2012
 
 Odne, njukčamánu 8.beaivvi, ávvudit mii gaskariikkalaš nissonbeaivvi. {Nissonbeaivi lea leamaš beaivi gos muitit}¢{vowc,diph|Nissonbeaivi lea leamaš beaivi goas muitit} rahčamušaid dásseárvvu ja nissonáššiid dihte. Bargu nissoniid vuoigatvuođaid ja sámi vuoigatvuođaid dihte lea huksejuvvon seamma vuođđojurdagis: {dásseárvu ii atte álohii seammaláganvuođa}€{w|dásseárvu ii atte álohii ovttaláganvuođa}, ja solidaritehta lea dehálaš.
 
-{Dásseárvohástalusat dálá dáčča ja sámi servvodagas {lea váddásut fáhttet}}£{case,nom-acc|Dásseárvohástalusaid dálá dáčča ja sámi servvodagas lea váddásut fáhttet}¢{conc,htt-ht|lea váddásut fáhtet} go dalle go nissonbeaivi ásahuvvui. Dat ii mearkkaš ahte ii gávdno, ja iige mearkkaš ahte ii gáibiduvvo servvodatáŋgirvuohta ja politihkalaš váikkuhangaskaoamit {sihkkárastindihte}${cmp,1-2|sihkkarastin dihte} dásseárvvu. Muhtin beliin min servvodagas, nugo dáčča ealáhusas, lea {ovdamearkadihti}${cmp,1-2;case,nom-gen|ovdamearkka dihte} vátni bajimušhoavddaid gaskkas mat leat nissonat. Servvodatdigaštallan lea lihkká rievdan, ja otne ii leat dušše nissoniid vuoigatvuođaid ja vejolašvuođaid birra sáhka, muhto maiddái dievdoolbmuid vuoigatvuođaid ja geatnegasvuođaid birra nugo {bearášpolitihkkas}${vowlat,á-a;conc,hkk-hk|bearašpolitihkas}. Sámi servvodagas várra oaidnit ahte stuorámus (erohusat sohkabeliid {gaskas}${conc,sk-skk|gaskkas} lea {{čatnon}${conc,tn-dn|čadnon}}}£{kongr.sg-pl|erohusat sohkabeliid gaskkas leat čadnon} skuvlejupmái ja virgegullevašvuhtii. Mielddisbuktá go dat váikkuhusaid min báikkálaš servvodagaide? Dan birra diehtit menddo unnán otne.
+{Dásseárvohástalusat dálá dáčča ja sámi servvodagas {lea váddásut fáhttet}¢{conc,htt-ht|lea váddásut fáhtet}}£{case,nom-acc|Dásseárvohástalusaid dálá dáčča ja sámi servvodagas lea váddásut fáhttet} go dalle go nissonbeaivi ásahuvvui. Dat ii mearkkaš ahte ii gávdno, ja iige mearkkaš ahte ii gáibiduvvo servvodatáŋgirvuohta ja politihkalaš váikkuhangaskaoamit {sihkkárastindihte}${cmp,1-2|sihkkarastin dihte} dásseárvvu. Muhtin beliin min servvodagas, nugo dáčča ealáhusas, lea {ovdamearkadihti}${cmp,1-2;case,nom-gen|ovdamearkka dihte} vátni bajimušhoavddaid gaskkas mat leat nissonat. Servvodatdigaštallan lea lihkká rievdan, ja otne ii leat dušše nissoniid vuoigatvuođaid ja vejolašvuođaid birra sáhka, muhto maiddái dievdoolbmuid vuoigatvuođaid ja geatnegasvuođaid birra nugo {bearášpolitihkkas}${vowlat,á-a;conc,hkk-hk|bearašpolitihkas}. Sámi servvodagas várra oaidnit ahte stuorámus (erohusat sohkabeliid {gaskas}${conc,sk-skk|gaskkas} lea {{čatnon}${conc,tn-dn|čadnon}}}£{kongr.sg-pl|erohusat sohkabeliid gaskkas leat čadnon} skuvlejupmái ja virgegullevašvuhtii. Mielddisbuktá go dat váikkuhusaid min báikkálaš servvodagaide? Dan birra diehtit menddo unnán otne.
 
-Nissonbeaivi lea gaskariikkalaš solidaritehtabeaivi, ja eará osiin máilmmis {lea mihá álkibut}£{kongr.pl-sg|lea mihá álkit} oaidnit eahpevuoiggalašvuođa mii {guoskká}${conc,skk-sk|guoská} fámuid ja árvvuid juolludeami sohkabeliid {gaskas}${conc,sk-skk|gaskkas}. {Nissonolbmot {dahkket otne stuorámus oassi}¢{conc,hkk-hk|Nissonolbmot dahket otne stuorámus oassi} barggu máilmmis}£{case,acc-loc|dahket otne stuorámus oassi barggus máilmmis}, muhto sii {eai oamas eanet go 1 proseantta máilmmi riggodagaid}£{case,acc-loc|eai oamas eanet go 1 proseantta máilmmi riggodagain}. Nissonolbmuid vuoigatvuođat, vejolašvuođat ja friddjavuohta lea garrasit gáržžiduvvon ollu osiin máilmmis. Stuorámus eaŋkilhástalus lea áin {veahkaválddálašvuohta nissonolbmuid ja mánáid vuosttá}¢{conc,stt-st|veahkaválddálašvuohta nissonolbmuid ja mánáid vuostá}, ja {erenoamážiid}€{w,adj-adv|erenoamážit} lea veahkaváldin soahtedoaimmaid oktavuođain maid mii diehtit {gevvet nissoniid vuosttá}¢{conc,st-stt|gevvet nissoniid vuostá}, muhto mii čuohcá sin bearrašiidda ja báikkálaš servvodahkii. {Eat ábut vajálduhttit}£{number,pl-sg|Ii ábut vajálduhttit} dan nissonbeaivvi! 
+Nissonbeaivi lea gaskariikkalaš solidaritehtabeaivi, ja eará osiin máilmmis {lea mihá álkibut}£{kongr.pl-sg|lea mihá álkit} oaidnit eahpevuoiggalašvuođa mii {guoskká}${conc,skk-sk|guoská} fámuid ja árvvuid juolludeami sohkabeliid {gaskas}${conc,sk-skk|gaskkas}. {Nissonolbmot {dahkket otne stuorámus oassi}¢{conc,hkk-hk|Nissonolbmot dahket otne stuorámus oassi} barggu máilmmis}£{case,acc-loc|dahket otne stuorámus oassi barggus máilmmis}, muhto sii {eai oamas eanet go 1 proseantta máilmmi riggodagaid}£{case,acc-loc|eai oamas eanet go 1 proseantta máilmmi riggodagain}. Nissonolbmuid vuoigatvuođat, vejolašvuođat ja friddjavuohta lea garrasit gáržžiduvvon ollu osiin máilmmis. Stuorámus eaŋkilhástalus lea áin {veahkaválddálašvuohta nissonolbmuid ja mánáid vuosttá}¢{conc,stt-st|veahkaválddálašvuohta nissonolbmuid ja mánáid vuostá}, ja {erenoamážiid}€{w,adj-adv|erenoamážit} lea veahkaváldin soahtedoaimmaid oktavuođain maid mii diehtit {gevvet nissoniid vuosttá}¢{conc,st-stt|gevvet nissoniid vuostá}, muhto mii čuohcá sin bearrašiidda ja báikkálaš servvodahkii. {Eat ábut vajálduhttit}£{number,pl-sg|Ii ábut vajálduhttit} dan nissonbeaivvi!
 
 
 Sámegiella ja {riektesihkkárvuohta}${vowlat,á-a|riektesihkkarvuohta}
 
 Aili Keskitalo, {NSRa}${acro,suf|NSR} parlamentáralaš jođiheaddji lea smiehtadan leago riektesihkkarvuohta {Sis-Finnmárkus}${conc,rk-rkk|Sis-Finnmárkkus} doarvái buorre sámegielagiidda.
 
-Almmuhuvvon: 07.03.2012 
+Almmuhuvvon: 07.03.2012
 
 Lei stuora lávki {ovddasguvlui}${cmp,1-2|ovddas guvlui} sámi gillii go riektelágádus {Sis-Finnmárku diggegoddi ásahuvvui}£{case,nom-gen|Sis-Finnmárkku diggegoddi ásahuvvui}, čilge Keskitalo. – Dál lea vejolaš gulahallat diggegottiin sihke sámegillii ja dárogillii, riekteráđđádallamat dulkojuvvojit, ja muhtin háviid leat áššit vuddjojuvvon dušše sámegillii go sihke duopmár, mielduopmárat, áktorat, advokáhtat ja {vihttánat ja eará berošteaddjit leat sámegielagat}¢{conc,htt-ht;vowlat,á-a|vihtanat ja eará berošteaddjit leat sámegielagat}. – Dat {nanne riektesihkkarvuođa sidjiide {geasa}£{kongr,sg-pl|nanne riektesihkkarvuođa sidjiide geaidda} guoskka ášši}¢{conc,skk-sk;vowlat,a-á|geaidda guoská ášši} go sii sáhttet atnit iežaset giela go leat riektelágádusain gulahallamii, dat lea diehttelas, dadjá son.
 
@@ -179,7 +179,7 @@ Giellahálddašanguovlu lea buorre!
 
 {NSRa}${acro,suf|NSR} {sámedikkeáirras}${case,gen-nom|sámediggeáirras} Silje Karine Muotka háliida ahte Sámediggi {guorahalla}${vowlat,a-á|guorahallá} makkár váikkuhusat šaddet suohkanii jus {šadda}${vowlat,a-á|šaddá} mielde sámi {giellahálddašanguovlui}${vowc,mono|giellahálddašanguvlui}.
 
-Almmuhuvvon: 02.03.2012 
+Almmuhuvvon: 02.03.2012
 
 Muotka háliida dáinna čuvget daid váttisvuođaid maid giellahálddašansuohkanat vásihit daid ruđalaš beliid oktavuođas. – {Sámediggi berre oainnusindahkat buot beliid mat gusket go lea mielde sámi giellahálddašanguovllus dakkár váikkuhusguorahallamin}¢{fin,n-in|Sámediggi berre oainnusindahkat buot beliid mat gusket go lea mielde sámi giellahálddašanguovllus dakkár váikkuhusguorahallamiin}, dadjá Muotka. – Mun hirpmástuvan sakka jus guorahallan muitala ahte lea eará go dušše positiivvalaš bealit suohkanii leat mielde hálddašanortnegis.
 
@@ -193,7 +193,7 @@ Sámi bearráigeahčču, bagadalli- ja diehtojuohkinorgána
 
 {Sámedikkeáirras}${case,gen-nom|Sámediggeáirras} Trond Are Anti háliida ahte ásahuvvo sámi bearráigeahčču, bagadalli- ja diehtojuohkinorgána
 
-Almmuhuvvon: 01.03.2012 
+Almmuhuvvon: 01.03.2012
 
 Sámelága giellanjuolggadusaid mielde galget almmolaš bálvalusaid geavaheaddjit sámi giellahálddašanguovlluin hálddašuvvot sámegillii, sihke {čálalažžat}${conc,žž-čč|čálalaččat} ja {njálmmálažžat}${conc,žž-čč|njálmmálaččat}, dadjá Trond Are Anti, ja muittuha ahte Sámediggi juohke jagi juolluda {guovttegielatruđaid}${der,0-vuođa|guovttegielatvuođaruđaid} suohkaniidda ja {fylkasuohkaniidda}${conc,lk-lkk|fylkkasuohkaniidda} mat leat sámi giellahálddašanguovllus. – Mii {NSRas}${acro,suf|NSR:s} ja {Sámealbmot}${vowc,a-á|Sámeálbmot} bellodagas evttohit ahte dál ásahuvvo bearráigeahčči mii galgá čuovvut mielde {guovttegielatruđaid}${der,0-vuođa|guovttegielatvuođaruđaid} geavaheami. – Dakkár bearráigeahčču sáhttá muitalit gosa manne dat 46 miljovnna maid Sámediggi juolludii 2012, dadjá Anti.
 
@@ -208,7 +208,7 @@ Stuora sátni saji ohcá
 
 NSR lea guovvamánu {sámedikkedievasčoahkkimis}${case,gen-nom|sámediggedievasčoahkkimis} ovddidan 9 ođđa ášši mat njuolga dahje muhtin mearrái gusket sámegiela ja {makkár vejolašvuođat olbmuin lea oaččut}¢{conc,čč-žž|makkár vejolašvuođat olbmuin lea oažžut} bálvalusaid iežaset gillii dahje geavahit gielaset iešguđetge {dilalašvuođain}${vowlat,a-á|dilálašvuođain}.
 
-Almmuhuvvon: 01.03.2012 
+Almmuhuvvon: 01.03.2012
 
 {Našunála}${conc,š-ti;vowlat,u-o|Nationála} giellajahki 2013: NSR háliida bidjat fuomášumi jagi {2013ái}${num,suf|2013:i} mii lea {nášunalalaš}${conc,š-ti;vowlat,u-o|nationálalaš} giellajahki, ja bivdá Sámedikki {sihkarastit}${conc,hk-hkk|sihkkarastit} ahte dát šaddá maid sámi giellajahki gos giellaguovddážat, suohkanat, organisašuvnnat ja institušuvnnat oassálastet.
 
@@ -222,11 +222,11 @@ Gudnijahttit {mánáidgárddeovdagálliid}${case,gen-nom|mánáidgárdeovdagáll
 
 Sámegiella ja riektesihkkarastin: NSR háliida sihkkarastit riektesihkkarvuođa sámegielagiidda. Berre geahčadit movt vejolašvuohta lea atnit sámegiela ja movt dat lea čanastuvvon riektevuđđui. Leago vejolaš geavahit sámegiela juohke sajis politiija- ja riektevuogádagas ja man bures politiijaetáhta vuoruha sámegiela- ja kulturmáhtu {dego}¥{0} dehálaš máhttun. {DÁPPE lea vuđoleabbo ášši birra}€{w,adj-adv|DÁPPE lea vuđoleappot ášši birra}.
 
-VIVAT sámegillii: NSR háliida VIVAT sámegillii, heivejuvvon kultuvrralaččat ja {gielalažžat}${conc,žž-čč|gielalaččat}. VIVAT {lea Dearvvašvuođadirektoráhta doaibma mii galgá easttadit iešsorbmema}¢{conc,stt-st|lea Dearvvašvuođadirektoráhta doaibma mii galgá eastadit {iešsorbmema}}£{case,acc-loc|lea Dearvvašvuođadirektoráhta doaibma mii galgá eastadit iešsorbmemis}.
+VIVAT sámegillii: NSR háliida VIVAT sámegillii, heivejuvvon kultuvrralaččat ja {gielalažžat}${conc,žž-čč|gielalaččat}. VIVAT lea Dearvvašvuođadirektoráhta doaibma mii galgá {easttadit}¢{conc,stt-st|eastadit} {iešsorbmema}${case,acc-loc|iešsorbmemis}.
 
 Giellahálddašansuohkaniid váikkuhusguorahallan: NSR {háliida ahte bidjo johtui}¢{conc,dj-ddj|háliida ahte biddjo johtui} váikkuhusguorahallan suohkaniin mat leat siskkobealde sámegiela hálddašanguovllu {čuvgendihte}${cmp,1-2|čuvgen dihte} movt dát váikkuha eanet go sámegielat bálvalusaide. Dakkár guorahallan sáhttá leat mielde čuvget daid ruđalaš váttisvuođa beliid mat vásihuvvojit go lea giellahálddašansuohkan. Loga DÁS eanet.
 
 Sámi boarrásat galget beassat hupmat gielaset: NSR háliida ahte sámediggeráđđi {{ságastalla}${vowlat,a-á|ságastallá} Divttasvuona {suohkanin}}¢{fin,n-in|ságastallá Divttasvuona suohkaniin} {sihkarastit}${conc,hk-hkk|sihkkarastit} {nu}¥{0} ahte sii geat orrot {buohcci-}${vowlat,i-e|buohcce-} ja boarrásiidsiiddas besset gulahallat iežaset eatnigillii maŋŋel go suohkan lea váldán eret giellavirggi institušuvnnas. Loga eanet DÁPPE.
 
 
- 
+

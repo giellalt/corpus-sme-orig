@@ -2,7 +2,7 @@
 
 Bovdejupmi 2008 {riikačoahkkimii}${noun,cmp,nomsg,gensg|riikkačoahkkimii} Girkonjárggas
 
-Sámeálbmot bellodat bovde 10. dábálaš {riikačoahkkimii}${noun,cmp,nomsg,gensg|riikkačoahkkimii} {girkonjárgii}¢{prop,cap|Girkonjárgii} {11.ja.12.golggotmánu}${space|11. ja 12. golggotmánu}. {Áššebáhppáriid}${noun,conc|Áššebáhpáriid} {gávnnet}${verb,svow|gávnnat} ({riikačoahkkin}${{}noun,cmp,nomsg,gensg|riikkačoahkkin máhpas}¥{noun,cmp,nomsg,gensg|riikkačoahkkinmáhpas}).
+Sámeálbmot bellodat bovde 10. dábálaš {riikačoahkkimii}${noun,cmp,nomsg,gensg|riikkačoahkkimii} {girkonjárgii}¢{prop,cap|Girkonjárgii} {11.ja.12.golggotmánu}${space|11. ja 12. golggotmánu}. {Áššebáhppáriid}${noun,conc|Áššebáhpáriid} {gávnnet}${verb,svow|gávnnat} {{riikačoahkkin}${noun,cmp,nomsg,gensg|riikkačoahkkin máhpas}}¥{noun,cmp,nomsg,gensg|riikkačoahkkinmáhpas}.
 
 
 

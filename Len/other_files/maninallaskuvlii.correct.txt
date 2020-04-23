@@ -13,13 +13,21 @@ Jus lea miella lohkat ealli sámi birrasis, gos maiddái {oahpasnuvat}${vowlat,a
 Dáppe leat oahppofálaldagat mat leat {dunnje}${conc,nnj-tnj|dutnje} heivehuvvon ja dáppe lea {movttidahtti}${conm,d-id|movttiidahtti} ja hástaleaddji oahppobiras gos duođai beasat iežat dáiddu ja gelbbolašvuođa ovddidit.
 
 Sámi allaskuvllas don beasat
+
 •	 oahppat sámegillii ealli sámi birrasis
-•	 oažžut sámi ja álgoálbmot {perpektiivva}${{}typo|perspektiivva}¢{cmp,2-1|álgoálbmotperspektiivva} buot oahpahusas
+
+•	 oažžut sámi ja álgoálbmot {{perpektiivva}${typo|perspektiivva}}¢{cmp,2-1|álgoálbmotperspektiivva} buot oahpahusas
+
 •	 vásihit buori oahpahusa ja lagasvuođa earáide, sihke miel-studeanttaide ja oahpaheddjiide
+
 •	 {oahpasmuvvat}${vowlat,a-á|oahpásmuvvat} {iešguđetguovllu}${cmp,1-2|iešguđet guovllu} sámi servodagaide ja sámiide
+
 •	 fuomášit árbevierromáhtu ođđa ja ođđaáigásaš oktavuođain
+
 •	 beasat luoikat ođđaáigásaš rusttegiid nugo giehtadihtoriid ja digitála {kameraid}${vowc,a-á|kámeraid}
+
 •	 {oahpasnuvvat}${vowlat,a-á|oahpásnuvvat} eará álgoálbmogiiguin
+
 •	 vuolgit lonohallanstudeantan olgoriikii
 
 Leago dás juoga mii geasuha du?
@@ -67,13 +75,23 @@ Studeantaovttastusas lea studeanttaide buorre mánáidgárdefálaldat. Studeantt
 
 
 Muđui allaskuvlla fálaldagat {studeantaide}${conc,nt-ntt|studeanttaide} leat:
+
 •	Studeantasearvi
+
 •	Class Fronter
+
 •	Studeantaaviisa
+
 •	Dihtorlanjat ja mátkedihtorat
+
 •	Giellakurssat
+
 •	Girjerájus
+
 •	Kantiidna
+
 •	{E-boasta čujuhus}¢{cmp,2-1|E-boastačujuhus} ja čoavddagoarta
+
 •	Vuolgit {olgoriikkii}${conc,ikk-ik|olgoriikii} studeantan
+
 •	Ođđa studeanttaide fáttarortnet-veahkki ja doarjja go lea amas ja ođas báikái!
