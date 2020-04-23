@@ -12,7 +12,7 @@ Boazodoalli lei sivaheapmi
 Viggai$(conc,gg-kk|Vikkai) biepmat bohccuid¢(conc,pm-bm|Vikkai biebmat bohccuid)
 Kárášjohkalaš boazodoalli gii lei sivahallon rihkkon elliid-suodjaluslága, go sus jápme 83 bohcco gárdái diimmá giđa, son gávnnahuvvui goittotge sivaheapmin dás. Boazodoalli lei ilus, go dát ášši lea čuohcán sutnje olu. Áššáskuhtti gesii ášši eret, go sis eai lean duođaštusat láhkarihkkumiin, dadjá áššáskuhtti advokáhtta, Jon Bertelsen.
 
-- Áššit mannet muhtumin ná, dás ii leat miige dramatihkaid. Lea eará lohkat áššis báhpáriin, go gullat vihtaniid dikkis. Go čielgá, ahte ii leat šat vuođđu áššáskuhttimii, de áidna rivttes (vuohki lea geasset dan eret)¢(vowlat,e-i|vuohki lea geassit dan eret), lohká Bertelsen.
+- Áššit mannet muhtumin ná, dás ii leat miige dramatihkaid. Lea eará lohkat áššis báhpáriin, go gullat vihtaniid dikkis. Go čielgá, ahte ii leat šat vuođđu áššáskuhttimii, de áidna rivttes {vuohki lea geasset dan eret}¢{vowlat,e-i|vuohki lea geassit dan eret}, lohká Bertelsen.
 
 Lei diibmá, go 83 bohcco jápme áidde sisá$(vowlat,á-a|sisa), ja boazoeaiggát áššáskuhttui rihkkumis elliid-áimmahuššanlága. Dikkis ikte beasai ge áššáskuhtton boazodoalli čilget mo ná geavai.
 
@@ -26,4 +26,4 @@ Bakke dadjá boazodoalli dál ilus go lea leamaš losses ášši sutnje.
 
 Maid mearkkaša dát boazodoallái?
 
-- Dás gal lea oalle stuorra mearkkašupmi, suidne lea čuohcan garrasit¢(conc,idn-tnj|sutnje lea čuohcan garrasit), go (dát diggeášši leamas vuordimis)¢(fin,s-š|dát diggeášši leamaš vuordimis), dál su noađđi lea gehppon olu, muitala Bakke.
+- Dás gal lea oalle stuorra mearkkašupmi, suidne lea čuohcan garrasit¢(conc,idn-tnj|sutnje lea čuohcan garrasit), go {dát diggeášši leamas vuordimis}¢{fin,s-š|dát diggeášši leamaš vuordimis}, dál su noađđi lea gehppon olu, muitala Bakke.

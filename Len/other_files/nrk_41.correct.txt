@@ -1,6 +1,6 @@
 #7.12.12
 
-#(kjell.are.guttorm@nrk.no ja aslak.ilkka.niittyvuopio@nrk.no)∞(url)
+#{kjell.are.guttorm@nrk.no ja aslak.ilkka.niittyvuopio@nrk.no}∞{url}
 
 #Publisert∞(nob) 19.10.2012 06:41.
 
@@ -12,7 +12,7 @@ Poršaŋggu$(conm,rš-rs;vowc,a-á|Porsáŋggu) gielddastivrra dohkkehii duorast
 
 – Dat ii leat mearreduvvon$(vowlat,e-i|mearriduvvon) gosa dát bártasajit$(vowc,á-a|bartasajit) šaddet, ii leat gal nu ahte šaddet dušše guovttebeallai$(cmp,1-2;vowlat,a-á|guovtte beallái) Poršaŋgguvuona$(conm,rš-rs;vowc,a-á|Porsáŋgguvuona), nu go lea gullostan, lohká sátnejođiheaddji Knut Roger Hanssen.
 
-Olgešbellodaga politihkkár ja sátnejođiheaddji (lohká dál plánegoahttit)¢(conc,htt-ht|lohká dál plánegoahtit) mo bártahuksenvejolašvuođat$(vowc,á-a|bartahuksenvejolašvuođat) berrejit leat.
+Olgešbellodaga politihkkár ja sátnejođiheaddji {lohká dál plánegoahttit}¢{conc,htt-ht|lohká dál plánegoahtit} mo bártahuksenvejolašvuođat$(vowc,á-a|bartahuksenvejolašvuođat) berrejit leat.
 
 – Buorre gullat
 
@@ -22,15 +22,15 @@ Poršánggu$(conm,rš-rs;conc,ngg-ŋgg|Porsáŋggu) gielddastivra gieđahalai ea
 
 Árabut dán vahkus son lei fuolastuvvan gieldda plánaide, go lei gullan ahte gártet duhát ođđa bártasaji$(vowc,á-a|bartasaji) guovttebeallai$(cmp,1-2;vowlat,a-á|guovtte beallái) Porsangguvuona$(vowc,a-á;conc,ngg-ŋgg|Porsáŋgguvuona), gos geasseeatnamiin leat birrasii 20-duhát bohcco.
 
-– (Boazodoallit čoahkkinasttigoahttit)$(conc,stt-st;conc,htt-ht;vowc,mono;vowlat,i-e|Boazodoallit čoahkkinastigohtet)
+– {Boazodoallit čoahkkinasttigoahttit}${conc,stt-st;conc,htt-ht;vowc,mono;vowlat,i-e|Boazodoallit čoahkkinastigohtet}
 
 Alf Johansen lohká boazodoalliin$(vowc,mono|boazodolliin) dárbu dál gulahallat dán áššis, ja son sávvá bártahuksemiid$(vowc,á-a|bartahuksemiid) bidjat guovlluide gos jo leat bárttat$(vowc,á-a|barttat) ja maid boazoealáhus lea dohkkehan.
 
-– Dás ferte jurddašit ealáhusa dárbbuid birra maid vuoi eatnamat (eai gáržžu)¢(vowlat,u-o|eai gáržžo), danin (fertejit buot vejolaš orgánain dál (bargagoahttit)¢(conc,htt-ht|fertejit buot vejolaš orgánain dál bargagoahtit) áššin)¢(fin,n-in|bargagoahtit áššiin).
+– Dás ferte jurddašit ealáhusa dárbbuid birra maid vuoi eatnamat {eai gáržžu}¢{vowlat,u-o|eai gáržžo}, danin {fertejit buot vejolaš orgánain dál {bargagoahttit}¢{conc,htt-ht|fertejit buot vejolaš orgánain dál bargagoahtit} áššin}¢{fin,n-in|bargagoahtit áššiin}.
 
 Galget gulahallat
 
-Sátnejođiheaddji Knut Roger Hanssen lohká dál čuovvut dábálaš bargovugiid dákkár huksenáššiin, mii mielddisbuktá ahte (buohkain galget gulahallat áššis)£(case,loc-com|buohkaiguin galget gulahallat áššis).
+Sátnejođiheaddji Knut Roger Hanssen lohká dál čuovvut dábálaš bargovugiid dákkár huksenáššiin, mii mielddisbuktá ahte {buohkain galget gulahallat áššis}£{case,loc-com|buohkaiguin galget gulahallat áššis}.
 
-– Mii gal čuovvut njuolggádusaid$(vowlat,á-a|njuolggadusaid) huksenplánain ja (boazodoalun galgat maid gulahallat)$(fin,n-in|boazodoaluin galgat maid gulahallat), čilge Hanssen.
+– Mii gal čuovvut njuolggádusaid$(vowlat,á-a|njuolggadusaid) huksenplánain ja {boazodoalun galgat maid gulahallat}${fin,n-in|boazodoaluin galgat maid gulahallat}, čilge Hanssen.
 

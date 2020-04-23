@@ -1,6 +1,6 @@
 #8.12.12
 
-Sámediggi ohcá giellabargiid SÁFÁ (II -prošeavtta)¢(cmp,2-1|II-prošeavtta) várás
+Sámediggi ohcá giellabargiid SÁFÁ {II -prošeavtta}¢{cmp,2-1|II-prošeavtta} várás
 almmustahttojuvvon ikte 7.12. diibmu 15:56, beaividuvvon$(vowlat,i-á|beaiváduvvon) odne 8.12. diibmu 17:21
 
 
@@ -8,9 +8,9 @@ Sámekulturguovddáš Sajos Anáris
 
 Govva: YLE / Vesa Toppari
 
-Sámediggi ohcá dál golbma giellabargi SÁFÁ (II -prošeavtta)¢(cmp,2-1|II-prošeavtta) várás, vai besset álggahit prošeavtta olles leavttuin ođđajagimánu álggus. Suoma sámedikki giellaáššiid čálli Anne-Maria Magga mielde Suoma beale bargiid bálkáhit davvi-, anáraš- ja nuortalašgillii.
+Sámediggi ohcá dál golbma giellabargi SÁFÁ {II -prošeavtta}¢{cmp,2-1|II-prošeavtta} várás, vai besset álggahit prošeavtta olles leavttuin ođđajagimánu álggus. Suoma sámedikki giellaáššiid čálli Anne-Maria Magga mielde Suoma beale bargiid bálkáhit davvi-, anáraš- ja nuortalašgillii.
 
-Ođđajagimánu álggus (álgá davviriikalaš sámegiela fágalaš ja resursaguovddáža ásahanprošeakta)¢(conc,ik-ikk|álgá davviriikkalaš sámegiela fágalaš ja resursaguovddáža ásahanprošeakta) SÁFÁ II, man ulbmilin lea organiseret ođđasit sámi giellalávdegotti barggu, nannet sámegielaid ja buoridit giellaovttasbarggu rájáid rastá.
+Ođđajagimánu álggus {álgá davviriikalaš sámegiela fágalaš ja resursaguovddáža ásahanprošeakta}¢{conc,ik-ikk|álgá davviriikkalaš sámegiela fágalaš ja resursaguovddáža ásahanprošeakta} SÁFÁ II, man ulbmilin lea organiseret ođđasit sámi giellalávdegotti barggu, nannet sámegielaid ja buoridit giellaovttasbarggu rájáid rastá.
 
 Jođihanovddasvástádus 1,5 jagi guhkkosaš prošeavttas lea Suoma sámedikkis ja Suoma sámedikki giellaáššiidčállis Anne-Maria Maggas.
 
@@ -22,11 +22,11 @@ Giellabargit maid Norgii ja Ruŧŧii
 
 Norgga ja Ruoŧa sámedikkiin giellabargit barggašedje fas davvi-, julev- ja lullisámegillii. Sámedikkiid ođđa giellabargiide leat máŋggalágan doaimmat, muitala Magga.
 
-- Sii vástidit giellagáhttemis, terminologiijabarggus, giela normeremis, diehtojuohkimis ja báikenammabargguin. Giellabargit (bohtet bargat hui láhkalágaid)¢(vowc,á-a;vowc,á-a|bohtet bargat hui lahkalagaid) giellajuhkosiin. Bargit gehččet juohke giellajuhkosa bokte, makkár dárbbut iešguđetge giela bokte leat, dadjá Magga.
+- Sii vástidit giellagáhttemis, terminologiijabarggus, giela normeremis, diehtojuohkimis ja báikenammabargguin. Giellabargit {bohtet bargat hui láhkalágaid}¢{vowc,á-a;vowc,á-a|bohtet bargat hui lahkalagaid} giellajuhkosiin. Bargit gehččet juohke giellajuhkosa bokte, makkár dárbbut iešguđetge giela bokte leat, dadjá Magga.
 
 Ohcanáigi giellabargiid báikkiide Suoma bealde nohká 10.12.2012 d. 16, dan ovdal ferte sáddet ohcamušaid Sajosii.
 
-Prošeavtta leat ruhtadan Interreg IVA-Nord prográmmas ja Suomas Lappi lihttu ja Sámediggi, Ruoŧas Sámediggi ja Norggas Sámediggi, Tromssa fylkakommuna$(case,nom-gen|fylkkakommuna)€(w|fylkkasuohkan) ja Norrbotten lenstyrensen$(mix|länsstyrelsen)€(w|leanastivra).
+Prošeavtta leat ruhtadan Interreg IVA-Nord prográmmas ja Suomas Lappi lihttu ja Sámediggi, Ruoŧas Sámediggi ja Norggas Sámediggi, Tromssa fylkakommuna${case,nom-gen|fylkkakommuna}€{w|fylkkasuohkan} ja Norrbotten lenstyrensen${mix|länsstyrelsen}€{w|leanastivra}.
 
 Ailu Valle & Irene Länsman / Yle Sápmi
 

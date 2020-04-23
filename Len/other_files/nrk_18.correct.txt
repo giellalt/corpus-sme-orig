@@ -16,7 +16,7 @@ Kárášjogas lea kulturvahkku dán vahku ja dasa gullet diehttalasat mállásat
 
 Manne eaba veahki jeara, imaštallat.
 
-- Ášš, almmánolbmot$(noun,typo|almmáiolbmot) leat njoazit boahtit, lohká Berit Nikkinen Varsi ja (lokteba dan lossa kásterolla)£(noun,obj,accsg,nomsg,case|lokteba dan lossa kásterola) mas leat dievva gumposat
+- Ášš, almmánolbmot$(noun,typo|almmáiolbmot) leat njoazit boahtit, lohká Berit Nikkinen Varsi ja {lokteba dan lossa kásterolla}£{noun,obj,accsg,nomsg,case|lokteba dan lossa kásterola} mas leat dievva gumposat
 
 – (Moai han lávime$(verb,vow|láviime) leat hui gievrra)£(adj,spred,plnom,accsg,kongr|Moai han láviime leat hui gievrrat), lasiha Laila Rasmus gis.
 

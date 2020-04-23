@@ -20,7 +20,7 @@ Ragnhild Boine lea Kárášjogas eret, muhto lea juo badjel 40 jagi ássan Várg
 
 Čuvggodahttet sevdnjesáiggi juovlačuovggaiguin
 
-Sevdnjesáigge dovdá dieđos$(vowlat,o-u|dieđus) olmmos$(fin,s-š|olmmoš) ahte mokta badjána go čiŋaha ja čuvggodahttá iežas dálu ja šillju. Várggát lea Nuorta Finnmárkku rittus, ja dálut leat huksejuvvon sullui gosa beassá vuoji mearavuoli, tunnela bokte. (Seavdnjat dat gal varra lea dieppe dien guovllus skábman)¢(vowc,a-á|Seavdnjat dat gal várra lea dieppe dien guovllus skábman), jos dat vel nu lea ahte biegga (bossu visot muohttaga áhppái)¢(conc,hpp-hp|bossu visot muohttaga áhpái).
+Sevdnjesáigge dovdá dieđos$(vowlat,o-u|dieđus) olmmos$(fin,s-š|olmmoš) ahte mokta badjána go čiŋaha ja čuvggodahttá iežas dálu ja šillju. Várggát lea Nuorta Finnmárkku rittus, ja dálut leat huksejuvvon sullui gosa beassá vuoji mearavuoli, tunnela bokte. {Seavdnjat dat gal varra lea dieppe dien guovllus skábman}¢{vowc,a-á|Seavdnjat dat gal várra lea dieppe dien guovllus skábman}, jos dat vel nu lea ahte biegga {bossu visot muohttaga áhppái}¢{conc,hpp-hp|bossu visot muohttaga áhpái}.
 
 Juovlabeziid vižžet ja vuvdet Várggáin
 

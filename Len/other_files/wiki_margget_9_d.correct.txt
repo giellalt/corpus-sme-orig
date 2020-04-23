@@ -11,7 +11,7 @@ Sisdoallu  [čiega]
 
 Ulbmilat
 
-Ulbmilat leat ovddidit ja oainnusin dahkat sámegiel ja sámi girjjálašvuođa, ásahit stipeanddaid, foanddaid ja eará ekonomalaš ortnegiid sámi girječálliide, fuolahit ahte sámgiel$(typo|sámegiel) girjjálašvuođa ilbmadeapmi šattašii seamma buorre go Davviriikkain muđui oččodit stáhta garantiijabálkkáid sámi girječállide$(conm,d-id|girječálliide), ásahit bissovaš oastinortnega sámegiel girjjiide ja oččodit šiehtadallanvuoigatvuođa kopiija- ja bibliotehkabuhtadusaide Suomas ja Ruoŧas, oččodit stipeanddaid Suoma ja Ruoŧa Sámedikkiin ovttasbargat eará (álgoálbmot girječálliiguin)$(cmp,2-1|álgoálbmotgirječálliiguin).
+Ulbmilat leat ovddidit ja oainnusin dahkat sámegiel ja sámi girjjálašvuođa, ásahit stipeanddaid, foanddaid ja eará ekonomalaš ortnegiid sámi girječálliide, fuolahit ahte sámgiel$(typo|sámegiel) girjjálašvuođa ilbmadeapmi šattašii seamma buorre go Davviriikkain muđui oččodit stáhta garantiijabálkkáid sámi girječállide$(conm,d-id|girječálliide), ásahit bissovaš oastinortnega sámegiel girjjiide ja oččodit šiehtadallanvuoigatvuođa kopiija- ja bibliotehkabuhtadusaide Suomas ja Ruoŧas, oččodit stipeanddaid Suoma ja Ruoŧa Sámedikkiin ovttasbargat eará {álgoálbmot girječálliiguin}${cmp,2-1|álgoálbmotgirječálliiguin}.
 
 Doaimmat
 

@@ -11,10 +11,10 @@ Dohkko sáhttále$(conc,htt-ht|sáhtále) buot heargegilvaleaddjit oassálastit.
 
 Jurdda sierranas MM-gilvvuid ordnemis lea jorran šiehtadallamiin ovdalge.
 
-– (Humaimet diibmá Roavvenjárgga čoahkkimis, ahte ordneleimmet sierranas MM-gilvvuid, gosa searvale buot riikkaid buoremusat)£(conc,rv-rvv|Humaimet diibmá Roavvenjárgga čoahkkimis, ahte ordneleimmet sierranas MM-gilvvuid, gosa searvvale buot riikkaid buoremusat). (Delle lihtut doalale iežaset
+– {Humaimet diibmá Roavvenjárgga čoahkkimis, ahte ordneleimmet sierranas MM-gilvvuid, gosa searvale buot riikkaid buoremusat}£{conc,rv-rvv|Humaimet diibmá Roavvenjárgga čoahkkimis, ahte ordneleimmet sierranas MM-gilvvuid, gosa searvvale buot riikkaid buoremusat}. (Delle lihtut doalale iežaset
 
-Cuppa$(conc,pp-p|Cupa)¢(vowc,e-a|Dalle lihtut doalale iežaset Cupa) juohke riikas$(conc,ik-ikk|riikkas) ja de dan maŋŋel doalale sierranas loahppagilvvu, muitala Mikkel Per Sara.
+Cuppa${conc,pp-p|Cupa}¢{vowc,e-a|Dalle lihtut doalale iežaset Cupa} juohke riikas$(conc,ik-ikk|riikkas) ja de dan maŋŋel doalale sierranas loahppagilvvu, muitala Mikkel Per Sara.
 
 Riikkaidgaskasaš MM-gilvvut buoridivčče heargevuodjimiid sajádaga, muhto ordnengeavadagas galggalii Sara mielde váldit vuhtii, ahte gait riikkat beasale ordnet daid.
 
-– (Juos daid galgá gohččut MM-gilvvuin)¢(case,loc-ess|Juos daid galgá gohččut MM-gilvun), de gilvobáiki galggalii molsašuvvat juohke jagi ja gilvvuid galggale lágidit vuoruid mielde sihke Norggas, Ruoŧas ja Suomas. Jáhkán ahte dat lasihivčče heargevuodjima bivnnutvuođa valáštallansuorgin, go livčče ná viidát oidnosis, oaivvilda Sara.
+– {Juos daid galgá gohččut MM-gilvvuin}¢{case,loc-ess|Juos daid galgá gohččut MM-gilvun}, de gilvobáiki galggalii molsašuvvat juohke jagi ja gilvvuid galggale lágidit vuoruid mielde sihke Norggas, Ruoŧas ja Suomas. Jáhkán ahte dat lasihivčče heargevuodjima bivnnutvuođa valáštallansuorgin, go livčče ná viidát oidnosis, oaivvilda Sara.

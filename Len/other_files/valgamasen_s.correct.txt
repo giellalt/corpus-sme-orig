@@ -11,7 +11,7 @@ Oaivilat juohkásit sápmelaččaid riektegažaldagas. 63 % evttohasain oaivvild
 
 96 % evttohasain leat dan oaivilis, ahte Eanodaga gielda galgá bissut iehčanassan$(vowlat,a-i;fin,n-i|iehčanassii). Buot evttohasat vuostálastet dan, ahte gielda laktojuvvošii oktan Duottar-Lappi gieldan ovttas Muonáin, Gihtteliin ja Kolariin.
 
-Vehá badjelaš bealli evttohasain oaidná, ahte girdijohtolat ii gula gieldda vuođđobálvalusaide, ja gánnetmeahttun girdijohtolaga (ii galggašii)£(infl,sg3-conneg|ii galggaše) šat doarjut.
+Vehá badjelaš bealli evttohasain oaidná, ahte girdijohtolat ii gula gieldda vuođđobálvalusaide, ja gánnetmeahttun girdijohtolaga {ii galggašii}£{infl,sg3-conneg|ii galggaše} šat doarjut.
 
 70 % válgamášenbálvalussii vástidan Eanodaga evttohasain leat nissonolbmot.
 

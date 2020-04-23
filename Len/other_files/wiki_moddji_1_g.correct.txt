@@ -20,7 +20,7 @@ Sisdoallu  [čiega]
 
 Dovdomearkkat
 
-Čuovža lea šođbat ja das lea (silba ivdni)$(cmp,2-1|silbaivdni), čielgi lea čáhppadet ja čoavjeuvolli$(typo|čoavjevuolli) lea vielgat. Beahcet lea guovttesuorat, ja čuomat leat oalle stuorrát.
+Čuovža lea šođbat ja das lea {silba ivdni}${cmp,2-1|silbaivdni}, čielgi lea čáhppadet ja čoavjeuvolli$(typo|čoavjevuolli) lea vielgat. Beahcet lea guovttesuorat, ja čuomat leat oalle stuorrát.
 Ekologiija
 
 Čuovža eallá jávrriin ja stuora jogain, ja muhtimat sáhttet mannat borramuša maŋis veahttačáhcái.

@@ -9,7 +9,7 @@ Unjárgga gielda
 
 Departemeantta birra
 
-Mánáid- ja (dásseárvodepartemeanta bargu)£(case,nom-gen|dásseárvodepartemeantta bargu) lea:
+Mánáid- ja {dásseárvodepartemeanta bargu}£{case,nom-gen|dásseárvodepartemeantta bargu} lea:
 
 - nannet golaheddjiid rivtiiid$(typo|rivttiid), beroštumiid ja sihkkarvuođa
 addit mánáide ja nuoraide oadjebas bajasšaddandili$(vowlat,a-á|bajásšaddandili), ja vejolašvuođa searvat
@@ -19,10 +19,10 @@ addit mánáide ja nuoraide oadjebas bajasšaddandili$(vowlat,a-á|bajásšaddan
 
 Min bargosuorggit gusket eanas olbmuid árgabeaivái, ja mearrádusat mat dahkkojit sáhttet leat hirbmat mávssolaččat juohke olbmui.
 
-Eanas oassi MLD bušeahtas manná juolludemiide mánnábearrášiidda$(vowlat,á-a|mánnábearrašiidda) - mánnáoadju, riegadahttinruhtii$(vowlat,a-á|riegádahttinruhtii) ja reaidadoarjagii. Buorredilledoaimmaid dáfus (leat mánáidsuodjalus)£(kongr,pl-sg|lea mánáidsuodjalus) okta dain stuorimus bušeahttapoasttain.
+Eanas oassi MLD bušeahtas manná juolludemiide mánnábearrášiidda$(vowlat,á-a|mánnábearrašiidda) - mánnáoadju, riegadahttinruhtii$(vowlat,a-á|riegádahttinruhtii) ja reaidadoarjagii. Buorredilledoaimmaid dáfus {leat mánáidsuodjalus}£{kongr,pl-sg|lea mánáidsuodjalus} okta dain stuorimus bušeahttapoasttain.
 
 
-Fágaossodagat hálddašit lágaid ja doarjjasortnegiid$(typo|doarjjaortnegiid), barget plánemiin, čielggademiiguin, váikkuhandoaimmaiguin, bagadallamiin, diehtojuohkimiin álbmogii ja joavkkuide geaidda guoská. Ossodagat addet maiddái doarjaga dutkamii, (geahččalan ja ovdánahttinbargui)¢(hyph,0-1|geahččalan- ja ovdánahttinbargui), ja servet riikkaidgaskasaš ovttasbargguide sin fágasurggiineaset.
+Fágaossodagat hálddašit lágaid ja doarjjasortnegiid$(typo|doarjjaortnegiid), barget plánemiin, čielggademiiguin, váikkuhandoaimmaiguin, bagadallamiin, diehtojuohkimiin álbmogii ja joavkkuide geaidda guoská. Ossodagat addet maiddái doarjaga dutkamii, {geahččalan ja ovdánahttinbargui}¢{hyph,0-1|geahččalan- ja ovdánahttinbargui}, ja servet riikkaidgaskasaš ovttasbargguide sin fágasurggiineaset.
 
 Heterofiila ja homofiila páraid oktasaš náittosláhka
 
@@ -38,12 +38,12 @@ Guovttegielat ruhtageavaheapmi Unjárggas
 
 Unjárgga Sámeálbmot Bellodak (SáB) lea media bokte dihtosii ožžon dan ahte gielddat geat ožžot ruhtajuolludeame Sámedikkis, eai sáhte duođaštit dan geavaheame. Sámegiella lea hui hearkkes dilis, ja lea danne dárbbašlaš ahte diet juolludeapmi geavahuvvo eavttuid mielde.
 
-(Dahko bokte bivdit ahte)¢(vowc,a-á;conc,hk-kk|Dákko bokte bivdit ahte) čađahuvvo guorahallan mo Unjárgga gielda hálddaša guovttegielat ruđaid maid gielda oažžu Sámedikkis.
+{Dahko bokte bivdit ahte}¢{vowc,a-á;conc,hk-kk|Dákko bokte bivdit ahte} čađahuvvo guorahallan mo Unjárgga gielda hálddaša guovttegielat ruđaid maid gielda oažžu Sámedikkis.
 
 Mii bivdit Unjárgga gielda dárkkistanlávdegotti bokte, čađahit dien iskosa.
 
-(Bohtosat fertejit boahtit oidnosii, ja erenoamážit dan ahte geavahuvvo
-juolluduvvon ruhta ulbmiliid ja eavttuid mielde)£(case,acc-nom|Bohtosat fertejit boahtit oidnosii, ja erenoamážit dat ahte geavahuvvo juolluduvvon ruhta ulbmiliid ja eavttuid mielde).
+{Bohtosat fertejit boahtit oidnosii, ja erenoamážit dan ahte geavahuvvo
+juolluduvvon ruhta ulbmiliid ja eavttuid mielde}£{case,acc-nom|Bohtosat fertejit boahtit oidnosii, ja erenoamážit dat ahte geavahuvvo juolluduvvon ruhta ulbmiliid ja eavttuid mielde}.
 
 Unjárgga SáB boahtá čuovvut ášši, guđe láhkai gieldda bealis barget iskat guovttegielat ruhtadeame.
 

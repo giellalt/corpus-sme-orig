@@ -1,6 +1,6 @@
 #8.12.12
 
-(Luossariemut ordnejuvvojit vahku maŋŋit go dábálaččat)€(w,adv-po|Luossariemut ordnejuvvojit vahku maŋŋil go dábálaččat)
+{Luossariemut ordnejuvvojit vahku maŋŋit go dábálaččat}€{w,adv-po|Luossariemut ordnejuvvojit vahku maŋŋil go dábálaččat}
 almmustahttojuvvon 10.7. diibmu 10:58, beaividuvvon$(vowlat,i-á|beaiváduvvon) 10.7. diibmu 11:11
 
 Luossariemut Onnel dierpmi$(vowc,ie-ea|dearpmi) alde 2010.
@@ -23,8 +23,8 @@ Gilvobáikki leat ceggemin ja ordnedallamin gitta bearjadateahket rádjai. Valle
 
 Máŋggabealat prográmma
 
-Luossagonagasgilvvu lassin (prográmmas leat Teáhterčájáhus)£(kongr,pl-sg|prográmmas lea Teáhterčájáhus) Pensas, mánáid oaggungilvu, njoarostangilvu, njuollabálkestangilvu, ja Onni ja Hilda Länsman luođit ja musihkka.
+Luossagonagasgilvvu lassin {prográmmas leat Teáhterčájáhus}£{kongr,pl-sg|prográmmas lea Teáhterčájáhus} Pensas, mánáid oaggungilvu, njoarostangilvu, njuollabálkestangilvu, ja Onni ja Hilda Länsman luođit ja musihkka.
 
-(Bálkkašupmin leat earet eará Deanu fanas)£(kongr,pl-sg|Bálkkašupmin lea earet eará Deanu fanas), fanasmohtor ja sveicenmášen$(conc,ic-is;vowc,á-a;vowc,e-i;conm,n-idn;vowlat,0-a|sveisenmašiidna).
+{Bálkkašupmin leat earet eará Deanu fanas}£{kongr,pl-sg|Bálkkašupmin lea earet eará Deanu fanas}, fanasmohtor ja sveicenmášen$(conc,ic-is;vowc,á-a;vowc,e-i;conm,n-idn;vowlat,0-a|sveisenmašiidna).
 
 #Yle Sápmi / Ailu Valle & Sammol Lukkari

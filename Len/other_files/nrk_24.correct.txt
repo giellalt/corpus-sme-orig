@@ -11,11 +11,11 @@ Ribat-Rábat
 
 Ođđajagimánus boahta$(vowlat,a-á|boahtá) ođđa mánáid ráidu Ribat-Rábat tv:i. Doppe ohppet mánát ruskaiguin$(conc,sk-skk|ruskkaiguin) ráhkađit$(conm,đ-d|ráhkadit) ođđa biergasiid.
 
-Dál lea báddemin maŋimuš osid$(fin,d-id|osiid) ođđa (mánáid ráidui)¢(cmp,2-1|mánáidráidui) maid sáddegohtet ođđajagimánus.
+Dál lea báddemin maŋimuš osid$(fin,d-id|osiid) ođđa {mánáid ráidui}¢{cmp,2-1|mánáidráidui} maid sáddegohtet ođđajagimánus.
 
-Ribat-Rábat lea namma, ja doppe mánát ožžot oaidnit got sáhttá fas geavahit ruskkaid, (ovdamearka dihte)¢(conc,rk-rkk|ovdamearkka dihte) bohtaliiguin$(conc,ht-htt|bohttaliiguin) ja hivsetbáhppárrullaiguin$(conc,vs-vss;conc,hpp-b;vowlat,á-e|hivssetbáberrullaiguin).
+Ribat-Rábat lea namma, ja doppe mánát ožžot oaidnit got sáhttá fas geavahit ruskkaid, {ovdamearka dihte}¢{conc,rk-rkk|ovdamearkka dihte} bohtaliiguin$(conc,ht-htt|bohttaliiguin) ja hivsetbáhppárrullaiguin$(conc,vs-vss;conc,hpp-b;vowlat,á-e|hivssetbáberrullaiguin).
 
-Beassá maiddái čuovvut Ruskagonagasa ja Garjjá, mii lea ođđa unnit ráidu. Dasa lassin bohtet musihkkavideot main leat ođđa ja ovddeš (mánáid lávlagat)¢(cmp,2-1|mánáidlávlagat).
+Beassá maiddái čuovvut Ruskagonagasa ja Garjjá, mii lea ođđa unnit ráidu. Dasa lassin bohtet musihkkavideot main leat ođđa ja ovddeš {mánáid lávlagat}¢{cmp,2-1|mánáidlávlagat}.
 
 Govven ruskabáikkis
 

@@ -12,7 +12,7 @@ Dálá joatkkaskuvlafálaldagat Finnmárkkus galget bisuhuvvot, mearridii Finnm�
 
 Finnmárkku boanddaidsearvvi jođiheaddji, Ola Tangen lohká dán mearrádusa addit doaivaga dasa, ahte Deanu eanandoalloskuvla ii heaittihuvvo. - Ealáhussii livččii stuorra roassun jus nuorat eai šat oaččošivčče$(infl,cond|oččoše) oahpu ruovttufylkkásteaset$(vowlat,á-a|ruovttufylkkasteaset), čilge Tangen.
 
-- Ealáhusa (vuođđudan vejolašvuođaide)¢(cmp,2-1|vuođđudanvejolašvuođaide) (livčče dat sihkkarit heittot)£(infl,pl-sg|livččii dat sihkkarit heittot), (jus eanandoalu sáhtašii oahppat iežas guovllus)¢(vowlat,a-á|jus eanandoalu sáhtášii oahppat iežas guovllus).
+- Ealáhusa {vuođđudan vejolašvuođaide}¢{cmp,2-1|vuođđudanvejolašvuođaide} {livčče dat sihkkarit heittot}£{infl,pl-sg|livččii dat sihkkarit heittot}, {jus eanandoalu sáhtašii oahppat iežas guovllus}¢{vowlat,a-á|jus eanandoalu sáhtášii oahppat iežas guovllus}.
 
 Finnmárkku fylkkaráđđealmmái dat lea árvalan heaittihit Deanu joatkkaskuvlla mii lea Finnmárkku áidna eanandoalloskuvlla. Dan son árvala dan geažil go fylka ferte seastit 26 miljon ruvnnu.
 

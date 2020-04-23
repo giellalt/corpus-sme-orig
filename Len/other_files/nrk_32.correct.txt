@@ -12,7 +12,7 @@ Vihtta vuosttaš ja áidna masterstudeantta Romssa Universitehtta$(conc,htt-ht|U
 
 Lena Samuelsen málen gova plastihka ala, gohčoduvvon Hounds of failure.
 
-(Studeanttat leat áiddo geargan vuosttaš jagi masterstudeantan)¢(vowc,á-a|Studeanttat leat aiddo geargan vuosttaš jagi masterstudeantan) ja dát čájáhus lea sin vuosttas čájáhus skuvlaseinniid olggobealde.
+{Studeanttat leat áiddo geargan vuosttaš jagi masterstudeantan}¢{vowc,á-a|Studeanttat leat aiddo geargan vuosttaš jagi masterstudeantan} ja dát čájáhus lea sin vuosttas čájáhus skuvlaseinniid olggobealde.
 
 Gietkka maid Liv Bangsund lea eadnestis$(conc,dn-tn;vowlat,e-i|eatnistis) ožžon.
 
@@ -26,7 +26,7 @@ Romssa Universitehtas Dáiddaakademiijja$(conc,ijj-ij|Dáiddaakademiija) profeas
 
 Kárášjohka geasuha
 
-Studeanttat ožžo inspirašuvnna Kárášjogas (go fidne studeantamátkkis)¢(conc,dn-tn|go fitne studeantamátkkis) Kárášjogas njukčamánus. Kárášjohka geasuhii nu ahte háliidedje ruovttoluotta(,)¥(0). Danne lea ge čájáhus dál dáppe, muitala Wiman.
+Studeanttat ožžo inspirašuvnna Kárášjogas {go fidne studeantamátkkis}¢{conc,dn-tn|go fitne studeantamátkkis} Kárášjogas njukčamánus. Kárášjohka geasuhii nu ahte háliidedje ruovttoluotta{,}¥{0}. Danne lea ge čájáhus dál dáppe, muitala Wiman.
 
 Eai dáhto dušše oahpásmuvvat báikkiin, muhto maiddái oahpásmuvvat ja gáimmadit olbmuiguin.
 

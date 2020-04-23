@@ -20,7 +20,7 @@ Sáhtta$(vowlat,a-á|Sáhttá) váldit oktavuođa láigoheddjiin (SSO) dahje lá
 
 III. Mearradusat$(vowlat,a-á|Mearrádusat)
 
-1. Juohke láigolaččas lea ovddasvástádus doallat iežas ásodaga, feaskara$(vowlat,a-á|feaskára), riššu ja hivssega čorgadin ja ráinnasin. Son geatnegahtto maiddái ovttas eará geavaheddjiiguin doallat oktasašsajiid ja rájuid čorgadin ja ráinnasin. (Dábálaččat ráhkadit ássit ieža bargovuorrolistu)¢(conc,st-stt|Dábálaččat ráhkadit ássit ieža bargovuorrolisttu) ráinnasindoallama birra.
+1. Juohke láigolaččas lea ovddasvástádus doallat iežas ásodaga, feaskara$(vowlat,a-á|feaskára), riššu ja hivssega čorgadin ja ráinnasin. Son geatnegahtto maiddái ovttas eará geavaheddjiiguin doallat oktasašsajiid ja rájuid čorgadin ja ráinnasin. {Dábálaččat ráhkadit ássit ieža bargovuorrolistu}¢{conc,st-stt|Dábálaččat ráhkadit ássit ieža bargovuorrolisttu} ráinnasindoallama birra.
 
 2. Oktasašgievkkana galga$(vowlat,a-á|galgá) čorget ja bassat maŋŋel go lea atnan$(vowlat,a-á,I|atnán). Juohke láigolaš galgá bearráigeahččat ahte su galmmidanskábe$(conm,d-h|galmmihanskábe) ja oktasašskábet leat ráidnasat ja čorgadat. (Biepmut eai ábut€(w|sáhte) vurkkohuvvot$(conm,h-d|vurkkoduvvot) nu guhka ahte)¢(vowlat,a-á|Biepmut eai ábut vurkkoduvvot nu guhká ahte) billehuvvet/guohcagit/guhppot$(vowlat,e-a|billahuvvet/guohcagit/guhppot).
 
@@ -46,7 +46,7 @@ III. Mearradusat$(vowlat,a-á|Mearrádusat)
 
 13. Sihkkeliid, mánávávnnaid, sabehiid ja mohtorvuojániid oažžu dušše bidjat čujuhuvvon sajiide iige oktašsajiide$(typo|oktasašsajiide) gos sáhttet leat hehttehussan eará ássiide.
 
-14. Láigoheadji$(conc,dj-ddj|Láigoheaddji) ovddasvástideaddjis dahje muhtimis geas lea su váldi, lea riekti bearráigeahččat buot lanjaid. Dábálaččat galgá dan birra addon diehtu ovdagihtii. Earenoamaš$(vowlat,a-á|Earenoamáš) dilálašvuođain sáhtta$(vowlat,a-á|sáhttá) goikke$(conwb,ikk-itg|goitge) bearráigehččot dieđitkeahttá. Láigoheaddjis lea lohpi divodit ja buoridit viesu vaikko goas, muhto jus praktihkkalaččat$(conc,hkk-hk|praktihkalaččat) lea vejolaš, galga$(vowlat,a-á|galgá) láigolažžii dieđihuvvot maiddái dan birra. (Láigoheaddjis lea maiddái lohpi iskkat)¢(conc,skk-sk|Láigoheaddjis lea maiddái lohpi iskat) el-mihttára juohke njealjádasjagi, jus ii šihtto eará ortnet láigolaččain.
+14. Láigoheadji$(conc,dj-ddj|Láigoheaddji) ovddasvástideaddjis dahje muhtimis geas lea su váldi, lea riekti bearráigeahččat buot lanjaid. Dábálaččat galgá dan birra addon diehtu ovdagihtii. Earenoamaš$(vowlat,a-á|Earenoamáš) dilálašvuođain sáhtta$(vowlat,a-á|sáhttá) goikke$(conwb,ikk-itg|goitge) bearráigehččot dieđitkeahttá. Láigoheaddjis lea lohpi divodit ja buoridit viesu vaikko goas, muhto jus praktihkkalaččat$(conc,hkk-hk|praktihkalaččat) lea vejolaš, galga$(vowlat,a-á|galgá) láigolažžii dieđihuvvot maiddái dan birra. {Láigoheaddjis lea maiddái lohpi iskkat}¢{conc,skk-sk|Láigoheaddjis lea maiddái lohpi iskat} el-mihttára juohke njealjádasjagi, jus ii šihtto eará ortnet láigolaččain.
 
 15. Láigoheddji$(vowc,diph|Láigoheaddji) sahtta$(vowlat,a-á|sáhttá) bidjat čalalaš$(vowc,a-á|čálalaš) dieđu oktsašarealaide$(typo;vowc,a-á|oktasašareálaide) dahje čalalaččat$(vowc,a-á|čálalaččat) addit dieđu ortnetnjuolggadusaid birra ja movt galga$(vowlat,a-á|galgá) geavahit  viesu ja opmodaga.
 
@@ -78,7 +78,7 @@ Gáhkkorčorus lea oktasaš bivttasbassanmášiidna$(vowm,á-a|bivttasbassanmaš
 
 Boasta
 
-(Studeantat sáhttet dáhttut boasta sáddejuvvot)¢(conc,nt-ntt;conc,st-stt|Studeanttat sáhttet dáhttut boastta sáddejuvvot) allaskuvlii. Muđui ferte láigolaš ieš oastit boastakássa ja váldit oktavuođa boasttain jus hálida$(conm,d-id|háliida) čujuhusá$(vowlat,á-a|čujuhusa) studeanttaviesuide$(case,gen-nom|studeantaviesuide).
+{Studeantat sáhttet dáhttut boasta sáddejuvvot}¢{conc,nt-ntt;conc,st-stt|Studeanttat sáhttet dáhttut boastta sáddejuvvot} allaskuvlii. Muđui ferte láigolaš ieš oastit boastakássa ja váldit oktavuođa boasttain jus hálida$(conm,d-id|háliida) čujuhusá$(vowlat,á-a|čujuhusa) studeanttaviesuide$(case,gen-nom|studeantaviesuide).
 
 Čujuhusat:
 Gáhkkorčorru 1, 9520 Guovdageaidnu
@@ -128,15 +128,15 @@ elrávnnjiin
 
 Hánnoluohkká,
 40 kvm ásodat
-2.750,- (earret elrávnnjiin)£(case,com-gen|earret elrávnnji)
+2.750,- {earret elrávnnjiin}£{case,com-gen|earret elrávnnji}
 
-3.250,- (earret elrávnnjiin)£(case,com-gen|earret elrávnnji)
+3.250,- {earret elrávnnjiin}£{case,com-gen|earret elrávnnji}
 Hánnoluohkká,
 
 60 kvm ásodat
-3.250,- (earret elrávnnjiin)£(case,com-gen|earret elrávnnji)
+3.250,- {earret elrávnnjiin}£{case,com-gen|earret elrávnnji}
 
-3.650,- (earret elrávnnjin)$(fin,n-in|elrávnnjiin)£(case,com-gen|earret elrávnnji)
+3.650,- {earret elrávnnjin}${fin,n-in|elrávnnjiin}£(case,com-gen|earret elrávnnji)
 
 Elrávdnji
 

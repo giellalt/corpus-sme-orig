@@ -7,6 +7,6 @@ Eanodaga gielddas dáhtošedje doarjut studeanttaid skuvlamátkkiid. Čuvgehusl�
 
 Mannan giđa nuoraid- ja astoáiggibagadalli$(vowlat,i-e|astoáiggebagadalli) Milla-Maria Isohanni guorahalai, makkár doarjjadárbbut eanodahkalaš$(fin,hka-t|eanodatlaš) nuorain leat. Čielggadeami mielde nuorat dárbbašit ruđalaš doarjaga mátkkiide ruovttugielddas studerenbáikái.
 
-(Čuvgehuslávdegoddi lea evttohan, ahte gielda mávssašii)¢(vowlat,a-á|Čuvgehuslávdegoddi lea evttohan, ahte gielda mávssášii) eanodahkalaš$(fin,hka-t|eanodatlaš) studeanttaide oktii čakča- ja giđđalohkanbajis mátkedoarjaga. Mátkedoarjja guoskkašii daid studeanttaid, geain Eanodat lea merkejuvvon ruovttubáikin.
+{Čuvgehuslávdegoddi lea evttohan, ahte gielda mávssašii}¢{vowlat,a-á|Čuvgehuslávdegoddi lea evttohan, ahte gielda mávssášii} eanodahkalaš$(fin,hka-t|eanodatlaš) studeanttaide oktii čakča- ja giđđalohkanbajis mátkedoarjaga. Mátkedoarjja guoskkašii daid studeanttaid, geain Eanodat lea merkejuvvon ruovttubáikin.
 
 Eanodagas leat guorahallan, ahte gielddas leat 43 nuppi dási studeantta. Eatnašat studerejit Roavvenjárgga dahje Giema-Durdnos$(vowm,0-a|Giema-Durdnosa) guovllus. Muhtimat leat vuolgán oahpuid maŋis Oului dahje Nuorta-Supmii.

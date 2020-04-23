@@ -10,4 +10,4 @@ Politihkalaš bargu
 
 Lávki politihkkii
 
-Bondevik oaččui bajáššaddamis$(conwb,šš-sš|bajásšaddamis) jo oktavuođa dan risttalaš oahpoheamilihkástussii$(mix|oahpohanlihkahussii), dasa lassin go politihkalaš impulssaid Kjell Bondevikas, gii lei jođiheaddji Risttalaš Álbmotbellodagas (1950. ja 60-logus)¢(punct-hyph|1950- ja 60-logus). 1965s$(num,suf|1965:s) dieđihii Kjell Magne Bondevik iežas dán bellodahkii, ja válljejuvvui golbma jagi maŋŋel nubbinjođiheaddjin Nuoraid Risttalaš Álbmotbellodagas (Kristelig Folkeparti Ungdom).
+Bondevik oaččui bajáššaddamis$(conwb,šš-sš|bajásšaddamis) jo oktavuođa dan risttalaš oahpoheamilihkástussii$(mix|oahpohanlihkahussii), dasa lassin go politihkalaš impulssaid Kjell Bondevikas, gii lei jođiheaddji Risttalaš Álbmotbellodagas {1950. ja 60-logus}¢{punct-hyph|1950- ja 60-logus}. 1965s$(num,suf|1965:s) dieđihii Kjell Magne Bondevik iežas dán bellodahkii, ja válljejuvvui golbma jagi maŋŋel nubbinjođiheaddjin Nuoraid Risttalaš Álbmotbellodagas (Kristelig Folkeparti Ungdom).

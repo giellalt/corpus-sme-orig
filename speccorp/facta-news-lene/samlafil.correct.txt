@@ -184,7 +184,7 @@ Norgga Sámis ii mokta searvat Suoma gilvvuide
 
 Anára Heargegonagasgilvvuid gonagasluohkkái besset searvat 24 buoremus suopmelaS$(typo|suopmelaš) gilvovuojána.
 
-Bálgesiid ovttastumi stivrra dán čavčča mearrádus eastadit olgoriikka herggiid oassálastima Hearge-cup -loahppagilvvuide Anáris soaitá dagahit, ahte Norgga Sámi heargeeaiggádat eai leat aktiivvalaččat searvame dán jagaš Suoma (Hearge cup-gilvvuide)$(cmp,2-1|Heargecup-gilvvuide).
+Bálgesiid ovttastumi stivrra dán čavčča mearrádus eastadit olgoriikka herggiid oassálastima Hearge-cup -loahppagilvvuide Anáris soaitá dagahit, ahte Norgga Sámi heargeeaiggádat eai leat aktiivvalaččat searvame dán jagaš Suoma {Hearge cup-gilvvuide}${cmp,2-1|Heargecup-gilvvuide}.
 
 – Norgga heargeeaiggádiidda ii leat miellagiddevaš gilvalit Suoma Hearge-Cuppas$(loan,conc,pp-p|Hearge-Cupas), go eai sáhtte čoaggit čuoggáid ja beasa£beassat gilvalit Anáris gonagasluohkás, oaivvilda Sámi Heargelihtu (SHL) sátnejođiheaddji Mikkel Per Sara.
 
@@ -368,7 +368,7 @@ Mii hálidit$(conm,d-id|háliidit) ahte Guovdageaidnu ja Sámi allaskuvla dál m
 
 Guovdageainnus lea ealli sámi biras gos sámegiella gullo beaivválaččat. Guovdageainnus leat valljugas ja girjás kultureallin ja dáppe kultuvrrat deaivvadit beaivválaččat.
 
-Beassážit$(fin,t-id|Beassážiid) áiggi dáppe lágiduvvo Sámi beassášfestivála. Dalle čoahkkanit ollu olbmot miehtá Sámi messostallat, dolos$(fin,s-š|dološ) árbevieru mielde. Beassášfestivála oktavuođas lágiduvvo£lágiduvvojit Sámi filbmafestivála, Sámi Grand Prix, konsearttat, máilmmimeašttirgilvvut heargegilvovuodjimis, oaggungilvvut, (skuhtercrossa vuodjin)$(cmp,2-1|skuhtercrossavuodjin), teáhterčájálmasat ja olu eambbo. Beassážiid áiggi leat maid konfirmášuvnnat$(loan,vowlat,á-a|konfirmašuvnnat), ja árbevirolaččat máŋggas heajastallet, ja risttašit mánáid.
+Beassážit$(fin,t-id|Beassážiid) áiggi dáppe lágiduvvo Sámi beassášfestivála. Dalle čoahkkanit ollu olbmot miehtá Sámi messostallat, dolos$(fin,s-š|dološ) árbevieru mielde. Beassášfestivála oktavuođas lágiduvvo£lágiduvvojit Sámi filbmafestivála, Sámi Grand Prix, konsearttat, máilmmimeašttirgilvvut heargegilvovuodjimis, oaggungilvvut, {skuhtercrossa vuodjin}${cmp,2-1|skuhtercrossavuodjin}, teáhterčájálmasat ja olu eambbo. Beassážiid áiggi leat maid konfirmášuvnnat$(loan,vowlat,á-a|konfirmašuvnnat), ja árbevirolaččat máŋggas heajastallet, ja risttašit mánáid.
 
 Čakčat borgemánus lágiduvvo "Kauto Live" festivála mii lea musihkkafestivála. Skábmamánus lágiduvvo Nilut Cup, mat£mii lea spábbačiekčangilvu mii čohkke ollu olbmuid. Nilut Cup oktavuođas lávejit maid leat konsearttat.
 
@@ -415,7 +415,7 @@ Girjerájus
 
 Kantiidna
 
-(E-boasta čujuhus)$(cmp,2-1|E-boastačujuhus) ja čoavddagoarta
+{E-boasta čujuhus}${cmp,2-1|E-boastačujuhus} ja čoavddagoarta
 
 Vuolgit olgoriikkii$(conc,ikk-ik|olgoriikii) studeantan
 
@@ -425,7 +425,7 @@ Ođđa studeanttaide fáttarortnet-veahkki$(cmp,hyph-0|fáttarortnetveahkki) ja 
 
 Bovdejupmi 2008 riikačoahkkimii Girkonjárggas
 
-Sámeálbmot bellodat bovde 10. dábálaš riikačoahkkimii girkonjárgii$(prop,cap|Girkonjárgii) 11.ja.12.golggotmánu. Áššebáhppáriid$(conc,hpp-hp|Áššebáhpáriid) gávnnet$(vowlat,e-a|gávnnat) (riikačoahkkin máhpas)$(cmp,2-1|riikačoahkkinmáhpas).
+Sámeálbmot bellodat bovde 10. dábálaš riikačoahkkimii girkonjárgii$(prop,cap|Girkonjárgii) 11.ja.12.golggotmánu. Áššebáhppáriid$(conc,hpp-hp|Áššebáhpáriid) gávnnet$(vowlat,e-a|gávnnat) {riikačoahkkin máhpas}${cmp,2-1|riikačoahkkinmáhpas}.
 
 
 
@@ -655,7 +655,7 @@ Doalut leat Cumulus hoteallas Roavvenjárggas, ja álget golggotmánu 31.b. eahk
 
 Semináras logaldallet: Petra Biret Magga Vuohčus eret, Risten Rauna Magga, Njunnásis eret, guktot Suomas, ja Larisa Abryutina, RAIPON – Ruošša davvi eamiálbmogiid lihttu.
 
-Larisa Abryutina gullá čukči-álbmogii Sibirijas$(prop,vowm,a-á|Sibirijás), ja lea doavttir ja RAIPON stivralahttu. Son áigu ovdanbuktit prošeavtta  ”Oahppat eallit alkohola haga”. RAIPON lea 28 davvi-Ruošša$(prop,cap|Davvi-Ruošša) eamiálbmotorganisašuvnnaid ovttastus, mas£man váldokantuvra lea Moskvas. Larisa áiggošii prošeavtta álggahuvvot Davvioarje-Ruošša eamiálbmogiid guovdo$(vowlat,o-u|guovdu), ja lea álgovuorus gulaskuddagoahtán Guoládaga sámenissoniiguin áigumuša ovdanbuktit. SNF stivra de lážii sutnje saji SNF semináras čilget prošeavtta. SNF veadjá searvat ovttasbargoguoibmin prošektii. Ulbmilin lea dovddastit ahte alkoholisma lea (davvi eamiálbmogiid)$(cmp,2-1|davvieamiálbmogiid) váttisvuohtan, bargat alkoholakeahtes eallinbirrasa ovdii  ja ovddidit dearvvaslaš eallinvuogi. Larisa čuovvu Sámekonferánssa 28.-30.10. SNF guossin.
+Larisa Abryutina gullá čukči-álbmogii Sibirijas$(prop,vowm,a-á|Sibirijás), ja lea doavttir ja RAIPON stivralahttu. Son áigu ovdanbuktit prošeavtta  ”Oahppat eallit alkohola haga”. RAIPON lea 28 davvi-Ruošša$(prop,cap|Davvi-Ruošša) eamiálbmotorganisašuvnnaid ovttastus, mas£man váldokantuvra lea Moskvas. Larisa áiggošii prošeavtta álggahuvvot Davvioarje-Ruošša eamiálbmogiid guovdo$(vowlat,o-u|guovdu), ja lea álgovuorus gulaskuddagoahtán Guoládaga sámenissoniiguin áigumuša ovdanbuktit. SNF stivra de lážii sutnje saji SNF semináras čilget prošeavtta. SNF veadjá searvat ovttasbargoguoibmin prošektii. Ulbmilin lea dovddastit ahte alkoholisma lea {davvi eamiálbmogiid}${cmp,2-1|davvieamiálbmogiid} váttisvuohtan, bargat alkoholakeahtes eallinbirrasa ovdii  ja ovddidit dearvvaslaš eallinvuogi. Larisa čuovvu Sámekonferánssa 28.-30.10. SNF guossin.
 
 SNF áigu digaštallat man diehtomielalaččat leat alkohola návddašeames almmolaš sámi ja eamiálbmot-deaivvademiin$(cmp,hyph-0|eamiálbmotdeaivvademiin), ja eai go son sámi orgánat ja organisašuvnnat dás ságastala?
 
@@ -783,9 +783,9 @@ Eanodaga gieldda guhkesáigge mihttomearri lea oažžut gildii birrajagi girdijo
 Friddjavuođa sáŋgáriid gudnejahtte
 
 
-Mannan vahko čoagganedje 160 olbmo miehtá Suomabeale Sámi Ohcejohkii ávvudit Ohcejoga soahteveteránaid searvvi 40-jagi. Seammás sii gudnejahtte sámi soahteveteránaid, geat leat dagahan ahte Suopma bisui iehčanassan ain nuppi (máilmmi soađi)$(cmp,2-1|máilmmisoađi) maŋŋá.
+Mannan vahko čoagganedje 160 olbmo miehtá Suomabeale Sámi Ohcejohkii ávvudit Ohcejoga soahteveteránaid searvvi 40-jagi. Seammás sii gudnejahtte sámi soahteveteránaid, geat leat dagahan ahte Suopma bisui iehčanassan ain nuppi {máilmmi soađi}${cmp,2-1|máilmmisoađi} maŋŋá.
 
-Váile 30 jagi maŋŋá nuppi (máilmme soađi)$(cmp,2-1;cmp,vowlat,e-i|máilmmisoađi), jagis 1972, čoagganedje suoma davimus sámesoalddáhat Gáregasnjárgii ásahit iežaset veterána searvvi. Mannan vahkus ávvudii searvi 40-jagi. Ohcejogas leat leamašan oktiibuot 128 soahteveterána, geain dál leat dušše 13is$(num,suf|13:s) eallimin. Oassi sis ledje ain nu virkui ahte besse boahtit doaluide. Ohcejoga soahteveteránaid lassin ledje maid vihtta lotta, ja guđádin sis lea Elina Niemistö, gii lea soahteveteránain boarraseamos$(vowlat,a-á|boarráseamos).
+Váile 30 jagi maŋŋá nuppi {máilmme soađi}${cmp,2-1;cmp,vowlat,e-i|máilmmisoađi}, jagis 1972, čoagganedje suoma davimus sámesoalddáhat Gáregasnjárgii ásahit iežaset veterána searvvi. Mannan vahkus ávvudii searvi 40-jagi. Ohcejogas leat leamašan oktiibuot 128 soahteveterána, geain dál leat dušše 13is$(num,suf|13:s) eallimin. Oassi sis ledje ain nu virkui ahte besse boahtit doaluide. Ohcejoga soahteveteránaid lassin ledje maid vihtta lotta, ja guđádin sis lea Elina Niemistö, gii lea soahteveteránain boarraseamos$(vowlat,a-á|boarráseamos).
 
 94-jahkásaš Niemistö leage searvvi nubbinjođiheaddji$(cmp,ess-nom|nubbijođiheaddji) ja rabai ge ávvudoaluid. Sátnejođiheaddji Hans Nuorgam ii beassan boahtit buozalmasvuođa geažil. Buohkat dát 13 soahteveterána gudnejahttojuvvojedje erenoamážit ánsomedjáljaiguin$(typo|ánsomedáljaiguin) sihke silbbas ja gollis. Jođiheaddji guovttosges oaččuiba$(infl,verb|oaččuiga) jo ánsoruossa, mii lea čuovvovaš ánsu maŋŋá gollemedálja.
 
@@ -807,7 +807,7 @@ Dattege soađit leat guođđán čiekŋalis luottaid Sápmái, mat ain bistet mu
 
 –Mus gahčai áhčči soađis ovdal mu riegádeami, ja dakka maŋŋá massen fas eadnán, muitala Máret ganjalčalmmiid muhto moddjedettiin rávve fas eallima galgat dustet nugo dat boahtá.
 
-Lasi soađi muttuin sáhttá lohkat Ohcejoga veteránaid searvvi (matrihkkel girjjis)$(cmp,2-1|matrihkkelgirjjis) almmustavvan$(typo|almmustuvvan) jagis 2005, ”Sođiideamet veteránat”.
+Lasi soađi muttuin sáhttá lohkat Ohcejoga veteránaid searvvi {matrihkkel girjjis}${cmp,2-1|matrihkkelgirjjis} almmustavvan$(typo|almmustuvvan) jagis 2005, ”Sođiideamet veteránat”.
 
 
 Skuvlaođas
@@ -1214,7 +1214,7 @@ Studeanttat ja olggobealgeavaheaddjit sáhttet atnit girjerádjosa kopimášiinn
 
 5. Luoikaneavttut
 
-a) Dábálaš luoikanáigi girjerádjosa girjjiide lea 4 vahkku, ja (govvá-ja)$(typo|govva- ja) jietnamediaide lea fas 1 vahkku jos eará ii leat daddjon. Ii leat mearri galle girjji luoikkaheaddji sáhttá oktanaga ruoktot luoikkahit, muhto luoikkaheadjit$(conc,dj-ddj|luoikkaheaddjit) ávžžuhuvvojit buktit ruovttoluotta mediaid nu jođánit go vejolaš.
+a) Dábálaš luoikanáigi girjerádjosa girjjiide lea 4 vahkku, ja {govvá-ja}${typo|govva- ja} jietnamediaide lea fas 1 vahkku jos eará ii leat daddjon. Ii leat mearri galle girjji luoikkaheaddji sáhttá oktanaga ruoktot luoikkahit, muhto luoikkaheadjit$(conc,dj-ddj|luoikkaheaddjit) ávžžuhuvvojit buktit ruovttoluotta mediaid nu jođánit go vejolaš.
 
 á) Girjjit ja eará almmuhusat mat leat biddjon gáldoossodahkii dehe eará erenoamážit merkejuvvon hilduide (omd. pensumhilduide) sáhttet dušše atnot$(conc,tn-dn|adnot) girjerádjosis/lohkánlanjas$(vowlat,á-a|lohkanlanjas).
 
@@ -1369,13 +1369,13 @@ Numo lávege, de ledje ollu somás doaimmat beatnatvuodjima bisánanabáikkis$(c
 
 15-03-2007
 
-Stuorravuona oahppit ja oahpaheaddjit ledje erenoamáš áŋgirat geahččaladdat daid ollu doaibmafálaldagaid maid Várjjat Sámi Musea(VSM) lei heivehan. Ledje e.e. njuollabissubáhčimat$(cmp,vowlat,u-o|njuollabissobáhčimat) ja njoarusteapmi$(vowlat,u-o|njoarosteapmi). Čáppa muohtaskulptuvrraid ráhkadeapmi VSM olggobealde lei maiddái ovttasbargu gaskal (skuvla ohppiid)$(cmp,2-1|skuvlaohppiid) ja VSM.
+Stuorravuona oahppit ja oahpaheaddjit ledje erenoamáš áŋgirat geahččaladdat daid ollu doaibmafálaldagaid maid Várjjat Sámi Musea(VSM) lei heivehan. Ledje e.e. njuollabissubáhčimat$(cmp,vowlat,u-o|njuollabissobáhčimat) ja njoarusteapmi$(vowlat,u-o|njoarosteapmi). Čáppa muohtaskulptuvrraid ráhkadeapmi VSM olggobealde lei maiddái ovttasbargu gaskal {skuvla ohppiid}${cmp,2-1|skuvlaohppiid} ja VSM.
 
 Maiddái dánge jagi barggai VSM  buori barggu Finnmarksløpet miellágideaddjin. Sii dolle rabasin birranbeaivve$(cmp,conwb,nb-b|birrabeaivve) sihke beatnatvuoddjiide$(nomag,vowc,mono|beatnatvuddjiide), bargiide ja mediaide. Doppe maiddái besse olbmot vuovdit iešguđátlágán$(vowlat,á-e|iešguđetlágán) giehtadujiid, ja NIF doalai kafea.
 
 Rukses ruossas lei nuvttá káfe ja veahkehedje muđuige, nomo$(vowc,o-u|numo) bearráigeahččat johtolaga bisánanabáikái$(cmp,typo|bisánanbáikái).
 
-Jus don(dego mun) hálidit$(conm,d-id|háliidit) buori gourmet-gaskabeaivvi, de besset Searvegottevisttis návddašit (boahkke lábbábierggu)$(cmp,2-1|boahkkelábbábierggu) ja luossamáli. Maiddái Searvegottevisti lei rabas ijatbeaivve$(vowlat,e-i|ijatbeaivvi) vai olbmot ožžo borramuša.
+Jus don(dego mun) hálidit$(conm,d-id|háliidit) buori gourmet-gaskabeaivvi, de besset Searvegottevisttis návddašit {boahkke lábbábierggu}${cmp,2-1|boahkkelábbábierggu} ja luossamáli. Maiddái Searvegottevisti lei rabas ijatbeaivve$(vowlat,e-i|ijatbeaivvi) vai olbmot ožžo borramuša.
 
 
 
@@ -1483,7 +1483,7 @@ Su mielas lea hui issoras go olmmoš gottahallá$(vowlat,a-á|gottáhallá) ruov
 
 Gottii ákšuin
 
-(Gaskabeaiv' áiggi)$(cmp,punct-0,2-1|Gaskabeaiáiggi) dat lei 81-jahkásaš dievdu vázzimen beatnagiin E-45 luottas, go 37-jahkásaš dievdu fallehii su ákšuin. Hávváduvvon olbmo dolvo Sundebyn buohccivissui, gosa son maid jámii maŋŋelaš. Birrasiid 20 politija$(loan,conc,j-ij|politiija) ohce dievddu, ja beatnagat gurre su muhtun bártii$(vowc,á-a|bartii) mii lea 2 gilomehtara$(loan,vowlat,a-e|gilomehtera) eret báikkis go son gottii vuoras dievddu.
+{Gaskabeaiv' áiggi}${cmp,punct-0,2-1|Gaskabeaiáiggi} dat lei 81-jahkásaš dievdu vázzimen beatnagiin E-45 luottas, go 37-jahkásaš dievdu fallehii su ákšuin. Hávváduvvon olbmo dolvo Sundebyn buohccivissui, gosa son maid jámii maŋŋelaš. Birrasiid 20 politija$(loan,conc,j-ij|politiija) ohce dievddu, ja beatnagat gurre su muhtun bártii$(vowc,á-a|bartii) mii lea 2 gilomehtara$(loan,vowlat,a-e|gilomehtera) eret báikkis go son gottii vuoras dievddu.
 
 Politijat$(loan,conc,j-ij|Politiijat) ádjánedje guokte diimmu gávdnat vearredahki$(conc,hk-hkk|vearredahkki). Dál lea politijaid$(loan,conc,j-ij|politiijaid) hálddus, ja sii leat dutkamen goddima birra, muitala politijaid$(loan,conc,j-ij|politiijaid) ákšuvdnahoavda$(vowc,á-a|akšuvdnahoavda), Petter Wiström.
 
@@ -1493,7 +1493,7 @@ Politijat$(loan,conc,j-ij|Politiijat) eai vel dieđe ledje go goddon olbmos ja v
 
 Báhccavuonas gáržot eatnamat
 
-Sisabahkkemat gáržudit boazoguohtumiid, oaivvilda boazoeaiggát - sii fertejit ovttas soabadit vástida (beana turistafitnodaga)$(cmp,2-1|beanaturistafitnodaga) eaiggát.
+Sisabahkkemat gáržudit boazoguohtumiid, oaivvilda boazoeaiggát - sii fertejit ovttas soabadit vástida {beana turistafitnodaga}${cmp,2-1|beanaturistafitnodaga} eaiggát.
 
 
 Sii eai leat váttisvuohtan dáppe, oaivvilda áiddo$(vowc,á-a|aiddo) ásahuvvon turistafitnodaga eaiggát dasa, go Báhccavuonas lagabui 100 vuodjenbeatnaga,guovtti beanagárddis leat dán čavčča dagahan ahte Geaggánvuomi čearu boazoeaiggát ii beasa johtit dálveorohahkii, ja máŋga bohcco leat juo mannan muohtariđđui.
@@ -1507,13 +1507,13 @@ Dál dáhttu Geaggánvuomi čearu boazoeaiggát, Nils Ánte Blind jávkadit bean
 
 Bohccot eai duostta vulos gáissás, go leagis lea nu olu riedja.
 
-2007:as$(num,suf|2007:s) álggahii Hans Olav Eriksen (beanavuodjin turistafitnodaga)$(cmp,2-1|beanavuodjinturistafitnodaga), Lyngenfjord Adventure Dápmotvuovdái, Báhccavuona suohkanii, mas dál leat 50 vuodjenbeatnaga. Maŋŋelaš son ásahii maid Målselhuskey beanagárddi, mas leat seamma olu beatnagat go Lyngenfjord Adventures. Dát gárdi lea priváhta eatnamis.
+2007:as$(num,suf|2007:s) álggahii Hans Olav Eriksen {beanavuodjin turistafitnodaga}${cmp,2-1|beanavuodjinturistafitnodaga}, Lyngenfjord Adventure Dápmotvuovdái, Báhccavuona suohkanii, mas dál leat 50 vuodjenbeatnaga. Maŋŋelaš son ásahii maid Målselhuskey beanagárddi, mas leat seamma olu beatnagat go Lyngenfjord Adventures. Dát gárdi lea priváhta eatnamis.
 
 Lobálaš doaibma
 
 Lyngenfjord Adventure eaiggát, Hans Olav Eriksen ii ipmir manne Nils Ánte Blind dáhttu sin fitnodaga heaittihit doaimmaid guovllus, go dát han lea dál dohkkehuvvon sihke boazodoalu ja suohkana bealis.
 
-- Dát šattašii váivi, sis lea sullii 30 báikkálaš bargi dáppe. Sin vistithan$(conc,st-stt|visttithan) leat priváhta eatnamis, mii lea dohkkehuvvon turismma doaimmaide ja dat lea (dohkkehuvvon sihke gielddas ja fylkkamánnis)¥(noun,pass). Dat maid bidjui$(conc,dj-ddj|biddjui) gulaskuddamii boazoorohahkii, mii dasto dohkkehii doaimmaid, muitala Eriksen.
+- Dát šattašii váivi, sis lea sullii 30 báikkálaš bargi dáppe. Sin vistithan$(conc,st-stt|visttithan) leat priváhta eatnamis, mii lea dohkkehuvvon turismma doaimmaide ja dat lea {dohkkehuvvon sihke gielddas ja fylkkamánnis}¥{noun,pass}. Dat maid bidjui$(conc,dj-ddj|biddjui) gulaskuddamii boazoorohahkii, mii dasto dohkkehii doaimmaid, muitala Eriksen.
 
 Gidde johtolaga
 
@@ -1528,7 +1528,7 @@ Jus diet fitnodat beassá joatkit doaimmaid dien dásis ja daid áigodagain goas
 Sámedikki evttohus giellalága rievdadeamis, ii guoskka priváhtaskuvllaid£priváhtaskuvllaide.
 
 
-Sámediggeráđđi árvala heaittihit giellahálddašanguovllu ja baicce nannet sámegiel oahpahusa ja giellageavaheami guoskat olles riikii. Sihke posišuvdna ja opposišuvdna lohket dárbbu rievdadusaide go nu ollu sápmelaččat orrot olggobealde (giellahálddašan guovllu)$(cmp,2-1|giellahálddašanguovllu). Eatni$(conc,tn-dn|Eadni) Inger Anne Siri Triumf ii loga árvalusa ávkin su niidii gii vázzá priváhta joatkkaskuvlla.
+Sámediggeráđđi árvala heaittihit giellahálddašanguovllu ja baicce nannet sámegiel oahpahusa ja giellageavaheami guoskat olles riikii. Sihke posišuvdna ja opposišuvdna lohket dárbbu rievdadusaide go nu ollu sápmelaččat orrot olggobealde {giellahálddašan guovllu}${cmp,2-1|giellahálddašanguovllu}. Eatni$(conc,tn-dn|Eadni) Inger Anne Siri Triumf ii loga árvalusa ávkin su niidii gii vázzá priváhta joatkkaskuvlla.
 
 - Priváhta skuvllaid maid berrešii smiehttat dás ja geatnegahttit maiddái daid čuovvut giellalága, dál lága gáibádusat eai guoskka daid£daidda.
 
@@ -1589,12 +1589,12 @@ Dát lea dehálaš, jus dát guokte bellodaga áiguba goassige stivret riika ovt
 
 - Válgasagat$(vowc,a-á|Válgaságat)
 
-Olgeža (stuorradigge áirras)$(cmp,2-1|stuorradiggeáirras) Frank Bakke-Jensen muitala, ahte bellodagas ii leat dárbu dahkat makkárge rievdadusaid iežas sámepolitihkkii.
+Olgeža {stuorradigge áirras}${cmp,2-1|stuorradiggeáirras} Frank Bakke-Jensen muitala, ahte bellodagas ii leat dárbu dahkat makkárge rievdadusaid iežas sámepolitihkkii.
 
 
 Stuorradiggeqirras$(typo|Stuorradiggeáirras) Frank Bakke-Jensen.
 
-- Sii leat addán molssaevttolaš (bušeahtta árvalusa)$(cmp,2-1|bušeahttaárvalusa), das sii eai dárbbaš nannet juolludemiid sámi doaimmaide dan ektui, maid ráđđehus lea bidjan (stáhtabušeahtta árvalussii)$(cmp,2-1|stáhtabušeahttaárvalussii). Nu čuvvot sii dan, maid ráđđehus lea evttohan juolludit sámi doaimmaide, lohká Bakke-Jensen.
+- Sii leat addán molssaevttolaš {bušeahtta árvalusa}${cmp,2-1|bušeahttaárvalusa}, das sii eai dárbbaš nannet juolludemiid sámi doaimmaide dan ektui, maid ráđđehus lea bidjan {stáhtabušeahtta árvalussii}${cmp,2-1|stáhtabušeahttaárvalussii}. Nu čuvvot sii dan, maid ráđđehus lea evttohan juolludit sámi doaimmaide, lohká Bakke-Jensen.
 
 Dál figgá Helga Pedersen dušše dagahit digaštallama Olgeža ja ovddádusbellodaga gaskii ja diet lea dušše válgagičču ságat, dan sii gal dovdet juo ovddežis, dadjá Bakke-Jensen
 
@@ -1642,7 +1642,7 @@ Silbačeahppi gii dál ráhkada olu čiŋaid čoarvvis ja silbbas álggii álggo
 
 Silba- ja čoarveduojáris lea bargobáiki Anáris Davvi Suomas. Doppe son duddjo, ja dál lea bártnis oahpaheamen seamma doibmii maid son ieš bargá, nammalassii$(conc,mm-m|namalassii) silba- ja čoarvedáiddárin.
 
-Vuolahasat ledje su (álgo duodje-ávdnasat)$(cmp,2-1;cmp,hyph-0|álgoduodjeávdnasat)
+Vuolahasat ledje su {álgo duodje-ávdnasat}${cmp,2-1;cmp,hyph-0|álgoduodjeávdnasat}
 
 Vuolahasiguin$(typo|Vuolahasaiguin) álggii Petteri Laiti juo mánnán duddjot, muhto das rájes lea son ovdánan, ja geavaha dál olu eará ávdnasiid maid. Son manai gollerávdeoahppui$(ill,vowc,mono|gollerávdeohppui), ja das maŋŋil álggii son vel čoarvvi seaguhit silbii.
 
@@ -1699,7 +1699,7 @@ Malin Soli ja Kim Haugen neaktiba Sonja ja juovlanigá filmmas
 
 Filbma vuovdá bures olgoriikii
 
-Filmmas lei vuosttas čájahus$(vowlat,a-á|čájáhus) ovddit sotnabeaivvi, ja dát váldui bures vuostá, lohká Gaup. Seammás leat filmma juo vuovdán 67 riikii, earret eará Durkui$(prop,foreign|Durkii), (Gaska Nuortái)$(prop,cmp,2-hyph|Gaska-Nuortái), Indonesijai$(prop,ija-ia|Indonesiai), ovddeš Jugosláviai ja Thailándii$(prop,vowlat,á-a|Thailandii). Dáinna Gaup illuda.
+Filmmas lei vuosttas čájahus$(vowlat,a-á|čájáhus) ovddit sotnabeaivvi, ja dát váldui bures vuostá, lohká Gaup. Seammás leat filmma juo vuovdán 67 riikii, earret eará Durkui$(prop,foreign|Durkii), {Gaska Nuortái}${prop,cmp,2-hyph|Gaska-Nuortái}, Indonesijai$(prop,ija-ia|Indonesiai), ovddeš Jugosláviai ja Thailándii$(prop,vowlat,á-a|Thailandii). Dáinna Gaup illuda.
 
 
 
@@ -1766,7 +1766,7 @@ Dáhttu diehtit ođđa várrepresideanta$(loan,conc,nt-ntt|várrepresideantta) n
 
 Sámediggeáirras, Geir Tommy Pedersen, gáibida ahte Sámedikki dievasčoahkkin beassá diehtit gii šaddá ođđa várrepresideantan.
 
-Dálá várrepresideanta, Laila Susanne Vars, lea ožžon direktevrra virggi Gáldus, mii lea (álgoálbmot gelbbolašvuođaguovddáš)$(cmp,2-1|álgoálbmotgelbbolašvuođaguovddáš) Guovdageainnus. Vars bellodat, Árja, válljii duvle ođđa várrepresideanta$(loan,conc,nt-ntt|várrepresideantta) Sámediggái, muhto eai álmmut gii son lea ovdalgo leat addán buot dieđuid Sámediggepresidentii, Egil Ollii.
+Dálá várrepresideanta, Laila Susanne Vars, lea ožžon direktevrra virggi Gáldus, mii lea {álgoálbmot gelbbolašvuođaguovddáš}${cmp,2-1|álgoálbmotgelbbolašvuođaguovddáš} Guovdageainnus. Vars bellodat, Árja, válljii duvle ođđa várrepresideanta$(loan,conc,nt-ntt|várrepresideantta) Sámediggái, muhto eai álmmut gii son lea ovdalgo leat addán buot dieđuid Sámediggepresidentii, Egil Ollii.
 
 Sámedikki dievasčoahkkin ii leat ožžon čálalaš dieđu ahte Vars luohpá ráđis, iige dieđe gii su ovddas joatka$(vowlat,a-á|joatká) ámmáhis.
 
@@ -1782,7 +1782,7 @@ Ii leat ohcan virgelohpi$(conc,hp-b|virgelobi)
 
 Sámediggepresideanta, Egil Olli (Bb) logai dievasčoahkkimis ikte, gaskavahku, ahte sus ii leat intenšuvdna rievdadit ráđi.
 
-– Laila Susanne Vars lea njálmmálaččát$(vowlat,á-a|njálmmálaččat) addán dieđu ahte lea ožžon (direktevra virggi)$(cmp,2-1|direktevravirggi) Gáldus, ja ahte hálida$(conm,d-id|háliida) álgit dán ođđa virgái. Muhto son ii leat ohcan virgelobi, dajai Olli gaskavahku.
+– Laila Susanne Vars lea njálmmálaččát$(vowlat,á-a|njálmmálaččat) addán dieđu ahte lea ožžon {direktevra virggi}${cmp,2-1|direktevravirggi} Gáldus, ja ahte hálida$(conm,d-id|háliida) álgit dán ođđa virgái. Muhto son ii leat ohcan virgelobi, dajai Olli gaskavahku.
 
 Várrepresideanta Vars (Árja) dieđiha ahte áigu ohcat virgelobi.
 
@@ -1810,7 +1810,7 @@ Duddjonmokta gal lea Jovnna Ovllás vissa leamaš jo mánnávuođa rájes. Sus d
 
 Oahpai čeahpimusain
 
-Sus ledje máŋga (duojár ovdagova)$(cmp,2-1|duojárovdagova). Guovttis leigga Paulus Utsi ja Lauri Keskitalo. Jovnna Ovllás lei nu buorre vuorbi ahte beasai sudnos oahppat vel duddjot.
+Sus ledje máŋga {duojár ovdagova}${cmp,2-1|duojárovdagova}. Guovttis leigga Paulus Utsi ja Lauri Keskitalo. Jovnna Ovllás lei nu buorre vuorbi ahte beasai sudnos oahppat vel duddjot.
 
 Álggi ieš ge kurssain oahpahit - nu go dadjá “go gáddegođii$(vowlat,e-i|gáddigođii) son maid máhttá duddjot”, ja čaibmá.
 
@@ -1851,7 +1851,7 @@ Boares biktasiid sáhttá ođasmahttit, nu leat kurssas dahkan Kárášjogas. Ja
 
 Ášši doaimmaha Ánne Olli
 
-Bivttasčájáhusas leat máŋggalaganaš$(vowc,a-á|máŋggaláganaš) biktasat, ja sii geat serve dán (redisign kursii)$(cmp,2-1|redesign-kursii),. sii bukte boares biktasiid maid eai šat geavahan
+Bivttasčájáhusas leat máŋggalaganaš$(vowc,a-á|máŋggaláganaš) biktasat, ja sii geat serve dán {redisign kursii}${cmp,2-1|redesign-kursii},. sii bukte boares biktasiid maid eai šat geavahan
 
 
 Ođasmahtton biktasat
@@ -1903,7 +1903,7 @@ Ingebrigtsen geassádii stáhtačállin
 
 Romssa bargiidbellodat šaddá maŋidit iežaset nominašuvnna boahtte jagi Stuoradikkeválgii$(cmp,gen-nom|Stuoradiggeválgii), maŋŋel go árvaluvvon njunuš geassádii.
 
-Romsalaš Roger Ingebrigtsen geassádii mannan bearjadaga stáhtačálli doaimmas ja maid Stuoradikki válgga nominašuvnnas, guokte beaivvi ovdal go Romssa Bargiidbellodat galggai válljet (njunuš áirasis)$(cmp,2-1|njunušáirasis) válgii. Ingebrigtsen muitalii bearjadaga, ahte sus lei seksuála oktavuohta 2004:is$(num,suf|2004:s) ovtta£ovttain AUF nuoran$(com,fin,n-in|nuorain), gii lei dalle 17-jahkkásaš$(conc,hkk-hk|17-jahkásaš).
+Romsalaš Roger Ingebrigtsen geassádii mannan bearjadaga stáhtačálli doaimmas ja maid Stuoradikki válgga nominašuvnnas, guokte beaivvi ovdal go Romssa Bargiidbellodat galggai válljet {njunuš áirasis}${cmp,2-1|njunušáirasis} válgii. Ingebrigtsen muitalii bearjadaga, ahte sus lei seksuála oktavuohta 2004:is$(num,suf|2004:s) ovtta£ovttain AUF nuoran$(com,fin,n-in|nuorain), gii lei dalle 17-jahkkásaš$(conc,hkk-hk|17-jahkásaš).
 
 Ingebrigtsen dajai bearjadaga, ahte buot lea su sivva, ja manne dát ii leat gullon ovdal, de dan ii sáhte smiehttat dál.
 
@@ -1916,7 +1916,7 @@ Roger Ingebrigtsen čálii iežas Facebook siiddus ášši birra.
 
 Nominašuvnnat maŋiduvvon
 
-Guokte beaivvi ovdal go Romssa Bargiidbellodat galggai mearridit gii sin (njunuš áirras)$(cmp,2-1|njunušáirras) galgá leat boahtte jagi Stuoradikkeválggas$(cmp,gen-nom|Stuoradiggeválggas), de bođii Roger Ingebrigtsen ášši. Son lei nubbi gilvaleaddjin$(loc,fin,n-in|gilvaleddjiin) bellodaga njunnošii. Harstad BB sátnejođiheaddji, Marianne Bremnes gal oaivvilda ahte Ingebrigtsen bidjui$(conc,dj-ddj|biddjui) dán dillái Vibeke Ek bealis go son jođiha nissoniid áššiid Romssa bargiidbellodagas, ja son livččii galgan eará árvvoštallama dahkat dás.
+Guokte beaivvi ovdal go Romssa Bargiidbellodat galggai mearridit gii sin {njunuš áirras}${cmp,2-1|njunušáirras} galgá leat boahtte jagi Stuoradikkeválggas$(cmp,gen-nom|Stuoradiggeválggas), de bođii Roger Ingebrigtsen ášši. Son lei nubbi gilvaleaddjin$(loc,fin,n-in|gilvaleddjiin) bellodaga njunnošii. Harstad BB sátnejođiheaddji, Marianne Bremnes gal oaivvilda ahte Ingebrigtsen bidjui$(conc,dj-ddj|biddjui) dán dillái Vibeke Ek bealis go son jođiha nissoniid áššiid Romssa bargiidbellodagas, ja son livččii galgan eará árvvoštallama dahkat dás.
 
 - Son reagere dasa, go Roger Ingebrigtsen dahkko dán ovdanbuktimis gillájeaddjin ja go Ek jođiha nissoniid áššiid Romssa bargiidbellodagas, de livčče$(infl,cond|livččii) son galgan váldit dán ášši veahá eará láhkai, čilge Bremnes.
 
@@ -1935,11 +1935,11 @@ Ribat-Rábat
 
 Ođđajagimánus boahta$(vowlat,a-á,IN|boahtá) ođđa mánáid ráidu Ribat-Rábat tv:i. Doppe ohppet mánát ruskaiguin$(conc,sk-skk|ruskkaiguin) ráhkađit$(conm,đ-d|ráhkadit) ođđa biergasiid.
 
-Dál lea báddemin maŋimuš osid$(fin,d-id|osiid) ođđa (mánáid ráidui)$(cmp,2-1|mánáidráidui) maid sáddegohtet ođđajagimánus.
+Dál lea báddemin maŋimuš osid$(fin,d-id|osiid) ođđa {mánáid ráidui}${cmp,2-1|mánáidráidui} maid sáddegohtet ođđajagimánus.
 
 Ribat-Rábat lea namma, ja doppe mánát ožžot oaidnit got sáhttá fas geavahit ruskkaid, ovdamearka dihte bohtaliiguin$(conc,ht-htt|bohttaliiguin) ja hivsetbáhppárrullaiguin$(conc,vs-vss;cmp,gen-nom;conc,hpp-hp|hivssetbábirrullaiguin).
 
-Beassá maiddái čuovvut Ruskagonagasa ja Garjjá, mii lea ođđa unnit ráidu. Dasa lassin bohtet musihkkavideot main leat ođđa ja ovddeš (mánáid lávlagat)$(cmp,2-1|mánáidlávlagat).
+Beassá maiddái čuovvut Ruskagonagasa ja Garjjá, mii lea ođđa unnit ráidu. Dasa lassin bohtet musihkkavideot main leat ođđa ja ovddeš {mánáid lávlagat}${cmp,2-1|mánáidlávlagat}.
 
 Govven ruskabáikkis
 
@@ -2004,7 +2004,7 @@ dálkkádat-rievdan$(cmp,hyph-0|dálkkádatrievdan) garrasit čuohcá álbmogiid
 
 Ođasmuvvi energiija ii leat álo dat buoremus álgoálbmogiidda.
 
-- Muhto dat váldohástalus lea várra dat, ahte oaččut$(conc,čč-žž|oažžut) dán systemii sisa dan (álgoálbmot oainnu)$(cmp,2-1|álgoálbmotoainnu) ja ipmárdusa birasáššiin, dadjá Vasara.
+- Muhto dat váldohástalus lea várra dat, ahte oaččut$(conc,čč-žž|oažžut) dán systemii sisa dan {álgoálbmot oainnu}${cmp,2-1|álgoálbmotoainnu} ja ipmárdusa birasáššiin, dadjá Vasara.
 
 Sámeráđi birasossodaga jođiheaddji Gunn Britt Retter, dadjá hástalussan čalmmustahttit eamiálbmotperspektiivva čoahkkimiin gos stáhtat deaivvadit. Mađi váddásut fáddá, dađi unnit gullojit minoritehtajienat. Sin strategiija leamaš čuollat eamiálbmot-beliid$(cmp,hyph-0|eamiálbmotbeliid) Árktalaš ráđi bokte ja maid dutkama vuođul váikkuhit.
 
@@ -2017,7 +2017,7 @@ Mátta-Várjjat ruvkái$(infl,ill|ruvkii) eai oastit dál
 
 Mátta-Várjjat ruvkki$(vowlat,i-e|ruvkke) lagamuš boahtteáigi lea buorre, muhto guhkitáiggi plánat leat eahpesihkkarat.
 
-Ikte lágidii Ealáhusdepartemeanta seminára ruvkkiid boahtteáiggi birra. Lea oalle (eahpe čielggas)$(cmp,2-1|eahpečielggas) mo Mátta-Várjjat ruvkkiin manná dás ovddos guvlui. Dán ruvkki$(vowlat,i-e|ruvkke) direktevra Harald Martinsen doaivu ruvkki$(vowlat,i-e|ruvkke) ceavzit dáid lagamuš áiggiid, muhto guhkkit$(conc,hkk-hk|guhkit) áiggi vuollai, ii leat daddjon mo manná.
+Ikte lágidii Ealáhusdepartemeanta seminára ruvkkiid boahtteáiggi birra. Lea oalle {eahpe čielggas}${cmp,2-1|eahpečielggas} mo Mátta-Várjjat ruvkkiin manná dás ovddos guvlui. Dán ruvkki$(vowlat,i-e|ruvkke) direktevra Harald Martinsen doaivu ruvkki$(vowlat,i-e|ruvkke) ceavzit dáid lagamuš áiggiid, muhto guhkkit$(conc,hkk-hk|guhkit) áiggi vuollai, ii leat daddjon mo manná.
 
 - Sis ii leat gal dál oasti ruvkái$(infl,ill|ruvkii), dan haddái, man sii leat smiehttan dasa. Sii jotket nu dálá oamasteaddji vuođuin, lohka Martinsen.
 
@@ -2071,7 +2071,7 @@ Gáibida muitalit nama
 
 Eambbogat hálidit$(conm,d-id|háliidit) mineráldivada$(loan,cmp,ál-ála|mineráladivada)
 
-Sámediggepresideanta Egil Olli lohka$(vowlat,a-á|lohká) (álgoálbmotdiva gáibádusaid)$(cmp,2-1|álgoálbmotdivagáibádusaid) leat eambbo vejolažžan ásahit dál go goassige ovdal.
+Sámediggepresideanta Egil Olli lohka$(vowlat,a-á|lohká) {álgoálbmotdiva gáibádusaid}${cmp,2-1|álgoálbmotdivagáibádusaid} leat eambbo vejolažžan ásahit dál go goassige ovdal.
 
 Kánáda$(prop,vowc,á-a;vowlat,á-a|Kanada) álgoálbmogat ožžo measta 500 milljun$(loan,conc,llj-lj;vowlat,u-o|miljon) ruvnnu divamávssu mineráladoaimmain diibmá. Indiánat£Indiánain leat jagis 1989 rájes leamašan šiehtadus máilmmi stuorámus sinkminerála$(loan,conc,nk-ŋk|siŋkaminerála) ruvkedoaimmain, máid$(pron,á-a|maid) Red Dog čađáha$(vowlat,á-a|čađaha) indiánaid ássanguovlluin.
 
@@ -2079,14 +2079,14 @@ Hálida$(conm,d-id|Háliida) seammalágan málle
 
 Sámediggepresideanta, Egil Olli, oaivvilda báikkálaččát$(vowlat,á-a|báikkálaččat) eambbogiid doarjut jurdaga gáibidišgoahtit mávssu.
 
-– Ii leat doarvai$(vowlat,a-á|doarvái) dušše ásahit bargosajiid, mii fertet eambbo oažžut buorrin mineráladoaimmain. Ja oainnán ahte sátnejođiheaddjit suohkaniin gos leat ruvkedoaimmat, álget ovddidit (divvamákso jurdagiid)$(cmp,2-1;conc,vv-v|divamáksojurdagiid), lohka$(vowlat,a-á|lohká) Olli.
+– Ii leat doarvai$(vowlat,a-á|doarvái) dušše ásahit bargosajiid, mii fertet eambbo oažžut buorrin mineráladoaimmain. Ja oainnán ahte sátnejođiheaddjit suohkaniin gos leat ruvkedoaimmat, álget ovddidit {divvamákso jurdagiid}${cmp,2-1;conc,vv-v|divamáksojurdagiid}, lohka$(vowlat,a-á|lohká) Olli.
 
 
 Sámediggepresideanta Egil Ollis lea doaivva oažžugoahtit mineráldivvada$(loan,cmp,al-ála;conc,vv-v|mineráladivada).
 
 Sámediggi hálidivččii$(conm,d-id|háliidivččii) geavahit seamma málle go Kánádalaččáin$(loan,vowlat,á-a;vowc,á-a|Kanadalaččain). Dássážii eai leat ožžon doarjaga dasa.
 
-Bákte-, oljo- ja (gásabuvttádan fitnodagat)$(cmp,2-1;conc,s-ss|gássabuvttadanfitnodagat) šaddet máksit divvadiid$(conc,vv-v|divadiid) 107.000 indiánaide.
+Bákte-, oljo- ja {gásabuvttádan fitnodagat}${cmp,2-1;conc,s-ss|gássabuvttadanfitnodagat} šaddet máksit divvadiid$(conc,vv-v|divadiid) 107.000 indiánaide.
 
 – Berre leat ávkin buohkaide
 
@@ -2111,7 +2111,7 @@ Dálá joatkkaskuvlafálaldagat Finnmárkkus galget bisuhuvvot, mearridii Finnm�
 
 Finnmárkku boanddaidsearvvi jođiheaddji, Ola Tangen lohká dán mearrádusa addit doaivaga dasa, ahte Deanu eanandoalloskuvla ii heaittihuvvo. - Ealáhussii livččii stuorra roassun jus nuorat eai šat oaččošivčče$(infl,cond|oččoše) oahpu ruovttufylkkásteaset$(px,vowlat,á-a|ruovttufylkkasteaset), čilge Tangen.
 
-- Ealáhusa (vuođđudan vejolašvuođaide)$(cmp,2-1|vuođđudanvejolašvuođaide) livčče$(infl,cond|livččii) dat sihkkarit heittot, jus eanandoalu sáhtašii oahppat iežas guovllus.
+- Ealáhusa {vuođđudan vejolašvuođaide}${cmp,2-1|vuođđudanvejolašvuođaide} livčče$(infl,cond|livččii) dat sihkkarit heittot, jus eanandoalu sáhtašii oahppat iežas guovllus.
 
 Finnmárkku fylkkaráđđealmmái dat lea árvalan heaittihit Deanu joatkkaskuvlla mii lea Finnmárkku áidna eanandoalloskuvlla. Dan son árvala dan geažil go fylka ferte seastit 26 miljon ruvnnu.
 
@@ -2174,7 +2174,7 @@ Guorus Mack bovssa mii lea gollin muoiduduvvon$(vowc,mono;conc,id-idd;vowlat,u-o
 
 Sámi nissonat bajimusas
 
-Sámi (spábbačiekčan nissonjoavkku)$(cmp,2-1;conc,vkk-vk|spábbačiekčan nissonjoavkku) lea bajimusas listtus daid joavkkuin mat eai leat FIFA-joavkkut.
+Sámi {spábbačiekčan nissonjoavkku}${cmp,2-1;conc,vkk-vk|spábbačiekčan nissonjoavkku} lea bajimusas listtus daid joavkkuin mat eai leat FIFA-joavkkut.
 
 Spábbačiekčanlihttu N.F.-Boarda maŋŋimuš$(conc,ŋŋ-ŋ|maŋimuš) áigečállagis álmmuhit listtu mii čájeha ahte sámi nissonat leat bajimusas, Ålanda$(prop,vowc,a-á|Ålánda) nuppi sajis.
 
@@ -2374,9 +2374,9 @@ Beassá báhčit albasa
 
 Albbas ráppi alde.
 
-(Dieldda sullos)$(prop,cmp,2-1|Dielddasullos) Nordlanddas$(prop,vowc,a-á|Nordlánddas) besset dál báhčit albasa, go dat lea speaddjan$(conc,ddj-dj|speadjan) bohccuid.
+{Dieldda sullos}${prop,cmp,2-1|Dielddasullos} Nordlanddas$(prop,vowc,a-á|Nordlánddas) besset dál báhčit albasa, go dat lea speaddjan$(conc,ddj-dj|speadjan) bohccuid.
 
-Nordlandda$(prop,vowc,a-á|Nordlándda) filkkamánne$(loan,vowc,i-y;vowlat,e-i|fylkkamánni) lea áddán$(vowc,á-a|addán) lobi báhčit albasa (Dieldda sullos)$(prop,cmp,2-1|Dielddasullos) Nordlanddas$(prop,vowc,a-á|Nordlánddas), go dat goddá bohccuid doppe. Boazoeaiggát Magne Huva muitala ahte olbmot leat oaidnán stuorra álbasa$(vowc,á-a|albasa) rastildeamen$(conc,st-stt|rasttildeamen) nuori, šaldi mielde. Dan máŋŋá$(vowc,á-a|maŋŋá) gávdne ge sii ráppiid, lohká Huva.
+Nordlandda$(prop,vowc,a-á|Nordlándda) filkkamánne$(loan,vowc,i-y;vowlat,e-i|fylkkamánni) lea áddán$(vowc,á-a|addán) lobi báhčit albasa {Dieldda sullos}${prop,cmp,2-1|Dielddasullos} Nordlanddas$(prop,vowc,a-á|Nordlánddas), go dat goddá bohccuid doppe. Boazoeaiggát Magne Huva muitala ahte olbmot leat oaidnán stuorra álbasa$(vowc,á-a|albasa) rastildeamen$(conc,st-stt|rasttildeamen) nuori, šaldi mielde. Dan máŋŋá$(vowc,á-a|maŋŋá) gávdne ge sii ráppiid, lohká Huva.
 
 Boazoeaiggát Magne Huva lohka gávdnan ráppiid.
 
@@ -2511,7 +2511,7 @@ Máŋgii sáhttet olbmot jurddašit go oidnet olbmuid geat lihkostuvvet ja manna
 
 Bargiidbellodaga Sámediggepresideantta evttohas áigu oahppat sámegiela vuoi gulahallá olbmuiguin, muhto ii dáhtu$(vowlat,u-o,I|dáhto) sámegilli gal searvat digáštallamiidda$(vowlat,á-a|digaštallamiidda).
 
-Son lea Bargiidbellodaga vuosttaš nissonolmmoš (sámediggepresideanta evttohassan)$(cmp,2-1|sámediggepresideantaevttohassan), ii sámás ja vuosttaš presideanttaevttohas olggobeale Finnmárkku. Mannan lávvardaga váljjejuvvui$(conc,ljj-llj|válljejuvvui) Sámediggeráđđi Vibeke Larsen Bargiidbellodaga sámediggepresideantta evttohassan.
+Son lea Bargiidbellodaga vuosttaš nissonolmmoš {sámediggepresideanta evttohassan}${cmp,2-1|sámediggepresideantaevttohassan}, ii sámás ja vuosttaš presideanttaevttohas olggobeale Finnmárkku. Mannan lávvardaga váljjejuvvui$(conc,ljj-llj|válljejuvvui) Sámediggeráđđi Vibeke Larsen Bargiidbellodaga sámediggepresideantta evttohassan.
 
 – Giella buktá hástalusaid, muhto mii leat váljjen$(conc,ljj-llj|válljen) ovttasbargat ja čohkket bellodaga ovdal Sámediggeválggaid boahtte jagi, lohká Ávjovári Kåre Olli (Bb), gii muittuha ahte várrepresideanttaevttohas$(loan,conc,ntt-nt|várrepresideantaevttohas) Johan Vasara sámásta.
 
@@ -2558,7 +2558,7 @@ Nu oččošedje ge mánát liige áhku dahje ádjá mii livččii ávkin sihke m
 
 Oktavuohta lea dehálaš danin go mánát ohppet sámi árbevearuid birra maid vánemat$(conc,hn-n|váhnemat) eai leat háhppeđan$(conm,đ-h|háhppehan) oahpahit dán huššas árgabeaivvis.
 
-Vánemat$(conc,n-hn|Váhnemat) ožžot veahki bajásgeassit mánáid ja veahki daid geahččat go fertejit (ovda mearka)$(cmp,2-1;conc,rk-rkk|ovdamearkka) dihte mannat čoahkkimiidda.
+Vánemat$(conc,n-hn|Váhnemat) ožžot veahki bajásgeassit mánáid ja veahki daid geahččat go fertejit {ovda mearka}${cmp,2-1;conc,rk-rkk|ovdamearkka} dihte mannat čoahkkimiidda.
 
 Vuorasolbmot besset gis čájehit ja muitalit maid sii máhttet - ja dovdet maid ahte leat dehálačča$(adj,fin,0-t|dehálaččat) servodagas.
 
@@ -2666,7 +2666,7 @@ Gáivuona suohkana hálddahusa logut čájehit ahte ovddidanossodagas ii leat go
 
 Seamma olbmot eret
 
-Dat stuora jávkánproseanta$(vowlat,á-a|jávkanproseanta) vuolgá gal maid das ahte muhttun$(conc,htt-ht|muhtun) bargit jávket dávjá, ja nu lea leamaš máŋggaid jagiid juo. Dat lokte maid (proseanta logu)$(cmp,2-1|proseantalogu), go 20 proseantta olbmuin geat jávket, leat duogábeale 80 proseantta jávkanlogus,čilge ráđđealmmái.
+Dat stuora jávkánproseanta$(vowlat,á-a|jávkanproseanta) vuolgá gal maid das ahte muhttun$(conc,htt-ht|muhtun) bargit jávket dávjá, ja nu lea leamaš máŋggaid jagiid juo. Dat lokte maid {proseanta logu}${cmp,2-1|proseantalogu}, go 20 proseantta olbmuin geat jávket, leat duogábeale 80 proseantta jávkanlogus,čilge ráđđealmmái.
 
 – Gáivuona suohkan ferte vuolidit jávkamiid, muđui čuohcagoahttá$(conc,htt-ht|čuohcagoahtá) fálaldagaide álbmogii, loahpaha Pedersen.
 
@@ -2896,7 +2896,7 @@ Juoga maid mii fertet - maiddái sámediggepresidenta$(loan,vowc,diph|sámedigge
 
 Boahtte vahkkus dihkkáda Sámediggi sámi servodaga geainnu ovddos guvlui. Ášši lea deaŧalaš midjiide buohkaide. Válljejumit mat dahkkojuvvojit, šaddet doaivumis jorgalahttit surgadis mannolaga, mii lea goasii jávkadan olles álbmoga. Ášši lea sámegiela dilálašvuohta.
 
-«Sámediggedieđáhus sámegiela birra». Dat orru gal leame oalle (goike ášši)$(cmp,2-1|goikeášši), ja namahus ii soaitte geasuhit aviisadoaimmaheddjiid Kárášjohkii čuovvut sámedikki politihkkáriid digaštallama sámegiela birra.
+«Sámediggedieđáhus sámegiela birra». Dat orru gal leame oalle {goike ášši}${cmp,2-1|goikeášši}, ja namahus ii soaitte geasuhit aviisadoaimmaheddjiid Kárášjohkii čuovvut sámedikki politihkkáriid digaštallama sámegiela birra.
 
 Mo diet leaš; dát lea goit okta dain buot deaŧaleamos áššiin maid Sámediggi galgá gieđahallat álggaheami rájes 1989:s.
 
@@ -3030,7 +3030,7 @@ Almmuhuvvon: 20.04.2012
 
 – Maŋimuš sámi mátkkoštanplána lea jagi 2000 rájes, dadjá NSR/SáB Nuortaguovllu válgabiire sámediggeáirras Trond Are Anti. Anti muitala ahte NSR evttohii Sámedikkis juovlamánu 2008 ođđa áššin álggahit barggu ráhkadit ođđa ollislaš sámi mátkkoštanplána, ja jearra$(vowlat,a-á|jearrá) dan ektui maid Sámediggi lea bárgan$(vowc,á-a;vowlat,a-á|bargan) dan ášši olis.
 
-– Maid lea sámediggeráđđi bargan (dan áššiin)£(dainna áššiin), jurdila Anti. – Leago ráđis áigumuš ráhkadit ođđa ollislaš sámi mátkkoštanplána, ja goas boahta$(vowlat,a-á|boahtá) dieđáhus mo sámi mátkkošteapmi doaibmá?
+– Maid lea sámediggeráđđi bargan {dan áššiin}£{dainna áššiin}, jurdila Anti. – Leago ráđis áigumuš ráhkadit ođđa ollislaš sámi mátkkoštanplána, ja goas boahta$(vowlat,a-á|boahtá) dieđáhus mo sámi mátkkošteapmi doaibmá?
 
 – Sámediggi juolluda doarjaga sámi mátkkošteapmái. Man lahkai$(vowc,a-á|láhkai) kvalitehtasihkkarastá Sámediggi ahte lea sámi buvtta man Sámediggi doarju, loahpaha Anti.
 
@@ -3231,9 +3231,9 @@ Almmuhuvvon: 01.03.2012
 
 Našunála giellajahki 2013: NSR háliida bidjat fuomášumi jagi 2013ái$(num,suf|2013:i) mii lea nášunalalaš$(loan,šun-tion|nationálalaš) giellajahki, ja bivdá Sámedikki sihkarastit$(conc,hk-hkk|sihkkarastit) ahte dát šaddá maid sámi giellajahki gos giellaguovddážat, suohkanat, organisašuvnnat ja institušuvnnat oassálastet.
 
-Sámi (e-girje vuoruheapmi)$(cmp,2-1|e-girjevuoruheapmi): NSR háliida ahte sámegiel girjjit juogaduvvot£juogaduvvojit digitálalaččat ja bivdá Sámedikki ovttasbargat sámi lágádusaiguin guorahallat leago vejolaš sámi e-girjjiid vuoruhit nu ahte sáhttá leat válmmas boahtte jagi bušeahttameannudeapmái.
+Sámi {e-girje vuoruheapmi}${cmp,2-1|e-girjevuoruheapmi}: NSR háliida ahte sámegiel girjjit juogaduvvot£juogaduvvojit digitálalaččat ja bivdá Sámedikki ovttasbargat sámi lágádusaiguin guorahallat leago vejolaš sámi e-girjjiid vuoruhit nu ahte sáhttá leat válmmas boahtte jagi bušeahttameannudeapmái.
 
-Sámi bearráigeahčči: NSR evttoha ahte ásahuvvo sámi bearráigeahčči, mii doaibmá bearráigeahččun, bagadallin-$(cmp,der|bagadallan-) ja diehtojuohkinorgánan. Bearráigeahču rolla lea čuovvut mielde movt guovttegielatruđat geavahuvvojit Sámelága njuolggadusaid ektui, ja maiddái dieđuid juohkit sámegiela ja makkár vuoigatvuođat giellageavaheddjiin leat. NSRas$(acro,suf|NSR:s) lea doaivva ahte dakkár bearráigeahčči boahtá sadjái našunála giellajahkái 2013. Loga eanet dán (bearráigeahčču jurdaga)$(cmp,2-1|bearráigeahččojurdaga) birra DÁPPE.
+Sámi bearráigeahčči: NSR evttoha ahte ásahuvvo sámi bearráigeahčči, mii doaibmá bearráigeahččun, bagadallin-$(cmp,der|bagadallan-) ja diehtojuohkinorgánan. Bearráigeahču rolla lea čuovvut mielde movt guovttegielatruđat geavahuvvojit Sámelága njuolggadusaid ektui, ja maiddái dieđuid juohkit sámegiela ja makkár vuoigatvuođat giellageavaheddjiin leat. NSRas$(acro,suf|NSR:s) lea doaivva ahte dakkár bearráigeahčči boahtá sadjái našunála giellajahkái 2013. Loga eanet dán {bearráigeahčču jurdaga}${cmp,2-1|bearráigeahččojurdaga} birra DÁPPE.
 
 Guorahallat sámi institušuvnnaid giellabálvalusaid: NSR háliida geahččat ahte institušuvnnat mat ruhtaduvvojit Sámedikki bušeahtta$(conc,htt-ht|bušeahta) bokte fállet doarvái buori giellafálaldaga. Jus galgá sáhttit bidjat doaimmaid johtui sidjiide geat oččot$(conc,čč-žž|ožžot) doarjaga háliida NSR guorahallat movt dat institušuvnnat geat ruhtaduvvojit Sámedikki ruđaid bokte, sámegillii doibmet ja fállet bálvalusaid. Movt ja manne jurddahuvvo guorahallat sáhtát lohkat DÁPPE.
 
@@ -3360,7 +3360,7 @@ Sápmelaččat leat daid olbmuid maŋisboahttit, geat orro Davvi-Fennoskandias$(
 
 Dan sadjái siseatnama ássit seailluhedje eallinvugiideaset, mat vuođđuduvve bivdui. Oktanaga go nuortaguovlluid váikkuhusat olle siseatnama ássiid rádjai, de sii seammás earránedje "suopmelaččain", geaid giella ja genaárbi oaččui ollu indoeurohpalaš váikkuhusaid. Maŋimustá 1. jahkeduháhis sámegiella lei sierra giellahápmi, dan hálli álbmot leavai oppa Davvi-Fennoskandia$(prop,cmp,0-hyph|Davvi-Fenno-Skandia) guvlui.
 
-Sápmelaččaid boarraseamos$(vowlat,a-á|boarráseamos) gálduin "fenni" dahjege "skritifinni", 1200-logu rájes "lappalaiset") ássanguovlu ja lávdanviidodat ledje viidásepmosat$(infl,adj|viidásamosat) áigelogu álggu báliin gitta 1000-lohkui. Sápmelaččat orro Ladogas gitta Jiekŋameara rittuide ja Gaska-Skandinavias$(prop,vowc,a-á|Gaska-Skandinávias) gitta Vienameara rittuide. Earret máttaoarje- ja máttarittuid oppa dálá Suoma guovlu lei sápmelaččaid ássanguovlu. Suopmelaš ođđaássiid deattu geažil sápmelaš ássan suttai goittotge johtilit oktii nu, ahte 1500-logus sápmelaččat eai šat gávdnon (mátta Suomas)$(prop,cmp,2-hyph|Mátta-Suomas).
+Sápmelaččaid boarraseamos$(vowlat,a-á|boarráseamos) gálduin "fenni" dahjege "skritifinni", 1200-logu rájes "lappalaiset") ássanguovlu ja lávdanviidodat ledje viidásepmosat$(infl,adj|viidásamosat) áigelogu álggu báliin gitta 1000-lohkui. Sápmelaččat orro Ladogas gitta Jiekŋameara rittuide ja Gaska-Skandinavias$(prop,vowc,a-á|Gaska-Skandinávias) gitta Vienameara rittuide. Earret máttaoarje- ja máttarittuid oppa dálá Suoma guovlu lei sápmelaččaid ássanguovlu. Suopmelaš ođđaássiid deattu geažil sápmelaš ássan suttai goittotge johtilit oktii nu, ahte 1500-logus sápmelaččat eai šat gávdnon {mátta Suomas}${prop,cmp,2-hyph|Mátta-Suomas}.
 
 Sápmelaččat leat leamašan váldooasis bivdoálbmot, man eallinvuohki vuođđuduvai duháhiid jagiid lotnolasealáhusaide. Goddebivdu lei gitta 1500-logu rádjai bures gánnáhahtti ealáhus, man buktagiid vuovdaledje gitta Gaska-Eurohpa$(prop,vowlat,a-á|Gaska-Eurohpá) rádjai. Lotnolasdoalus jahkodatgirdui gulai maiddái guolástus nu meara alde go jogain ja jávrriinge, lodden, murjen ja čoaggin. Meahccesápmelaš servodat lea bures organiserejuvvon: vuođđoovttadahkan ledje bearrašiin dahjege sogain šaddan siiddat, maid fierpmádat govčai$(conc,vč-včč|govččai) oppa Davvi-Fennoskandia.
 
@@ -3464,7 +3464,7 @@ Seamma áššiin Skutnabb-Kangas finai muitaleamen Ohcejogas 1970-logu loahpagea
 
 BUOT sámegielat leat nu áittatvuložat$(conc,itt-it|áitatvuložat), ahte mánát, geaid vánhemat máhttet sámegiela ja geavahit dan mánáideasetguin leat earenoamáš stuorra resursan, ii dušše oppa Sámi servodahkii, baicce Supmii ja máilbmái. Sii leat váimmusjoavku, man haga giella ii seaillo, ja sin giella- ja kulturoahpuid berrešii doarjut nu olu go vejolaš. – Giela váimmusjoavku lea dat joavku, mii lea ožžon giela ruovttus, mánáidgárddis, skuvllas, ja hállá dan bures, lohká, čállá, doallá dan normálan giellan vaikke sii máhttetge eará gielaid bures. Ja sii dárbbašit justa dan birrasa, masa sámegiella lea – dihtortearpmain – ”navddusgiella”, gávnnaha Skutnabb-Kangas. Sámegielat ruoktu, beaivedikšu ja skuvla eai leat okto doarvái sámegiela doalaheapmái. – Mánát dárbbašit oalle olu vejolašvuođaid sámegiela geavaheapmái jierpmálaš dilálašvuođain skuvlla olggobealde. Sis berrejit leat valljis$(conc,llj-lj|valjis) vejolašvuođat geavahit sámegiela sierralágan diliin, sierralágan báikkiin dan haga, ahte sii dárbbašit smiehttat guđe giela sii berrešedje geavahit. Leago várra, ahte sii ”sierastallagohtet”, dahje ohppet suomagiela funet? II, dadjala Skutnabb-Kangas; suomagiella lea nu stuorra váldogiella, ahte dan oahppá goittotge, ja dađe buorebut máhttá sámegiela.
 
-Tove Skutnabb-Kangas čilge, ahte olggošnjuovžilvuohta lea máhttu hállat man nu giela njuovžilit, rivttes deattuhusaiguin, konkrehtalaččat dábálaš árgabeaiáššiin, oktii čalmmiid muhtumiin, diliin mat eai gáibit nu sakka fihtolašvuođa ja gielalašvuođa dáfos ja main olmmoš oažžu ”geažádusaid” dillái laktáseaddji áššiin (nuppiin sániin sáhttá oaidnit, čujuhit čuvddiin, guoskkahit, áddet oktavuođas, dahkat, jna.). Jurddašangiella lea fas nahku máhttit geavahit giela jurddašeami gaskaoapmin abstrákta váttisvuođaid čoavddedettiin, fihtolaččat ja gielalaččat gáibideaddji “geažádusakeahtes” diliin (nuppiin sániin diliin, mas dušše giella addá ja gaskkusta dieđuid ja main dillái laktáseaddji geažádusaid eai olus gávdno: olbmot ságastallet abstrákta áššiin mat eai leat dás-ja-dál). – Goas nu gullá olbmuid dadjamin, ahte dat ja dat mánná oahpai giela moatti mánotbajis. Áibbas dušši ságat, Tove dadjá. Giela olggošnjuovžilvuođa sáhttá oahppat oanehis áiggis, skihpáriiguin, muhto jurddašangiela gárggiideapmi dáhpáhuvvá njozet jagiid áigge, iešalddes oppa olbmo eallima áigge. Olggošnjuovžilvuođa oahppan sáhttá addit (boastto gova)$(cmp,2-1|boasttogova), ahte giella lea nannosut go duođalašvuođas lea. Giella mii lea vehádatsajádagas, dárbbaša álot olu doarjaga vai dat gárggiida jurddašangiela dássái, Skutnabb-Kangas muitala, ja almmá sámegielat skuvlema dat lea measta veadjemeahttun.
+Tove Skutnabb-Kangas čilge, ahte olggošnjuovžilvuohta lea máhttu hállat man nu giela njuovžilit, rivttes deattuhusaiguin, konkrehtalaččat dábálaš árgabeaiáššiin, oktii čalmmiid muhtumiin, diliin mat eai gáibit nu sakka fihtolašvuođa ja gielalašvuođa dáfos ja main olmmoš oažžu ”geažádusaid” dillái laktáseaddji áššiin (nuppiin sániin sáhttá oaidnit, čujuhit čuvddiin, guoskkahit, áddet oktavuođas, dahkat, jna.). Jurddašangiella lea fas nahku máhttit geavahit giela jurddašeami gaskaoapmin abstrákta váttisvuođaid čoavddedettiin, fihtolaččat ja gielalaččat gáibideaddji “geažádusakeahtes” diliin (nuppiin sániin diliin, mas dušše giella addá ja gaskkusta dieđuid ja main dillái laktáseaddji geažádusaid eai olus gávdno: olbmot ságastallet abstrákta áššiin mat eai leat dás-ja-dál). – Goas nu gullá olbmuid dadjamin, ahte dat ja dat mánná oahpai giela moatti mánotbajis. Áibbas dušši ságat, Tove dadjá. Giela olggošnjuovžilvuođa sáhttá oahppat oanehis áiggis, skihpáriiguin, muhto jurddašangiela gárggiideapmi dáhpáhuvvá njozet jagiid áigge, iešalddes oppa olbmo eallima áigge. Olggošnjuovžilvuođa oahppan sáhttá addit {boastto gova}${cmp,2-1|boasttogova}, ahte giella lea nannosut go duođalašvuođas lea. Giella mii lea vehádatsajádagas, dárbbaša álot olu doarjaga vai dat gárggiida jurddašangiela dássái, Skutnabb-Kangas muitala, ja almmá sámegielat skuvlema dat lea measta veadjemeahttun.
 
 Sámeguovllu gielddat oidnet sámegiela dávjá ekonomalaš rásehussan . Skutnabb-Kangas vuostálastá dakkár jurddašeami. – Dutkamušaid mielde fitnodagat, main lea olu máŋggagielat bargit, birgejit buorebut gilvvohallamis go fitnodagat, main eai leat. Servošiidda leat stuorra nahku máŋggagielagat ja dákko bokte hutkás olbmot. Nuba Ohcejohkii lea stuorra ovdu das, ahte gielda lea virggálaččat guovttegielat ja gielddas ásset olu máŋggagielat olbmot, Skutnabb-Kangas gávnnaha.
 
@@ -3738,7 +3738,7 @@ Statoil Ja Sámi Allaskuvla
 
 Duorastaga (1.11.07) gullui viimmat Sámeradio$(loan,vowc,a-á|Sámerádio) ođđasiin ahte Statoil lea šaddan garra kritihka čuozáhahkan go billista ja rivve eamiálbmogiid eatnamiid Alberta-provinssa davviosiin Kanadas. Ášši ii leat miige ođđasiid ja lean guhká imaštan go dan birra ii leat gullon mihkkige Sámis, vaikko Statoil lea maiddái gieskat searvan sáddobohkamiidda. Doapmalin dárkkistit ášši duogáža Interneahtas, gos ohppen ahte Sámeradio$(loan,vowc,a-á|Sámerádio) ii lean gal ieš fuomášan ášši muhto Statoil doaimmat Kanadas ja daid kritihkka ledje leamaš ovdan moadde beaivve ovdal Norgga medias (Søndagsrevyen-nammasaš prográmmas).
 
-Sámeradio$(loan,vowc,a-á|Sámerádio) (ođas ášši)$(cmp,2-1|ođasášši) birra ii lean nuge Statoil eamiálbmogiid eatnamiid billisteami birra muhto Sámi allaskuvlla rollas (dahje dan váilevašvuođas) ášši oktavuođas. Sámi allaskuvllas – mu dálá bargoaddis – lea namalassii šiehtadus Statoiliin$(prop,suf|Statoilain), mii earret eará cealká ahte Sámi allaskuvla galgá leat Statoilii ráđđeaddin eamiálbmotáššiiguin.
+Sámeradio$(loan,vowc,a-á|Sámerádio) {ođas ášši}${cmp,2-1|ođasášši} birra ii lean nuge Statoil eamiálbmogiid eatnamiid billisteami birra muhto Sámi allaskuvlla rollas (dahje dan váilevašvuođas) ášši oktavuođas. Sámi allaskuvllas – mu dálá bargoaddis – lea namalassii šiehtadus Statoiliin$(prop,suf|Statoilain), mii earret eará cealká ahte Sámi allaskuvla galgá leat Statoilii ráđđeaddin eamiálbmotáššiiguin.
 
 Ráđđeaddi rolla gal lei aibbas$(vowc,a-á|áibbas) ođđa ášši munnje. Dihten gal, ahte allaskuvlla dalá rektor čálii vuollái šiehtadusa 14.2.07 Guovdageainnus Riikkaidgaskasaš Polarjagi$(prop,cmp,ar-ára|Polárajagi) ráhpama$(vowc,á-a|rahpama) oktavuođas, muhto dan rájes leamaš buohkaide eahpečielggas maid šiehtadus iešalddes sisttisdoallá. Muhtumat lohket ahte dat ii leat earágo “Memorandum of Understanding” mii ii vel čana min (dahje Statoila) masage, go fas earát dadjet ahte Statoil lea lohpidan ruhtadit min oahpahusa, dutkamuša ja maiddái universitehta plánenbargojoavkku. Go jođiheaddjiiguin$(nomag,vowc,mono|jođiheddjiiguin) £jođiheddjiin geat leat čoahkkimastán Statoiliin$(prop,suf|Statoilain) šiehtadusa čállima maŋŋá, ii šatta dađe viisáseabbon$(infl,adj|viisásabbon).
 
@@ -4116,11 +4116,11 @@ Sisdoallu  [čiega]
 2 Čujuhusat
 
 
-Gro Harlem Brundtland (riegádan cuoŋománu 1939 Bærumas$(prop,suf|Bærumis), Oslos) lea ovddeš norgga politihkkár (Bb). Son leai stádaministtar golmma áigodagas, álggos 1981:as$(num,suf|1981:s), dasto 1986:as$(num,suf|1986:s) 1989:ii$(num,suf|1989:i) ja fas jagiin 1986:as$(num,suf|1986:s) 1996:ii$(num,suf|1996:i). Son leai Norgga vuosttaš (nisson stádaministtar)$(cmp,2-1|nissonstádaministtar)  ja dat vuosttaš (nisson jođiheaddji)$(cmp,2-1|nissonjođiheaddji) Bargiidbellodagas jagiin 1981:as$(num,suf|1981:s) gitta 1992:ii$(num,suf|1992:i).
+Gro Harlem Brundtland (riegádan cuoŋománu 1939 Bærumas$(prop,suf|Bærumis), Oslos) lea ovddeš norgga politihkkár (Bb). Son leai stádaministtar golmma áigodagas, álggos 1981:as$(num,suf|1981:s), dasto 1986:as$(num,suf|1986:s) 1989:ii$(num,suf|1989:i) ja fas jagiin 1986:as$(num,suf|1986:s) 1996:ii$(num,suf|1996:i). Son leai Norgga vuosttaš {nisson stádaministtar}${cmp,2-1|nissonstádaministtar}  ja dat vuosttaš {nisson jođiheaddji}${cmp,2-1|nissonjođiheaddji} Bargiidbellodagas jagiin 1981:as$(num,suf|1981:s) gitta 1992:ii$(num,suf|1992:i).
 
 Eallin ja doaibma
 
-Brundtland riegádii Bærumas$(prop,suf|Bærumis) Gudmund Harlema nieidan. Son logai doavttirin 1963:as$(num,suf|1963:s) Oslo Universitehtas ja Master of Public Health oahpu Harvard-universitehtas USA:s 1965:as$(num,suf|1965:s). Son barggai Dearvvašvuođadirektoráhtas 1966:as$(num,suf|1966:s), ja leai (veahkke váldodoavttirin)$(cmp,2-1|veahkkeváldodoavttirin) Oslo Dearvvašvuođaráđis ( Oslo Helseråd) áigodagas 1968–1974.
+Brundtland riegádii Bærumas$(prop,suf|Bærumis) Gudmund Harlema nieidan. Son logai doavttirin 1963:as$(num,suf|1963:s) Oslo Universitehtas ja Master of Public Health oahpu Harvard-universitehtas USA:s 1965:as$(num,suf|1965:s). Son barggai Dearvvašvuođadirektoráhtas 1966:as$(num,suf|1966:s), ja leai {veahkke váldodoavttirin}${cmp,2-1|veahkkeváldodoavttirin} Oslo Dearvvašvuođaráđis ( Oslo Helseråd) áigodagas 1968–1974.
 
 Jagis 1998:as$(num,suf|1998:s) válljejuvvui son generáladirekteuvran$(loan,euvra-evra|generáladirektevran) Máilmmi dearvvašvuođaorganisašuvnnas.
 
@@ -4138,7 +4138,7 @@ Sámi iešmearrideapmi
 Áltá-riiddu boađus leai ahte buot sámi áššit 1980 rájes oktiičaskojedje ja koordinerejuvvojedje (dalá) Gieldda- ja bargodepartemeanttas. Seammás mearriduvvui ahte Norgga Sámeráđi jahkedieđáhusat galge ovdánbuktot$(vowlat,á-a|ovdanbuktot) Sámediggái, oktain$(typo|oktan) Sámi Ovddidanfoandda jahkedieđáhusain. Norgga Sámeráđđái sirdui váldi juogadit stáhtalaš ruhtadoarjagiid sámi organisašuvnnaide, ealáhusaide ja eará.
 
 
-Einar Henry Gerhardsen (riegádan miessemánu 10.b. 1897 Asker:is$(prop,suf|Askeris) Norggas, namainis Einar Henry Olsen, jápmán čakčamánu 19. beaivve 1987) leai norgga politihkkár gii ovddastii Bargiidbellodaga. Son leai Norgga stádaministtarin jagi 1945 rájes gitta 1951 rádjai, 1955 rájes 1963 rádjai ja 1963 rájes 1965 rádjai. Norggas dovdet su buddestatnamain «landsfaderen», mii mearkkaša riikkaáhččin, ja son namuhuvvo okta£oktan váldoolmmožin huksemis norgga velferdsstáhta mii viidugođii nuppi (máilmme soađi)$(cmp,2-1;cmp,vowlat,e-i|máilmmisoađi) maŋŋá.
+Einar Henry Gerhardsen (riegádan miessemánu 10.b. 1897 Asker:is$(prop,suf|Askeris) Norggas, namainis Einar Henry Olsen, jápmán čakčamánu 19. beaivve 1987) leai norgga politihkkár gii ovddastii Bargiidbellodaga. Son leai Norgga stádaministtarin jagi 1945 rájes gitta 1951 rádjai, 1955 rájes 1963 rádjai ja 1963 rájes 1965 rádjai. Norggas dovdet su buddestatnamain «landsfaderen», mii mearkkaša riikkaáhččin, ja son namuhuvvo okta£oktan váldoolmmožin huksemis norgga velferdsstáhta mii viidugođii nuppi {máilmme soađi}${cmp,2-1;cmp,vowlat,e-i|máilmmisoađi} maŋŋá.
 
 Ovddasteamit 1897–1940
 
@@ -4161,7 +4161,7 @@ Go duiskalaččat bahkkejedje Norgii cuoŋománu 9.beaivve 1940, de báhtarii so
 
 
 
-Johan Turi (1854 – 1936) lei sámi girječálli. Son riegadii$(vowlat,a-á|riegádii) 12.3.1853 Guovdageainnus ja jámii Ruoŧa bealde. Turi lei sámi girječálli, duojár ja dáiddár. Girkogirjjis lea su namma čállojuvvon Johannes. Su váhnemat leigga Ole Olsen Turi ja Inger Aslaksdatter Logje. Turi girji, Muittalus samid birra, lei vuosttaš girji sámiid birra máid sápmelaš čállán¥(lea čállán), ja almmustuvai jagis 1910. Turis ii lean formálalaš čállinoahppu ja ani$(verb,fin,0-i|anii) iežas čállinvuogi. Dánska antropologa Emilie Demant jorgalii Turi girjji (dánska gillii)$(cmp,2-1|dánskkagillii). Son movttiidahti$(verb,fin,0-i|movttiidahtii) Turi čállit girjjii$(fin,i-id|girjjiid) sámiid birra. Girjái lea Johan Turi sárgon 14 gova (liige govvamáhppii)$(cmp,2-1|liigegovvamáhppii). Su sárgumat čájehit ee. sápmelaččaid bivddu, johtimiid, gárddástallamiid ja siiddastallamiid. Nils Nilsson Skum, sámi dáiddár ja boazodoalli Davvi-Sámis, lea sárgon gova ovdasiidui. Lágádus lei Nordiska bokhandeln AB Stockholmas. Muittalus samid birra lea jorgaluvvon máŋgga gillii; dánska, ruoŧa, eŋgelas, duiska, ungára$(loan,conc,ng-ŋg;vowlat,á-a|uŋgara), japana$(loan,vowc,a-á|japána), franska$(loan,vowc,a-á|fránska), italia$(loan,vowc,a-á|itália). Girji lea almmuhuvvon golmma sámegiel čállinvuogi mielde, jagiin 1965, 1986 ja 2010, ja lea maiddái almmuhuvvon jietnagirjin jagis 2010. Ođđaseamos prentosa várás 2010 lea Mikael Svonni dárkkistan Johan Turi giehtačállosiid ja lea dulkon daid ođđasit.
+Johan Turi (1854 – 1936) lei sámi girječálli. Son riegadii$(vowlat,a-á|riegádii) 12.3.1853 Guovdageainnus ja jámii Ruoŧa bealde. Turi lei sámi girječálli, duojár ja dáiddár. Girkogirjjis lea su namma čállojuvvon Johannes. Su váhnemat leigga Ole Olsen Turi ja Inger Aslaksdatter Logje. Turi girji, Muittalus samid birra, lei vuosttaš girji sámiid birra máid sápmelaš čállán¥(lea čállán), ja almmustuvai jagis 1910. Turis ii lean formálalaš čállinoahppu ja ani$(verb,fin,0-i|anii) iežas čállinvuogi. Dánska antropologa Emilie Demant jorgalii Turi girjji {dánska gillii}${cmp,2-1|dánskkagillii}. Son movttiidahti$(verb,fin,0-i|movttiidahtii) Turi čállit girjjii$(fin,i-id|girjjiid) sámiid birra. Girjái lea Johan Turi sárgon 14 gova {liige govvamáhppii}${cmp,2-1|liigegovvamáhppii}. Su sárgumat čájehit ee. sápmelaččaid bivddu, johtimiid, gárddástallamiid ja siiddastallamiid. Nils Nilsson Skum, sámi dáiddár ja boazodoalli Davvi-Sámis, lea sárgon gova ovdasiidui. Lágádus lei Nordiska bokhandeln AB Stockholmas. Muittalus samid birra lea jorgaluvvon máŋgga gillii; dánska, ruoŧa, eŋgelas, duiska, ungára$(loan,conc,ng-ŋg;vowlat,á-a|uŋgara), japana$(loan,vowc,a-á|japána), franska$(loan,vowc,a-á|fránska), italia$(loan,vowc,a-á|itália). Girji lea almmuhuvvon golmma sámegiel čállinvuogi mielde, jagiin 1965, 1986 ja 2010, ja lea maiddái almmuhuvvon jietnagirjin jagis 2010. Ođđaseamos prentosa várás 2010 lea Mikael Svonni dárkkistan Johan Turi giehtačállosiid ja lea dulkon daid ođđasit.
 
 Johan Turi lei maid boazosápmelaš.
 
@@ -4170,7 +4170,7 @@ Kåre Isaachsen Willoch (riegádan golggotmánu 3. beaivve jagis 1928 Oslos) lea
 
 Duogáš Son lea oahppan sosiálaekonoma, ja bargan ovdal Norges Rederiforbund:as$(prop,suf|Rederiforbundas) ja Norges Industriforbund:as$(prop,suf|Industriforbundas).
 
-Politihkálaš$(loan,vowlat,á-a|Politihkalaš) ámmáhat Willoch leai bellodatpolitihkkárin Olgežis beakkán jođiheaddji, ja hui čielga ovddasteaddji olgešbellodatbárus mii bođii johtui 1970-logu loahpas. Jienasteaddjit doarjugohte konservatiivalaš$(loan,conc,iv-ivv|konservatiivvalaš) ja márkanliberalisttálaš$(loan,vowlat,á-a|márkanliberalisttalaš) politihka, dagahii ahte Olgeš, Willocha jođihemiin, stuorui riikka nubbin stuorámus bellodahkan. Nuba jagis 1981 son šattai stádaministtarin dan vuosttaš čielga Olgeš-ráđđehusas, jagi 1928 Ivar Lykke ráđđehusa rájes. Ráđđehus viiddiduvvui jagis 1983:as$(num,suf|1983:s) vel guvttiin bellodagain, Guovddášbellodagain ja Risttalaš Álbmotbellodagain, nuba leai čielga eanetlohku su duogábeale Stuorradikkis. Jagi 1985 stuorradikkeválggain maŋŋá šattai Willoch ráđđehus unnitloguráđđehussan. Guokte dehálaš (reforbma rievdadusa)$(cmp,2-1|reforbmarievdadusa) dán ráđđehusáiggis ledje earret eará unnidit almmolašvuođa vejolašvuođa seaguhit áššiide. Dainnavugiin$(cmp,1-2|Dainna vugiin) galggai servodat dahkkon£dahkkot eanet rabasin mas lea unnit almmolaš detáljastivrema£detáljastivren ja ráddjema£ráddjen. Numo omd. giddenlága ovdii bođii rahpanáigeláhka, juoga mii divttii ealáhusdoalliid$(nomag,vowc,mono|ealáhusdolliid) (gávppiid) leat rabasin maŋŋá diibmu 17.00 maddái$(typo|maiddái). Lagasradiot$(loan,vowc,a-á|Lagasrádiot) leai lohpi ásahit ja NRK sáddenmonopola nogai. Maiddái dearvvašvuođabálvalusaid monopola nogai go šattai lohpi ásahit priváhta medisiinnálaš$(loan,vowlat,á-a|medisiinnalaš) klinihkaid.
+Politihkálaš$(loan,vowlat,á-a|Politihkalaš) ámmáhat Willoch leai bellodatpolitihkkárin Olgežis beakkán jođiheaddji, ja hui čielga ovddasteaddji olgešbellodatbárus mii bođii johtui 1970-logu loahpas. Jienasteaddjit doarjugohte konservatiivalaš$(loan,conc,iv-ivv|konservatiivvalaš) ja márkanliberalisttálaš$(loan,vowlat,á-a|márkanliberalisttalaš) politihka, dagahii ahte Olgeš, Willocha jođihemiin, stuorui riikka nubbin stuorámus bellodahkan. Nuba jagis 1981 son šattai stádaministtarin dan vuosttaš čielga Olgeš-ráđđehusas, jagi 1928 Ivar Lykke ráđđehusa rájes. Ráđđehus viiddiduvvui jagis 1983:as$(num,suf|1983:s) vel guvttiin bellodagain, Guovddášbellodagain ja Risttalaš Álbmotbellodagain, nuba leai čielga eanetlohku su duogábeale Stuorradikkis. Jagi 1985 stuorradikkeválggain maŋŋá šattai Willoch ráđđehus unnitloguráđđehussan. Guokte dehálaš {reforbma rievdadusa}${cmp,2-1|reforbmarievdadusa} dán ráđđehusáiggis ledje earret eará unnidit almmolašvuođa vejolašvuođa seaguhit áššiide. Dainnavugiin$(cmp,1-2|Dainna vugiin) galggai servodat dahkkon£dahkkot eanet rabasin mas lea unnit almmolaš detáljastivrema£detáljastivren ja ráddjema£ráddjen. Numo omd. giddenlága ovdii bođii rahpanáigeláhka, juoga mii divttii ealáhusdoalliid$(nomag,vowc,mono|ealáhusdolliid) (gávppiid) leat rabasin maŋŋá diibmu 17.00 maddái$(typo|maiddái). Lagasradiot$(loan,vowc,a-á|Lagasrádiot) leai lohpi ásahit ja NRK sáddenmonopola nogai. Maiddái dearvvašvuođabálvalusaid monopola nogai go šattai lohpi ásahit priváhta medisiinnálaš$(loan,vowlat,á-a|medisiinnalaš) klinihkaid.
 
 Kåre ja Gro Dat politihkálaš$(loan,vowlat,á-a|politihkalaš) digáštallan$(vowlat,á-a|digaštallan) Norggas šattai garrasit vuostálagai$(fin,i-id|vuostálagaid) Olgeža jođiheaddji Willocha ja stuorámus vašálačča Bargiidbellodaga jođiheaddji Gro Harlem Brundtlanda gaskka. «Gro og Kåre» gaskasaš TV-debáhtat ledje stuorra mediadáhpáhusat. Digáštallamiin$(vowlat,á-a|Digaštallamiin) čalmmustahtii Willoch iežas su čeahpes hállanvugiin, ja mievžžadeaddji ráfálašvuođain. Son almmuhii jagis 2008 ságastallangirjji «Alvorlig talt» ovttas Odvar Nordli:ain$(prop,suf|Nordliin).
 
@@ -4195,7 +4195,7 @@ Sisdoallu  [čiega]
 
 Ulbmilat
 
-Ulbmilat leat ovddidit ja oainnusin dahkat sámegiel ja sámi girjjálašvuođa, ásahit stipeanddaid, foanddaid ja eará ekonomalaš ortnegiid sámi girječálliide, fuolahit ahte sámgiel$(typo|sámegiel) girjjálašvuođa ilbmadeapmi šattašii seamma buorre go Davviriikkain muđui oččodit stáhta garantiijabálkkáid sámi girječállide$(conm,d-id|girječálliide), ásahit bissovaš oastinortnega sámegiel girjjiide ja oččodit šiehtadallanvuoigatvuođa kopiija- ja bibliotehkabuhtadusaide Suomas ja Ruoŧas, oččodit stipeanddaid Suoma ja Ruoŧa Sámedikkiin ovttasbargat eará (álgoálbmot girječálliiguin)$(cmp,2-1|álgoálbmotgirječálliiguin).
+Ulbmilat leat ovddidit ja oainnusin dahkat sámegiel ja sámi girjjálašvuođa, ásahit stipeanddaid, foanddaid ja eará ekonomalaš ortnegiid sámi girječálliide, fuolahit ahte sámgiel$(typo|sámegiel) girjjálašvuođa ilbmadeapmi šattašii seamma buorre go Davviriikkain muđui oččodit stáhta garantiijabálkkáid sámi girječállide$(conm,d-id|girječálliide), ásahit bissovaš oastinortnega sámegiel girjjiide ja oččodit šiehtadallanvuoigatvuođa kopiija- ja bibliotehkabuhtadusaide Suomas ja Ruoŧas, oččodit stipeanddaid Suoma ja Ruoŧa Sámedikkiin ovttasbargat eará {álgoálbmot girječálliiguin}${cmp,2-1|álgoálbmotgirječálliiguin}.
 
 Doaimmat
 
@@ -4276,7 +4276,7 @@ Sisdoallu  [čiega]
 
 Dovdomearkkat
 
-Čuovža lea šođbat ja das lea (silba ivdni)$(cmp,2-1|silbaivdni), čielgi lea čáhppadet ja čoavjeuvolli$(typo|čoavjevuolli) lea vielgat. Beahcet lea guovttesuorat, ja čuomat leat oalle stuorrát.
+Čuovža lea šođbat ja das lea {silba ivdni}${cmp,2-1|silbaivdni}, čielgi lea čáhppadet ja čoavjeuvolli$(typo|čoavjevuolli) lea vielgat. Beahcet lea guovttesuorat, ja čuomat leat oalle stuorrát.
 
 Ekologiija
 
@@ -4369,7 +4369,7 @@ Norggas goddojuvvon albbas
 
 (Norsk Skogmuseum)
 
-Eurasalaš$(loan|Eurásialaš) albbas lea stuorimus buot albbasšlájain. Das lea oalle njealječiegat gorut eará bussáid ektui, ja maŋágeahči$(conc,ŋ-ŋŋ;vowlat,á-e|maŋŋegeahči) lea allelis. Oaivi lea oalle jorbbas ja bealjit unnit - ja beljiin leat mihtilmas diehpit. Albbas lea 80-130 cm guhku, njunnegeažis seaibemáddagii ja seaibi lea 11-25 cm. Olleššattot$(cmp,conwb,šš-sš|Ollesšattot) albasa allodat seabi bokte lea 50-70 cm ja deaddu lea 13-26 kg. Davviguovlluid albasat šaddet dábálaččat stuoribut go lullelis. Norggas, Ruoŧas ja Suomas šaddá rávjáalbbas (varis albbas)$(cmp,2-1|varisalbbas) dábálaččat 18-26 kg, ja ciiko$(vowlat,o-u|ciiku) (njiŋŋelas) šaddá sullii 13-18 kg.
+Eurasalaš$(loan|Eurásialaš) albbas lea stuorimus buot albbasšlájain. Das lea oalle njealječiegat gorut eará bussáid ektui, ja maŋágeahči$(conc,ŋ-ŋŋ;vowlat,á-e|maŋŋegeahči) lea allelis. Oaivi lea oalle jorbbas ja bealjit unnit - ja beljiin leat mihtilmas diehpit. Albbas lea 80-130 cm guhku, njunnegeažis seaibemáddagii ja seaibi lea 11-25 cm. Olleššattot$(cmp,conwb,šš-sš|Ollesšattot) albasa allodat seabi bokte lea 50-70 cm ja deaddu lea 13-26 kg. Davviguovlluid albasat šaddet dábálaččat stuoribut go lullelis. Norggas, Ruoŧas ja Suomas šaddá rávjáalbbas {varis albbas}${cmp,2-1|varisalbbas} dábálaččat 18-26 kg, ja ciiko$(vowlat,o-u|ciiku) (njiŋŋelas) šaddá sullii 13-18 kg.
 
 Albbas lea bures heivehuvvon dan guvlui gos eallá. Dálvet lea suhkkes guolga, mii lea ullui ja suodjala bures buollaša vuostá, ja geasset dat fas lea njavgat. Guolgga vuođđoivdni lea ruksesruškat geasset ja ráneslágan dálvet, ja nu dat bures čiehkása$(typo|čiehkáda) birrasii. Iešguđet guovlluin sáhttá das leat iešguđet ivdni, danne go ivdni lea heivehuvvon dan guvlui gos eallá. Čoavjevuole lea albbas vielgat dahje čuovgat, ja muđui lea unnit eanet girjját. Juolgeluodda lea stuoris goruda sturrodaga ektui, erenoamážit dain mat ellet guovlluin gos lea ollu muohta. Albasis lea erenoamáš buorre gullu ja maiddái buorre oaidnu ja haksá bures. Luonddus lea albasa eallenahki 10-12 jagi, muhto lea dihtosis albbas mii elii olles 24 jagi.
 
@@ -4413,7 +4413,7 @@ Eŋgelasgillii lea «geatki» wolverine, man duogáš lea wolvering mii árvvusg
 
 Geatki, Kristiansand Zoo
 
-Dál leat ollu riikkat ráfáiduhttán geatkki. Geahča Bernkonvenšuvnna «Listtu II», mii ásahuvvui 1982:s. Ruoŧas ráfáidahttojuvvui (geatki1968:s)$(typo|geatki 1968:s) ja Lulli-Norggas 1973:s. Eiseválddit leat mearridan unnimus logu boraspiriid, mat galget leat Norggas. Geatki dáfus lea mihttomearri ahte galget leat 39 čivgama jagis. 2010:s leat dihtosis 66 čivgi ciiko$(vowlat,o-u;conc,ik-ikk|ciikku), muhto maŋŋel bivddu gos godde ciiko$(vowlat,o-u;conc,ik-ikk|ciikku) ja čivggaid 12 biejus, de ledje 2010 giđa 54 biejus čivggat.
+Dál leat ollu riikkat ráfáiduhttán geatkki. Geahča Bernkonvenšuvnna «Listtu II», mii ásahuvvui 1982:s. Ruoŧas ráfáidahttojuvvui {geatki1968:s}${typo|geatki 1968:s} ja Lulli-Norggas 1973:s. Eiseválddit leat mearridan unnimus logu boraspiriid, mat galget leat Norggas. Geatki dáfus lea mihttomearri ahte galget leat 39 čivgama jagis. 2010:s leat dihtosis 66 čivgi ciiko$(vowlat,o-u;conc,ik-ikk|ciikku), muhto maŋŋel bivddu gos godde ciiko$(vowlat,o-u;conc,ik-ikk|ciikku) ja čivggaid 12 biejus, de ledje 2010 giđa 54 biejus čivggat.
 
 Sisdoallu  [čiega]
 

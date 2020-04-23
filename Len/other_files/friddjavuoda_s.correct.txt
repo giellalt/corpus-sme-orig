@@ -3,9 +3,9 @@
 Friddjavuođa sáŋgáriid gudnejahtte
 
 
-Mannan vahko čoagganedje 160 olbmo miehtá Suomabeale Sámi Ohcejohkii ávvudit Ohcejoga soahteveteránaid searvvi 40-jagi. Seammás sii gudnejahtte sámi soahteveteránaid, geat leat dagahan ahte Suopma bisui iehčanassan$(infl,ess-attr|iehčanas riikan) ain nuppi (máilmmi soađi)¢(cmp,2-1|máilmmisoađi) maŋŋá.
+Mannan vahko čoagganedje 160 olbmo miehtá Suomabeale Sámi Ohcejohkii ávvudit Ohcejoga soahteveteránaid searvvi 40-jagi. Seammás sii gudnejahtte sámi soahteveteránaid, geat leat dagahan ahte Suopma bisui iehčanassan$(infl,ess-attr|iehčanas riikan) ain nuppi {máilmmi soađi}¢{cmp,2-1|máilmmisoađi} maŋŋá.
 
-Váile 30 jagi maŋŋá nuppi (máilmme soađi)$(cmp,2-1;vowlat,e-i|máilmmisoađi), jagis 1972, čoagganedje suoma davimus sámesoalddáhat Gáregasnjárgii ásahit iežaset veterána searvvi. Mannan vahkus ávvudii searvi 40-jagi. Ohcejogas leat leamašan oktiibuot (128 soahteveterána, geain dál leat dušše 13is eallimin)$(suf|128 soahteveterána, geain dál leat dušše 13 eallimin). Oassi sis (ledje ain nu virkui)£(kongr,sg-pl|ledje ain nu virkot) ahte besse boahtit doaluide. Ohcejoga soahteveteránaid lassin ledje maid vihtta lotta, ja guđádin sis lea Elina Niemistö, gii lea soahteveteránain boarraseamos$(vowlat,a-á|boarráseamos).
+Váile 30 jagi maŋŋá nuppi {máilmme soađi}${cmp,2-1;vowlat,e-i|máilmmisoađi}, jagis 1972, čoagganedje suoma davimus sámesoalddáhat Gáregasnjárgii ásahit iežaset veterána searvvi. Mannan vahkus ávvudii searvi 40-jagi. Ohcejogas leat leamašan oktiibuot {128 soahteveterána, geain dál leat dušše 13is eallimin}${suf|128 soahteveterána, geain dál leat dušše 13 eallimin}. Oassi sis {ledje ain nu virkui}£{kongr,sg-pl|ledje ain nu virkot} ahte besse boahtit doaluide. Ohcejoga soahteveteránaid lassin ledje maid vihtta lotta, ja guđádin sis lea Elina Niemistö, gii lea soahteveteránain boarraseamos$(vowlat,a-á|boarráseamos).
 
 94-jahkásaš Niemistö leage searvvi nubbinjođiheaddji$(case,ess-nom|nubbijođiheaddji) ja rabai ge ávvudoaluid. Sátnejođiheaddji Hans Nuorgam ii beassan boahtit buozalmasvuođa geažil. Buohkat dát 13 soahteveterána gudnejahttojuvvojedje erenoamážit ánsomedjáljaiguin$(typo|ánsomedáljaiguin) sihke silbbas ja gollis. Jođiheaddji guovttosges oaččuiba$(conm,b-g|oaččuiga) jo ánsoruossa, mii lea čuovvovaš ánsu maŋŋá gollemedálja.
 
@@ -15,7 +15,7 @@ Dollui maid seammás erenoamáš girkobeaivi veteránaid várás. Ovdal láveje 
 
 Ohcejoga girkohearrá muittuha ge ahte 60-70-logus leai Suomas dakkár imaš vuoigŋa ahte leai heahpadin leamaš soađis mielde, numo Dálvesoađis (1939-40), Joatkkasoađis Ruošša vuostá (1941-44) ja dasto velá Sámi soađis (1944-45) vuodjeleamen duiskalaččaid eret Davvi-Suomas.
 
-–Dál lea lihkus áigi rievdan ja olbmot áddegoahtán ahte soahtái leai bággu searvat. Dál galgatge soalddáhiid barggu atnit árvvus, (muđui han Suopma ge livčče friddjavuođa haga)£(kongr,pl-sg|muđui han Suopma ge livččii friddjavuođa haga) 6.12.1917 rájes šaddat fas Ruošša vuollái ja seammá dillái go báltalaš ránnjáriikkat Estte, Latvia ja Litauen, joatká báhppa muittuheames soalddáhiid dehálaš barggus.
+–Dál lea lihkus áigi rievdan ja olbmot áddegoahtán ahte soahtái leai bággu searvat. Dál galgatge soalddáhiid barggu atnit árvvus, {muđui han Suopma ge livčče friddjavuođa haga}£{kongr,pl-sg|muđui han Suopma ge livččii friddjavuođa haga} 6.12.1917 rájes šaddat fas Ruošša vuollái ja seammá dillái go báltalaš ránnjáriikkat Estte, Latvia ja Litauen, joatká báhppa muittuheames soalddáhiid dehálaš barggus.
 
 Jalvvi Veikko (Guttorm) ovddasta sápmelaččaid Suoma girkolaščoahkkimis ja son muittuhii alladásat gussiide ahte makkár dilli sámiin leamaš soađis go gearddi sámit eai leat beaggán soahttás álbmogin ja go gárte soahtat nuppiid sámiid vuostá. Dattege sámit gárte soahtái ja dál searvi gudnejahtii sin ánso-medáljaiguin sihke bronššas$(conc,nšš-nss|bronssas), silbbas, gollis ja ánsoruossa. Maiddái olusat earát ožžo ánsomedjáljaid$(typo|ánsomedáljaid) dan ovddas go leat bargan árvosaš barggu soahteveteránaide buorrin maŋit áiggis.
 
@@ -27,4 +27,4 @@ Dattege soađit leat guođđán čiekŋalis luottaid Sápmái, mat ain bistet mu
 
 –Mus gahčai áhčči soađis ovdal mu riegádeami, ja dakka maŋŋá massen fas eadnán, muitala Máret ganjalčalmmiid muhto moddjedettiin rávve fas eallima galgat dustet nugo dat boahtá.
 
-Lasi soađi muttuin sáhttá lohkat Ohcejoga veteránaid searvvi (matrihkkel girjjis)¢(cmp,2-1|matrihkkelgirjjis) almmustavvan$(vowc,a-u|almmustuvvan) jagis 2005, ”Sođiideamet veteránat”.
+Lasi soađi muttuin sáhttá lohkat Ohcejoga veteránaid searvvi {matrihkkel girjjis}¢{cmp,2-1|matrihkkelgirjjis} almmustavvan$(vowc,a-u|almmustuvvan) jagis 2005, ”Sođiideamet veteránat”.

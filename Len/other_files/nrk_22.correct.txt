@@ -13,9 +13,9 @@ Sverre Østerbøl oahpaha sámegiela Girkonjárgga joatkaskuvllas$(conc,tk-tkk|j
 
 Sii ohppat$(verb,vowlat,a-e|ohppet) máttuideaset giela
 
-Girkonjárgga joatkaskuvllas$(conc,tk-tkk|joatkkaskuvllas) leat dál sullii 30 oahppi geat lohket sámegiela vuosttaš ja nuppigiela dásis. Amasgiela-dásis$(case,gen-nom|Amasgielladásis) (ii leat dál oktege oahppi)¢(vowlat,e-a|ii leat dál oktasge oahppi). 1997 rájes leat dán skuvllas (oahpahan sámegielas)£(case,loc-acc|oahpahan sámegiela), nu muitala Girkonjárgga joatkaskuvlla$(conc,tk-tkk|joatkkaskuvlla) oahpaheaddji Sverre Østerbøl.
+Girkonjárgga joatkaskuvllas$(conc,tk-tkk|joatkkaskuvllas) leat dál sullii 30 oahppi geat lohket sámegiela vuosttaš ja nuppigiela dásis. Amasgiela-dásis$(case,gen-nom|Amasgielladásis) {ii leat dál oktege oahppi}¢{vowlat,e-a|ii leat dál oktasge oahppi}. 1997 rájes leat dán skuvllas {oahpahan sámegielas}£{case,loc-acc|oahpahan sámegiela}, nu muitala Girkonjárgga joatkaskuvlla$(conc,tk-tkk|joatkkaskuvlla) oahpaheaddji Sverre Østerbøl.
 
-Sámegiella (ii galggašii)£(infl,sg3-conneg|ii galggaše) jávkat
+Sámegiella {ii galggašii}£{infl,sg3-conneg|ii galggaše} jávkat
 
 Ørjan Johnsen lohká iežas fertet dego váldit ovddasvástádusa ja fievrridit sámegiela viidáseabbot$(conc,bb-pp|viidáseappot) iežas bearrašis. Iežas muitala leat Deanus bajášaddan$(conwb|bajásšaddan), muhto ollugat su bearrašis leat massán sámegiela. Danne áigu son váldit giela ruovttoluotta bearrašii, ja fievrridit dan viidáseabbot$(conc,bb-pp|viidáseappot).
 

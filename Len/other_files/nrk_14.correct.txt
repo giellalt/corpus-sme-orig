@@ -7,7 +7,7 @@
 
 Maŋimuš ođđasat sámegillii
 
-Álgoálbmotdiva (eambbo vejolaš)£(comp,analyt-synt|vejoleabbo) dál
+Álgoálbmotdiva {eambbo vejolaš}£{comp,analyt-synt|vejoleabbo} dál
 
 Ođđa girji julevsámegillii
 
@@ -22,10 +22,10 @@ Bassilaš muitalus sámiide
 
 Ođđa girji julevsámegillii
 
-Kristtosa$(vowlat,o-u|Kristusa) riegádeamis dás lea sáhka dán girjjis. Ja (muitalus lea čatnon Sápmái)¢(conc,tn-dn|muitalus lea čadnon Sápmái). Jovsset ja Márjá báhtareaba Jesus-mánáin. Sii leat sáttomeahccis$(conc,hcc-hc|sáttomeahcis), ja lea hui galmmas, danne go biegga bossu biktasiid čáđa$(vowc,á-a|čađa). Mo árpmui$(fin,i-id|árpmuid) galgaba birgehit mánáska? Márjá rohkadallagoahtá, ja Ipmil gullá su rohkosa. Son sádde eŋgela Sápmái, sámit ainnat$(vowc,diph|oainnat) dihtet mo birgehit mánáid buollašis dálveijaid.
+Kristtosa$(vowlat,o-u|Kristusa) riegádeamis dás lea sáhka dán girjjis. Ja {muitalus lea čatnon Sápmái}¢{conc,tn-dn|muitalus lea čadnon Sápmái}. Jovsset ja Márjá báhtareaba Jesus-mánáin. Sii leat sáttomeahccis$(conc,hcc-hc|sáttomeahcis), ja lea hui galmmas, danne go biegga bossu biktasiid čáđa$(vowc,á-a|čađa). Mo árpmui$(fin,i-id|árpmuid) galgaba birgehit mánáska? Márjá rohkadallagoahtá, ja Ipmil gullá su rohkosa. Son sádde eŋgela Sápmái, sámit ainnat$(vowc,diph|oainnat) dihtet mo birgehit mánáid buollašis dálveijaid.
 
 Girji lea jorgaluvvon julevsámegillii
 
 Dán girjji lea máttasápmelaš Anne Grethe Leine Bientie čállán máttasámegillii. Son lea dovddusis$(fin,sis-s|dovddus) olmmoš máttasámis, go lea áŋgiruššan máttasámi girkoeallima ovddas olu áššiin. Girječálli ássá Snoasás$(vowlat,á-a|Snoasas), muhto lea rievtti mielde Bærumas$(vowm,a-i|Bærumis) eret. Ollesolmmožin oahpai son máttasámegiela, ja čálii de girjji máttasámegillii.
-Anne-Grethe Leine Bientie lea čállán teavstta ja su nieida (Ellen Sara lea ges govaid sárgun)¢(vowlat,u-o|Ellen Sara lea ges govaid sárgon). Dál lea dát girji jorgaluvvon julevsámegillii ja nu leage das namma Vattáldahka. Oddvar Andersen dat lea jorgalan dan
+Anne-Grethe Leine Bientie lea čállán teavstta ja su nieida {Ellen Sara lea ges govaid sárgun}¢{vowlat,u-o|Ellen Sara lea ges govaid sárgon}. Dál lea dát girji jorgaluvvon julevsámegillii ja nu leage das namma Vattáldahka. Oddvar Andersen dat lea jorgalan dan
 

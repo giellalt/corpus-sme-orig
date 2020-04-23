@@ -28,4 +28,4 @@ Indiánaid eallin dego sámiid eallin
 
 Jim Poitras ja Piera Jovnna Somby
 
-Kárášjohkalaš Piera Jovnna Somby muitala iežas fitnan cree-indiánaid guovllus, ja doppe lei son dego ruovttus. Su mielas muittuhedje sin vierut dološ sámi oskku. - Sin lávlun lea dego min juoiogan$(typo|juoigan), ja sis leat maid dego lávut gos ijastallet. Siige (leat nannosit čatnon luonddu ealáhusaide)¢(conc,tn-dn|leat nannosit čadnon luonddu ealáhusaide), nu muitala Piera Jovnna Somby, gii iežas muitala leat čállimin masterbarggus vuoiŋŋalašvuođas.
+Kárášjohkalaš Piera Jovnna Somby muitala iežas fitnan cree-indiánaid guovllus, ja doppe lei son dego ruovttus. Su mielas muittuhedje sin vierut dološ sámi oskku. - Sin lávlun lea dego min juoiogan$(typo|juoigan), ja sis leat maid dego lávut gos ijastallet. Siige {leat nannosit čatnon luonddu ealáhusaide}¢{conc,tn-dn|leat nannosit čadnon luonddu ealáhusaide}, nu muitala Piera Jovnna Somby, gii iežas muitala leat čállimin masterbarggus vuoiŋŋalašvuođas.

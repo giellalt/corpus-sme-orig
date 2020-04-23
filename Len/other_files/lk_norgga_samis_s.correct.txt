@@ -6,15 +6,15 @@ Norgga Sámis ii mokta searvat Suoma gilvvuide
 
 Anára Heargegonagasgilvvuid gonagasluohkkái besset searvat 24 buoremus suopmelaS$(typo|suopmelaš) gilvovuojána.
 
-Bálgesiid ovttastumi stivrra dán čavčča mearrádus eastadit olgoriikka herggiid oassálastima (Hearge-cup -loahppagilvvuide)¢(cmp,2-1|Hearge-cup-loahppagilvvuide) Anáris soaitá dagahit, ahte Norgga Sámi heargeeaiggádat eai leat aktiivvalaččat searvame dán jagaš Suoma (Hearge cup-gilvvuide)¢(cmp,2-1|Heargecup-gilvvuide).
+Bálgesiid ovttastumi stivrra dán čavčča mearrádus eastadit olgoriikka herggiid oassálastima {Hearge-cup -loahppagilvvuide}¢{cmp,2-1|Hearge-cup-loahppagilvvuide} Anáris soaitá dagahit, ahte Norgga Sámi heargeeaiggádat eai leat aktiivvalaččat searvame dán jagaš Suoma {Hearge cup-gilvvuide}¢{cmp,2-1|Heargecup-gilvvuide}.
 
-– Norgga heargeeaiggádiidda ii leat miellagiddevaš gilvalit Suoma Hearge-Cuppas$(conc,pp-p|Hearge-Cupas), (go (eai sáhtte)£(conc,ht-htt|eai sáhte) čoaggit čuoggáid ja beasa gilvalit Anáris gonagasluohkás)£(infl,conneg-inf|go eai sáhte čoaggit čuoggáid ja beassat gilvalit Anáris gonagasluohkás), oaivvilda Sámi Heargelihtu (SHL) sátnejođiheaddji Mikkel Per Sara.
+– Norgga heargeeaiggádiidda ii leat miellagiddevaš gilvalit Suoma Hearge-Cuppas$(conc,pp-p|Hearge-Cupas), {go {eai sáhtte}£{conc,ht-htt|eai sáhte} čoaggit čuoggáid ja beasa gilvalit Anáris gonagasluohkás}£{infl,conneg-inf|go eai sáhte čoaggit čuoggáid ja beassat gilvalit Anáris gonagasluohkás}, oaivvilda Sámi Heargelihtu (SHL) sátnejođiheaddji Mikkel Per Sara.
 
 Eai beasa searvat finálii ja guhkki mátkkoštit oassegilvvuide
 
-Boahttevaš Anára Heargegonagasgilvvuid gonagasluohkkái besset searvat 24 suopmelaš gilvovuojána, mat leat čoaggán (eanemusat čuoggáid)£(infl,nom-attr|eanemus čuoggáid) dálvvi cup-gilvvuin. Norggabealde$(cmp,1-2|Norgga bealde) (leatge dál bidjame eanet návccaid iežas gilvvuid ordnemii)£(kongr,sg-pl|leatge dál bidjame eanet návccaid iežaset gilvvuid ordnemii).
+Boahttevaš Anára Heargegonagasgilvvuid gonagasluohkkái besset searvat 24 suopmelaš gilvovuojána, mat leat čoaggán {eanemusat čuoggáid}£{infl,nom-attr|eanemus čuoggáid} dálvvi cup-gilvvuin. Norggabealde$(cmp,1-2|Norgga bealde) {leatge dál bidjame eanet návccaid iežas gilvvuid ordnemii}£{kongr,sg-pl|leatge dál bidjame eanet návccaid iežaset gilvvuid ordnemii}.
 
-– SHL:a$(suf|SHL) ja Sámi Valáštallanlihtu beales mii nannet Norggabeale gilvvuid ordnema ja oassálastit Suomabeale cup -gilvvuide¢(cmp,2-1|cup-gilvvuide) dušše (delle, go)¢(vowc,e-a|dalle, go) mis eai leat gilvvut dáppe Norggas. Suoma-cupas (ii orošii)£(infl,sg3-conneg|ii oroše) nu stuora árvu dál midjiide, go eat beasa searvat ieš finálii ja dáppe šaddá juo muđuige guhkkin mátkkoštit Lulli-Lappii oassegilvvuide, muitala Sara.
+– SHL:a$(suf|SHL) ja Sámi Valáštallanlihtu beales mii nannet Norggabeale gilvvuid ordnema ja oassálastit Suomabeale cup -gilvvuide¢(cmp,2-1|cup-gilvvuide) dušše {delle, go}¢{vowc,e-a|dalle, go} mis eai leat gilvvut dáppe Norggas. Suoma-cupas {ii orošii}£{infl,sg3-conneg|ii oroše} nu stuora árvu dál midjiide, go eat beasa searvat ieš finálii ja dáppe šaddá juo muđuige guhkkin mátkkoštit Lulli-Lappii oassegilvvuide, muitala Sara.
 
 Stivra jienastii
 
@@ -24,7 +24,7 @@ Bálgesiid ovttastumis čohkkeje manna$(typo|mannan) giđa bargojoavkku, man ulb
 
 SHL:a$(suf|SHL) nubbi sátnejođiheaddji Juhani Länsman mielde Bálgesiid ovttastumi stivrra mearrádussii váikkuhii Suoma boazogilvoválljogotti oaidnu dán áššis.
 
-– Gilvoválljogoddis¢(conc,dd-tt|Gilvoválljogottis) (eai hálit, ahte)¢(fin,t-it|eai háliit, ahte) olgoriikka hearggit besset mielde gonagasgilvvuide. Dan dihte Bálgesiid ovtasttumi$(conm,stt-st|ovttastumi) stivrras šadde ”sealgi seainni vuostá” bargat dakkár mearrádusa, muitala Länsman.
+– Gilvoválljogoddis¢(conc,dd-tt|Gilvoválljogottis) {eai hálit, ahte}¢{fin,t-it|eai háliit, ahte} olgoriikka hearggit besset mielde gonagasgilvvuide. Dan dihte Bálgesiid ovtasttumi$(conm,stt-st|ovttastumi) stivrras šadde ”sealgi seainni vuostá” bargat dakkár mearrádusa, muitala Länsman.
 
 Ruhtadeapmi gonagasgilvvuide ii leat vel sohppojuvvon
 

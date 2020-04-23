@@ -22,9 +22,9 @@ SNF bargá dán ovdii:
 
 Maid SNF bargá ?
 
-SNF (doaibmá dál juo dego resursaguovddážin)¥(redun,dego-0|doaibmá dál juo resursaguovddážin) sámi nissoniid ja sohkabealdásseárvvu várás, muhto ain aivve fal eaktodáhtolaš, nuvttá doaibman. Manne ?
+SNF {doaibmá dál juo dego resursaguovddážin}¥{redun,dego-0|doaibmá dál juo resursaguovddážin} sámi nissoniid ja sohkabealdásseárvvu várás, muhto ain aivve fal eaktodáhtolaš, nuvttá doaibman. Manne ?
 
-Danne go nissonáššiid ja dásseárvvu FERTE áimmahuššat maiddái Sámis.  SNF áigu joatkit bargat sierra ásahusa ovdii (gosa čohkke máhttu)£(conc,htt-ht|gosa čohkke máhtu) ja dieđuid.
+Danne go nissonáššiid ja dásseárvvu FERTE áimmahuššat maiddái Sámis.  SNF áigu joatkit bargat sierra ásahusa ovdii {gosa čohkke máhttu}£{conc,htt-ht|gosa čohkke máhtu} ja dieđuid.
 
 Maid doaimmahat:
 
@@ -32,7 +32,7 @@ Gaskkustit ja oidnosin$(infl,mix|oainnusin) dahkat nissonolbmuid eallima:
 
 - Ilbmadat Gába, dáro-/sámegiel áigečállaga, 1996 rájes.
 
-- Oassálastit konferánssaide davvin ja muđui máilmmis. Geassit 2008 SNF lei (Women’s Worlds doaluin)¢(cmp,2-1|Women’s Worlds-doaluin) Madridas.
+- Oassálastit konferánssaide davvin ja muđui máilmmis. Geassit 2008 SNF lei {Women’s Worlds doaluin}¢{cmp,2-1|Women’s Worlds-doaluin} Madridas.
 
 - Gaskkusteapmi e-poastta ja ođđa neahttasiiddu bokte.
 

@@ -19,7 +19,7 @@ Ann-Britt Svane ja juovlastálut
 
 Nuvttá suohtas
 
-Mángga$(num,ascii|Máŋgga) girjerádjosis Norggas lea unnán ruhta eai ge suitte lágidit olus makkárge doaimmaid. Seamma dilis (lea Porsáŋgu girjerájus)£(prop,det,gensg,nomsg,case|lea Porsáŋggu girjerájus). Danne lea nu buorre go dákkár nuvttá suohttasiid sáhttit ráhkadit, lohká Ann-Britt Svane.
+Mángga$(num,ascii|Máŋgga) girjerádjosis Norggas lea unnán ruhta eai ge suitte lágidit olus makkárge doaimmaid. Seamma dilis {lea Porsáŋgu girjerájus}£{prop,det,gensg,nomsg,case|lea Porsáŋggu girjerájus}. Danne lea nu buorre go dákkár nuvttá suohttasiid sáhttit ráhkadit, lohká Ann-Britt Svane.
 
 Facebookas son bovdii olbmuid buktit juovlastáluid. Ii ge son jáhkkán ahte ná ollu juovlastálut galge boahtit.
 
@@ -27,7 +27,7 @@ Somá geahčadit
 
 Sigdis Olsen ja su juovlastálut
 
-Sigdis Olsenis leat guokte juovlastáloža maid fállá čájáhussii. Son lea ieš daid ráhkadan (10- 15)¥(notspace|10-15) jagi dás ovdal ja ledje šaddan garášii čihkosi$(adv,fin|čihkosii)..
+Sigdis Olsenis leat guokte juovlastáloža maid fállá čájáhussii. Son lea ieš daid ráhkadan {10- 15}¥{notspace|10-15} jagi dás ovdal ja ledje šaddan garášii čihkosi$(adv,fin|čihkosii)..
 
 – Somá lea geahčadit juovlastáluid, Sigdis Olsen lohká ja ordnesta vel iežas juovlastáluid nu ahte ožžot buori saji čájáhusas.
 

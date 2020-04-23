@@ -14,20 +14,20 @@ Gáibida muitalit nama
 Bargiidbellodaga parlamentáralaš jođiheaddji Helga Pedersen roaŋgu Olgešbellodaga ja Ovddádusbellodaga figgamušaid gávdnat oktasaš sámepolitihka.
 
 
-Jienasteddjiide sáhttá šaddat váttis áddet, mo (olgeš- ja ovddádusbellodat sáhtiba ovddidit oktasaš sámepolitihkka)¢(conc,ht-htt;conc,hkk-hk|olgeš- ja ovddádusbellodat sáhttiba ovddidit oktasaš sámepolitihka) (jus dát bellodagat fidnejit (ráđđehus válddi)¢(cmp,2-1|ráđđehusválddi) boahtte čavčča Stuorradikke válggain,
-lohka Bargiidbellodaga parlamentáralaš jođiheaddji)¢(vowlat,a-á|jus dát bellodagat fidnejit ráđđehusválddi boahtte čavčča Stuorradikke válggain, lohká Bargiidbellodaga parlamentáralaš jođiheaddji) Helga Pedersen.
+Jienasteddjiide sáhttá šaddat váttis áddet, mo {olgeš- ja ovddádusbellodat sáhtiba ovddidit oktasaš sámepolitihkka}¢{conc,ht-htt;conc,hkk-hk|olgeš- ja ovddádusbellodat sáhttiba ovddidit oktasaš sámepolitihka} {jus dát bellodagat fidnejit {ráđđehus válddi}¢{cmp,2-1|ráđđehusválddi} boahtte čavčča Stuorradikke válggain,
+lohka Bargiidbellodaga parlamentáralaš jođiheaddji}¢{vowlat,a-á|jus dát bellodagat fidnejit ráđđehusválddi boahtte čavčča Stuorradikke válggain, lohká Bargiidbellodaga parlamentáralaš jođiheaddji} Helga Pedersen.
 
-- Dál berrejit olgeš- ja ovddádusbellodat gávnnahit maid sii háliidit, (nubbi háliidivčče)£(kongr,pl-sg|nubbi háliidivččii) heaittihit ee. sámedikki ja nubbi fas ii.
+- Dál berrejit olgeš- ja ovddádusbellodat gávnnahit maid sii háliidit, {nubbi háliidivčče}£{kongr,pl-sg|nubbi háliidivččii} heaittihit ee. sámedikki ja nubbi fas ii.
 
-Dát lea dehálaš, jus (dát guokte bellodaga áiguba goassige stivret riika)¢(conc,ik-ikk|dát guokte bellodaga áiguba goassige stivret riikka) ovttas, áidna geaidnu ovddádusbellodahkii (ráđđehus lánjaide)¢(cmp,2-1;vowc,á-a|ráđđehuslanjaide) orru leamen Olgeža bokte, oaivvilda Pedersen.
+Dát lea dehálaš, jus {dát guokte bellodaga áiguba goassige stivret riika}¢{conc,ik-ikk|dát guokte bellodaga áiguba goassige stivret riikka} ovttas, áidna geaidnu ovddádusbellodahkii {ráđđehus lánjaide}¢{cmp,2-1;vowc,á-a|ráđđehuslanjaide} orru leamen Olgeža bokte, oaivvilda Pedersen.
 
 - Válgasagat$(vowc,a-á|Válgaságat)
 
-Olgeža (stuorradigge áirras)¢(cmp,2-1|stuorradiggeáirras) Frank Bakke-Jensen muitala, ahte bellodagas ii leat dárbu dahkat makkárge rievdadusaid iežas sámepolitihkkii.
+Olgeža {stuorradigge áirras}¢{cmp,2-1|stuorradiggeáirras} Frank Bakke-Jensen muitala, ahte bellodagas ii leat dárbu dahkat makkárge rievdadusaid iežas sámepolitihkkii.
 
 
 Stuorradiggeqirras$(typo|Stuorradiggeáirras) Frank Bakke-Jensen.
 
-- Sii leat addán molssaevttolaš (bušeahtta árvalusa)¢(cmp,2-1|bušeahttaárvalusa), das sii eai dárbbaš nannet juolludemiid sámi doaimmaide dan ektui, maid ráđđehus lea bidjan (stáhtabušeahtta árvalussii)¢(cmp,2-1|stáhtabušeahttaárvalussii). Nu čuvvot sii dan, maid ráđđehus lea evttohan juolludit sámi doaimmaide, lohká Bakke-Jensen.
+- Sii leat addán molssaevttolaš {bušeahtta árvalusa}¢{cmp,2-1|bušeahttaárvalusa}, das sii eai dárbbaš nannet juolludemiid sámi doaimmaide dan ektui, maid ráđđehus lea bidjan {stáhtabušeahtta árvalussii}¢{cmp,2-1|stáhtabušeahttaárvalussii}. Nu čuvvot sii dan, maid ráđđehus lea evttohan juolludit sámi doaimmaide, lohká Bakke-Jensen.
 
-Dál figgá Helga Pedersen dušše dagahit digaštallama Olgeža ja ovddádusbellodaga gaskii ja (diet lea dušše válgagičču ságat)£(kongr,sg-pl|diet leat dušše válgagičču ságat), dan sii gal dovdet juo ovddežis, dadjá Bakke-Jensen
+Dál figgá Helga Pedersen dušše dagahit digaštallama Olgeža ja ovddádusbellodaga gaskii ja {diet lea dušše válgagičču ságat}£{kongr,sg-pl|diet leat dušše válgagičču ságat}, dan sii gal dovdet juo ovddežis, dadjá Bakke-Jensen

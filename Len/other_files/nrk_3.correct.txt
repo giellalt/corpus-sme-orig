@@ -10,26 +10,26 @@ Gáibida muitalit nama
 
 Eambbogat hálidit$(conm,d-id|háliidit) mineráldivada$(vowlat,0-a|mineráladivada)
 
-Sámediggepresideanta (Egil Olli lohka (álgoálbmotdiva gáibádusaid)¢(cmp,2-1|álgoálbmotdivagáibádusaid) leat)¢(vowlat,a-á|Egil Olli lohká álgoálbmotdivagáibádusaid leat) (eambbo vejolažžan)£(comp,analyt-synt|vejolaččabun) ásahit dál go goassige ovdal.
+Sámediggepresideanta {Egil Olli lohka {álgoálbmotdiva gáibádusaid}¢{cmp,2-1|álgoálbmotdivagáibádusaid} leat}¢{vowlat,a-á|Egil Olli lohká álgoálbmotdivagáibádusaid leat} {eambbo vejolažžan}£{comp,analyt-synt|vejolaččabun} ásahit dál go goassige ovdal.
 
-Kánáda$(vowc,á-a|Kanáda) álgoálbmogat ožžo measta 500 milljun$(conc,llj-lj;vowlat,u-o|miljon) ruvnnu divamávssu mineráladoaimmain diibmá. (Indiánat leat jagis 1989 rájes leamašan šiehtadus)£(case,nom-loc,case,loc-gen;kongr,pl-sg|Indiánain lea jagi 1989 rájes leamašan šiehtadus) máilmmi stuorámus sinkminerála$(conc,nk-ŋk;vowlat,0-a|siŋkaminerála) ruvkedoaimmain, máid Red Dog čađáha$(vowlat,á-a|čađaha) indiánaid ássanguovlluin.
+Kánáda$(vowc,á-a|Kanáda) álgoálbmogat ožžo measta 500 milljun$(conc,llj-lj;vowlat,u-o|miljon) ruvnnu divamávssu mineráladoaimmain diibmá. {Indiánat leat jagis 1989 rájes leamašan šiehtadus}£{case,nom-loc,case,loc-gen;kongr,pl-sg|Indiánain lea jagi 1989 rájes leamašan šiehtadus} máilmmi stuorámus sinkminerála$(conc,nk-ŋk;vowlat,0-a|siŋkaminerála) ruvkedoaimmain, máid Red Dog čađáha$(vowlat,á-a|čađaha) indiánaid ássanguovlluin.
 
 Hálida$(conm,d-id|Háliida) seammalágan málle
 
 Sámediggepresideanta, Egil Olli, oaivvilda báikkálaččát$(vowlat,á-a|báikkálaččat) eambbogiid doarjut jurdaga gáibidišgoahtit mávssu.
 
-– Ii leat doarvai$(vowlat,a-á|doarvái) dušše ásahit bargosajiid, mii fertet eambbo oažžut buorrin mineráladoaimmain. Ja oainnán ahte (sátnejođiheaddjit suohkaniin gos leat ruvkedoaimmat, álget ovddidit (divvamákso jurdagiid)$(cmp,2-1;conc,vv-v|divamáksojurdagiid), lohka Olli)¢(vowlat,a-á|sátnejođiheaddjit suohkaniin gos leat ruvkedoaimmat, álget ovddidit divamáksojurdagiid, lohká Olli).
+– Ii leat doarvai$(vowlat,a-á|doarvái) dušše ásahit bargosajiid, mii fertet eambbo oažžut buorrin mineráladoaimmain. Ja oainnán ahte {sátnejođiheaddjit suohkaniin gos leat ruvkedoaimmat, álget ovddidit {divvamákso jurdagiid}${cmp,2-1;conc,vv-v|divamáksojurdagiid}, lohka Olli}¢{vowlat,a-á|sátnejođiheaddjit suohkaniin gos leat ruvkedoaimmat, álget ovddidit divamáksojurdagiid, lohká Olli}.
 
 
 Sámediggepresideanta Egil Ollis lea doaivva oažžugoahtit mineráldivvada$(vowlat,0-a;conc,vv-v|mineráladivada).
 
 Sámediggi hálidivččii$(conm,d-id|háliidivččii) geavahit seamma málle go Kánádalaččáin$(vowc,á-a|Kanádalaččain). Dássážii eai leat ožžon doarjaga dasa.
 
-Bákte-, oljo- ja (gásabuvttádan fitnodagat)$(cmp,2-1|gásabuvttadanfitnodagat) šaddet máksit divvadiid$(conc,vv-v|divadiid) 107.000 indiánaide.
+Bákte-, oljo- ja {gásabuvttádan fitnodagat}${cmp,2-1|gásabuvttadanfitnodagat} šaddet máksit divvadiid$(conc,vv-v|divadiid) 107.000 indiánaide.
 
 – Berre leat ávkin buohkaide
 
-- Sihke Fálesnuorri, Mátta-Várjjat ja Guovdageaidnu hálidit$(conm,d-id|háliidit) sisaboađu báikkálaččát$(vowlat,á-a|báikkálaččat) ruvkedoaimmaid dihte, muhto Olli mielas eai berre dušše oktonas suohkanat dušše álgoálbmot divvada$(conc,vv-v|divada)¢(cmp,2-1|álgoálbmotdivada).
+- Sihke Fálesnuorri, Mátta-Várjjat ja Guovdageaidnu hálidit$(conm,d-id|háliidit) sisaboađu báikkálaččát$(vowlat,á-a|báikkálaččat) ruvkedoaimmaid dihte, muhto Olli mielas eai berre dušše oktonas suohkanat dušše álgoálbmot divvada${conc,vv-v|divada}¢{cmp,2-1|álgoálbmotdivada}.
 
 – Finnmárkkus han leat ovttaoaivilis leamašan ahte ii buvtte buori jus dušše soames suohkanat galget oažžut ávkki oljo- ja gásabohkámiin$(vowlat,á-a|gásabohkamiin).
 

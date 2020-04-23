@@ -8,7 +8,7 @@ Mearrasámi guovllut guorranit
 
 Sámediggepresideanta váillaha oktasaš strategiija mo gádjut mearrasámi guovlluid.
 
-Norgga Sámedikki presideanta Egil Olli ohcala eambbo ovttasbarggu bissehit eretfárremiid mearrasámi guovlluin. Lohká fertet váldit duođas go dutkit váruhit eretfárremiid šaddamin roassun (dáid guovlluide)£(case,gen-ill|dáidda guovlluide).
+Norgga Sámedikki presideanta Egil Olli ohcala eambbo ovttasbarggu bissehit eretfárremiid mearrasámi guovlluin. Lohká fertet váldit duođas go dutkit váruhit eretfárremiid šaddamin roassun {dáid guovlluide}£{case,gen-ill|dáidda guovlluide}.
 
 - Son gal jáhkká sis buohkain leat ovttaoaivilvuohta das, ahte go dákkár sámi báikegottit guorranit, de dat lea ovtta láhkai katastrofa sámi kultuvrii ja eallinvuohkái, dadjá Olli.
 
@@ -25,9 +25,9 @@ Oktasaš strategiija
 
 Dál sámediggepresideanta Egil Olli hástala berošteaddjiaktevrraid čohkkedit seamma beavddi birra ja ráhkadit oktasaš ollislaš strategiija movt jorgalahttit dán negatiivva ovdáneami mearrasámi guovlluin.
 
-Jus sii eai nagot dál oaidnit ollislaš gova dás, de dat hehtte olu oažžumis ođđa bargosajiid (dáid smávva gielddaide)£(case,gen-ill|dáidda smávva gielddaide).
+Jus sii eai nagot dál oaidnit ollislaš gova dás, de dat hehtte olu oažžumis ođđa bargosajiid {dáid smávva gielddaide}£{case,gen-ill|dáidda smávva gielddaide}.
 
 Geat berrejit leat mielde ráhkadeamen du namuhan obbalaš strategiija?
 
-- Sii geain leat beroštumit (dáid guovlluin)£(case,gen-loc|dáin guovlluin). Nu¥(Nu go)  Finnmárkkus muđuige, lea mearragáttis maid boazodoallu okta doaibmi, man birra ii sáhte mannat ja seamma lea eará sámi beroštumit, dego guolásteapmi, buohkat berrejit leat mielde dás, dadjá Olli.
+- Sii geain leat beroštumit {dáid guovlluin}£{case,gen-loc|dáin guovlluin}. Nu¥(Nu go)  Finnmárkkus muđuige, lea mearragáttis maid boazodoallu okta doaibmi, man birra ii sáhte mannat ja seamma lea eará sámi beroštumit, dego guolásteapmi, buohkat berrejit leat mielde dás, dadjá Olli.
 

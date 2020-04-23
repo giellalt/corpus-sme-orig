@@ -4,7 +4,7 @@
 
 Stoahkan- ja lihkadanlávlagat
 
-Mánáide lea dál almmustuvvan ođđa cd man namma lea Mánážii - Til barnet. Dás (lea sihke stoahkan- ja lihkadanlávlagat)£(kongr,sg-pl|leat sihke stoahkan- ja lihkadanlávlagat).
+Mánáide lea dál almmustuvvan ođđa cd man namma lea Mánážii - Til barnet. Dás {lea sihke stoahkan- ja lihkadanlávlagat}£{kongr,sg-pl|leat sihke stoahkan- ja lihkadanlávlagat}.
 
 
 Ášši doaimmaha Ánne Olli
@@ -13,7 +13,7 @@ Lávlagat máná vuosttaš jahkái
 
 Ann-Mari Andersen muitala ođđa CD:s mii smávva mánáide lea jurddašuvvon.
 
-Ann-Mari Andersen lea leamaš prošeaktajođiheaddji mánáid-CD buvttadeamis, ja okta njealljásis gii lávlu CD:s mas leat máŋgga lagan$(vowc,a-á|lágan)¢(cmp,2-1|máŋggalágan) lávlagat. Oktiibuot 25 šuoŋa. Dát lea smávit mánáide ráhkaduvvon, danne leat dás lávlagat maidda mánát sáhttet doaškkut gieđaid, ja maiddai leat das lávlagat maidda mánát sáhttet lihkadit go gullet lávlagiid.
+Ann-Mari Andersen lea leamaš prošeaktajođiheaddji mánáid-CD buvttadeamis, ja okta njealljásis gii lávlu CD:s mas leat máŋgga lagan${vowc,a-á|lágan}¢{cmp,2-1|máŋggalágan} lávlagat. Oktiibuot 25 šuoŋa. Dát lea smávit mánáide ráhkaduvvon, danne leat dás lávlagat maidda mánát sáhttet doaškkut gieđaid, ja maiddai leat das lávlagat maidda mánát sáhttet lihkadit go gullet lávlagiid.
 
 Sámediggi ruhtadan CD`almmuheami$(cmp,punct-hyph|CD-almmuheami)
 

@@ -5,7 +5,7 @@ Miellahttovuohta$(vowlat,o-u|Miellahttuvuohta)
 SNF-Sámi NissonForuma lahttovuohta$(vowlat,o-u|lahttuvuohta)
 
 Gulaskutta minguin:
-#(snf@trollnet.no)∞(url)
+#{snf@trollnet.no}∞{url}
 
 Norga/Norge 150 nkr:
 

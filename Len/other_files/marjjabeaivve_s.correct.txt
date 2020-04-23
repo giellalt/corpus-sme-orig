@@ -6,14 +6,14 @@ Márjjábeaivve historiijjá$(vowlat,i-0;conm,ij-0|historjá)
 
 Árbevirolaččat Sámit¢(noun,cap|sámit) leat čoahkkanan meassostallat$(verb,mono|messostallat) girkobáikkiide Márjjábeivviid áigge. Čoahkkaneapmái ledje dieđusge girkolaš sivat, muhto leihan olbmuin dárbu muđuinnai$(adv,fin|muđuinai) beassat oaidnalit. Ja Márjjábeivviid áígge$(noun,typo|áigge) olbmuin lei astu ovdal davasjohtima$(noun,á|davásjohtima).
 
-Vuosttaš girku ceggejuvvui Ruovdnálii 1500-logu gaskkamuttus. (1600- logu)¥(noun,cmp|1600-logu) álggus girkobáikin bođii Márkan. Go Suopma šattai Ruošša válddi vuollái, sirdojuvvui Márkana girku Bálojotnjálbmái$(prop,con|Bálojohnjálbmái) 1826, mii bisui girkosiidan 50 jagi.
+Vuosttaš girku ceggejuvvui Ruovdnálii 1500-logu gaskkamuttus. {1600- logu}¥{noun,cmp|1600-logu} álggus girkobáikin bođii Márkan. Go Suopma šattai Ruošša válddi vuollái, sirdojuvvui Márkana girku Bálojotnjálbmái$(prop,con|Bálojohnjálbmái) 1826, mii bisui girkosiidan 50 jagi.
 
 Eanodaga ođđa girku huksejuvvui Heahttái 1800-logu loahpabealde$(cmp,1-2|loahpa bealde). Girku ceaggáige das sulaid 70 jagi ovdal¥(ovdal go) duiskalaččat bolde dan čakčat 1944. Dáláš girku lea huksejuvvon jagis 1951 seamma girkodievvái go ovdditnai.
 
 Dolin Márjjábeivviid áigge sámit bohte girkosiidii gásttašit mánáid, doallat heajaid ja hávdádit váinniid. Nuorat bohte rihppaskuvlii, ja konfirmerejuvvojedje Márjjábeaivve.
 
-Vel (1860- logus)¥(noun,cmp|1860-logus) máŋggat guovdageaidnoláš$(noun,mix|guovdageaidnulaš) nuorat vázze rihppaskuvlla Eanodagas. Deahalaš$(adj,conc|Deaŧalaš) lei dieđusge maid deaivvadit oahpes olbmuiguin ja gávpašit$(verb,conc|gávppašit).
+Vel {1860- logus}¥{noun,cmp|1860-logus} máŋggat guovdageaidnoláš$(noun,mix|guovdageaidnulaš) nuorat vázze rihppaskuvlla Eanodagas. Deahalaš$(adj,conc|Deaŧalaš) lei dieđusge maid deaivvadit oahpes olbmuiguin ja gávpašit$(verb,conc|gávppašit).
 
-Johtti Sápmelaččat rs ortnii$(verb,conc|ordnii) vuosttaš (geardde  Márjjábeaivve)‰(notspace|geardde Márjjábeaivve) doaluid jagis 1971. (Searvi  vuođđoduvvui$(verb,svow|vuođđuduvvui))‰(notspace|Searvi vuođđuduvvui) guokte jagi ovdal jagis 1969.
+Johtti Sápmelaččat rs ortnii$(verb,conc|ordnii) vuosttaš {geardde  Márjjábeaivve}‰{notspace|geardde Márjjábeaivve} doaluid jagis 1971. (Searvi  vuođđoduvvui$(verb,svow|vuođđuduvvui))‰(notspace|Searvi vuođđuduvvui) guokte jagi ovdal jagis 1969.
 
 Oba davviriikkaid vuosttaš juoigankonsearta dollui Heahtás Márjjábeaivve 1972. Juoigit bohte Ruoŧas, Norggas ja Suomas, ja guldaleaddjit ledje mánggat$(num,ascii|máŋggat) čuođit.

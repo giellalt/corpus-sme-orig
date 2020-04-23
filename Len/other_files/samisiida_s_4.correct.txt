@@ -6,17 +6,17 @@ Ođđasat jahkečoahkkimis
 
 Sámi Siidda jahkečoahkkin ii leat duđavaš dálá dilis sámegielat oahpahusas ja beaiveruovttuin. Danne mearridii čielgadišgoahtit sámegielat skuvllaid ja beaiveruovttuid ásaheami. Ođđa jođiheaddji Torkel Rasmussen lohká dákkár ásahemiid leat sihke vejolažžan ja ruđalaččat gánnehahttin.
 
-Ohcejoga gielddaráđđehus lea sihkastan eret guokte oahpaheaddjiidvirggi ja doaimmaha sámegielat beaiveruovttuid (dohkkemeahttumis gáržžes latnjadilis)£(adj,attr,attr,locsg,infl|dohkkemeahttun gáržžes latnjadilis).
+Ohcejoga gielddaráđđehus lea sihkastan eret guokte oahpaheaddjiidvirggi ja doaimmaha sámegielat beaiveruovttuid {dohkkemeahttumis gáržžes latnjadilis}£{adj,attr,attr,locsg,infl|dohkkemeahttun gáržžes latnjadilis}.
 
 Sámi Siida oaidná nu buriid ruhtadanvejolašvuođaid sámegielat skuvllain ja beaiveruovttuin ahte jáhkká iežas nákcet sihke ásahit ja doaimmahit skuvllaid ja beaiveruovttuid.
 
 - Suoma stáhta doarju priváhta skuvllaid ja beaiveruovttuid ja gokčá sámegielat oahpahusa oahpaheaddjigoluid$(noun,cmp,svow|oahpaheaddjegoluid). Dasa lassin juolluda Sámediggi doarjaga sámegielat beaiveruovttuide ja giellabesiide. Lea maid vejolaš vuovdit buori hattis beaiveruovttu sajiid gránnjágielddaide$(noun,init|kránnjágielddaide). Dan dahká Ohcejoga gielda dál ja dine bures das, čilge Sámi Siidda jođiheaddji Torkel Rasmussen
 
-Sámi Siidda jahkečoahkkin mearridii muđui (joatkit dálá doaimmaiguin dego mannan jagi, omd mánáid ja (nuoraiddoaimmaguin)$(noun,typo|nuoraiddoaimmaiguin))¥(noun,hyph|joatkit dálá doaimmaiguin dego mannan jagi, omd mánáid- ja nuoraiddoaimmaiguin). Čoahkkima beavdegirji ja doaibmaplána biddjojuvvo lohkanláhkai$(adv,notcmp|lohkan láhkai) go lea dárkkistuvvon.
+Sámi Siidda jahkečoahkkin mearridii muđui {joatkit dálá doaimmaiguin dego mannan jagi, omd mánáid ja {nuoraiddoaimmaguin}${noun,typo|nuoraiddoaimmaiguin}}¥{noun,hyph|joatkit dálá doaimmaiguin dego mannan jagi, omd mánáid- ja nuoraiddoaimmaiguin}. Čoahkkima beavdegirji ja doaibmaplána biddjojuvvo lohkanláhkai$(adv,notcmp|lohkan láhkai) go lea dárkkistuvvon.
 
-Das namahuvvo dušše ahte ((njuolggadusaide leat boahtán guokte nuppástusa mii)£(rel,subj,nompl,nomsg,kongr|njuolggadusaide leat boahtán guokte nuppástusa mat) nanne sámegiela sajádaga)£(verb,fin,pl3prs,sg3prs,kongr|njuolggadusaide leat boahtán guokte nuppástusa mat nannejit sámegiela sajádaga) searvvi doaimmain ja deattuhit searvvi doaimma davvisámegielat searvin mii doarju, nanne ja ealáskahttá sámegiela.
+Das namahuvvo dušše ahte {{njuolggadusaide leat boahtán guokte nuppástusa mii}£{rel,subj,nompl,nomsg,kongr|njuolggadusaide leat boahtán guokte nuppástusa mat} nanne sámegiela sajádaga}£{verb,fin,pl3prs,sg3prs,kongr|njuolggadusaide leat boahtán guokte nuppástusa mat nannejit sámegiela sajádaga} searvvi doaimmain ja deattuhit searvvi doaimma davvisámegielat searvin mii doarju, nanne ja ealáskahttá sámegiela.
 
-Ođđa 2 § (Searvvi čoahkkin ja beavdegirjegiella lea sámegiella)¥(noun,hyph|Searvvi čoahkkin- ja beavdegirjegiella lea sámegiella)
+Ođđa 2 § {Searvvi čoahkkin ja beavdegirjegiella lea sámegiella}¥{noun,hyph|Searvvi čoahkkin- ja beavdegirjegiella lea sámegiella}
 
 Ođđa 3 § Searvvi ulbmilin lea doarjut, nannet ja ealáskahttit davvisámegiela. Dan lassin ulbmilin lea dorvvastit sámiid vuoigatvuođaid doalahit, ollašuhttit ja ovddidit iežas kultuvrra sihke doarjut ja ovddidit sámi kultuvrralaš, sosiálalaš, vuoigatvuođalaš ja almmolaš ekonomalaš vikkamušaid$(noun,conc|viggamušaid) ja maiddái bargat ovttas riikka rájáid badjel.
 

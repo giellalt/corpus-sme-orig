@@ -8,7 +8,7 @@ Deanu sámeskuvlla njunnošis
 
 Deanu sámeskuvlla oahppit Dieđátgo gilvvu algovuorus$(vowc,a-á|álgovuorus) 2012.
 
-Deanu sámeskuvlla oahppit ledje Finnmárkku buoremusat matematihkas. Čájehit (vuođđoskuvllaid giđa čálalaš iskosiid bohtosat logat luohkkái)¢(vowlat,a-á|vuođđoskuvllaid giđa čálalaš iskosiid bohtosat logát luohkkái).
+Deanu sámeskuvlla oahppit ledje Finnmárkku buoremusat matematihkas. Čájehit {vuođđoskuvllaid giđa čálalaš iskosiid bohtosat logat luohkkái}¢{vowlat,a-á|vuođđoskuvllaid giđa čálalaš iskosiid bohtosat logát luohkkái}.
 
 Sámeskuvlla oahppit ledje measta ovtta árvosáni badjelis eará Finnmárkku ohppiid. Gaskamearálaš árvosátni lei 3,6 čálalaš matematihkas sámeskuvllas. Gaskamearálaš árvosátni olles Finnmárkkus lei 2,7. Giđđat lei Norggas gaskamearri matematihka iskosis 3,1, čállá Ságat
 
@@ -18,10 +18,10 @@ Oahpaheaddji Irene Pettersen muittuha, ahte buorre vuođđu oahppamis lea dehál
 
 Irene Pettersen oahpaha sámeskuvllas.
 
-Lea maid dehálaš (čuovvut juohkehaš oahppi)€(w|čuovvut juohke oahppi) golbma maŋimuš jagi, son oaidná juo gávccát luohká rájes, maid berre deattuhit ja mainna bargat lasi, muitala Pettersen.
+Lea maid dehálaš {čuovvut juohkehaš oahppi}€{w|čuovvut juohke oahppi} golbma maŋimuš jagi, son oaidná juo gávccát luohká rájes, maid berre deattuhit ja mainna bargat lasi, muitala Pettersen.
 
 Oahpahus guovtti gillii
 
-Giđa rádjai geavahuvvui skuvllas Mega oahpponeavvu. Dat ii lean máhttu loktema oahppoplána mielde. Pettersen čuoččuha, ahte (eai dát girjjit sáhte leat nu fuoni)£(kongr,sg-pl|eai dát girjjit sáhte leat nu fuonit), go (bohtosat leamaš nu buori)£(kongr,sg-pl|bohtosat leamaš nu buorit). Easkka dál čakčat leat sii sirdašuvvan Sirkel nammasaš oahpponeavvuide, go vuosttas sámegiel girjjit ledje gárvánan.
+Giđa rádjai geavahuvvui skuvllas Mega oahpponeavvu. Dat ii lean máhttu loktema oahppoplána mielde. Pettersen čuoččuha, ahte {eai dát girjjit sáhte leat nu fuoni}£{kongr,sg-pl|eai dát girjjit sáhte leat nu fuonit}, go {bohtosat leamaš nu buori}£{kongr,sg-pl|bohtosat leamaš nu buorit}. Easkka dál čakčat leat sii sirdašuvvan Sirkel nammasaš oahpponeavvuide, go vuosttas sámegiel girjjit ledje gárvánan.
 
 Pettersen geavaha guktuid gielaid oahpaheamis. Son oaivvilda, ahte oahppit berrejit máhttit tearpmaid ja doahpagiid sihke dáro - ja sámegillii. Sii mannet jáhkkimis dasto joatkkaskuvllaide, omd. Girkonjárgii dahje Čáhcesullui ja doppe eai oaččo gal matematihkaoahpu$(conc,hk-hkk|matematihkkaoahpu) sámegillii.
