@@ -168,11 +168,11 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="tilskudd-og-stipend_tag=262.html"/>
+        <parallel_text xml:lang="nob" location="tilskudd-og-stipend.html"/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="daaarjoe-jih-stipende.html"/>
+        <parallel_text xml:lang="sma" location="tilskudd-og-stipend_tag=262.html"/>
         <parallel_text xml:lang="sme" location=""/>
-        <parallel_text xml:lang="smj" location="tilskudd-og-stipend_tag=86.html"/>
+        <parallel_text xml:lang="smj" location="tilskudd-og-stipend_tag=87.html"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

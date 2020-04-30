@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://www.samediggi.no/Odasarkiiva/Juolluda-rudaid-giellaapplikasuvnnaide-fanas-ja-vuotnaterminologiija-birra'"/>
+    <xsl:variable name="filename" select="'https://www.samediggi.no/Media/Files/Juolluda-rudaid-giellaapplikasuvnnaide-fanas-ja-vuotnaterminologiija-birra'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Juolluda ruđaid giellaapplikašuvnnaide fanas- ja vuotnaterminologiija birra'"/>
     <!--
@@ -168,7 +168,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="bevilger-penger-til-spraakapplikasjoner-om-baat-og-fjordterminologi-i-porsanger.html"/>
+        <parallel_text xml:lang="nob" location="bevilger-penger-til-spraakapplikasjoner-om-baat-og-fjordteminologi-i-porsanger.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
