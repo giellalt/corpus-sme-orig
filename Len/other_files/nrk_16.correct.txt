@@ -15,13 +15,13 @@ Mearrasámiid áidna diehtoguovddáš sáhttá heaittihuvvot go álggaheaddji ja
 
 Gielda ii lohpit doarjaga
 
-Guovddáža vuolggaheaddji, Porsáŋggu gielda, ii leat juolludan maidge ruhtadoarjagiid dán jahkái, duođašta várresátnejođiheaddji Reidunn Hesjevik:
+Guovddáža vuolggaheaddji, Porsáŋggu gielda, ii leat juolludan {maidge}£{indef,attr,x|makkárge} ruhtadoarjagiid dán jahkái, duođašta várresátnejođiheaddji Reidunn Hesjevik:
 
 - Dás lei sáhka das, makkár doaimmaide válljiimet bidjat ruđaid.
 
 Hesjevik ii boahtte jahkáige loga sáhttit lohpidit maidige.
 
-- Dan gal ii son sáhte, ášši boahtá gieđahallamii juovlamánu bušeahttačoahkkimii ja dan maŋŋá gielddastivrra mearrida das.
+- {Dan gal ii son sáhte}¥{wo|Dan son gal ii sáhte}, ášši boahtá gieđahallamii juovlamánu bušeahttačoahkkimii ja dan maŋŋá gielddastivrra mearrida das.
 
 Ja jus nu geavvá ahte gielddastivrra ii juollut ruđaid boahtte jahkái, de Mearrasámi diehtoguovddáža beaivválaš jođiheaddji ii loga šat vuođu doaibmat viidásabbot.
 
