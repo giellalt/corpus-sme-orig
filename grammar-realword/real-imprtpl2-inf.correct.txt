@@ -1,31 +1,59 @@
-    ## Dasto go boraspiriid mearriduvvon lohku lea dievvan, de sáhttá (láhččit)¢(láhčit) saji dasa ahte eambbo vuhtiiváldit eará beroštumiid.
-    ## Galgá leat čielga servodatlaš ulbmil (láhččit)¢(láhčit) dilálašvuođaid nu ahte luondduvalljodagat mat gávdnojit, geavahuvvojit eanemus lágis biebmobuvttadeapmái almmá billiskeahttá luondduvuođu… Boazoealáhusa ovdáneapmi ja ásaiduvvan boazosámiguovlluide lea dan duohken ahte boazodoallit ožžot oadjebas ekonomalaš ja sosiálalaš birgenlági.
-    ## Lea stáhta eiseválddiid ovddasvástádus (láhččit)¢(láhčit) dili nu ahte Sámi álbmot sáhttá sihkkarastit ja ovddidit gielaset, kulvtuvrraset ja iežaset servodateallima.
-    ## Máŋggakultuvrralaš Anár geahččala gieldda doaimmain (láhččit)¢(láhčit) buriid vejolašvuođaid sierra kulturhámiid seailluheapmái ja maiddái ávnnaslaš ja vuoiŋŋalaš kultuvrra vurkemii.
-    ## máhttá (láhččit)¢(láhčit) dili nu ahte giella ja girjjálašvuohta nanne ohppiid identitehta.
-    ## Meahccedutkanlágádusa dutki, professor Heikki Henttonen jáhkká goddesáhpániid (ihttit)¢(ihtit) moatti vahkkus sámeguovlluin.
-    ## Jus menddo geahppadit válddát, de sáhttet váttisvuođat (ihttit)¢(ihtit).
-    ## Juo, ja nubbi giđđamearka lea go várrečohkaide álget bievllat (ihttit)¢(ihtit).
-    ## Soaitá (ihttit)¢(ihtit) fas lávvu Osloi Stuoradikki šilljui.
-    ## Dán mánus lávejit (ihttit)¢(ihtit) vel turisttat sullii ovtta vahkkui, dát leat eanaš luossaturisttat, geat bohtet borgemánu luossabivdui.
-    ## Mun lean Kararockas erenomážit guldalandihti Intrigue ja Kai Somby, soitet (ihttit)¢(ihtit) vehá gatnjalat odne, mieđiha rockemusihka entusiásta.
-    ## Jus njeaidá vuovddi ovdal go muorra lea jápmán, sáhttá leat vejolaš ahte sáhttet (ihttit)¢(ihtit) ođjošattut guottuide, ja dainna lágiin sáhttá šaddat ođđa vuovdi guovlluin mat dál leat fallehuvvon.
-    ## Boares áššit ja diŋggat sáhttet fáhkkestaga (ihttit)¢(ihtit) oidnosii dán vahkku.
-    ## In ipmir movt giehtasajit sáhttet dahkkái maid (ihttit)¢(ihtit)!
-    ## Rennesøyas ádjána diibmobeale (vuoddjit)¢(vuodjit) Stavangerii, mii lea guovlu mii lassána ollu sihke ekonomalaččat ja álbmoga dáfus.
-    ## Finnmárkku nuorat leat dávjá govviduvvon joavkun, mat unnán lihkadit fysalaččat, borgguhit ja juhket alkohola eambbo go eará nuorat ja atnet ollu áiggi (vuoddjit)¢(vuodjit) skohteriin, ATV:in ja mohtorfievrruiguin.
-    ## Sáhttá ieš (vuoddjit)¢(vuodjit) ja leat earáid mielde.
-    ## Dainna sáhttá (vuoddjit)¢(vuodjit) skohtermáđijaid mielde dahje kombineret eará doaimmaiguin, nugo ovdamearkka dihte oaggut jieŋa alde.
-    ## Boazoealáhusa oktavuođas lea dárbu (vuoddjit)¢(vuodjit) skohterin dálvet.
-    ## Dat guoská tuvravuodjimii, jieŋa alde oaggunmátkkiide ja (vuoddjit)¢(vuodjit) skohtermáđijaid mielde.
-    ## Sámi duogáš váikkuha dasa ahte (vuoddjit)¢(vuodjit) jeavddalaččat skohteriin skohtervuodjináigodagas, maiddái dalle go guorahallat sohkabeali ja geografiija.
-    ## Sámegiel duogážis lea unnán váikkuhus dasa ahte (vuoddjit)¢(vuodjit) skohteriin boazobargguid oktavuođas.
-    ## Son fertii (johttit)¢(johtit) Samaria čađa, ja son bođii gávpogii mii gohčoduvvo Sykarin.
-    ## Ávdugas son guhte gohcá ja várjala biktasiiddis, amas (johttit)¢(johtit) álásin ja čájehit heahpadis.
-    ## Terah válddii mielddis bártnis Abrama, bártnis Harana bártni Lota ja Abrama eamida Saraia ja vulggii (johttit)¢(johtit) singuin Uras Kaldeas Kanaaneatnama guvlui.
-    ## Muhto go Ipmil gohčui mu (johttit)¢(johtit) eret áhččán viesus, de mun celken áhkkásan: Čájet munnje dan ráhkisvuođa ahte gosa ihkinassii moai bođežetne, de dajat mu iežat vielljan.
-    ## De mun attán fasttain vielljadet ruovttoluotta, ja dii oažžubehtet (johttit)¢(johtit) eatnamis friddja.
-    ## Manne mun ferten (johttit)¢(johtit) morrašis go vašálaš áŧesta mu?
+
+Dasto go boraspiriid mearriduvvon lohku lea dievvan, de sáhttá (láhččit)¢(láhčit) saji dasa ahte eambbo vuhtiiváldit eará beroštumiid.
+
+Galgá leat čielga servodatlaš ulbmil (láhččit)¢(láhčit) dilálašvuođaid nu ahte luondduvalljodagat mat gávdnojit, geavahuvvojit eanemus lágis biebmobuvttadeapmái almmá billiskeahttá luondduvuođu… Boazoealáhusa ovdáneapmi ja ásaiduvvan boazosámiguovlluide lea dan duohken ahte boazodoallit ožžot oadjebas ekonomalaš ja sosiálalaš birgenlági.
+
+Lea stáhta eiseválddiid ovddasvástádus (láhččit)¢(láhčit) dili nu ahte Sámi álbmot sáhttá sihkkarastit ja ovddidit gielaset, kulvtuvrraset ja iežaset servodateallima.
+
+Máŋggakultuvrralaš Anár geahččala gieldda doaimmain (láhččit)¢(láhčit) buriid vejolašvuođaid sierra kulturhámiid seailluheapmái ja maiddái ávnnaslaš ja vuoiŋŋalaš kultuvrra vurkemii.
+
+máhttá (láhččit)¢(láhčit) dili nu ahte giella ja girjjálašvuohta nanne ohppiid identitehta.
+
+Meahccedutkanlágádusa dutki, professor Heikki Henttonen jáhkká goddesáhpániid (ihttit)¢(ihtit) moatti vahkkus sámeguovlluin.
+
+Jus menddo geahppadit válddát, de sáhttet váttisvuođat (ihttit)¢(ihtit).
+
+Juo, ja nubbi giđđamearka lea go várrečohkaide álget bievllat (ihttit)¢(ihtit).
+
+Soaitá (ihttit)¢(ihtit) fas lávvu Osloi Stuoradikki šilljui.
+
+Dán mánus lávejit (ihttit)¢(ihtit) vel turisttat sullii ovtta vahkkui, dát leat eanaš luossaturisttat, geat bohtet borgemánu luossabivdui.
+
+Mun lean Kararockas erenomážit guldalandihti Intrigue ja Kai Somby, soitet (ihttit)¢(ihtit) vehá gatnjalat odne, mieđiha rockemusihka entusiásta.
+
+Jus njeaidá vuovddi ovdal go muorra lea jápmán, sáhttá leat vejolaš ahte sáhttet (ihttit)¢(ihtit) ođjošattut guottuide, ja dainna lágiin sáhttá šaddat ođđa vuovdi guovlluin mat dál leat fallehuvvon.
+
+Boares áššit ja diŋggat sáhttet fáhkkestaga (ihttit)¢(ihtit) oidnosii dán vahkku.
+
+In ipmir movt giehtasajit sáhttet dahkkái maid (ihttit)¢(ihtit)!
+
+Rennesøyas ádjána diibmobeale (vuoddjit)¢(vuodjit) Stavangerii, mii lea guovlu mii lassána ollu sihke ekonomalaččat ja álbmoga dáfus.
+
+Finnmárkku nuorat leat dávjá govviduvvon joavkun, mat unnán lihkadit fysalaččat, borgguhit ja juhket alkohola eambbo go eará nuorat ja atnet ollu áiggi (vuoddjit)¢(vuodjit) skohteriin, ATV:in ja mohtorfievrruiguin.
+
+Sáhttá ieš (vuoddjit)¢(vuodjit) ja leat earáid mielde.
+
+Dainna sáhttá (vuoddjit)¢(vuodjit) skohtermáđijaid mielde dahje kombineret eará doaimmaiguin, nugo ovdamearkka dihte oaggut jieŋa alde.
+
+Boazoealáhusa oktavuođas lea dárbu (vuoddjit)¢(vuodjit) skohterin dálvet.
+
+Dat guoská tuvravuodjimii, jieŋa alde oaggunmátkkiide ja (vuoddjit)¢(vuodjit) skohtermáđijaid mielde.
+
+Sámi duogáš váikkuha dasa ahte (vuoddjit)¢(vuodjit) jeavddalaččat skohteriin skohtervuodjináigodagas, maiddái dalle go guorahallat sohkabeali ja geografiija.
+
+Sámegiel duogážis lea unnán váikkuhus dasa ahte (vuoddjit)¢(vuodjit) skohteriin boazobargguid oktavuođas.
+
+Son fertii (johttit)¢(johtit) Samaria čađa, ja son bođii gávpogii mii gohčoduvvo Sykarin.
+
+Ávdugas son guhte gohcá ja várjala biktasiiddis, amas (johttit)¢(johtit) álásin ja čájehit heahpadis.
+
+Terah válddii mielddis bártnis Abrama, bártnis Harana bártni Lota ja Abrama eamida Saraia ja vulggii (johttit)¢(johtit) singuin Uras Kaldeas Kanaaneatnama guvlui.
+
+Muhto go Ipmil gohčui mu (johttit)¢(johtit) eret áhččán viesus, de mun celken áhkkásan: Čájet munnje dan ráhkisvuođa ahte gosa ihkinassii moai bođežetne, de dajat mu iežat vielljan.
+
+De mun attán fasttain vielljadet ruovttoluotta, ja dii oažžubehtet (johttit)¢(johtit) eatnamis friddja.
+
+Manne mun ferten (johttit)¢(johtit) morrašis go vašálaš áŧesta mu?
    ## Áššái gulli beliide berre muđui dieđihit mávssolaš dieđuid maidda ferte vuordit ahte sis lea vuođđu ja beroštupmi ovddidit cealkámuša, ja maid bealis 18. § gč. 19. § mielde lea vuoigatvuohta beassat (diehttit)¢(diehtit).
    ## Son maiddái ii sáhte gáibidit (diehttit)¢(diehtit) siskkáldas áššeráhkkaneami dokumeanttain maid leat ráhkadan
    ## Vaikko dokumeanta lea čuldojuvvon nuppi lađđasa njuolggadusain, lea áššái gulli bealis vuoigatvuohta (diehttit)¢(diehtit) daid osiid birra main leat duohtadieđut dahje čoahkkáigeassu dahje eará čállosat duohtadili birra.
