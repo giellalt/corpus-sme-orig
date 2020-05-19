@@ -159,7 +159,7 @@
     -->
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
-        <parallel_text xml:lang="eng" location=""/>
+        <parallel_text xml:lang="eng" location="udir_forelderinfo_skole_engelsk.pdf"/>
         <parallel_text xml:lang="fin" location=""/>
         <parallel_text xml:lang="fit" location=""/>
         <parallel_text xml:lang="fkv" location=""/>
@@ -167,10 +167,10 @@
         <parallel_text xml:lang="isl" location=""/>
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
-        <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location=""/>
+        <parallel_text xml:lang="nno" location="udir_forelderinfo_skole_nynorsk.pdf"/>
+        <parallel_text xml:lang="nob" location="udir_forelderinfo_skole_bokmaal.pdf"/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
+        <parallel_text xml:lang="sma" location="udir_forelderinfo_skole_sorsamisk.pdf"/>
         <parallel_text xml:lang="sme" location=""/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
@@ -280,7 +280,7 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="linespacing" select="''"/>
+    <xsl:variable name="linespacing" select="'all=5'"/>
 
     <!--
         Choose which chapters to exclude from an epub file.
