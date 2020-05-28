@@ -160,7 +160,7 @@
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
         <parallel_text xml:lang="eng" location="faktablad_covid_19-70-ar_engelska.pdf"/>
-        <parallel_text xml:lang="fin" location=""/>
+        <parallel_text xml:lang="fin" location="faktablad_covid_19-70-ar_finska.pdf"/>
         <parallel_text xml:lang="fit" location="faktablad_covid_19-70-ar_meankieli.pdf"/>
         <parallel_text xml:lang="fkv" location=""/>
         <parallel_text xml:lang="ger" location=""/>
