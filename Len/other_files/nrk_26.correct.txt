@@ -4,7 +4,7 @@
 
 Sámediggi ON dálkkádatčoahkkimis
 
-Dálkkádatčohkkin dollojuvvo {Qatara}${prop,vowc|Quatara} Dohas.
+{Dálkkádatčohkkin}${noun,diph|Dálkkádatčoahkkin} dollojuvvo {Qatara}${prop,vowc|Quatara} Dohas.
 
 Sámediggi lea sajis ON dálkkádatčoahkkimis sihkkarastimin,
 ahte stáhtat vuhtiiváldet eamiálbmogiid go vigget čoavdit dálkkádat-hástalusaid.
