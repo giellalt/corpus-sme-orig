@@ -31,7 +31,7 @@ Kásterolain duldet gumposat ja bierggut. Nisson guovttos máisttašeaba - (lea 
 
 Ruhta mii dán gávppis boahtá manná {Kárásjoga}${prop,ascii|Kárášjoga} searvegoddái. Berit Nikkinen Varsi ja Laila Rasmus gal bargaba nuvttá eaba ge váidal dan dihtii.
 
-- Dáppe lea hui somá bargat, mun gal liikon {hirmasit}${adv,mix|hirbmosit}. Liikon bargat olu olbmuiguin, {lohkká}${verb,conc|lohká} Berit Nikkinen Varsi.
+- Dáppe lea hui somá bargat, mun gal liikon {hirmasit}${adv,mix|hirbmadit}. Liikon bargat olu olbmuiguin, {lohkká}${verb,conc|lohká} Berit Nikkinen Varsi.
 
 Unna gávppážat
 
