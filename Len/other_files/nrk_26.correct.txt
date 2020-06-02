@@ -22,7 +22,7 @@ go {doaimmat - vaikke vel dat livčče {biras seastevačča}¥{adj,cmp|birasseas
 
 Geahpedit {CO2 luoitima}¢{cmp|CO2-luoitima}
 
-Fáddán ON-čoahkkimis, mii dál lágiduvvo {Qataras}${prop,vowc|Quataras} lea earet eará, mo bissehit vuovdečuollamiid ja mo ođasmahttet Kyoto-protokolla, mii geatnegahttá riikkaid geahpedit CO2-luoitima.
+Fáddán ON-čoahkkimis, mii dál lágiduvvo {Qataras}${prop,vowc|Quataras} lea {earet eará}£{earret eará}, mo bissehit vuovdečuollamiid ja mo ođasmahttet Kyoto-protokolla, mii geatnegahttá riikkaid geahpedit CO2-luoitima.
 
 Čoahkkimis leat badjel 17.000 delegáhta, ja sullii 50 eamiálbmot-áirasa. Sámedikkis lea ovddasvástádus muittuhit stáhtaid, ahte dálkkádat-rievdan garrasit čuohcá álbmogiidda mat ellet {láhka}¢{pr,a|lahka} luonddu.
 
