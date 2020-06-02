@@ -20,7 +20,7 @@ Sámedikki ráđđeaddi Johan Vasara čuovvu čoahkkima.
 Go {máilmme}${noun,svow|máilmmi} stáhtat ovttasráđiid galget šiehtadallat doaibmabijuin, mo bissehit {máilmme}${noun,svow|máilmmi} liegganeami, de fertejit maid guldalit eamiálbmogiid,
 go {doaimmat - vaikke vel dat livčče {biras seastevačča}¥{adj,cmp|birasseastevačča}}£{adj,spred,nompl,accsg,kongr|doaimmat - vaikke vel dat livčče biras seastevaččat} {ge-}${space|ge -} dávjá čuhcet sidjiide, dadjá sámedikki {politihkakálaš}${adj,typo|politihkalaš} ráđđeaddi Johan Vasara.
 
-Geahpedit CO2 luoitima
+Geahpedit {CO2 luoitima}¢{cmp|CO2-luoitima}
 
 Fáddán ON-čoahkkimis, mii dál lágiduvvo {Qataras}${prop,vowc|Quataras} lea earet eará, mo bissehit vuovdečuollamiid ja mo ođasmahttet Kyoto-protokolla, mii geatnegahttá riikkaid geahpedit CO2-luoitima.
 
