@@ -9,7 +9,7 @@ Beanavázzi Piera ja Charlie
 
 {Njellii}${num,conc|Njelljii} vahkkui vázziba, Piera Mosebakken ja Charlie.
 
-Máŋgii vahkkui viežžá son vierrobeatnaga beassaba vázzit. Piera Mosebakken lea juo šaddan dovddusin ruovttubáikkistis go vázzá nu dávjá.
+Máŋgii vahkkui viežžá son vierrobeatnaga {beassaba}¥{vai beassaba} vázzit. Piera Mosebakken lea juo šaddan dovddusin ruovttubáikkistis go vázzá nu dávjá.
 
 Mii oaidnit su jámma {facebookas}${prop,cap|Facebookas} muitaleamen gos dal lea vázzán.
 
