@@ -39,7 +39,7 @@ Etáhtaid hálddatlaš dásis leat fágavirggit ({konsuleantat}¢{konsuleanttat}
 
 Váikkuhusčielggademiin maid Sámediggi lea iskan, orrot čájeheame ahte leat geavahuvvon {konsuleantat}¢{konsuleanttat} geain ii leat gelbbolašvuohta sámi luonddugeavaheamis.
 
-Musihkkaáššiid meannudeapmi lea veaháš earalágan go eará doaibmasurggiid áššit, danin go dáid áššiid fertejit olggobeale musihkkafágalaš {konsuleantat}¢{konsuleanttat} árvvoštallat.
+Musihkkaáššiid meannudeapmi lea veaháš earálágan go eará doaibmasurggiid áššit, danin go dáid áššiid fertejit olggobeale musihkkafágalaš {konsuleantat}¢{konsuleanttat} árvvoštallat.
 
 Geassemánus bohtet maiddái {konsuleantat}¢{konsuleanttat} Gielddaid Guovddášsearvvis.
 
@@ -53,7 +53,7 @@ Mii buohkat dovdat spiehkastemiid ja moalkasaddamiid njálmmálaš muitalanárbe
 
 Go {konsuleantat}¢{konsuleanttat} dákko behttet lágádusa, de behttet sii maiddái ohppiid.
 
-Pedagogalaš {konsuleantat}¢{konsuleanttat} barget siskkáldasat Sámediggesystemas ja departemeantta ektui, muhto dárbbašuvvo eambbo olggosguvlui bálvalus báikkálaš ja regiovnnalaš eiseválddiid ektui olggobealde sámegiela hálddašanguovllu, ja váhnemiid ektui geat doppe orrot.
+Pedagogalaš {konsuleantat}¢{konsuleanttat} barget siskkáldasat Sámediggesystemas ja departemeantta ektui, muhto dárbbašuvvo eambbo olggos guvlui bálvalus báikkálaš ja regiovnnalaš eiseválddiid ektui olggobealde sámegiela hálddašanguovllu, ja váhnemiid ektui geat doppe orrot.
 
 Dievasčoahkkimat ja {konfereansat}¢{konfereanssat} Roavvenjárggas.
 
@@ -67,15 +67,15 @@ Gielladili symposia, gielladili {konfereansat}¢{konfereanssat}, gielladili semi
 
 Sámiid {konfereansat}¢{konfereanssat}.
 
-Eurohpáráđi Eurohpálaš duovddaoktasašsoahpamuššii guoskevaš {konfereansat}¢{konfereanssat}.
+Eurohpáráđi Eurohpálaš duovddaoktalašsoahpamuššii guoskevaš {konfereansat}¢{konfereanssat}.
 
-Moanat Eurohpálaš duovddaoktasašsoahpamuššii guoskevaš {konfereansat}¢{konfereanssat} leat juo lágiduvvon.
+Moanat Eurohpálaš duovddaoktalašsoahpamuššii guoskevaš {konfereansat}¢{konfereanssat} leat juo lágiduvvon.
 
 Válmmaštallojit seminárat, gurssat ja {konfereansat}¢{konfereanssat}, vai sáhttá ovddidit duovdagii guoskevaš guorahallama, skuvlema ja sosiálalaš jurddašanvuogi.
 
 Govva 7. Plecs de Paisatge čoakkáldagas, mas leat guokte ráiddu ja gávdnojit čállosat, dutkamušat, bargobájit ja {konfereansat}¢{konfereanssat}, main gieđahallojit duovdagii dahje duovddasuodjaleapmái, dikšumii ja plánemii guoskevaš njuolggadusaide ja doaibmavugiide guoskevaš perspektiivvat dahje čuolmmat.
 
-Raporta buktá ovdan daid guovddášgáibádusaid, maid sámi searvvuš ja sámi {konfereansat}¢{konfereanssat} leat buktán ovdan julggaštunaineaset ja sámedikkiid iežaset barggus.
+Raporta buktá ovdan daid guovddášgáibádusaid, maid sámi searvvuš ja sámi {konfereansat}¢{konfereanssat} leat buktán ovdan julggaštusaineaset ja sámedikkiid iežaset barggus.
 
 Sámi nuoraid {konfereansat}¢{konfereanssat} dárbbahuvvojit maid boahtteáigge.
 
@@ -83,13 +83,13 @@ Mis leat leamaš {konfereansat}¢{konfereanssat} ja julggaštusat leat sáddejuv
 
 Juos Suomas ordnejuvvojit álbmogiidgaskasaš dáhpáhusat, dego gilvvut, {konfereansat}¢{konfereanssat}, de sihkkarit doppe leat sápmelaččaid symbolat, gáktenissonat ja gáktealbmát šluvggašeamen helmmiid.
 
-Jearahallon olbmuin, geat leat oahppan sámegiela áidna vuosttas giellan, maiddái goabbáge vánhen ja buot {áddját}¢{ádját} ja áhkut leat oahppan sámegiela vuosttas giellan, ja leat hállán gaskaneaset dušše davvisámegiela.
+Jearahallon olbmuin, geat leat oahppan sámegiela áidna vuosttas giellan, maiddái goabbáge vánhen ja buot {áddját}¢{ádját} ja áhkut leat oahppan sámegiela vuosttas giellan, ja leat hállan gaskaneaset dušše davvisámegiela.
 
 mánnávuođas rájes, ja su goabbáge vánhen ja buot {áddját}¢{ádját} ja áhkut leat oahppan sámegiela iežaset vuosttas giellan.
 
 Maiddái mánáid sámegielat áhkut ja {áddját}¢{ádját} eai hála mánáide sámegiela.
 
-Eará sámegielaid hállán áhkut dahje {áddját}¢{ádját} eai leat molson bearrašiid giela suomagiellan, muhto bearrašiid oktasaš giella lea leamaš davvisámegiella, mii lea sirdašuvvan maiddái mánáide ja mánáidmánáide.
+Eará sámegielaid hállan áhkut dahje {áddját}¢{ádját} eai leat molson bearrašiid giela suomagiellan, muhto bearrašiid oktasaš giella lea leamaš davvisámegiella, mii lea sirdašuvvan maiddái mánáide ja mánáidmánáide.
 
 Sihke mánát, nuorat, váhnemat ja áhkut ja {áddját}¢{ádját} čoahkkanit kultuvrralaš somás buđaldemiide.
 
@@ -111,17 +111,17 @@ De gal láveje {áddját}¢{ádját} dadjat ”de dál ii ábut šat loddet, dá
 
 Vánhemat, eaige {áddját}¢{ádját} ja áhkut hálit hállat maorigiela mánáide ja mánáidmánáide danin, go dat ii leat sin mielas ávkkálaš giella.
 
-Somá lei oaidnit ahte daid searvvis ledje vuorrásit olbmot maid, sihke áhkut ja {áddját}¢{ádját}.
+Somá lei oaidnit ahte daid searvvis ledje vuorrasit olbmot maid, sihke áhkut ja {áddját}¢{ádját}.
 
 muhto ráhkkan ja mana Paddan Aramii {áddját}¢{ádját} Betuela vissui ja váldde ovtta ednot Labana nieiddain alccesat áhkkán.
 
 Muhtumat leat nu lihkožat ahte sis leat áhkut ja {áddját}¢{ádját} geaiguin besset juohkit vásáhusaid.
 
-Eanaš sámi mánáide leat dákkár {áddját}¢{ádját} ja áhkut seammá dásis go mytologiija oaidnemeahttumat ja eatnanvuložat.
+Eanaš sámi mánáide leat dákkár {áddját}¢{ádját} ja áhkut seamma dásis go mytologiija oaidnemeahttumat ja eatnanvuložat.
 
 Dálá áhkut ja {áddját}¢{ádját} han leat dávjá oaidnemeahttumat.
 
-Dálá áhkut ja {áddját}¢{ádját} han leat dávjá dienasbarggus, ja sis leat nu ollu ástoáigedoaimmat ahte eai veaje diksut mánáidmánáid goas beare.
+Dálá áhkut ja {áddját}¢{ádját} han leat dávjá dienasbarggus, ja sis leat nu ollu astoáiggedoaimmat ahte eai veaje diksut mánáidmánáid goas beare.
 
 Dan dáfus áhkut ja {áddját}¢{ádját} orrot leamen dehálaš resurssat nuoraid sámegiela oččodeamis.
 
@@ -139,13 +139,13 @@ Eai dušše mánáid eatnit ja áhčit, muhto maiddái áhkut ja {áddját}¢{á
 
 Máttaráhkut ja {áddját}¢{ádját} leat mannan sáivui iežaset buori eallima maŋŋá.
 
-Bealjehis {áddját}¢{ádját} ain guhkkelis, maŋábeallai báhcán bárrun márret ja doarradallet ovddibuid.
+Bealjehis {áddját}¢{ádját} ain guhkkelis, maŋábeallai báhcán bárrun márret ja doarrádallet ovddibuid.
 
 Dán háve eaba njuolggočielggát, muhto roaŋkut dego {áddját}¢{ádját} geat leigga eallán beare guhká.
 
 Mánáid váhnemat ja áhkut ja {áddját}¢{ádját} sirdet gielaset ja árbevieruset mánáide ja áddjubiiddáseaset ja áhkkubiiddáseaset sihke ožžot dieđu ja doarjaga bajásgeassinbargguidasaset.
 
-Olbmo oapmahaččat leat beallalaš, registrerejuvvon guimmeš, olmmoš, geainna son ássá ovttas náittusdili dahje guimmešvuođalágan dilis, válddálaš mánát, váhnemat dahje dat geas lea váhnenovddasvástádus, válddálaš oappážagat, áhkut ja {áddját}¢{ádját}, ovddasteaddji dahje veahkkeovddasteaddji.
+Olbmo oapmahaččat leat beallalaš, registrerejuvvon guimmeš, olmmoš, geainna son ássá ovttas náittosdili dahje guimmešvuođalágan dilis, válddálaš mánát, váhnemat dahje dat geas lea váhnenovddasvástádus, válddálaš oappážagat, áhkut ja {áddját}¢{ádját}, ovddasteaddji dahje veahkkeovddasteaddji.
 
 Riektejovkui lea datte dieđihuvvon ahte dálá olbmuid áhkut ja {áddját}¢{ádját} atne gáddáirievdan huksenávdnasiid "golli árvun", iige lean makkárge eahpádus geavahit dáid ruovttuineaset.
 
