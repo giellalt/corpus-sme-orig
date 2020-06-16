@@ -32,7 +32,7 @@ Bivdiid biras ovdána, oaivvilda Soleng.
 
 Seamma bivdojoavku lea vel váidon go galgá leat áitán nuppi bivdojoavkku.
 
-Kárášjoga ealgabivdiidsearvvi Jan Helge Soleng, deattuha ahte lea dieđus {olles olbmuid}¢{cmp,2-1|ollesolbmuid} iežaset duohken maid barget {astoaiggis}${noun,á|astoáiggis}.
+Kárášjoga ealgabivdiidsearvvi Jan Helge Soleng, deattuha ahte lea dieđus {olles olbmuid}¥{cmp,2-1|ollesolbmuid} iežaset duohken maid barget {astoaiggis}${noun,á|astoáiggis}.
 {Goittetge}${adv,svow|Goittotge} lohká unohassan go bivdit orrot jo {dupmejuvvon}${verb,conc|dubmejuvvon} {ovddagihtii}${noun,cmp,gensg,nomsg|ovdagihtii}.
 
 Nuorat ja nissonat
