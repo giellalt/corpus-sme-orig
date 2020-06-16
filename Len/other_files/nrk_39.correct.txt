@@ -32,11 +32,11 @@ Bivdiid biras ovdána, oaivvilda Soleng.
 
 Seamma bivdojoavku lea vel váidon go galgá leat áitán nuppi bivdojoavkku.
 
-Kárášjoga ealgabivdiidsearvvi Jan Helge Soleng, deattuha ahte lea dieđus olles olbmuid iežaset duohken maid barget {astoaiggis}${noun,á|astoáiggis}.
+Kárášjoga ealgabivdiidsearvvi Jan Helge Soleng, deattuha ahte lea dieđus {olles olbmuid}¢{cmp,2-1|ollesolbmuid} iežaset duohken maid barget {astoaiggis}${noun,á|astoáiggis}.
 {Goittetge}${adv,svow|Goittotge} lohká unohassan go bivdit orrot jo {dupmejuvvon}${verb,conc|dubmejuvvon} {ovddagihtii}${noun,cmp,gensg,nomsg|ovdagihtii}.
 
 Nuorat ja nissonat
 
 Su mielas orru bivdomáilbmi rievdamin:
-– Mii leat hui ilus go maŋimuš jagiid leat ollu nuorat ja maiddái ollu nissonolbmot searvan bivdui, ja {soaitá diet lea}£{verb,fin,inf,sg3prs,infl|soaitá diet leat} okta bealli mii boahtteáiggis dagaha ahte mii eat {gulá}${verb,agula} nu hirbmat olu šat dákkár áššiid birra, loahpaha Soleng.
+– Mii leat hui ilus go maŋimuš jagiid leat ollu nuorat ja maiddái ollu nissonolbmot searvan bivdui, ja {soaitá diet lea}£{verb,fin,inf,sg3prs,infl|soaitá diet leat} okta bealli mii boahtteáiggis dagaha ahte mii eat {gulá}${verb,a|gula} nu hirbmat olu šat dákkár áššiid birra, loahpaha Soleng.
 
