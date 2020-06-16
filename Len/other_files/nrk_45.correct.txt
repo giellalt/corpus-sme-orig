@@ -6,7 +6,7 @@ Mari Boine signerii girjjiid
 
 Mari Boine ii loga ábuhit čiegadit dan mii lei {báhčá}¢{adj,mix|bahča}, váivi ja lossat, go eallimis leat máŋggalágan vásáhusat.
 
-Mari Boine lea viimmat fas boahtán ruoktot, Kárášjohkii. Dál {son áigo}£{verb,fin,sg3prs,pl3prt,infl|son áigu} vuoiŋŋastit guokte mánu iežas {lagámušaid}${adj,a|lagamušaid} luhtte.
+Mari Boine lea viimmat fas boahtán ruoktot, Kárášjohkii. Dál {son áigo}£{verb,fin,sg3prs,pl3prt,infl|son áigu} vuoiŋŋastit guokte mánu iežas {lagámušaid}${mix,adj,a,š|lagamusaid} luhtte.
 
 – Lei hui somá fas {vuoddjit}¢{verb,conc|vuodjit} duoddara badjel Leavnnjas deike. Mun dovddan ahte lean váillahan ritnon muoraid ja {skábma čuovgga}¥{noun,cmp|skábmačuovgga}, lohká Mari.
 
@@ -16,9 +16,9 @@ Reakšuvnnaid ožžon?
 
 Máŋggas lohket, ahte sii leat nu olu oahppan, go leat lohkan dan girjji. Okta lea, ahte olbmot lohket sáhkkiivuođain, vai dihtet eambbo mu birra, muhto earenoamážit dážamáilmmis lohket, ahte sii nu olu ohppet, ja ožžot dieđuid mat sis ovdal eai lean.
 
-- Mun jáhkán dat lea juoga mii dárbbašuvvo. Dat leige jurdda {munnos Per Lars Thonstadin}${prop,svow|Thonstadain}, ahte moai háliideimme ráhkadit dakkár girjji, gos galget maiddai boahtit dieđut min duogáža birra ja min historjjá birra.
+- Mun jáhkán dat lea juoga mii dárbbašuvvo. Dat leige jurdda {munnos Per Lars Thonstadin}${prop,svow|Thonstadain}, ahte {{moai háliideimme ráhkadit dakkár girjji, gos galget maiddái boahtit dieđut min duogáža birra}£{rel,advl,adv,locsg,x|moai háliideimme ráhkadit dakkár girjji, mas galget maiddai boahtit dieđut min duogáža birra}} ja min historjjá birra.
 
-Dat sáhttá ahte dakkár olbmuide geat juo dihtet ovdagihtii daid áššiid ahte sii háliidit njuikut. -Eat mii viša dien {lohkkat}¢{verb,conc|lohkat}, mii háliidit lohkat eambbo Mari birra.
+Dat sáhttá ahte dakkár olbmuide geat juo dihtet ovdagihtii daid áššiid ahte sii háliidit njuikut. {-Eat}‰{space|- Eat} mii viša dien {lohkkat}¢{verb,conc|lohkat}, mii háliidit lohkat eambbo Mari birra.
 
 Kárášjoga {bahčá}¢{adj,a|bahča} muittut
 
