@@ -34,7 +34,7 @@
         Information of the second author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author2_fn" select="Erlend''"/>
+    <xsl:variable name="author2_fn" select="'Erlend'"/>
     <xsl:variable name="author2_ln" select="'Winje'"/>
     <xsl:variable name="author2_gender" select="'m'"/>
     <xsl:variable name="author2_nat" select="''"/>
@@ -168,7 +168,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location=""/>
+        <parallel_text xml:lang="nob" location="nibio_pop_tilleggsforing.pdf"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
@@ -230,8 +230,8 @@
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="top_margin" select="'3=38'"/>
+    <xsl:variable name="bottom_margin" select="'8=18'"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
