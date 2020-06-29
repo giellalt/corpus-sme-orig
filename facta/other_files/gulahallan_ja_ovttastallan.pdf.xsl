@@ -168,11 +168,11 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location=""/>
+        <parallel_text xml:lang="nob" location="kommunikasjon_og_samvaer.pdf"/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
+        <parallel_text xml:lang="sma" location="govlesadteme_jih_ektesne_aarrodh.pdf"/>
         <parallel_text xml:lang="sme" location=""/>
-        <parallel_text xml:lang="smj" location=""/>
+        <parallel_text xml:lang="smj" location="guladallam_ja_saebrastallam.pdf"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
