@@ -18,7 +18,7 @@ Manne eaba veahki jeara, imaštallat.}£{verb,fin,pl3prs,pl1prs,number|čuččod
 
 Manne eaba veahki jeara, imaštallet.}
 
-- {Ášš}¢{interj|Áš}, {almmánolbmot}${noun,typo|almmáiolbmot} leat njoazit boahtit, lohká Berit Nikkinen Varsi ja {lokteba dan lossa kásterolla}£{noun,obj,accsg,nomsg,case|lokteba dan lossa kásterola} mas leat dievva gumposat
+- {Ášš}${interj|Áš}, {almmánolbmot}${noun,typo|almmáiolbmot} leat njoazit boahtit, lohká Berit Nikkinen Varsi ja {lokteba dan lossa kásterolla}£{noun,obj,accsg,nomsg,case|lokteba dan lossa kásterola} mas leat dievva gumposat
 
 – (Moai han {lávime}${verb,vow|láviime} leat hui {gievrra}}£{adj,spred,plnom,accsg,kongr|Moai han láviime leat hui gievrrat}, lasiha Laila Rasmus gis.
 
