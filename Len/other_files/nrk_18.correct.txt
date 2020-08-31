@@ -12,9 +12,11 @@ Berit Nikkinen Varsi ja Laila Rasmus {gumpposteamen}${verb,svow|gumppusteamen}
 
 Guokte nissonolbmo čuožžuba liegga gievkkanis ja {gumpposteaba}${verb,svow|gumppusteaba}. Lossat lea lovttohallat {kásterollaid}${noun,conc|kásterolaid}, muhto eaba vuollán.
 
-Kárášjogas lea kulturvahkku dán vahku ja dasa gullet diehttalasat mállásat. Málesteaddji {nissonid}${noun,fin|nissoniid} gávdnat servvodatviesus - {olggobealdde}${adv,conc|olggobealde} čuččodit muhtin albmát.
+Kárášjogas lea kulturvahkku dán vahku ja dasa gullet diehttalasat mállásat. Málesteaddji {nissonid}${noun,fin|nissoniid} gávdnat servvodatviesus - {olggobealdde}${adv,conc|olggobealde} {čuččodit muhtin albmát.
 
-Manne eaba veahki jeara, imaštallat.
+Manne eaba veahki jeara, imaštallat.}£{verb,fin,pl3prs,pl1prs,number|čuččodit muhtin albmát.
+
+Manne eaba veahki jeara, imaštallet.}
 
 - Ášš, {almmánolbmot}${noun,typo|almmáiolbmot} leat njoazit boahtit, lohká Berit Nikkinen Varsi ja {lokteba dan lossa kásterolla}£{noun,obj,accsg,nomsg,case|lokteba dan lossa kásterola} mas leat dievva gumposat
 
