@@ -125,7 +125,7 @@ Riekta lea ahte olu juolluduvvon ruđas Sámiid Duodjái lea {atnon}¢{adnon} ko
 
 Su barggut leat {atnon}¢{adnon} divdna sihke diggeáššiin (omd. vearroduottaráššis Ruoŧas) ja čilgehusbargguin nu go Sámi Vuoigatvuohtalávdegottis.
 
-Ásllat lea árvvus {atnon}¢{adnon} olmmái.
+Ásllat lea {árvvusatnon}¢{árvvusadnon} olmmái.
 
 Oahppu lea fápmu ja dat lea ge {atnon}¢{adnon} min vuostá doložis juo ja ain adno otná dán beaivve.
 
@@ -133,7 +133,7 @@ Oahppu lea fápmu ja dat lea ge {atnon}¢{adnon} min vuostá doložis juo ja ain
 
 Oarjemáilbmi lea gohčodan álgoálbmogiid kultuvrraid ”primitiiva dahje bázahallan kultuvran”, árvvoštallanmihttun lea {atnon}¢{adnon} ”ovdáneapmi”.
 
-Dás oaidná man láhkai goappašat bealit iešráđálašvuođas, sihke okto birgen ja eanet gierdan, muhto maiddái ovttas birgen earáiguin leat árvvus {atnon}¢{adnon} dáiddut sámi árbevierus.
+Dás oaidná man láhkai goappašat bealit iešráđálašvuođas, sihke okto birgen ja eanet gierdan, muhto maiddái ovttas birgen earáiguin leat {árvvusatnon}¢{árvvusadnon} dáiddut sámi árbevierus.
 
 Lojes gumpe lea máŋga vahkku áigi dan rájes go gumppe álggos beakkehii Kárášjoga guovllus, ja Gaup atnáge imašin go gumpe lea dan rájes sihke {vudjon}¢{vuddjon}, ja maiddái oainnáhallan viesuid lahka.
 
@@ -192,7 +192,7 @@ Atnon dan mii lea lunddolaš dán guovllus!
 
 Atnon dál vejolašvuođa oahpásmuvvat daiguin, na go dat duddjošii buoret gulahallama ja buoret guottuid min servodahkii!
 
-Lehkon systemáhtalaš ja skihkalaš ja atnon vuođuštusaid:
+Lehkon systemáhtalaš ja skihkalaš ja atnon vuođuštusaid!
 
 Oahpon sámegiela, atnon sámegiela, válljejehkon sámegiela!
 
@@ -216,9 +216,9 @@ Lohkon eanet das geat galget ovddastit min Sámedikkis boahtte njeallje jagi!
 
 Lohkon maid: Váttis duođaštit boraspirevahágiid!
 
-Vudjon dál ja bidjon vel alit čuovggaid! #Vudjon
+Vudjon dál ja bidjon vel alit čuovggaid!
 
-Vudjon dál ja bidjon vel alit čuovggaid! #bidjon
+Vudjon dál ja bidjon vel alit čuovggaid!
 
 Lohkon dál daid lohkkiid kommentáraid!
 
@@ -236,7 +236,7 @@ Bidjon šlipsa!
 
 Na, bidjon eanet muoraid, jus galgá vuodja govdut!
 
-Bidjon vel liđiid galbma čáhcái!
+Bidjon vel liđiid gálbma čáhcái!
 
 Bidjon dál mállái!
 
