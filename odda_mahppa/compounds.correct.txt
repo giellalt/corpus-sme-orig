@@ -40,11 +40,11 @@ Báktesárgumat čájehit dán áigodagas bohcco eallima mii eanemusat beroštah
 
 Eai gávdnon go {rukses muđot}${ruksesmuđot} gilinieiddat, ja sis gal ii leat oktage niehkonieida.
 
-Boazodoallu, mii ii johtal eara duovdagiidda, muhto johtala ovttahat duovdagiid {siskko bealde}${siskkobealde}.
+Boazodoallu, mii ii johtal eará duovdagiidda, muhto johtala ovttahat duovdagiid {siskko bealde}${siskkobealde}.
 
 Addit mánáide vejolašvuođa váldit vuostá ja addit fuola lea vuođđun ovdánahttit sosiála gelbbolašvuođa ja lea dehálaš oassi {agi beaivvi}${agibeaivvi} oahppamis.
 
-Ruvdnaprinsa beasai muosáhit sihke dánssa ja rockekonseartta ja beasai maid humadit nuoraiguin geat ledje boahtán Nuoraidvissui dán {duorastat veaiggi}${duorastatveaiggi}.
+Ruvdnaprinsa beasai muosáhit sihke dánssa ja rohkekonseartta ja beasai maid humadit nuoraiguin geat ledje boahtán Nuoraidvissui dán {duorastat veaiggi}${duorastatveaiggi}.
 
 Logut čájehit ealga mášohuvvá go lea láđasmánnu go dalle vázzá guhkkelii go dábálaččat, earenoamážit eahkes ja {iđit veaiggi}${iđitveaiggi}.
 
@@ -116,25 +116,17 @@ Danmárku-Norga oažžu oktovuoigatvuođa {Davvi Norgga}${Davvi-Norgga} riddo- j
 
 Mii eat leat {gáhtta čuovggaid}${gáhttačuovggaid} huksen 2001.
 
-Ráđđehus lea čállán ahte boazodoallu lea mávssolaš oassi sámi kulturárbbis, ja stáhtas lea bajimus ovddasvástádus sihkkarastit ahte boazoealáhus maid boahtte áiggis bissu sámi {kultuvra árbbi}${kulturárbbi} oassin.
+Ráđđehus lea čállán ahte boazodoallu lea mávssolaš oassi sámi kulturárbbis, ja stáhtas lea bajimus ovddasvástádus sihkkarastit ahte boazoealáhus maid boahtte áiggis bissu sámi {kultur árbbi}${kulturárbbi} oassin.
 
 Láhččet beaktilis {telefovdna čovdosiid}${telefovdnačovdosiid} ja buoret elektrovnnalaš iešhálddašančovdosiid.
 
 Sadjosa Dolla-auditoria maŋimuš beaŋkkat dievvagohte vuosttažin {duorastat iđida}${duorastatiđida}.
 
-Filbma lea {Inuihtta bearraša}${Inuihttabearraša} birra mii orru Hudson Bay buohta, Kanadas.
+Filbma lea {Inuihtta bearraša}${Inuihtabearraša} birra mii orru Hudson Bay buohta, Kanadas.
 
 Diekkár oktavuođain adnojit duojit {atnu dávvirin}${atnudávvirin} ja čikŋan lagamus bearrašii dahje skeaŋkan.
 
-Jus oainnát {skávžá ádjá}${skávžáádjá} váccašeame geaidnoráigge dáppe davvin, de lea dušše Alain vázzime Davvinjárgii.
-
-
-
-
-
-
-
-
+Jus oainnát {skávžá áddjá}${skávžááddjá} váccašeame geaidnoráigge dáppe davvin, de lea dušše Alain vázzime Davvinjárgii.
 
 Referánsajoavku galgá doaibmat ráđđeaddi orgánan Girjáivuođajahkái 2008.
 
@@ -236,8 +228,7 @@ Dehálaš oassi luonddudiehtagis lea diehtit ahte luonddudieđa dađistaga ovdá
 
 Skuhter, okta ođđa Polaris Trail 550, gávdnui fas gaskavahkku eahkes.
 
-Jáhkán ahte allaskuvllas leat hui buorit vejolašvuođat ja mun háliidan leat 
-mielde daid duohtan dahkat, dadjá Johan Ailo Kalstad.
+Jáhkán ahte allaskuvllas leat hui buorit vejolašvuođat ja mun háliidan leat mielde daid duohtan dahkat, dadjá Johan Ailo Kalstad.
 
 Makkár joavkkut leat bajábealde dehe vuoittu bealde, ja makkár dilálašvuođain?
 
@@ -265,6 +256,6 @@ Dat lea okta dehálaš lávki viidát gielalaš doaimmaide, dákkár doaimmaide 
 
 Olmmoš ii lihkkas ge ja dál oaidná Mávnos ahte dat čohkká gitta čalmmiid.
 
-Lávdegoddi lea iežas barggu árvvoštallan dan láhkái ahte sin bargun lea árvvoštallat, beroškeahttá ovdalaš mearrádusain, ahte leago guovtte geardde guođoheapmi doaibmateknihkalaččat ja biologalaččat dohkkehahtti.
+Lávdegoddi lea iežas barggu árvvoštallan dan láhkai ahte sin bargun lea árvvoštallat, beroškeahttá ovdalaš mearrádusain, ahte leago guovtte geardde guođoheapmi doaibmateknihkalaččat ja biologalaččat dohkkehahtti.
 
 Dilli sáhttá leat nuppe gežiid, nu ahte sámi nieiddat, geat beroštit iežaset kultuvrras, vásihit stuorát streassa go dat, geat hilgot sámivuođaset.
