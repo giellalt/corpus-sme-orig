@@ -72,7 +72,7 @@ Jekkiid dáfus lea ulbmilin earuhit šattolaš jekkiid eret njárbesšattot jekk
 
 Álgovuorus galget sii maiddái deaivvadit Finnmárkkuopmodaga {stivra jođiheddjiin}${stivrrajođiheddjiin} Egil Olliin ovdalgo sii deaivvadit ieža Basevuovddis Anárjogas.
 
-Geassemánu 1. b. 2001 láhkarievdadusas mearridedje ásahit guovddáš válgalávdegotti, Sámedikki válgalávdegotti, {biire válgastivrraid}${biirreválgastivrraid} sadjái mat leat riikka 13 válgabiirres.
+Geassemánu 1. b. 2001 láhkarievdadusas mearridedje ásahit {guovddáš válgalávdegotti}${guovddášválgalávdegotti}, Sámedikki válgalávdegotti, {biire válgastivrraid}${biirreválgastivrraid} sadjái mat leat riikka 13 válgabiirres.
 
 Ruoŧa {guovddáš oasit}${guovddášoasit} ja nuorttabeali oasit leat boares eamibávtti bázahasat álgoáiggis.
 
