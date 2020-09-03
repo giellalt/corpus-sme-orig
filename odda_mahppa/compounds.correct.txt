@@ -62,7 +62,7 @@ Sámediggi ráhkada sámi jienastuslogu álbmotregistara, maŋimuš válgga sám
 
 Leago supmi ovddas sáddejuvvon bálká- ja {geassin dieđáhus}${geassindieđáhus}?
 
-Bargogottis ledje muđui guokte {doaimmahat hoavdda}${doaimmahathoavdda} ja ovcci áššemeannudeaddji (čálli) earret kanturbargiid.
+Bargogottis ledje muđui guokte {doaimmahus hoavdda}${doaimmahushoavdda} ja ovcci áššemeannudeaddji (čálli) earret kanturbargiid.
 
 Viesut ja {johtolat oktavuođat}${johtolatoktavuođat} ledje miidnejuvvon dahje duššaduvvon vuđolaččat.
 
@@ -72,7 +72,7 @@ Jekkiid dáfus lea ulbmilin earuhit šattolaš jekkiid eret njárbesšattot jekk
 
 Álgovuorus galget sii maiddái deaivvadit Finnmárkkuopmodaga {stivra jođiheddjiin}${stivrrajođiheddjiin} Egil Olliin ovdalgo sii deaivvadit ieža Basevuovddis Anárjogas.
 
-Geassemánu 1. b. 2001 láhkarievdadusas mearridedje ásahit {guovddáš válgalávdegotti}${guovddášválgalávdegotti}, Sámedikki válgalávdegotti, {biire válgastivrraid}${biirreválgastivrraid} sadjái mat leat riikka 13 válgabiirres.
+Geassemánu 1. b. 2001 láhkarievdadusas mearridedje ásahit guovddášválgalávdegotti, Sámedikki válgalávdegotti, {biire válgastivrraid}${biirreválgastivrraid} sadjái mat leat riikka 13 válgabiirres.
 
 Ruoŧa {guovddáš oasit}${guovddášoasit} ja nuorttabeali oasit leat boares eamibávtti bázahasat álgoáiggis.
 
@@ -131,8 +131,6 @@ Jus oainnát {skávžá áddjá}${skávžááddjá} váccašeame geaidnoráigge 
 Referánsajoavku galgá doaibmat ráđđeaddi orgánan Girjáivuođajahkái 2008.
 
 Lassi dieđut bálvalusjođiheaddji tel. 040-779 2861. 
-
-Dát gáibida buot sáme gielaid bokte positiivvalaš sierradoaimmaid.
 
 Fágalávdegoddi galgá maiddái raporttastis čilget gos gávdnojit vejolaš áigodatguohtumat ja árvvoštallat guohtumiid optimála anu dan suktii ahte vuhtii váldá vásihusaid das movt guovlu lea ovdal adnon ja dálá duohta dieđuid vuođul.
 
