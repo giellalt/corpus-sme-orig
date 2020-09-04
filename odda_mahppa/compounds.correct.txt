@@ -24,7 +24,7 @@ Dutkan boahtá gokčat Sámi, ja siskkildit oasseváldiid davvisámis viidásit 
 
 Kommišuvdna lea maiddái seamma ulbmiliin bivdán dáid namuhuvvon áššebeliid, ja maiddái stáda eiseválddiid, suohkaniid dehe gielddaid, {dutkan ásahusaid}¥{dutkanásahusaid}, beroštus-organisašuvnnaid ja earáid, addit čálalaš cealkámuša.
 
-Oahppu addá maiddái reaidduid unnit {dutkan bargguid}¥{dutkanásahusaid} čađaheapmái.
+Oahppu addá maiddái reaidduid unnit {dutkan bargguid}¥{dutkanbargguid} čađaheapmái.
 
 Dat leat sápmelaččaid ja eará álgoálbmotbirrasiid várás Árktisis, Ruoššas ja Norggas dan ovttasbarggu siskkobealde mii lea Árktalaš ráđis ja prošeaktaovttasbarggus {Davvioarje Ruoššain}¥{Davvioarje-Ruoššain}.
 
