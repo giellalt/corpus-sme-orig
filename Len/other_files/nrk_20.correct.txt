@@ -35,9 +35,9 @@ Loga maiddái:
 
 Jovnna Ovllá oaččui Norsk Kulturarvs ærespris 2012, Norgga Kulturárbbi {gudnibálkašumi}${noun,mix|gudnebálkkašumi} dá {moatti vahku áigge}£{po,pph,nomsg,gensg,case|moatti vahku áigi}. Son oaččui {bálkašumi}${noun,conc|bálkkašumi} go lei {báktesárgomiid}${noun,svow|báktesárgumiid} mielde ráhkadan sistefatnasa ja nagodii duođaštit ahte diekkár fatnasat govdot. Son sugai Kárášjogas {Deatnuráigge}${noun,cmp,svow|Deatnoráigge} vulos gitta Deanunjálbmái. {NRK filbmii olles su mátki}£{noun,obj,accsg,nomsg,case|NRK filbmii olles su mátkki} ja čájehedje dan {TV's}${acr,suf|TV:s}.
 
-Son gudnejahttojuvvo maiddái danne go lea sihke čájehan ja oahpahan earáide mo darfegođiid ráhkada. Juo {1980 logus}‰{hyph|1980-logus} lei son mielde filmmas mii čájeha mo darfegoađi ráhkada.
+Son gudnejahttojuvvo maiddái danne go lea sihke čájehan ja oahpahan earáide mo darfegođiid ráhkada. {Juo {1980 logus}‰{hyph|1980-logus} lei son mielde filmmas}¥{wo|Son lei 1980-logus jo mielde filmmas} mii čájeha mo darfegoađi ráhkada.
 
-- Lei hui somá go ožžon {gudnibálkášumi}${noun,mix|gudnebálkkašumi}. Illá jáhkken dat lei duohta. Dat lei hui stuoris munnje. Ja dat lea maiddái stuorra {bálkášupmi}${noun,mix|bálkkašupmi} olles dan {duoddjái}¢{noun,conc|duodjái}.
+- Lei hui somá go ožžon {gudnibálkášumi}${noun,mix|gudnebálkkašumi}. {Illá jáhkken dat lei duohta.}{|Illá jáhkken ahte dat lei duohta.} Dat lei hui stuoris munnje. Ja dat lea maiddái stuorra {bálkášupmi}${noun,mix|bálkkašupmi} olles dan {duoddjái}¢{noun,conc|duodjái}.
 
 Norgga Kulturárbi lea juohkán {gudnibálkašumi}${noun,mix|gudnebálkkašumi} 2007 rájes. {Bálkašupmi}${noun,conc|Bálkkašupmi} addo eaŋkilolbmuide dahje servviide mat árjjálaččat barget norgga kulturárbbi ovddas ja dahket dan dovddusin otná áiggis maiddái. Jovnna Ovllá lea guđát gii dán {bálkašumi}${noun,conc|bálkkašumi} oažžu.
 
