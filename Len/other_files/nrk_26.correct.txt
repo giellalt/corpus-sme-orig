@@ -29,7 +29,7 @@ Fáddán ON-čoahkkimis, mii dál lágiduvvo {Qataras}${prop,vowc|Quataras} lea 
 
 Ođasmuvvi energiija ii leat álo {dat}¥{0} buoremus álgoálbmogiidda.
 
-- Muhto dat váldohástalus lea várra dat, ahte oaččut dán systemii sisa dan {álgoálbmot oainnu}¥{noun,cmp|álgoálbmotoainnu} ja ipmárdusa birasáššiin, dadjá Vasara.
+- Muhto {dat}¥{0} váldohástalus lea várra dat, ahte oaččut dán systemii sisa dan {álgoálbmot oainnu}¥{noun,cmp|álgoálbmotoainnu} ja ipmárdusa birasáššiin, dadjá Vasara.
 
 Sámeráđi birasossodaga jođiheaddji Gunn Britt Retter, dadjá hástalussan čalmmustahttit eamiálbmotperspektiivva čoahkkimiin gos stáhtat deaivvadit. Mađi váddásut fáddá, {dađi unnit gullojit minoritehtajienat}£{adv,advl,comp,pos,infl|dađi unnibut gullojit minoritehtajienat}. Sin strategiija leamaš čuollat eamiálbmot-beliid Árktalaš ráđi bokte ja maid dutkama vuođul váikkuhit.
 
