@@ -11,7 +11,7 @@ ahte stáhtat vuhtiiváldet eamiálbmogiid go vigget čoavdit dálkkádat-hásta
 
 Dán vahkku leat {máilmme}${noun,svow|máilmmi} birasministarat Dohas, {Qataras}${prop,vowc|Quataras},
 Ovttastuvvan {Nášuvnnaid}${prop,a|Našuvnnaid} dálkkádat-čoahkkimis. {Máilmme}${noun,svow|Máilmmi} stáhtat galggašedje golmma jagi siste šiehtadallat globála geatnegahtti dálkkádatsoahpamuša.
-Sámediggi searvá čoahkkimii oassin Norgga delegašuvnnas, ja {politihkakálaš}${adj,typo|politihkalaš} ráđđeaddi Johan Vasara dadjá dehálažžan, ahte sii gozihit sámiid - ja eamiálbmogiid beliid.
+Sámediggi searvá čoahkkimii oassin Norgga delegašuvnnas, ja {politihkakálaš}${adj,typo|politihkalaš} ráđđeaddi Johan Vasara dadjá dehálažžan, ahte sii gozihit {sámiid - ja eamiálbmogiid beliid}‰{notspace| sámiid- ja eamiálbmogiid beliid}.
 
 - Erenoamážit go lea sáhka das, mo galggašii ođđa ja ng. ruoná energiija ávkkástallat, dego bieggamilluid ja čáhce-energiija hukset, de lea dehálaš. Ahte {sámediggi}¢{cap|Sámediggi} lea mielde stáhta delegašuvnnas ja gozihit dáid áššiid álgoálbmogiid čalmmiin.
 
