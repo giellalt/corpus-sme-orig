@@ -27,7 +27,7 @@ Sámeálbmot bellodat stivra bovde dábálaš {riikačoahkkimii}${noun,cmp,nomsg
 
 Fápmudusskovvi galgá leat stivrras {ovdal}¥{ovdal go} {riikačoahkkin}${noun,cmp,nomsg,gensg|riikkačoahkkin} álgá.
 
-Báikkálašbellodagaid {{ráporterenskovvi}${noun,a|raporterenskovvi} {galget}}£{verb,fin,sg3prs,pl3prs,kongr|raporterenskovvi galgá} leat devdon ja vuolláičállon báikkálaš bellodaga jođiheaddjis, ja {sáddejuvvo nubbijođiheaddji}£{noun,advl,illsg,nomsg,case|sáddejuvvo nubbijođiheaddjái} Elfrid Boine, elfboi@online.no ovdal golggotmánu 1{.b.}${space|. b.} (Jos báikkálaš bellodat ii sádde {raporterenskovi,}¥{de} sáhttá) dat váikkuhit nu ahte báikkálašbellodat oažžu dušše guokte áirasa {riikacoahkkimii}${noun,cmp,nomsg,gensg|riikkačoahkkimii}. Muđuid čujuhat njuolggadusaide § 9 {Riikačoahkkin}${noun,cmp,nomsg,gensg|Riikkačoahkkin}.
+Báikkálašbellodagaid {{ráporterenskovvi}${noun,a|raporterenskovvi} {galget}}£{verb,fin,sg3prs,pl3prs,kongr|raporterenskovvi galgá} leat devdon ja vuolláičállon báikkálaš bellodaga jođiheaddjis, ja {sáddejuvvo nubbijođiheaddji}£{noun,advl,illsg,nomsg,case|sáddejuvvo nubbijođiheaddjái} Elfrid Boine, elfboi@online.no ovdal golggotmánu 1{.b.}${space|. b.} (Jos báikkálaš bellodat ii sádde {raporterenskovi,}¥{raporterenskovi, de} sáhttá) dat váikkuhit nu ahte báikkálašbellodat oažžu dušše guokte áirasa {riikacoahkkimii}${noun,cmp,nomsg,gensg|riikkačoahkkimii}. Muđuid čujuhat njuolggadusaide § 9 {Riikačoahkkin}${noun,cmp,nomsg,gensg|Riikkačoahkkin}.
 
 § 9 {Riikačoahkkin}${noun,cmp,nomsg,gensg|Riikkačoahkkin}
 
