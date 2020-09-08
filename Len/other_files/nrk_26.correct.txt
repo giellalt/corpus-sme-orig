@@ -27,7 +27,7 @@ Fáddán ON-čoahkkimis, mii dál lágiduvvo {Qataras}${prop,vowc|Quataras} lea 
 Čoahkkimis leat badjel 17.000 delegáhta, ja sullii 50 eamiálbmot-áirasa. Sámedikkis lea ovddasvástádus muittuhit stáhtaid, ahte dálkkádat-rievdan garrasit čuohcá álbmogiidda mat ellet {láhka}¢{pr,a|lahka} luonddu.
 
 
-Ođasmuvvi energiija ii leat álo dat buoremus álgoálbmogiidda.
+Ođasmuvvi energiija ii leat álo {dat}¥{0} buoremus álgoálbmogiidda.
 
 - Muhto dat váldohástalus lea várra dat, ahte oaččut dán systemii sisa dan {álgoálbmot oainnu}¥{noun,cmp|álgoálbmotoainnu} ja ipmárdusa birasáššiin, dadjá Vasara.
 
