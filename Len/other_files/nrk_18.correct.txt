@@ -20,7 +20,7 @@ Manne eaba veahki jeara, imaštallet.}
 
 - {Ášš}${interj|Áš}, {almmánolbmot}${noun,typo|almmáiolbmot} leat njoazit boahtit, lohká Berit Nikkinen Varsi ja {lokteba dan lossa kásterolla}£{noun,obj,accsg,nomsg,case|lokteba dan lossa kásterola} mas leat dievva gumposat
 
-– (Moai han {lávime}${verb,vow|láviime} leat hui {gievrra}}£{adj,spred,plnom,accsg,kongr|Moai han láviime leat hui gievrrat}, lasiha Laila Rasmus gis.
+– {Moai han {lávime}${verb,vow|láviime} leat hui {gievrra}}£{adj,spred,plnom,accsg,kongr|Moai han láviime leat hui gievrrat}, lasiha Laila Rasmus gis.
 
 Olles {Kárasjohka}${prop,mix|Kárášjohka} veadjá boahtit borrat gumposiid servodatviesus dál guokte beaivvi, muhto nissonolbmo guovttos eaba gal dara dan {dihti}¢{adv,fin|dihtii} ja leaikkastallaba das gaskaneaskka.
 
@@ -29,7 +29,7 @@ Gumposat {Karasjoga}${prop,mix|Kárášjoga} kulturvahku
 
 – Hui somá bargat
 
-Kásterolain duldet gumposat ja bierggut. Nisson guovttos máisttašeaba - (lea go son {doarváid}${adv,fin|doarvái} {sálttit}}£{verb,fin,pl3prs,sg3prs,kongr|leat go son doarvái sálttit} - ja jorbeba vel eambbo gumposiid, vai livččii doarvái buohkaide.
+Kásterolain duldet gumposat ja bierggut. Nisson guovttos máisttašeaba - {lea go son {doarváid}${adv,fin|doarvái} {sálttit}}£{verb,fin,pl3prs,sg3prs,kongr|leat go son doarvái sálttit} - ja jorbeba vel eambbo gumposiid, vai livččii doarvái buohkaide.
 
 Ruhta mii dán gávppis boahtá manná {Kárásjoga}${prop,ascii|Kárášjoga} searvegoddái. Berit Nikkinen Varsi ja Laila Rasmus gal bargaba nuvttá eaba ge váidal dan dihtii.
 
@@ -37,7 +37,7 @@ Ruhta mii dán gávppis boahtá manná {Kárásjoga}${prop,ascii|Kárášjoga} s
 
 Unna gávppážat
 
-Olbmot gal bohtet. Go diibmu lea guokte lea {serdodatviessu}${noun,typo|servodatviessu} dievva olbmuin geat borret gumposiid ja {geahčađit}${verb,lime|geahčadit} (daid unna {{gávppažiin}${{}noun,á|gávppážiin}}}£{dem,det,locsg,gensg,case|dain unna gávppážiin} mat vuvdet girjjiid ja {dudjiid}${noun,conc|dujiid}.
+Olbmot gal bohtet. Go diibmu lea guokte lea {serdodatviessu}${noun,typo|servodatviessu} dievva olbmuin geat borret gumposiid ja {geahčađit}${verb,lime|geahčadit} {daid unna {{gávppažiin}${{}noun,á|gávppážiin}}}£{dem,det,locsg,gensg,case|dain unna gávppážiin} mat vuvdet girjjiid ja {dudjiid}${noun,conc|dujiid}.
 
 Kulturvahkku bistá miehtá vahku.
 
