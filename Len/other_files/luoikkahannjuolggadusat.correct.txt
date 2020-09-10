@@ -63,7 +63,7 @@ b) Luoikkaheaddjis lea geatnegasvuohta buhtadit girjjiid dálá njuolggadusaid m
 #7. BÁLVALUSAID HATTIT JA {BUHTADUSDIVÁDAT}${vowlat,á-a|BUHTADUSDIVADAT}
 #KOPIEREN (MÁŊGEN)
 
-1,- ruvnno juohke kopiijas {{kopikoarta}${conm,0-ij;vowlat,0-a|kopiijakoarta} gáibiduvvo)
+1,- ruvnno juohke kopiijas ({kopikoarta}${conm,0-ij;vowlat,0-a|kopiijakoarta} gáibiduvvo)
 
 #BUHTADUS GIRJJIIN / MEDIAIN MAT EAI BUKTO
 
