@@ -25,7 +25,7 @@ Instituhta riektedutkamis lea leamašan mihttomearrin guorahallat sámiid histor
 
 Servodatdutkan
 
-Instituhta servodatdutkamis dutkojuvvojit sámiid servodateallima {sosiala}${vowc,a-á|sosiála}, kultuvrralaš, {politihkkalaš}${conc,hkk-hk|politihkalaš} ja ekonomalaš eavttut, dás {maddái}${typo|maiddái} nuppástusat ja {mainnalágiin}${cmp,1-2|mainna lágiin} ovttaskas olbmot ja servodagat dustejit ja hálddašit nuppástusproseassaid. Servodatdutkama guovddáš fáttat leat luondduriggodagaid hálddašeapmi, sámi luonddu- ja eanadatgeavaheapmi ja sámi {vuoððoealáhusat}${conc,ðð-đđ|vuođđoealáhusat}. SI {boazodoalodutkan}${case,gen-nom|boazodoallodutkan} lea fágaidrasttildeaddji dutkan ja das leat {oktavuoðat}${conc,ð-đ|oktavuođat} eará ásahusaid dutkamii.
+Instituhta servodatdutkamis dutkojuvvojit sámiid servodateallima {sosiala}${vowc,a-á|sosiála}, kultuvrralaš, {politihkkalaš}${conc,hkk-hk|politihkalaš} ja ekonomalaš eavttut, dás {maddái}${typo|maiddái} nuppástusat ja {mainnalágiin}${cmp,1-2|mainna lágiin} ovttaskas olbmot ja servodagat dustejit ja hálddašit nuppástusproseassaid. Servodatdutkama {guovddáš fáttat}¥{guovddášfáttat} leat luondduriggodagaid hálddašeapmi, sámi luonddu- ja eanadatgeavaheapmi ja sámi {vuoððoealáhusat}${conc,ðð-đđ|vuođđoealáhusat}. SI {boazodoalodutkan}${case,gen-nom|boazodoallodutkan} lea fágaidrasttildeaddji dutkan ja das leat {oktavuoðat}${conc,ð-đ|oktavuođat} eará ásahusaid dutkamii.
 
 
 Dutkansuorggit
