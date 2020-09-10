@@ -673,7 +673,7 @@ Stivra bovde miellahtuid SNF jahkečoahkkimii 2008 Roavvenjárgii. Dollo velá s
 
 Árat seamma vahkus lágiduvvojit Sámi kulturvahkku ja {Sameráđi}${prop,cmp,vowlat,e-i;vowc,a-á|Sámiráđi} konferánsa. Eahketprográmmas ee. Mari Boine ja Sara Margrethe Oskal. Dan birra logat dás:
 
-Nuvttá oasseváldin. Jos dieđihat SNF jahkečoahkkimii ja seminárii čakčamánu 20.beaivái, de SNF gokčá belohahkii du mátkegoluid ja {{kulturvahko-}${{}conc,hk-hkk|kulturvahkko-}/konferánssaoassálastima}${loan,conc,nss-ns|konferánsaoassálastima} Roavvenjárggas. Bivdde eanet dieđuid dás, sádde e-poastta:
+Nuvttá oasseváldin. Jos dieđihat SNF jahkečoahkkimii ja seminárii čakčamánu 20.beaivái, de SNF gokčá belohahkii du mátkegoluid ja {{kulturvahko-}${conc,hk-hkk|kulturvahkko-}/konferánssaoassálastima}${loan,conc,nss-ns|konferánsaoassálastima} Roavvenjárggas. Bivdde eanet dieđuid dás, sádde e-poastta:
 
 
 
@@ -1218,7 +1218,7 @@ a) Dábálaš luoikanáigi girjerádjosa girjjiide lea 4 vahkku, ja {govvá-ja}$
 
 á) Girjjit ja eará almmuhusat mat leat biddjon gáldoossodahkii dehe eará erenoamážit merkejuvvon hilduide (omd. pensumhilduide) sáhttet dušše {atnot}${conc,tn-dn|adnot} {girjerádjosis/lohkánlanjas}${vowlat,á-a|lohkanlanjas}.
 
-b) Áigečállagat ja áviissat sáhttet dušše adnot {{girjeradjosis}${{}vowc,a-á|girjerádjosis}/lohkánlanjas}${vowlat,á-a|lohkanlanjas}. Dáid ii sáhte luoikkahit. Fágabargit sáhttet luoikkahit sierra šiehtadusa mielde.
+b) Áigečállagat ja áviissat sáhttet dušše adnot {{girjeradjosis}${vowc,a-á|girjerádjosis}/lohkánlanjas}${vowlat,á-a|lohkanlanjas}. Dáid ii sáhte luoikkahit. Fágabargit sáhttet luoikkahit sierra šiehtadusa mielde.
 
 c) Girjerádjosa {erenoamáščoakkáldagá}${vowlat,á-a|erenoamáščoakkáldaga} {sáhtta}${vowlat,a-á|sáhttá} atnit dušše girjerádjosis. Dát čoakkáldat lea sierra merkejuvvon.
 
@@ -3104,9 +3104,9 @@ NSR oaivvilda ahte ferte váldit boazodoalu vuhtii go Stáhta geaidnolágádus g
 
 Almmuhuvvon: 18.04.2012
 
-Stáhta geaidnolágádusa almmuhuvvon {konsepta-lávedgottičielggadus}${typo|konseapta-lávdegoddičielggadus} lea čájehan ahte viiddis guovllut Evenáššis, Dielddanuoris ja Lodegiin gielddain leat meroštallon boazoguohtunguovlun. NSR diehtá dan ahte geainnu áigot hukset hui dehálaš boazoguohtuneatnamiidda mat gusket {Iinnásullo}${prop,vowlat,á-a|Iinnasullo} orohahkii {{Ganasvuotna}${{}prop,vowc,a-á|Gánasvuotna}/Lulli-Iinná}${prop,vowlat,á-a|Lulli-Iinna}.
+Stáhta geaidnolágádusa almmuhuvvon {konsepta-lávedgottičielggadus}${typo|konseapta-lávdegoddičielggadus} lea čájehan ahte viiddis guovllut Evenáššis, Dielddanuoris ja Lodegiin gielddain leat meroštallon boazoguohtunguovlun. NSR diehtá dan ahte geainnu áigot hukset hui dehálaš boazoguohtuneatnamiidda mat gusket {Iinnásullo}${prop,vowlat,á-a|Iinnasullo} orohahkii {{Ganasvuotna}${prop,vowc,a-á|Gánasvuotna}/Lulli-Iinná}${prop,vowlat,á-a|Lulli-Iinna}.
 
-{Sámedikkeáirras}${cmp,gen-nom|Sámediggeáirras} Ann-Mari Thomassen {NSRas}${acro,suf|NSR:s} oaivvilda dát čoavddus fuolastuhttá. – Geaidnu botke dehálaš johtin- ja bálgangeainnu bohccuide {{Ganasvuotna}${{}prop,vowc,a-á|Gánasvuotna}/Lulli-Iinná}${prop,vowlat,á-a|Lulli-Iinna} orohagas. Nu guhká go boazodoallu lea leamaš guovllus de leat bohccot geavahan justa dán gaskka jođáhahkan sivas dan baskkes gutko/johtinsaji Guollevuona ja {Ganasvuona}${prop,vowc,a-á|Gánasvuona}, čilge Thomassen. Son njulgestaga ballá duođalaš váikkuhusain guovllu boazodollui: – {Dát}£{Dán} gáržžes johtinsaji geažil ii leat bohccuin eará báiki johtit go justa dakko gosa geainnu leat áigumin, ja dát sáhttá váikkuhit garrasit ja heittogit boazodollui.
+{Sámedikkeáirras}${cmp,gen-nom|Sámediggeáirras} Ann-Mari Thomassen {NSRas}${acro,suf|NSR:s} oaivvilda dát čoavddus fuolastuhttá. – Geaidnu botke dehálaš johtin- ja bálgangeainnu bohccuide {{Ganasvuotna}${prop,vowc,a-á|Gánasvuotna}/Lulli-Iinná}${prop,vowlat,á-a|Lulli-Iinna} orohagas. Nu guhká go boazodoallu lea leamaš guovllus de leat bohccot geavahan justa dán gaskka jođáhahkan sivas dan baskkes gutko/johtinsaji Guollevuona ja {Ganasvuona}${prop,vowc,a-á|Gánasvuona}, čilge Thomassen. Son njulgestaga ballá duođalaš váikkuhusain guovllu boazodollui: – {Dát}£{Dán} gáržžes johtinsaji geažil ii leat bohccuin eará báiki johtit go justa dakko gosa geainnu leat áigumin, ja dát sáhttá váikkuhit garrasit ja heittogit boazodollui.
 
 NSR ovddida ihttin ođđa ášši Sámedikkis, gos {sámedikkeráđđi}${cmp,gen-nom|sámediggeráđđi} bivdo váikkuhit áššis nu ahte válljejuvvo dat molssaeaktu mas {lea}£{leat} boazodollui. – Sámedikkis lea váikkuhanvejolašvuohta go sáhttet bivdit konsultašuvnnaid Stáhta geaidnolágádusain. Mii vuordit ahte ráđđi dál ávkkástallá dáinna vejolašvuođain cealkit čielgasit ahte boazodoallu galgá vuhtiiváldot, gáibida Thomassen.
 

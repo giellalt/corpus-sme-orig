@@ -1,4 +1,4 @@
-Guovttegielat (ruhta {{geaveheapmi}${{}vowlat,e-a|geavaheapmi}}}¢{cmp,2-1|ruhtageavaheapmi} Unjárggas
+Guovttegielat {ruhta {{geaveheapmi}${vowlat,e-a|geavaheapmi}}}¢{cmp,2-1|ruhtageavaheapmi} Unjárggas
 
 Unjárgga Sámeálbmot bellodak lea {miellahtučoahkkimis}${case,gen-nom|miellahttočoahkkimis} mearridan sáddet breava gos bivdit Unjárgga gielddas guorahallat geavaha go gielda ruđaid eavttuid mielde.
 Unjárgga gielda

@@ -37,7 +37,7 @@ Ruhta mii dán gávppis boahtá manná {Kárásjoga}${prop,ascii|Kárášjoga} s
 
 Unna gávppážat
 
-Olbmot gal bohtet. Go diibmu lea guokte lea {serdodatviessu}${noun,typo|servodatviessu} dievva olbmuin geat borret gumposiid ja {geahčađit}${verb,lime|geahčadit} {daid unna {{gávppažiin}${{}noun,á|gávppážiin}}}£{dem,det,locsg,gensg,case|dain unna gávppážiin} mat vuvdet girjjiid ja {dudjiid}${noun,conc|dujiid}.
+Olbmot gal bohtet. Go diibmu lea guokte lea {serdodatviessu}${noun,typo|servodatviessu} dievva olbmuin geat borret gumposiid ja {geahčađit}${verb,lime|geahčadit} {daid unna {gávppažiin}${noun,á|gávppážiin}}£{dem,det,locsg,gensg,case|dain unna gávppážiin} mat vuvdet girjjiid ja {dudjiid}${noun,conc|dujiid}.
 
 Kulturvahkku bistá miehtá vahku.
 
