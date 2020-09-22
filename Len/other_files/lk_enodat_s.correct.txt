@@ -17,7 +17,7 @@ Sámegielagiid vuoigatvuođat hedjonit?
 
 Bargojoavkku evttohusas mieđihit, ahte sápmelaččaid rievttit hedjonivčče dán ođđa dilis. Dán vihkot maid enodatlaččat.
 
-Enodaga Gárasavvonis orru oahpaheaddji Virpi Väisänen lea fuolas dákkár plánain. Su mielas váttisvuođaid {buvttalii}${verb,á|buvttálii} ee. gieldda mearehis stuora viidodaga lassin maid sámegielat bálvalusaid {ollašuhttin}‰{punc|ollašuhttin.}
+Enodaga Gárasavvonis orru oahpaheaddji Virpi Väisänen lea fuolas dákkár plánain. Su mielas váttisvuođaid {buvttalii}${verb,á|buvttálii} ee. gieldda mearehis stuora viidodaga lassin maid sámegielat bálvalusaid {ollašuhttin}‰{punct|ollašuhttin.}
 
 – Juo {dála}¢{adj,á|dálá} dilis lea dievas bargu vuođustit {sámegielabálvalusaid}${noun,cmp,vow|sámegielbálvalusaid} dárbbu ja ain stuorit gielddas dat livččii jo mihá garrasit hástalus.
 
@@ -27,7 +27,7 @@ Dákkár váttisvuođat leat omd. sámegielat beaivedikšumis ja sámegielat sku
 
 Váikkuhusat maid luondduealáhusaide?
 
-Neakkela bálgosa badjeolmmái Jouni Näkkälä mielas gielddaid ovttastahttin soaittálii hehttet maid {luonddugeavaheami}‰{punc|luonddugeavaheami.}
+Neakkela bálgosa badjeolmmái Jouni Näkkälä mielas gielddaid ovttastahttin soaittálii hehttet maid {luonddugeavaheami}‰{punct|luonddugeavaheami.}
 
 – Skohterastiid ja {njealljejuvllagiin}${adj,cmp,nomsg,gensg|njealjejuvllagiin} {vuodjiid}${noun,conc|vuoddjiid} mearri {lassanivččii}${verb,á|lassánivččii} sihkkarit Eanodaga guovllus, juos ovddeš Muonio, Kolari ja Gihttela {olbmot oččole seamma vuoigatvuođaid vuojášit}£{verb,infin,ind,cond,mode|olbmot oččole seamma vuoigatvuođaid vuojašit}, go enodatlaččain leat dál. Dát soaittálii hehttet sámiid boazodoalu, guollebivddu ja iežá meahcceealáhusaid.
 

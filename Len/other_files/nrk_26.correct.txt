@@ -27,9 +27,9 @@ Fáddán ON-čoahkkimis, mii dál lágiduvvo {Qataras}${prop,vowc|Quataras} lea 
 Čoahkkimis leat badjel 17.000 delegáhta, ja sullii 50 eamiálbmot-áirasa. Sámedikkis lea ovddasvástádus muittuhit stáhtaid, ahte dálkkádat-rievdan garrasit čuohcá álbmogiidda mat ellet {láhka}¢{pr,a|lahka} luonddu.
 
 
-Ođasmuvvi energiija ii leat álo {dat}¥{0} buoremus álgoálbmogiidda.
+Ođasmuvvi energiija ii leat álo {dat}¥{redun|} buoremus álgoálbmogiidda.
 
-- Muhto {dat}¥{0} váldohástalus lea várra dat, ahte {oaččut}¢{verb,conc|oažžut} dán systemii sisa dan {álgoálbmot oainnu}¥{noun,cmp|álgoálbmotoainnu} ja ipmárdusa birasáššiin, dadjá Vasara.
+- Muhto {dat}¥{redun|} váldohástalus lea várra dat, ahte {oaččut}¢{verb,conc|oažžut} dán systemii sisa dan {álgoálbmot oainnu}¥{noun,cmp|álgoálbmotoainnu} ja ipmárdusa birasáššiin, dadjá Vasara.
 
 Sámeráđi birasossodaga jođiheaddji Gunn Britt Retter, dadjá hástalussan čalmmustahttit eamiálbmotperspektiivva čoahkkimiin gos stáhtat deaivvadit. Mađi váddásut fáddá, {dađi unnit gullojit minoritehtajienat}£{adv,advl,comp,pos,infl|dađi unnibut gullojit minoritehtajienat}. Sin strategiija leamaš čuollat eamiálbmot-beliid Árktalaš ráđi bokte ja maid dutkama vuođul váikkuhit.
 
