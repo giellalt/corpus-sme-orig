@@ -14,7 +14,7 @@ Filbmejuvvon šloahtas {Čeahkas}${prop,mix|Čehkkias}
 
 Filbmadahkki Nils Gaup
 
-Šloahta dat dárbbašedje dán filbmii, {ainnat}${adv,vowc|oainnat} filmmas lea sáhka nieiddas gean namma lea Sonja. {Sonja ohcagoahtá juovlanásti}£{noun,obj,accsg,nomsg,case|Sonja ohcagoahtá juovlanástti}, danne go {háliidivčii}${verb,conc|háliidivččii} veahkehit gonagasa čoavdit nieiddas, {Gyllenhår` garuhusas}‰{notpunc|Gyllenhår garuhusas}. Sonja deaivida olu {hehttuhusaiguin}${noun,svow|hehttehusaiguin}, váddáseamos hehttehus lea bahágas noaideáhkku. {Lihkkus}${noun,conc|Lihkus} leat Sonjas {veahkkit}${noun,conc|veahkit} geat dorjot su {mátkis}${noun,conc|mátkkis}, nugo juovlanigá ja ulddat.
+Šloahta dat dárbbašedje dán filbmii, {ainnat}${adv,vowc|oainnat} filmmas lea sáhka nieiddas gean namma lea Sonja. {Sonja ohcagoahtá juovlanásti}£{noun,obj,accsg,nomsg,case|Sonja ohcagoahtá juovlanástti}, danne go {háliidivčii}${verb,conc|háliidivččii} veahkehit gonagasa čoavdit nieiddas, {Gyllenhår` garuhusas}‰{notpunct|Gyllenhår garuhusas}. Sonja deaivida olu {hehttuhusaiguin}${noun,svow|hehttehusaiguin}, váddáseamos hehttehus lea bahágas noaideáhkku. {Lihkkus}${noun,conc|Lihkus} leat Sonjas {veahkkit}${noun,conc|veahkit} geat dorjot su {mátkis}${noun,conc|mátkkis}, nugo juovlanigá ja ulddat.
 
 Malin Soli ja Kim Haugen neaktiba Sonja ja juovlanigá filmmas
 
