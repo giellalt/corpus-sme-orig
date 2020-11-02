@@ -1,14 +1,14 @@
-Táhpejin fas :(
+{Táhpejin}€{verb,verb,w|Vuoittohallen} fas :(
 
 Mon in riekta ipmir dan máilmmi :(
 
 Jáhkken ahte jos buvttadan buriid tiŋggaid, de oaččun visot: ráhkisvuođa, ruđaid, rehálašvuođa. "Jos beare buvttadan", jurddašin: "Jos beare lean dakkár buvttadeaddji..."
 
-Na, ja de buvttadin - mon ohppen buvttadit. Buvttadin ahte buvttadin, ohppen ahte ohppen. Čállen čielgasit, čuojahin čalbmáičuohcci šuoŋaid, {čuhppen čuorbivuođa eret mus}€{refl,pers,w|čuhppen čuorbivuođa eret alddán}... Ja mon liikká in oaččo daid tiŋggaid maid ledjen vuordán.
+Na, ja de buvttadin - mon ohppen buvttadit. Buvttadin ahte buvttadin, ohppen ahte ohppen. Čállen čielgasit, čuojahin čalbmáičuohcci šuoŋaid, čuhppen čuorbivuođa eret {mus}€{refl,pers,w|alddán}... Ja mon liikká in oaččo daid tiŋggaid maid ledjen vuordán.
 
-Okta joavku mas čuojahan lea reggaejoavku man namma lea Svarta stjärnan. Odne lei Čáhppes násttis konsearta Kafea {44:is}${acr,suf|44:s}, {Tjärhovsgáhtas}${prop,mix|Tjärhovsgatanis}, Söderis. Mon ledjen mielde vaikko in lean geargan hárjehallat ovttas earáiguin nu ollu. Manai bures. Ja min konseartta maŋŋil de lea vel konsearta: Escalator-nammasaš joavkkus lea konsearta. Mon guldalan ja geahčan. Lea buorre musihkka, ja de lea vel buorre nieida doppe, publihkas, mu bálddas dánseme. Dakkár čáppa nieida mii dánse bures. Ja mon beare čužžon doppe. In diehtán maid galgen dahkat. In duostan jearrat sus: "Oaččun go lobi?" nu go olles ija dahken Johkamohkis. Mon dál in duostan. Mon beare vulgen ruoktot. (Gula, M, don eske lohket mu duostilin! Dat ii leat duohta :(
+Okta joavku mas čuojahan lea reggaejoavku man namma lea Svarta stjärnan. Odne lei Čáhppes násttis konsearta Kafea {44:is}${acr,suf|44:s}, {Tjärhovsgáhtas}${prop,mix|Tjärhovsgatanis}, Söderis. Mon ledjen mielde vaikko in lean geargan hárjehallat {ovttas}¥{adv,redun| } earáiguin nu ollu. Manai bures. Ja min konseartta maŋŋil de lea vel konsearta: Escalator-nammasaš joavkkus lea konsearta. Mon guldalan ja geahčan. Lea buorre musihkka, ja de lea vel buorre nieida doppe, {publihkas}€{noun,noun,w|gehččiin}, mu bálddas dánseme. Dakkár čáppa nieida mii dánse bures. Ja mon beare čužžon doppe. In diehtán maid galgen dahkat. In duostan jearrat sus: "Oaččun go lobi?" nu go olles ija dahken Johkamohkis. Mon dál in duostan. Mon beare vulgen ruoktot. (Gula, M, don eske lohket mu duostilin! Dat ii leat duohta :(
 
-Ja mon in riekta {hálit}¢{verb,vow|háliit} dohkkehit ahte lea ná. Mon {hálidan}${verb,vow|háliidan} diehtit: Manne mon galggan leahkit nu čeahppi buotlágán hommáiguin? Manne ii leat doarvái? Manne ii leat doarvái beare čuojahit {sáksofovnna}${noun,a|saksofovnna} bures? Manne ná galgá?
+{Ja mon in}¥{clause,negfoc|Inge mon} riekta {hálit}¢{verb,vow|háliit} dohkkehit ahte lea ná. Mon {hálidan}${verb,vow|háliidan} diehtit: Manne mon galggan leahkit nu čeahppi buotlágán hommáiguin? Manne ii leat doarvái? Manne ii leat doarvái beare čuojahit {sáksofovnna}${noun,a|saksofovnna} bures? Manne ná galgá?
 
 Ja manne mon lean táhpalaš? Guovdageainnus deiven nieidda gii lei vuoiti. Son lei vuoitán buotlágán dakkár heargevuodjimiid, nuorran. Dál lei ain vuoiti, iežas mielas. Ja mon, mon lean dakkár gii vuoittáhalan olles áiggi. Mon táhpen. Ráhkisvuođa hárrái goitge. Maid barggan boastut?
 
