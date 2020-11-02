@@ -1,4 +1,4 @@
-{Táhpejin}€{verb,verb,w|Vuoittohallen} fas :(
+{Táhpejin}€{verb,verb,w|Vuoittáhallen} fas :(
 
 Mon in riekta ipmir dan máilmmi :(
 
@@ -10,7 +10,7 @@ Okta joavku mas čuojahan lea reggaejoavku man namma lea Svarta stjärnan. Odne 
 
 {Ja mon in}¥{clause,negfoc|Inge mon} riekta {hálit}¢{verb,vow|háliit} dohkkehit ahte lea ná. Mon {hálidan}${verb,vow|háliidan} diehtit: Manne mon galggan leahkit nu čeahppi buotlágán hommáiguin? Manne ii leat doarvái? Manne ii leat doarvái beare čuojahit {sáksofovnna}${noun,a|saksofovnna} bures? Manne ná galgá?
 
-Ja manne mon lean táhpalaš? Guovdageainnus deiven nieidda gii lei vuoiti. Son lei vuoitán buotlágán dakkár heargevuodjimiid, nuorran. Dál lei ain vuoiti, iežas mielas. Ja mon, mon lean dakkár gii vuoittáhalan olles áiggi. Mon táhpen. Ráhkisvuođa hárrái goitge. Maid barggan boastut?
+Ja manne mon lean táhpalaš? Guovdageainnus deiven nieidda gii lei vuoiti. Son lei vuoitán buotlágán dakkár heargevuodjimiid, nuorran. Dál lei ain vuoiti, iežas mielas. Ja mon, mon lean dakkár gii vuoittáhalan olles áiggi. Mon {táhpen}€{verb,verb,w|vuoittáhalan}. Ráhkisvuođa hárrái goitge. Maid barggan boastut?
 
 ... Ja kievkkanis lea čáhci {láhtis}${noun,conc|láhttis} masa mon dieđusge lávken go meinnen vuoššat káfe... Helvet!
 
