@@ -4,7 +4,7 @@ Oppalaš geahčastat
 
 Girjás Sápmi
 
-Sámi {kultuvrra lea vásihan}£{noun,subj,nomsg,accsg,case|kultuvra lea vásihan} jo logijagiid áigge stuorra nuppástumiid. 1970-logu rájes sápmelašvuohta lea ovdánan ođđa guvlui, mas árbevierru lea ovttastahtton ja suddaduvvon ođđa áiggi váikkuhusaide ja oainnuide. Sápmi lea maŋimuš logijagi áigge hábmen alcces {diđolačat}${adv,conc|diđolaččat} sámi álbmotlaš symbolaid, mat govvidit {sápmelačaid}${noun,conc|sápmelaččaid} oktilašvuođa ođđa máilmmis.
+Sámi {kultuvrra}£{noun,subj,nomsg,accsg,case|kultuvra} lea vásihan jo logijagiid áigge stuorra nuppástumiid. 1970-logu rájes sápmelašvuohta lea ovdánan ođđa guvlui, mas árbevierru lea ovttastahtton ja suddaduvvon ođđa áiggi váikkuhusaide ja oainnuide. Sápmi lea maŋimuš logijagi áigge hábmen alcces {diđolačat}${adv,conc|diđolaččat} sámi álbmotlaš symbolaid, mat govvidit {sápmelačaid}${noun,conc|sápmelaččaid} oktilašvuođa ođđa máilmmis.
 
 Alitruksesfiskes sámi leavga libarda konfereanssaid ja čoahkkimiid stákkuin. Sápp-Issát, Isak Saba jahkečuođi álggus čállin álbmotlávlla lea boahtán ođđasit atnui, vaikko dainna gilvalitge ođđa {"}${cit|”}álbmotluođit{"}${cit|”}. Historjjás ohcet stuorra sámi dáhpáhusaid ja {mearkašahtti}${adj,conc|mearkkašahtti} sámi olbmuid.
 
@@ -14,7 +14,7 @@ Sámi identiteahta olggosbuktin symbolalaš dásis laktása maŋimuš {guovttelo
 
 Nuorra sámi skuvlejuvvon luohká {guovddáš ulbmilin}¥{noun,cmp|guovddášulbmilin} lei gitta álggu rájes hukset oktavuođa árbevieru ja dálá áiggi, boares eallinoainnuid ja {moderna}${adj,vowc|modearna} servodaga váikkuhusaid gaskii. Ođđa oassálastinhámit riegádedje johtilit: ođđalágan sámi {politihkká}${noun,a|politihkka}, sámi diehtojuohkin ja sámi dáidda. Stuorámus jorggáldagat politihkalaš-kultuvrralaš historjjás ledje Álaheaieanu dulvadeami vuostálastimii {laktasan}${verb,á|laktásan} stuimmit 1980-logu doadjimis. Dat virkkosmahtii sámi kultuvrra ja dagahii mearkkašahtti nuppástusaid Norgga sámepolitihkkii.
 
-Vaikke ođđa lágat ja {sámepolihkalaš}${adj,typo|sámepolitihkalaš} diđolašvuohta leat bajidan sámi kultuvrra árvvusatnima, de dilli lea árgabeaivve dásis ruossalassii. Sámi kultuvra lea juohkásan njealji stáhta sisa, ja dan eai suddje nana ja čielga ráját. Sámegiella gáibida velá gievrrat sajádaga. Suddadanmuddu, mii álggii sođiid maŋŋá, buvttii máŋgga sápmelažžii heajos iešdovddu, masa čuohcci váttisvuođat hehttejit ainge ovdamearkka dihte jurddašanvuogi sámegielas.
+Vaikke ođđa lágat ja {sámepolihkalaš}${adj,typo|sámepolitihkalaš} diđolašvuohta leat bajidan sámi kultuvrra árvvusatnima, de dilli lea árgabeaivve dásis ruossalassii. Sámi kultuvra lea juohkásan njealji stáhta sisa, {ja dan eai}¥{clause,negfoc|eaige dan} suddje nana ja čielga ráját. Sámegiella gáibida velá gievrrat sajádaga. Suddadanmuddu, mii álggii sođiid maŋŋá, buvttii máŋgga sápmelažžii heajos iešdovddu, masa čuohcci váttisvuođat hehttejit ainge ovdamearkka dihte jurddašanvuogi sámegielas.
 
 Rájáin rihkkojuvvon álbmot Sápmelaččat leat Eurohpa Uniovnna siste áidna álgoálbmogin meroštallon etnihkalaš joavku. Sii leat maiddái njealji stáhta siste orru veahádat, mas lea iežas giella ja kultuvra. Sápmelaččaid mearri lea rehkenastinvuogi mielde 60 000 - 100 000 olbmo. Sápmelaččaid orrunguovlu, Sápmi ollá Gaska-Norggas ja {-Ruotas}${prop,ascii|-Ruoŧas} Suoma davvioasi badjel gitta Guoládatnjárgii.
 
@@ -28,7 +28,7 @@ Badjel bealli sápmelaččain hállá sámegiela. Sámegielat leat máŋggat, ea
 
 Sápmelaš - lappalainen
 
-Namahus sápmelaš lea etnihkalaš meroštallan, mii čujuha sápmelaččaid oidnui iežaset birra dakkár sámi kultuvrra lahttun, mii lea {earálagan}${adj,á|earálágan} go váldokultuvra. Dat cealká iežas eret namahusas lappalainen (lapp), man {olggobeal}${noun,svow|olggobeale} olbmot leat addán. {Dat lea dadjanvuogi}£{noun,spred,nomsg,gensg,case|Dat lea dadjanvuohki}, man sápmelaččat jurddašit riegádan guhkes soardinproseassa áigge ja mii lea menddo báidnašuvvan dahjege loavkašuhtti. Suomagillii tearbma lappilainen oaivvilda Lappi leana ássi das fuolakeahttá, leago son sápmelaš vai suopmelaš.
+Namahus sápmelaš lea etnihkalaš meroštallan, mii čujuha sápmelaččaid oidnui iežaset birra dakkár sámi kultuvrra lahttun, mii lea {earálagan}${adj,á|earálágan} go váldokultuvra. Dat cealká iežas eret namahusas lappalainen (lapp), man {olggobeal}${noun,svow|olggobeale} olbmot leat addán. Dat lea {dadjanvuogi}£{noun,spred,nomsg,gensg,case|dadjanvuohki}, man sápmelaččat jurddašit riegádan guhkes soardinproseassa áigge ja mii lea menddo báidnašuvvan dahjege loavkašuhtti. Suomagillii tearbma lappilainen oaivvilda Lappi leana ássi das fuolakeahttá, leago son sápmelaš vai suopmelaš.
 
 Sápmelaččat-sátni lea suomagielas viehka ođas, dat váldui atnui easkka 1900-logu {álgogeahčen}${adv,conc|álggogeahčen}. Sámegielat tearbman dat lea goittotge don dološ suopmelaš-ugralaš sátni, mas maiddái suopmelaččaid namahus álgoálggus lea gárggiidan (navdo, ahte sápmelaš -hámálaš). Boares áššebáhpáriin ja girjjálašvuođas tearbma lappalainen geavahuvvo dakkár olbmo namahussan, geain lei sámi ealáhusvuohki - namalassii boazodoallu, meahccebivdu ja guolástus - {daid guovlluin}£{dem,attr,locpl,genpl,case|dain guovlluin} maid son bissovaččat oamastii ja main son mávssii eanavearu stáhtii.
 
