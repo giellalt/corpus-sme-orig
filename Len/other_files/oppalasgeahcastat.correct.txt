@@ -16,7 +16,7 @@ Nuorra sámi skuvlejuvvon luohká {guovddáš ulbmilin}¥{noun,cmp|guovddášulb
 
 Vaikke ođđa lágat ja {sámepolihkalaš}${adj,typo|sámepolitihkalaš} diđolašvuohta leat bajidan sámi kultuvrra árvvusatnima, de dilli lea árgabeaivve dásis ruossalassii. Sámi kultuvra lea juohkásan njealji stáhta sisa, {ja dan eai}¥{clause,negfoc|eaige dan} suddje nana ja čielga ráját. Sámegiella gáibida velá gievrrat sajádaga. Suddadanmuddu, mii álggii sođiid maŋŋá, buvttii máŋgga sápmelažžii heajos iešdovddu, masa čuohcci váttisvuođat hehttejit ainge ovdamearkka dihte jurddašanvuogi sámegielas.
 
-Rájáin rihkkojuvvon álbmot Sápmelaččat leat Eurohpa Uniovnna siste áidna álgoálbmogin meroštallon etnihkalaš joavku. Sii leat maiddái njealji stáhta siste orru veahádat, mas lea iežas giella ja kultuvra. Sápmelaččaid mearri lea rehkenastinvuogi mielde 60 000 - 100 000 olbmo. Sápmelaččaid orrunguovlu, Sápmi ollá Gaska-Norggas ja {-Ruotas}${prop,ascii|-Ruoŧas} Suoma davvioasi badjel gitta Guoládatnjárgii.
+Rájáin rihkkojuvvon {álbmot}‰{punct|álbmot.} Sápmelaččat leat Eurohpa Uniovnna siste áidna álgoálbmogin meroštallon etnihkalaš joavku. Sii leat maiddái njealji stáhta siste orru veahádat, mas lea iežas giella ja kultuvra. Sápmelaččaid mearri lea rehkenastinvuogi mielde 60 000 - 100 000 olbmo. Sápmelaččaid orrunguovlu, Sápmi ollá Gaska-Norggas ja {-Ruotas}${prop,ascii|-Ruoŧas} Suoma davvioasi badjel gitta Guoládatnjárgii.
 
 Eanaš sápmelaččat, sullii 40 000 - 45 000, orrot Norgga stáhta siste, bealli sis Finnmárkkus. Ruoŧas sápmelaččat leat 15 000 - 25 000, Suomas badjel 6000 ja Ruošša bealde sullii 2000. Suomas, Ruoŧas ja Norggas sápmelaččat válljejit válggain iešguđet riikkas Sámedikki, mas lea ráđđeaddi sajádat.
 
