@@ -10,7 +10,7 @@ Davvi-Suoma EAKR-prográmma 2007-2013
 
 Davvi-Suoma EAKR-prográmma vuođul geahččalit lasihit ođasmahttingilvalannávccaid, stuoridit fitnodagaid, buoridit juvssahahttivuođa ja nannet geasuhusdahkkiid.
 
-EAKR-ruhtadeami sáhttet ohcat fitnodagat, oahppolágádusat, dutkanlágádusat, gielddat, guovlogielddat ja eará vuoigatvuođadohkálaš servošat dahje daid oktiibijut. Ruhtadeami mieđihit Lappi Lihttu, Lappi ELY-guovddáš ja Finnvera. Lappi Lihttu ii mieđit doarjaga ovttaskas fitnodagaid fitnodatdoaimma ovddideapmái. Loga lasi Davvi-Suoma {EAKR -prográmmas}¥{cmp,2-1|EAKR-prográmmas}
+EAKR-ruhtadeami sáhttet ohcat fitnodagat, oahppolágádusat, dutkanlágádusat, gielddat, guovlogielddat ja eará vuoigatvuođadohkálaš servošat dahje daid oktiibijut. Ruhtadeami mieđihit Lappi Lihttu, Lappi ELY-guovddáš ja Finnvera. Lappi Lihttu ii mieđit doarjaga ovttaskas fitnodagaid fitnodatdoaimma ovddideapmái. Loga lasi Davvi-Suoma {EAKR -prográmmas}¥{noun,cmp|EAKR-prográmmas}
 
 Interreg IV A Pohjoinen
 
@@ -22,7 +22,7 @@ Kolarctic ENPI CBC 2007-2013 lea Davvikalohta ja Oarjedavvi-Ruošša rájiid ras
 
 Davviperiferiija
 
-Davviperiferiija prográmma doarju Eurohpá boaittobealeguovlluid ekonomalaš, bistevaš ovdáneami fidnoruhtadeami vuođul, man ohcci sáhttá oažžut eanemustá 60 % fidnogoluin. Prográmmaguvlui gullet eanagottit Suomas, Ruoŧas, Norggas, {Skotlánddas}${fin,t-tt|Skottlánddas}, Irlánddas ja Davvi-Irlánddas sihke Islánda, Ruonáeana ja Fearasullot ollásit.
+Davviperiferiija prográmma doarju Eurohpá boaittobealeguovlluid ekonomalaš, bistevaš ovdáneami fidnoruhtadeami vuođul, man ohcci sáhttá oažžut eanemustá 60 % fidnogoluin. Prográmmaguvlui gullet eanagottit Suomas, Ruoŧas, Norggas, {Skotlánddas}${noun,conc|Skottlánddas}, Irlánddas ja Davvi-Irlánddas sihke Islánda, Ruonáeana ja Fearasullot ollásit.
 
 Davvikalohta ráđđi
 
