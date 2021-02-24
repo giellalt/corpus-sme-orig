@@ -92,7 +92,7 @@
     <xsl:variable name="translator_ln" select="'Sárá'"/>
     <xsl:variable name="translator_gender" select="'unknown'"/>
     <xsl:variable name="translator_born" select="''"/>
-    <xsl:variable name="translator_nat" select="''"/>
+    <xsl:variable name="translator_nat" select="'NO'"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="'free'"/>
     <!-- e.g. Sámediggi journal number -->

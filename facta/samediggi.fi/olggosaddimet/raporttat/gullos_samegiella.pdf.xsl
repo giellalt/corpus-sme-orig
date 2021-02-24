@@ -92,7 +92,7 @@
     <xsl:variable name="translator_ln" select="'Guttorm'"/>
     <xsl:variable name="translator_gender" select="'f'"/>
     <xsl:variable name="translator_born" select="''"/>
-    <xsl:variable name="translator_nat" select="''"/>
+    <xsl:variable name="translator_nat" select="'FI'"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="''"/>
     <!-- e.g. Sámediggi journal number -->
