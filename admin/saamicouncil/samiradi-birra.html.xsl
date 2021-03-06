@@ -159,7 +159,7 @@ s<?xml version='1.0' encoding='UTF-8'?>
     -->
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
-        <parallel_text xml:lang="eng" location="index_1.html"/>
+        <parallel_text xml:lang="eng" location="about-saami-council.html"/>
         <parallel_text xml:lang="fin" location=""/>
         <parallel_text xml:lang="fit" location=""/>
         <parallel_text xml:lang="fkv" location=""/>

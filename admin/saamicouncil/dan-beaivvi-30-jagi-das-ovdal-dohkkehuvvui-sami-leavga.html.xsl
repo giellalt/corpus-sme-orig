@@ -159,7 +159,7 @@
     -->
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
-        <parallel_text xml:lang="eng" location="index_4.html"/>
+        <parallel_text xml:lang="eng" location="thirty-years-ago-today-the-saami-flag-was-adopted.html"/>
         <parallel_text xml:lang="fin" location=""/>
         <parallel_text xml:lang="fit" location=""/>
         <parallel_text xml:lang="fkv" location=""/>

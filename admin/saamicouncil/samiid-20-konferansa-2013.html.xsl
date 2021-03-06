@@ -159,7 +159,7 @@
     -->
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
-        <parallel_text xml:lang="eng" location="index_2.html"/>
+        <parallel_text xml:lang="eng" location="the-saami-conference-2013.html"/>
         <parallel_text xml:lang="fin" location=""/>
         <parallel_text xml:lang="fit" location=""/>
         <parallel_text xml:lang="fkv" location=""/>
@@ -168,7 +168,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="index_1.html"/>
+        <parallel_text xml:lang="nob" location="samernas-konferens-2013.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
