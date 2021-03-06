@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.tromsfylke.no/Tromsfylke/media/3267/regional-landbruksplan_samisk_med_vedlegg-nettversjon.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Árktalaš eanadoallu - ealáhus mas leat ollu vejolašvuođat. Romssa regionála eanadoalloplána 2014-2025'"/>
+    <xsl:variable name="title" select="'Árktalaš eanadoallu - ealáhus mas leat ollu vejolašvuođat. Romssa regionála eanadoalloplána 2014-2025'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

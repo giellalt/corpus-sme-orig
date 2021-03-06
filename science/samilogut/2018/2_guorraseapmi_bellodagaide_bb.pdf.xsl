@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/2._guorraseapmi_bellodagaide_slm_2018.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'«Guorraseapmi bellodagaide BB, O, GB ja OvB sámediggeválggain stuorradiggeválggaid ektui jagiin 1989-2017: Leago nationála válgabiegga vai sámepolitihkka mii lea dehálaš?»'"/>
+    <xsl:variable name="title" select="'«Guorraseapmi bellodagaide BB, O, GB ja OvB sámediggeválggain stuorradiggeválggaid ektui jagiin 1989-2017: Leago nationála válgabiegga vai sámepolitihkka mii lea dehálaš?»'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

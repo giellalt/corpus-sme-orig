@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/kap_4.festivaler_med_samiske_innholdbente_0.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Festiválat main lea sámi sisdoallu'"/>
+    <xsl:variable name="title" select="'Festiválat main lea sámi sisdoallu'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

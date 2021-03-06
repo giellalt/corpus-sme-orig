@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/2.samegiella_skuvllas.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Duođalaš njiedjan fágas sámegiella nubbingiella'"/>
+    <xsl:variable name="title" select="'Duođalaš njiedjan fágas sámegiella nubbingiella'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

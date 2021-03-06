@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.gierdu.no/pdf/BrittaMarakattLabba.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámi dáidaperspektiivas: organiseret vai morihahahttá gehččiid, praktihkalaš barggu bokte'"/>
+    <xsl:variable name="title" select="'Sámi dáidaperspektiivas: organiseret vai morihahahttá gehččiid, praktihkalaš barggu bokte'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

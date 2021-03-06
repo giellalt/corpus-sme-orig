@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://samas.brage.unit.no/samas-xmlui/bitstream/handle/11250/2653623/Sara%20Inga%20Utsi%20Bongo%20-%20Málbmi%20lea%20girjái_Makkárat%20leat%20Guovdageainnu%20mállet%20seahkohiid%20ja%20čuolddaboahkániid%20hearvavuogádagat%2c%20ja%20maid%20dat%20muitalit.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Máilbmi lea girjái. Makkárat leat Guovdageainnu mállet seahkohiid ja čuolddaboahkániid hearvavuogádagat ja maid dat muitalit.'"/>
+    <xsl:variable name="title" select="'Máilbmi lea girjái. Makkárat leat Guovdageainnu mállet seahkohiid ja čuolddaboahkániid hearvavuogádagat ja maid dat muitalit.'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

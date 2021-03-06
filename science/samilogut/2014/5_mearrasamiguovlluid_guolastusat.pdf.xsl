@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/5_mii_dahpahuvva_mearrasamiguovlluid_guolasemiin.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Mii dáhpáhuvvá mearrasámi vuonaid guolástusaiguin?'"/>
+    <xsl:variable name="title" select="'Mii dáhpáhuvvá mearrasámi vuonaid guolástusaiguin?'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -35,7 +35,7 @@
         date or year of birth, nationality.
     -->
     <xsl:variable name="author2_fn" select="'Einar'"/>
-    <xsl:variable name="author2_ln" select="'Eythórsson'"/>
+    <xsl:variable name="author2_ln" select="'Eythórsson'"/>
     <xsl:variable name="author2_gender" select="'m'"/>
     <xsl:variable name="author2_nat" select="''"/>
     <xsl:variable name="author2_born" select="''"/>

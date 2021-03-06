@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.ffk.no/docs/f4d43c35-6f94-4580-9863-c250bd4ac8e4.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'2010 Jahkedieđáhus'"/>
+    <xsl:variable name="title" select="'2010 Jahkedieđáhus'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

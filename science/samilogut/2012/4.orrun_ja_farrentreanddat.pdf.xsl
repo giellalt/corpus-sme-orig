@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/4._bo-_og_flyttetrender_samegillii.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Orrun- ja fárrentreanddat dáru- ja sámisuohkaniin 40 jagi áigodagas, go guoská barggahusaid ektui'"/>
+    <xsl:variable name="title" select="'Orrun- ja fárrentreanddat dáru- ja sámisuohkaniin 40 jagi áigodagas, go guoská barggahusaid ektui'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

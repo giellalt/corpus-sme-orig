@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.regeringen.se/content/1/c6/13/76/01/3ad2153c.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Láhka (2009:724) našuvnnalaš unnitloguid ja unnitlogugielaid birra'"/>
+    <xsl:variable name="title" select="'Láhka (2009:724) našuvnnalaš unnitloguid ja unnitlogugielaid birra'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

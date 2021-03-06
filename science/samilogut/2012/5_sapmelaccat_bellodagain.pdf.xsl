@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/5sapmelaaaat_bellodagain_ja_valggain_kmu_sami.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sápmelaččat bellodagain ja válggain'"/>
+    <xsl:variable name="title" select="'Sápmelaččat bellodagain ja válggain'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

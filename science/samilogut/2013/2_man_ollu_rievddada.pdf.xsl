@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/2.kvantitative_endringar_i_den_samiske_sprayksituasjonen_i_noreg_samegillii.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Man ollu rievddada sámegiela dillii Norggas?'"/>
+    <xsl:variable name="title" select="'Man ollu rievddada sámegiela dillii Norggas?'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

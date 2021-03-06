@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/kap_8._datavuoddu_sami_statistihkkii.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Datavuođđu sámi statistihkkii'"/>
+    <xsl:variable name="title" select="'Datavuođđu sámi statistihkkii'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

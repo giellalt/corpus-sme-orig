@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/4_ceavzilis_boazoealahus_0.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Ceavzilis boazoealáhus?'"/>
+    <xsl:variable name="title" select="'Ceavzilis boazoealáhus?'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

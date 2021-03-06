@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/6._samegillii_6_samisk_filmbolge_baner_vei.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámi filbmabárru láidesta'"/>
+    <xsl:variable name="title" select="'Sámi filbmabárru láidesta'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

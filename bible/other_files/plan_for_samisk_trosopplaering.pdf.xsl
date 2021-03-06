@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.kirken.no/?event=downloadFile&amp;FamID=179597'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámi oskkuoahpahusplána'"/>
+    <xsl:variable name="title" select="'Sámi oskkuoahpahusplána'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

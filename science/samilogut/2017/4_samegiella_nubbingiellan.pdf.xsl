@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/4.samegillii_samisk_som_andresprak.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámegiella nubbingiellan'"/>
+    <xsl:variable name="title" select="'Sámegiella nubbingiellan'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'berit_oskal.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Garra boját ja fiinna nieiddat. Heteronormativitehta sámi čáppagirjjálašvuođas'"/>
+    <xsl:variable name="title" select="'Garra boját ja fiinna nieiddat. Heteronormativitehta sámi čáppagirjjálašvuođas'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

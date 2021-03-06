@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/nb/node/3954'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámi logut muitalit 3'"/>
+    <xsl:variable name="title" select="'Sámi logut muitalit 3'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -406,7 +406,7 @@
 
             <xsl:call-template name="globalTextReplace">
                 <xsl:with-param name="inputString" select="$text"/>
-                <xsl:with-param name="target" select="'Ď/Publikasjonsår:/Forfatter(e):/Type:/Full rapport/Last ned/'"/>
+                <xsl:with-param name="target" select="'Ď/Publikasjonsår:/Forfatter(e):/Type:/Full rapport/Last ned/'"/>
                 <xsl:with-param name="replacement" select="'đ//////'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>

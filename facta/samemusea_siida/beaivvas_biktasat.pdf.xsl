@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://www.veli-pekkalehtola.fi/UserFiles/files/Beaivvas_katalogi110508.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Beaivváš. Beaivváš Sámi Našunálateáhter Teáhterbiktasat. Čájáhuslogahallan.'"/>
+    <xsl:variable name="title" select="'Beaivváš. Beaivváš Sámi Našunálateáhter Teáhterbiktasat. Čájáhuslogahallan.'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

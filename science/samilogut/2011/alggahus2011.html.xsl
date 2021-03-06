@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/nb/node/3955'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámi logut muitalit 4'"/>
+    <xsl:variable name="title" select="'Sámi logut muitalit 4'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

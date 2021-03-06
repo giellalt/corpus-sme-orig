@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.gierdu.no/pdf/DagSolhjell.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámi dáidda sosiologalaš ja historjjálaš perspektiivvas'"/>
+    <xsl:variable name="title" select="'Sámi dáidda sosiologalaš ja historjjálaš perspektiivvas'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

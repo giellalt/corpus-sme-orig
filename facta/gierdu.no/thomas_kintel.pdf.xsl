@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.gierdu.no/pdf/ThomasKintel.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Makkár várra lea sámi dáiddamáilmmis?'"/>
+    <xsl:variable name="title" select="'Makkár várra lea sámi dáiddamáilmmis?'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

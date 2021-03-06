@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://munin.uit.no//'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'TRADITIONAL HEALING AND THE PUBLIC MENTAL HEALTH SERVICES IN SÁMI AREAS OF NORTHERN NORWAY – INTERFACES AND COOPERATION'"/>
+    <xsl:variable name="title" select="'TRADITIONAL HEALING AND THE PUBLIC MENTAL HEALTH SERVICES IN SÁMI AREAS OF NORTHERN NORWAY – INTERFACES AND COOPERATION'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

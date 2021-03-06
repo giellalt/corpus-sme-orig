@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.ffk.no/docs/2107f77a-272b-4b1a-87ab-fd56b55955a6.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Finnmárkku fylkkagieldda sámi gelbbolašvuođa STRATEGIIJAPLÁNA 2011-2014'"/>
+    <xsl:variable name="title" select="'Finnmárkku fylkkagieldda sámi gelbbolašvuođa STRATEGIIJAPLÁNA 2011-2014'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

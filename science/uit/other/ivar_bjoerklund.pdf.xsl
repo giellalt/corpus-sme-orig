@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://munin.uit.no/bitstream/handle/10037/5828/article.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'DÁRBBAŠIT GO MII SÁMI BOAZODOALU?'"/>
+    <xsl:variable name="title" select="'DÁRBBAŠIT GO MII SÁMI BOAZODOALU?'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

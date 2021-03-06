@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/8.samegillii_8tannhelse_i_samisk_befolkning_i_finnmark_1.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Bátnedearvvašvuohta sámi álbmogis Finnmárkkus'"/>
+    <xsl:variable name="title" select="'Bátnedearvvašvuohta sámi álbmogis Finnmárkkus'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

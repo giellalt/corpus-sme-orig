@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://www.finlex.fi/data/sdliite/liite/6434.pdf'"/>
     <xsl:variable name="text_encoding" select="'UTF-8'"/>
-    <xsl:variable name="title" select="'Stáhtaráđi ásahus boazodoalu ja luondduealáhusaid struktuvradoarjagiid ohcanáiggi nohkamis'"/>
+    <xsl:variable name="title" select="'Stáhtaráđi ásahus boazodoalu ja luondduealáhusaid struktuvradoarjagiid ohcanáiggi nohkamis'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -70,7 +70,7 @@
     <xsl:variable name="author5_nat" select="''"/>
     <xsl:variable name="author5_born" select="''"/>
 
-    <xsl:variable name="publisher" select="'Oikeusministeriö'"/>
+    <xsl:variable name="publisher" select="'Oikeusministeriö'"/>
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->

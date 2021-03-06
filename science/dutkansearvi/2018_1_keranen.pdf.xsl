@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://dutkansearvi.fi/verkkolehti-ps/julkaisut-ps/nr-12018-copy/'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sosiolingvistalaš analysa 1978-čállinvuogi ja giellalávdegotti barggu birra'"/>
+    <xsl:variable name="title" select="'Sosiolingvistalaš analysa 1978-čállinvuogi ja giellalávdegotti barggu birra'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

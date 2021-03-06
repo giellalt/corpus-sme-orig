@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.gierdu.no/pdf/SveinFlygariJohansen.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Ihčodat “schizotopia”s'"/>
+    <xsl:variable name="title" select="'Ihčodat “schizotopia”s'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

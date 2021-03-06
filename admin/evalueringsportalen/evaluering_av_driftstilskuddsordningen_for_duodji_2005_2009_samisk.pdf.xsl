@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://evalueringsportalen.no/evaluering/duoji-doaibmadoarjagiid-rvvo-tallan-2005-2009/1N%20EV%20duodji%202005-2009-S.pdf/@@inline'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Duoji doaibmadoarjagiid árvvoštallan 2005-2009'"/>
+    <xsl:variable name="title" select="'Duoji doaibmadoarjagiid árvvoštallan 2005-2009'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

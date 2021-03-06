@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://lauda.ulapland.fi/bitstream/handle/10024/61822/Saamelaisten_hyv%E4_elam%E4_verkkoversiopdfA.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Saamelaisten hyvä elämä ja hyvinvointipalvelut'"/>
+    <xsl:variable name="title" select="'Saamelaisten hyvä elämä ja hyvinvointipalvelut'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -35,7 +35,7 @@
         date or year of birth, nationality.
     -->
     <xsl:variable name="author2_fn" select="'Elsa'"/>
-    <xsl:variable name="author2_ln" select="'Laiti-Hedemäki'"/>
+    <xsl:variable name="author2_ln" select="'Laiti-Hedemäki'"/>
     <xsl:variable name="author2_gender" select="'f'"/>
     <xsl:variable name="author2_nat" select="'FI'"/>
     <xsl:variable name="author2_born" select="''"/>

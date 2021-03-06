@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://lauda.ulapland.fi/bitstream/handle/10024/62619/Äärelä_Rauni_ActaE_203pdfA.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'”Dat ii leat dušše dat giella” – ”Se ei ole vain se kieli”.  Tapaustutkimus saamenkielisestä kielipesästä saamelaisessa varhaiskasvatuksessa'"/>
+    <xsl:variable name="title" select="'”Dat ii leat dušše dat giella” – ”Se ei ole vain se kieli”.  Tapaustutkimus saamenkielisestä kielipesästä saamelaisessa varhaiskasvatuksessa'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

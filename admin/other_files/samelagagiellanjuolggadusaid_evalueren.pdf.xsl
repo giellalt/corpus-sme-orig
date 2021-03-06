@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://evalueringsportalen.no/evaluering/evaluering-av-samelovens-spraekregler-s%25C3%25A1mel%25C3%25A1ga-giellanjuolggadusaid-evalueren/Evaluering%20av%20samelovens%20språkregler%20publikasjon%20norsk%20og%20samisk.pdf/@@inline'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámelága giellanjuolggadusaid evalueren'"/>
+    <xsl:variable name="title" select="'Sámelága giellanjuolggadusaid evalueren'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -35,7 +35,7 @@
         date or year of birth, nationality.
     -->
     <xsl:variable name="author2_fn" select="'Johan'"/>
-    <xsl:variable name="author2_ln" select="'Strömgren'"/>
+    <xsl:variable name="author2_ln" select="'Strömgren'"/>
     <xsl:variable name="author2_gender" select="'m'"/>
     <xsl:variable name="author2_nat" select="''"/>
     <xsl:variable name="author2_born" select="''"/>
