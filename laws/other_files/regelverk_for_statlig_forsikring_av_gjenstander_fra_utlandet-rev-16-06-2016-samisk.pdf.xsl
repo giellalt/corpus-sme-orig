@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://www.regjeringen.no/contentassets/167e6e0ee9d7494f8ba7ba57e8217472/regelverk_for_statlig_forsikring_av_gjenstander_fra_utlandet-rev-16-06-2016-samisk.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Stáhtalaš dáhkádusnjuolggadusat dávviriid várás mat olgoriikkas luoikkahuvvojit čájáhussan Norgii'"/>
+    <xsl:variable name="title" select="'Stáhtalaš dáhkádusnjuolggadusat dávviriid várás mat olgoriikkas luoikkahuvvojit čájáhussan Norgii'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

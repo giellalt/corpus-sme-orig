@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/3.jorgaluvvon.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Biras- ja resursahálddašeapmi sámi guovlluin'"/>
+    <xsl:variable name="title" select="'Biras- ja resursahálddašeapmi sámi guovlluin'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

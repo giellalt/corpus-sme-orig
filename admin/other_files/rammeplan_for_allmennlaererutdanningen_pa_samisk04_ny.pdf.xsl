@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://www.regjeringen.no/globalassets/upload/kilde/kd/pla/2006/0002/ddd/pdfv/217090-rammeplan_for_allmennlaererutdanningen_pa_samisk04_ny.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Dábálašoahpaheaddjeoahpu rámmaplána'"/>
+    <xsl:variable name="title" select="'Dábálašoahpaheaddjeoahpu rámmaplána'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

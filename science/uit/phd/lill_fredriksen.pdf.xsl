@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'lill_fredriksen.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'...mun boađán sin maŋis ja joatkkán guhkkelebbui... Birgengoansttat Jovnna-Ánde Vesta románatrilogiijas Árbbolaččat'"/>
+    <xsl:variable name="title" select="'...mun boađán sin maŋis ja joatkkán guhkkelebbui... Birgengoansttat Jovnna-Ánde Vesta románatrilogiijas Árbbolaččat'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=13&amp;Itemid=10'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Dánsa - njuolggadusat Nuorra Kultuvra –dáhpáhusa mielde'"/>
+    <xsl:variable name="title" select="'Dánsa - njuolggadusat Nuorra Kultuvra –dáhpáhusa mielde'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

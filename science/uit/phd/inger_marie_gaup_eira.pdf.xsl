@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'inger_marie_gaup_eira.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Muohttaga jávohis giella. Sámi árbevirolaš máhttu muohttaga birra dálkkádatrievdanáiggis'"/>
+    <xsl:variable name="title" select="'Muohttaga jávohis giella. Sámi árbevirolaš máhttu muohttaga birra dálkkádatrievdanáiggis'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

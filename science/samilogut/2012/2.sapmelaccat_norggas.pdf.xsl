@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/2.cuovvovas_teaksta_lea_kronihkkamanus_mii_deaddiluvvui_sagat_aviissas_golggotmanu_6.docx_0.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sápmelaččat Norggas – 40 jagi 40 000?'"/>
+    <xsl:variable name="title" select="'Sápmelaččat Norggas – 40 jagi 40 000?'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

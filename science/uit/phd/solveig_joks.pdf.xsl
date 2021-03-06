@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'solveig_joks.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'“Laksen trenger ro”. Tilnærming til tradisjonelle kunnskaper gjennom praksiser, begreper og fortellinger fra Sirbmá-området.'"/>
+    <xsl:variable name="title" select="'“Laksen trenger ro”. Tilnærming til tradisjonelle kunnskaper gjennom praksiser, begreper og fortellinger fra Sirbmá-området.'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

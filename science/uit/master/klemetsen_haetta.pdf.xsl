@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://munin.uit.no/bitstream/handle/10037/9387/thesis.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'«Should I stay or should I go?» En studie av ansattes tilhørighet til Sametinget og hvordan det påvirker intensjonen om å bli på eller forlate arbeidsplassen'"/>
+    <xsl:variable name="title" select="'«Should I stay or should I go?» En studie av ansattes tilhørighet til Sametinget og hvordan det påvirker intensjonen om å bli på eller forlate arbeidsplassen'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/kap_2._bruk_av_fritidsarenaer_og_deltakelse_i_fritidsaktiviteter_blant_samisk.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Finnmárkku sámegielat ja dárogielat nuoraid friddjaáiggearenaid geavaheapmi ja friddjaáiggedoaimmaid oasálastin'"/>
+    <xsl:variable name="title" select="'Finnmárkku sámegielat ja dárogielat nuoraid friddjaáiggearenaid geavaheapmi ja friddjaáiggedoaimmaid oasálastin'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

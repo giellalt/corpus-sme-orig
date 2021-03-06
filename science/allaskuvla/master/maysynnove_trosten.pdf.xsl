@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://samas.brage.unit.no/samas-xmlui/bitstream/handle/11250/2654619/May-Synnøve%20Trosten%20-%20Govvagirjelohkan%20metodologalaš%20innovašuvdnan_Čiežajahkásaččaid%20sátneriggodaga%20gárggiidahttin%20skuvllas.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="' Govvagirjelohkan metodologalaš innovašuvdnan – Čiežajahkásaččaid sátneriggodaga gárggiidahttin skuvllas. Masterbargu sámi vuođđoskuvlaoahpaheaddjeoahpus.'"/>
+    <xsl:variable name="title" select="' Govvagirjelohkan metodologalaš innovašuvdnan – Čiežajahkásaččaid sátneriggodaga gárggiidahttin skuvllas. Masterbargu sámi vuođđoskuvlaoahpaheaddjeoahpus.'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

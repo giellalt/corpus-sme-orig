@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://innsyn.e-kommune.no/innsyn_sametinget_samisk/wfdocument.aspx?journalpostid=2011013222&amp;dokid=321085&amp;versjon=3&amp;variant=P&amp;ct=RA-PDF'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Ealáhus- ja kulturlávdegoddi Čoahkkingirji 02/11'"/>
+    <xsl:variable name="title" select="'Ealáhus- ja kulturlávdegoddi Čoahkkingirji 02/11'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

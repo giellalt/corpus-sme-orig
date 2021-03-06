@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://evalueringsportalen.no/evaluering/ekonomala-raporta-duoji-ovd-neamis/Økonomisk%20rapport%20for%20utviklingen%20i%20duodji%20-%20Samisk%20versjon.pdf/@@inline'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Ekonomalaš raporta duoji ovdáneamis'"/>
+    <xsl:variable name="title" select="'Ekonomalaš raporta duoji ovdáneamis'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

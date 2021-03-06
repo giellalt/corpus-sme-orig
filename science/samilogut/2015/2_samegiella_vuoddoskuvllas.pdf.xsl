@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/2.samegiella_skuvllas_2015.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámegiella vuođđoskuvllas ja joatkkaoahpahusas'"/>
+    <xsl:variable name="title" select="'Sámegiella vuođđoskuvllas ja joatkkaoahpahusas'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1974&amp;Itemid=10'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámediggi lea dahkan burginohcamušaid alimus hálddahusriektái'"/>
+    <xsl:variable name="title" select="'Sámediggi lea dahkan burginohcamušaid alimus hálddahusriektái'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

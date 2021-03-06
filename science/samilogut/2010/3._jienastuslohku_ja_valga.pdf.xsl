@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/3._jienastuslohku_ja_valga.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Jienastuslohku ja válga- oassálastin Norgga sámedigge- válggain 1989-2009'"/>
+    <xsl:variable name="title" select="'Jienastuslohku ja válga- oassálastin Norgga sámedigge- válggain 1989-2009'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

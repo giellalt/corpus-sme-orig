@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.gierdu.no/pdf/BjornVassnes.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Dáiddateoriija – čearddalaš vealahemi maŋimuš suodjesadji?'"/>
+    <xsl:variable name="title" select="'Dáiddateoriija – čearddalaš vealahemi maŋimuš suodjesadji?'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

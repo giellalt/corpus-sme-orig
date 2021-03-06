@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.gierdu.no/pdf/HannaHorsbergHansen.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'stereotypiija rájis parabola rádjai – muitalus sámi otnášdáidaga birra'"/>
+    <xsl:variable name="title" select="'stereotypiija rájis parabola rádjai – muitalus sámi otnášdáidaga birra'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

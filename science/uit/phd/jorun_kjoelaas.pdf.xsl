@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://munin.uit.no//'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'LESE FOR Å LÆRE. TOSPRÅKLIGE UTFORDRINGER I UTVIKLING AV LESEKOMPETANSE I ET MINORITETSPERSPEKTIV'"/>
+    <xsl:variable name="title" select="'LESE FOR Å LÆRE. TOSPRÅKLIGE UTFORDRINGER I UTVIKLING AV LESEKOMPETANSE I ET MINORITETSPERSPEKTIV'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

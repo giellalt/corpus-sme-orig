@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/2.samegillii_2samisk_musikk.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámi musihkka – nanu árbevierru ja gelddolaš ođasteapmi'"/>
+    <xsl:variable name="title" select="'Sámi musihkka – nanu árbevierru ja gelddolaš ođasteapmi'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

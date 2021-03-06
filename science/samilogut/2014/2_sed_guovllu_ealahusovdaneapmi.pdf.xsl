@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/2_sed-guovllu_ealahusovdaneapmi_1.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'SED-guovllu ealáhusovdáneapmi 2000-logus'"/>
+    <xsl:variable name="title" select="'SED-guovllu ealáhusovdáneapmi 2000-logus'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.gierdu.no/pdf/JorunnSpordBorgen.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámi dáidda, fápmu ja ávkkálaš girjáivuohta'"/>
+    <xsl:variable name="title" select="'Sámi dáidda, fápmu ja ávkkálaš girjáivuohta'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
