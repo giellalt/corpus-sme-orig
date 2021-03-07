@@ -170,9 +170,9 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location="laereplan_samisk_foerstespraak.html"/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="laereplan_samisk_foerstespraak.docx"/>
+        <parallel_text xml:lang="sma" location="laereplan_samisk_foerstespraak.odt"/>
         <parallel_text xml:lang="sme" location=""/>
-        <parallel_text xml:lang="smj" location="laereplan_samisk_foerstespraak.docx"/>
+        <parallel_text xml:lang="smj" location="laereplan_samisk_foerstespraak.odt"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

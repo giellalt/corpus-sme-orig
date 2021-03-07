@@ -11,17 +11,17 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://nsr.no/wp-content/uploads/2017/10/muohtacalmmit-nordsamisk.pdf'"/>
+    <xsl:variable name="filename" select="'Tilradinger.sme.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Muohtačalmmit-julggaštus'"/>
+    <xsl:variable name="title" select="''"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="''"/>
-    <xsl:variable name="author1_ln" select="''"/>
+    <xsl:variable name="author1_fn" select="'Else Grete'"/>
+    <xsl:variable name="author1_ln" select="'Broderstad'"/>
     <!-- m, f or unknown -->
-    <xsl:variable name="author1_gender" select="'unknown'"/>
+    <xsl:variable name="author1_gender" select="'f'"/>
     <!--
         The country where the author is from. It should be written as
         an ISO_3166-1 code.
@@ -34,9 +34,9 @@
         Information of the second author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author2_fn" select="''"/>
-    <xsl:variable name="author2_ln" select="''"/>
-    <xsl:variable name="author2_gender" select="'unknown'"/>
+    <xsl:variable name="author2_fn" select="'Magritt'"/>
+    <xsl:variable name="author2_ln" select="'Brustad'"/>
+    <xsl:variable name="author2_gender" select="'f'"/>
     <xsl:variable name="author2_nat" select="''"/>
     <xsl:variable name="author2_born" select="''"/>
 
@@ -44,9 +44,9 @@
         Information of the third author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author3_fn" select="''"/>
-    <xsl:variable name="author3_ln" select="''"/>
-    <xsl:variable name="author3_gender" select="'unknown'"/>
+    <xsl:variable name="author3_fn" select="'Johan Ailo'"/>
+    <xsl:variable name="author3_ln" select="'Kalstad'"/>
+    <xsl:variable name="author3_gender" select="'m'"/>
     <xsl:variable name="author3_nat" select="''"/>
     <xsl:variable name="author3_born" select="''"/>
 
@@ -54,9 +54,9 @@
         Information of the fourth author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author4_fn" select="''"/>
-    <xsl:variable name="author4_ln" select="''"/>
-    <xsl:variable name="author4_gender" select="'unknown'"/>
+    <xsl:variable name="author4_fn" select="'Paul Inge'"/>
+    <xsl:variable name="author4_ln" select="'Severeide'"/>
+    <xsl:variable name="author4_gender" select="'m'"/>
     <xsl:variable name="author4_nat" select="''"/>
     <xsl:variable name="author4_born" select="''"/>
 
@@ -64,9 +64,9 @@
         Information of the fourth author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author5_fn" select="''"/>
-    <xsl:variable name="author5_ln" select="''"/>
-    <xsl:variable name="author5_gender" select="'unknown'"/>
+    <xsl:variable name="author5_fn" select="'Jon'"/>
+    <xsl:variable name="author5_ln" select="'Todal'"/>
+    <xsl:variable name="author5_gender" select="'m'"/>
     <xsl:variable name="author5_nat" select="''"/>
     <xsl:variable name="author5_born" select="''"/>
 
@@ -74,19 +74,19 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="'2017'"/>
+    <xsl:variable name="year" select="''"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
 
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="genre" select="'admin'"/>
-    <xsl:variable name="collection" select="''"/>
+    <xsl:variable name="genre" select="'science'"/>
+    <xsl:variable name="collection" select="'Sámi logut muitalit'"/>
     <!--
         Three letter language code.
         https://no.wikipedia.org/wiki/Liste_over_ISO_639-1-koder
     -->
-    <xsl:variable name="translated_from" select="''"/>
+    <xsl:variable name="translated_from" select="'nob'"/>
     <!-- Translator variables have the same format as the author ones -->
     <xsl:variable name="translator_fn" select="''"/>
     <xsl:variable name="translator_ln" select="''"/>
@@ -94,12 +94,12 @@
     <xsl:variable name="translator_born" select="''"/>
     <xsl:variable name="translator_nat" select="'NO'"/>
     <!-- select license type: free, standard or other -->
-    <xsl:variable name="license_type" select="''"/>
+    <xsl:variable name="license_type" select="'free'"/>
     <!-- e.g. Sámediggi journal number -->
     <xsl:variable name="contract_id" select="''"/>
     <!-- The name and email of the submitter -->
-    <xsl:variable name="sub_name" select="''"/>
-    <xsl:variable name="sub_email" select="''"/>
+    <xsl:variable name="sub_name" select="'Lene Antonsen'"/>
+    <xsl:variable name="sub_email" select="'lene.antonsen@uit.no'"/>
     <!-- Keep empty, this is automatically filled in by CorpusTools -->
     <xsl:variable name="wordcount" select="''"/>
     <!-- This variable can have the following values:
@@ -115,7 +115,7 @@
     <!-- Valid values are complete and uncomplete -->
     <xsl:variable name="metadata" select="'uncomplete'"/>
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="template_version" select="'$Revision: 150288 $'"/>
+    <xsl:variable name="template_version" select="'$Revision: 109023 $'"/>
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
@@ -129,7 +129,7 @@
         other languages. Set the variable monolingual to '1' to turn off
         language recognition (treating everything as mainlang)
     -->
-    <xsl:variable name="monolingual" select="'1'"/>
+    <xsl:variable name="monolingual" select="''"/>
 
     <!--
         If monolingual is not set, the document is multilingual.
@@ -168,11 +168,11 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="muohtacalmmit--norsk.pdf"/>
+        <parallel_text xml:lang="nob" location="tilradinger.nob.odt"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
-        <parallel_text xml:lang="smj" location="muohtatjalme-tjielggidus.odt"/>
+        <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
@@ -236,8 +236,8 @@
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="'all=5'"/>
-    <xsl:variable name="bottom_margin" select="'all=5'"/>
+    <xsl:variable name="top_margin" select="''"/>
+    <xsl:variable name="bottom_margin" select="''"/>
 
     <!--
         This variable is used for pdf files.
@@ -277,7 +277,7 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="linespacing" select="'all=2'"/>
+    <xsl:variable name="linespacing" select="''"/>
 
     <!--
         This variable is used for pdf files.
@@ -387,31 +387,5 @@
         </xsl:element>
     </xsl:template>
     -->
-
-<xsl:template match="p[parent::body][not(./em | ./span)][text()]">
-        <xsl:variable name="text" select="current()"/>
-        <xsl:variable name="type" select="@type"/>
-        <xsl:variable name="lang" select="@xml:lang"/>
-        <xsl:element name="p">
-            <xsl:if test="$type">
-                <xsl:attribute name="type">
-                    <xsl:value-of select="$type"/>
-                </xsl:attribute>
-            </xsl:if>
-            <xsl:if test="$lang">
-                <xsl:attribute name="xml:lang">
-                    <xsl:value-of select="$lang"/>
-                </xsl:attribute>
-            </xsl:if>
-
-            <xsl:call-template name="globalTextReplace">
-                <xsl:with-param name="inputString" select="$text"/>
-                <xsl:with-param name="target" select="'Johttisápme-laččaid/MuohtačAlmmitjulggaštus/'"/>
-                <xsl:with-param name="replacement" select="'Johttisápmelaččaid/Muohtačalmmitjulggaštus/'"/>
-                <xsl:with-param name="continue" select="0"/>
-            </xsl:call-template>
-        </xsl:element>
-    </xsl:template>
-
 
 </xsl:stylesheet>
