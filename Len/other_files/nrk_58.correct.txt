@@ -1,8 +1,8 @@
 #14.12.12
 
-# maren inga baer
+# {maren}${Maren} {inga}${Inga} {baer}${Baer}
 
-{#Publisert}∞{nob} 14.12.2012 09:26.
+#{Publisert}€{foreign|} 14.12.2012 09:26.
 
 Juovlastálut devdet girjerádjosa
 

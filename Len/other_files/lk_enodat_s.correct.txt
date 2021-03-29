@@ -2,7 +2,7 @@
 
 Enodat guđđo olggos sámegielddas
 
-#Kuva: ANTTI SALLINEN Oula-Antti LabbaLähetä palautetta toimittajalle
+#{Kuva: ANTTI SALLINEN Oula-Antti LabbaLähetä palautetta toimittajalle}€{foreign|}
 
 Enodagas leat fuolas mo stuorra gildii laktin váikkuha {luondduealahusaide}${noun,á|luondduealáhusaide} ja sámegiela sajádahkii. Antti Sallinen govven.
 Suoma ráđđehusa ásahan virgeolmmošbargojoavku evttoha Lappi oarjedavveoassái Enodaga, Gihttela, Muonio ja Kolari laktima oktasaš {gielddan}¢{noun,conc|gieldan}.
@@ -29,7 +29,7 @@ Váikkuhusat maid luondduealáhusaide?
 
 Neakkela bálgosa badjeolmmái Jouni Näkkälä mielas gielddaid ovttastahttin soaittálii hehttet maid {luonddugeavaheami}‰{punct|luonddugeavaheami.}
 
-– Skohterastiid ja {njealljejuvllagiin}${adj,cmp,nomsg,gensg|njealjejuvllagiin} {vuodjiid}${noun,conc|vuoddjiid} mearri {lassanivččii}${verb,á|lassánivččii} sihkkarit Eanodaga guovllus, juos ovddeš Muonio, Kolari ja Gihttela {olbmot oččole seamma vuoigatvuođaid vuojášit}£{verb,infin,ind,cond,mode|olbmot oččole seamma vuoigatvuođaid vuojašit}, go enodatlaččain leat dál. Dát soaittálii hehttet sámiid boazodoalu, guollebivddu ja iežá meahcceealáhusaid.
+– {Skohterastiid}${Skohterástiid} ja {njealljejuvllagiin}${adj,cmp,nomsg,gensg|njealjejuvllagiin} {vuodjiid}${noun,conc|vuoddjiid} mearri {lassanivččii}${verb,á|lassánivččii} sihkkarit Eanodaga guovllus, juos ovddeš Muonio, Kolari ja Gihttela olbmot oččole seamma vuoigatvuođaid {vuojášit}£{verb,infin,ind,cond,mode|vuojašit}, go enodatlaččain leat dál. Dát soaittálii hehttet sámiid boazodoalu, guollebivddu ja iežá meahcceealáhusaid.
 
 – {ILO-soahpámuša}${noun,a|ILO-soahpamuša} {ratifisieren}${verb,mono|ratifiseren} {soaitálii}${verb,conc|soaittálii} dieđusge čoavdit dákkár váttisvuođaid, navdá Näkkälä.
 

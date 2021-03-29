@@ -1,8 +1,8 @@
 #7.12.12
 
-{#piera.balto@nrk.no}∞{url}
+#{piera.balto@nrk.no}∞{url}
 
-{#Publisert}∞{nob} 04.10.2012 10:02.
+#{Publisert}€{foreign|} 04.10.2012 10:02.
 
 Eai leat juhkkit
 

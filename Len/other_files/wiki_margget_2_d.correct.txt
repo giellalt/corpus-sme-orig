@@ -1,4 +1,4 @@
-#http://se.wikipedia.org/w/index.php?title=Nils-Aslak_Valkeapää&oldid=137423
+#{http://se.wikipedia.org/w/index.php?title=Nils-Aslak_Valkeapää&oldid=137423}∞{url}
 #29.11.12
 
 Nils-Aslak Valkeapää dahjege Áillohaš lei sápmelaš {dáiddar}${noun,svow|dáiddár}, diktačálli ja juoigi. Riegádii 23.3.1943 Eanodagas, jámii 27.11.2001 Espoos. Lappi {leanadáiddar}${noun,svow|leanadáiddár} 1978-83.

@@ -2,7 +2,7 @@
 
 #Maret Inge Smuk
 
-{#Publisert}∞{nob} 14.11.2012 10:59. {Oppdatert}∞{nob} 14.11.2012 11:02.
+#{Publisert}€{foreign|} 14.11.2012 10:59. {Oppdatert}€{foreign|} 14.11.2012 11:02.
 
 Duddjo nu guhká go mokta bistá
 Duojár Jovnna Ovllá Andersen (80) {gii lea moadde vahku áigi ožžon}£{nump,nomsg,gensg,case|gii lea moatti vahku áigi ožžon} Norgga Kulturárbbi {gudnibálkašumi}${noun,mix|gudnebálkkašumi} (Norsk Kulturarvs ærespris) lohká sámi árbevirolaš duoji hui {deaŧálažžan}${adj,a|deaŧalažžan} sámiide.
@@ -33,7 +33,7 @@ Loga maiddái:
 
 {Gudnibálkašupmi}${noun,mix|Gudnebálkkašupmi}
 
-Jovnna Ovllá oaččui Norsk Kulturarvs ærespris 2012, Norgga Kulturárbbi {gudnibálkašumi}${noun,mix|gudnebálkkašumi} dá {moatti vahku áigge}£{po,pph,nomsg,gensg,case|moatti vahku áigi}. Son oaččui {bálkašumi}${noun,conc|bálkkašumi} go lei {báktesárgomiid}${noun,svow|báktesárgumiid} mielde ráhkadan sistefatnasa ja nagodii duođaštit ahte diekkár fatnasat govdot. Son sugai Kárášjogas {Deatnuráigge}${noun,cmp,svow|Deatnoráigge} vulos gitta Deanunjálbmái. {NRK filbmii olles su mátki}£{noun,obj,accsg,nomsg,case|NRK filbmii olles su mátkki} ja čájehedje dan {TV's}${acr,suf|TV:s}.
+Jovnna Ovllá oaččui {Norsk Kulturarvs ærespris}€{foreign|} 2012, Norgga Kulturárbbi {gudnibálkašumi}${noun,mix|gudnebálkkašumi} dá {moatti vahku áigge}£{po,pph,nomsg,gensg,case|moatti vahku áigi}. Son oaččui {bálkašumi}${noun,conc|bálkkašumi} go lei {báktesárgomiid}${noun,svow|báktesárgumiid} mielde ráhkadan sistefatnasa ja nagodii duođaštit ahte diekkár fatnasat govdot. Son sugai Kárášjogas {Deatnuráigge}${noun,cmp,svow|Deatnoráigge} vulos gitta Deanunjálbmái. NRK filbmii olles su {mátki}£{noun,obj,accsg,nomsg,case|mátkki} ja čájehedje dan {TV's}${acr,suf|TV:s}.
 
 Son gudnejahttojuvvo maiddái danne go lea sihke čájehan ja oahpahan earáide mo darfegođiid ráhkada. Juo {1980 logus}¥{noun,cmp|1980-logus} lei son mielde filmmas mii čájeha mo darfegoađi ráhkada.
 
