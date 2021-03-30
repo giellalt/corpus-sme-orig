@@ -1,7 +1,7 @@
 #{http://se.wikipedia.org/w/index.php?title=Kåre_Willoch&oldid=138434}∞{url}
 #29.11.12
 
-Kåre Isaachsen Willoch (riegádan golggotmánu 3. beaivve jagis 1928 Oslos) lea ovddeš norgga politihkkár (Olgešbellodat). Son leai Olgešbellodaga generálačállin jagis 1963 rájes gitta 1965 jahkái, Olgešbellodaga jođiheaddjin jagi 1970 rájes 1974 rádjai, hánddalministtarin jagis 1963 ja jagiin 1965-1970. Maŋŋá go son geassádii riikkapolitihkas leai son Oslo ja Akershusa {{filkamánnen}${noun,mix|fylkkamánnin}(1989-1998)}‰{space|fylkkamánnin (1989-1998)} ja {stivrajođiheaddjin}${noun,cmp,nomsg,gensg|stivrrajođiheaddjin} {NRK:as}${acr,suf|NRK:s} (1998-2000).
+Kåre Isaachsen Willoch (riegádan golggotmánu 3. beaivve jagis 1928 Oslos) lea ovddeš norgga politihkkár (Olgešbellodat). Son leai Olgešbellodaga generálačállin jagis 1963 rájes gitta 1965 jahkái, Olgešbellodaga jođiheaddjin jagi 1970 rájes 1974 rádjai, hánddalministtarin jagis 1963 ja jagiin 1965-1970. Maŋŋá go son geassádii riikkapolitihkas leai son Oslo ja Akershusa {{filkamánnen}${noun,mix|fylkkamánnin}(}‰{space|fylkkamánnin (} 1989-1998) ja {stivrajođiheaddjin}${noun,cmp,nomsg,gensg|stivrrajođiheaddjin} {NRK:as}${acr,suf|NRK:s} (1998-2000).
 
 Duogáš Son lea oahppan sosiálaekonoma, ja bargan ovdal {Norges}€{foreign|} {Rederiforbund:as}${prop,suf|Rederiforbundas} ja {Norges}€{foreign|} {Industriforbund:as}${prop,suf|Industriforbundas}.
 
