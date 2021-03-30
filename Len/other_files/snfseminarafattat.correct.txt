@@ -13,7 +13,7 @@ Larisa Abryutina gullá čukči-álbmogii {Sibirijas}${prop,á|Sibirijás}, ja l
 
 SNF áigu digaštallat man diehtomielalaččat leat alkohola návddašeames almmolaš sámi ja eamiálbmot-deaivvademiin, ja eai go son sámi orgánat ja organisašuvnnat dás ságastala?
 
-Petra Biret Magga lea sáhkavuorus gohčodan {{“}‰{cit|”}Elles}¢{verb,vowlat|Ellos} sámi mánáid kultuvra!”. Su sáhkavuorru lea Sámemánáid Kulturguovddáža prošeaktabarggu vásáhusaid vuođul, Suoma {beal}${po,svow|beale} Sámis. Mo stohket ja ellet sámemánát {dál ?}‰{notspace|dál?} Lea go prošeakta buktán bohtosiid servodahkii ja {eandalit}${adv,fin|eandalii} mánáide? Makkár niestti sámemánná dárbbaša boahtte áigái{?  Petra}‰{notspace|? Petra} lea Suoma Sámi ravdaguovllus Vuohčus eret. Skuvlejupmi: Pedagogihka {magistter}${noun,svow|magisttar}/ Luohkáoahpaheaddji Lappi universitehtas. Son lea bargan oahpaheaddjin, ja 2004 čavčča rájes Sámedikki Sámemánáid Kulturguovddáža prošeaktajođiheaddjin. Unna Junná sámemánáid tv-prográmmajođiheaddji 2007 čavčča rájes. Muđui son lea juoigi, sámediggelahttu nuppi áigodagas, ja Vuohču Sámiid Searvvi várreságajođiheaddji.
+Petra Biret Magga lea sáhkavuorus gohčodan {“}‰{cit|”}{Elles}¢{verb,vowlat|Ellos} sámi mánáid kultuvra!”. Su sáhkavuorru lea Sámemánáid Kulturguovddáža prošeaktabarggu vásáhusaid vuođul, Suoma {beal}${po,svow|beale} Sámis. Mo stohket ja ellet sámemánát {dál ?}‰{notspace|dál?} Lea go prošeakta buktán bohtosiid servodahkii ja {eandalit}${adv,fin|eandalii} mánáide? Makkár niestti sámemánná dárbbaša boahtte áigái{?  Petra}‰{notspace|? Petra} lea Suoma Sámi ravdaguovllus Vuohčus eret. Skuvlejupmi: Pedagogihka {magistter}${noun,svow|magisttar}/ Luohkáoahpaheaddji Lappi universitehtas. Son lea bargan oahpaheaddjin, ja 2004 čavčča rájes Sámedikki Sámemánáid Kulturguovddáža prošeaktajođiheaddjin. Unna Junná sámemánáid tv-prográmmajođiheaddji 2007 čavčča rájes. Muđui son lea juoigi, sámediggelahttu nuppi áigodagas, ja Vuohču Sámiid Searvvi várreságajođiheaddji.
 
 Risten Rauna Magga orru Njunnásis ja lea {Sami}${prop,á|Sámi} Soster Searvvi beaivválaš jođiheaddjin Anáris, Suomas. Son bargá sámiid giella- ja kulturvuoigatvuođaid ovdii, {eandalit}${adv,fin|eandalii} mánáid ektui ja sosiála- ja dearvvasvuođasuorggis. Son oaččui 2007 sámedikkiid (Sámi Parlamentáralaš Ráđi) dásseárvobálkkašumi, iežas barggu dihtii sámegiela ja sámi {dearvvasvuodabálvalusaid}${noun,ascii|dearvvasvuođabálvalusaid} ovdii Suomas ja barggustis ovddas gárrenmirkkogeavaheami vuostá. Son ge lea sámediggelahttu
 
@@ -27,7 +27,7 @@ Stivra bovde miellahtuid SNF jahkečoahkkimii 2008 Roavvenjárgii. Dollo velá s
 
 {Árat seamma vahkus lágiduvvojit}£{infl,pos-comp|Árabut seamma vahkus lágiduvvojit} Sámi kulturvahkku ja {Sameráđi}${vowlat,e-i;vowc,a-á|Sámiráđi} konferánsa. Eahketprográmmas ee. Mari Boine ja Sara Margrethe Oskal. Dan birra logat dás:
 
-{#www.saamicouncil.net}∞{url}
+#{www.saamicouncil.net}∞{url}
 
 Nuvttá oasseváldin. Jos dieđihat SNF jahkečoahkkimii ja seminárii čakčamánu 20{.beaivái}${space|. beaivái}, de SNF gokčá belohahkii du mátkegoluid ja kulturvahko-/konferánssaoassálastima Roavvenjárggas. Bivdde eanet dieđuid dás, sádde e-poastta:
 
