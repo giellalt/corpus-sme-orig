@@ -8,14 +8,14 @@ Ráhkadit filmma muittohuvvan olbmos
 
 Julev Film {ASa}${acro,suf|AS} jođiheaddji Odd Levi Paulsen
 
-Sii buvttadišgohtet filmma "Bonki", mas {čájehit {muittohuvvon olbmos}¢{vowlat,o-a|muittohuvvan olbmos}}£{case,loc-acc|čájehit muittohuvvan olbmo} boarrásiidsiiddas. Filbmadahkki Odd Levi Paulsen lea (giitevaš Norsk {Filmistituhta}${typo;conc,ht-tt|Filminstitutta} {ruhtadoarjagii}}£{case,ill-loc|giitevaš Norsk Filminstitutta ruhtadoarjagis}.
+Sii buvttadišgohtet filmma "Bonki", mas {čájehit {muittohuvvon olbmos}¢{vowlat,o-a|muittohuvvan olbmos}}£{case,loc-acc|čájehit muittohuvvan olbmo} boarrásiidsiiddas. Filbmadahkki Odd Levi Paulsen lea {giitevaš Norsk {Filmistituhta}${typo;conc,ht-tt|Filminstitutta} ruhtadoarjagii}£{case,ill-loc|giitevaš Norsk Filminstitutta ruhtadoarjagis}.
 
 
 Ášši doaimmaha Ánne Olli
 
 Ožžo ruhtadoarjaga ráhkadit filmma
 
-Norsk filminstitutt lea Julev Film {AS:ii}${acro,suf|AS:i} juolludan 700 duhát ruvnnu doarjjan dahkat oanehis filmma "Bonki". Dás lea sáhka muittohuvvan sápmelaš albmás geainna boarrásiidsiidda bargit eai áddehala. Julev Film {ASa}${acro,suf|AS} {njunoš}${vowlat,o-u|njunuš}, Odd Levi Paulsen, lea giitevaš {Norsk {Filminstituhta}${conc,ht-tt|Filminstitutta} {ruhtadoarrjagii}${conc,rrj-rj|ruhtadoarjagii}}£{case,ill-loc|giitevaš Norsk Filminstitutta ruhtadoarjagis}.
+Norsk filminstitutt lea Julev Film {AS:ii}${acro,suf|AS:i} juolludan 700 duhát ruvnnu doarjjan dahkat oanehis filmma "Bonki". Dás lea sáhka muittohuvvan sápmelaš albmás geainna boarrásiidsiidda bargit eai áddehala. Julev Film {ASa}${acro,suf|AS} {njunoš}${vowlat,o-u|njunuš}, Odd Levi Paulsen, lea {giitevaš Norsk {Filminstituhta}${conc,ht-tt|Filminstitutta} {ruhtadoarrjagii}${conc,rrj-rj|ruhtadoarjagii}}£{case,ill-loc|giitevaš Norsk Filminstitutta ruhtadoarjagis}.
 
 Silja Somby lea čállán mánusa
 

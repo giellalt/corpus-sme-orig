@@ -8,7 +8,7 @@ Meahciráđđehus lea álggahan dikšun- ja geavahanplána Malla luonddusuodjala
 
 Máhcahaga čoaggigohtet ságastallamis, mii álggahuvvo 7.5.
 #yhteiso.luontoon.fi
-–neahttabálvalusas. Neahtas sáhttá jearrat dahje addit máhcahaga. (Gažaldagaide vástidit ee. plánemis vástideaddji spesiálaplánejeaddji Arja Vasama sihke {párkkahoavda}${noun,cmp,gensg,nomsg|párkahoavda} Pekka {Sulkava}}£{verb,fin,pl3prs,du3prs,kongr|Gažaldagaide vástideaba ee. plánemis vástideaddji spesiálaplánejeaddji Arja Vasama sihke párkahoavda Pekka Sulkava}.
+–neahttabálvalusas. Neahtas sáhttá jearrat dahje addit máhcahaga. {Gažaldagaide vástidit ee. plánemis vástideaddji spesiálaplánejeaddji Arja Vasama sihke {párkkahoavda}${noun,cmp,gensg,nomsg|párkahoavda} Pekka Sulkava}£{verb,fin,pl3prs,du3prs,kongr|Gažaldagaide vástideaba ee. plánemis vástideaddji spesiálaplánejeaddji Arja Vasama sihke párkahoavda Pekka Sulkava}.
 
 ”Neahttaságastallan orru leamen viehka vuogas vuohki oažžut máhcahaga maiddái dain, geat eai beasa leat mielde almmolaš dilálašvuođain. Ja dakkár geavaheaddjit Giehtaruohttasa ja Gilbbesjávrri guovlluin leat ollu!” ákkastallá ođđa máhcahatkanála anolašvuođa Arja Vasama Meahciráđđehusas.
 

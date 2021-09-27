@@ -35,6 +35,6 @@ Bákte-, oljo- ja {gásabuvttádan fitnodagat}${cmp,2-1|gásabuvttadanfitnodagat
 
 Son oaivvilda ahte okta {álgoálbmotdivva}${conc,vv-v|álgoálbmotdiva} galgá addojuvvot buot guovlluide Finnmárkkus, earret eará riddosuohkaniidda.
 
-– Olles Finnmárku lea sámi guovlu. Nu ahte ii oktage sáhte lohkat ahte (muhtun báikkit {filkkas}${vowc,i-y|fylkkas} eai leat sámi, lohka {Sámediggepresideanta}}¢{vowlat,a-á|muhtun báikkit fylkkas eai leat sámi, lohká Sámediggepresideanta}.
+– Olles Finnmárku lea sámi guovlu. Nu ahte ii oktage sáhte lohkat ahte {muhtun báikkit {filkkas}${vowc,i-y|fylkkas} eai leat sámi, lohka Sámediggepresideanta}¢{vowlat,a-á|muhtun báikkit fylkkas eai leat sámi, lohká Sámediggepresideanta}.
 
 Man ollu ja mot {divvadat}${conc,vv-v|divadat} {galggášedje}${vowlat,á-a|galggašedje} leat, ii dieđe, muhto lea dehálaš dahkat {prinsihppalaš}${conc,hpp-hp|prinsihpalaš} mearrádusa, oaivvilda Olli. Finnmárkku Bargiidbellodat lea ain {eahpesihkkár}${vowlat,á-a|eahpesihkkar} {galggášedje}${vowlat,á-a|galggašedje} go ásahit {álgoálbmotdivvada}${conc,vv-v|álgoálbmotdivada} {ruvkedoaimmde}${typo|ruvkedoaimmaide} ja guollebiepmahagaide.

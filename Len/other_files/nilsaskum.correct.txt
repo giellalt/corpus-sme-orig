@@ -6,11 +6,11 @@ Muhto dás mun áiggun álggus dadjat juoidá dasa maid dat Lásse [Lars Haltbre
 
 Ja de namuhii muorračuohppama. {Muhtin lohket ahte lea unnán muorat, eará ahte lea šaddan}£{kongr,pl-sg;kongr,pl-sg|Muhtin lohká ahte lea unnán muorra, eará ahte lea šaddan}. {Dáppe lea nu ollu šaddan muoraid}£{kongr,sg-pl;case,acc-nom|Dáppe leat nu ollu šaddan muorat} ahte ii báljo beasa daid čađa. Muhto olbmot eai beasa váldit muoraid ja de bidjan vel hatti dasa, galgá máksit. Dat ii leat vel mu mielas dohkkehahtti, de olbmot lohket ahte baicce vižžet muoraid doppe Suoma bealde. Álggos ferte oastit muoraid ja de ieš čuollat ja fievrridit daid ruoktot.
 
- 
+
 
 In dieđe {galggan}¥{galggan go} visot namuhit daid čuoggáid maid lean ožžon báhpára alde.
 
- 
+
 
 Fertet go mii válljet geavaheami ja gáhttema gaskkas?
 
@@ -32,7 +32,7 @@ Nu movt earenoamážit Sámis lea, gos meahcci geavahuvvo biebmo-háhkamii ja á
 
 Mis lei ovdal {traktor}${vowc,a-á|tráktor}, dat čuovui seamma luotta, dat eai leavvan, dat lei buoremus fievru mii dáppe lei, muhto de bohte dat 4-juvllagat.
 
- 
+
 
 Lea go Finnmárkkuduottar „vår siste villmark“?
 
@@ -46,7 +46,7 @@ Mun in dieđe maid dat {oaivvilit}${typo|oaivvildit} dainna "villmarkain". Mii l
 
 „Villmark“ ipmárdus Finnmárkkus lea maid buktán ahte olbmot leat geavahišgoahtán sáni „luondu“, muhto báikeolbmot geavahit sáni „meahcci“. Ja meahcci lea dáppeguovllu olbmuide álo leamaš gos viežžá biepmu ja ávdnasiid.
 
- 
+
 
 Leat go álbmotmeahcit veahkaváldi báikkálaš olbmuid vuosttá?
 
@@ -56,7 +56,7 @@ Caggá báikeolbmuid geavahit meahci nu go álo leat dahkan.
 
 Álbmotmeahcit leat ge jur boahtán dan jurdagis ahte {Finnmárkku lea „villmark“}¢{conc,rkk-rk|Finnmárku lea „villmark“}
 
- 
+
 
 Galgá go báikkálaš olbmuin leat vuosttašvuoigatvuohta {luonddoriggodagaide}${vowlat,o-u|luondduriggodagaide}?
 
@@ -66,7 +66,7 @@ Jus olggobeal-olbmuin leat seamma vuoigatvuođat, de lea vejolašvuohta olggobea
 
 {Áisttán}${vowc,á-a;vowlat,á-a|Aisttan} Ole Henrik dat luondduipmárdus dat ferte boahtit eambbo beavddi {aldeolbmuid}${typo|alde olbmuid} gaskkas.
 
- 
+
 
 Lea go boazodoallu uhkádus luonddu vuosttá - vai buoremus luonddugáhttejeaddji?
 
@@ -74,13 +74,13 @@ Boazodoallu lea buoremus {luonddogáhttejeaddji}${vowlat,o-u|luonddugáhttejeadd
 
 Boazodoallu lea maid stuorámus ágga caggat nu ahte olggobealmáilbmi ii dušše sáhte boahtit min mehciide iežas dárbbuiguin, no go ruvkedoaimmat, biilaluottat, {bártahuksemat}${vowc,á-a|bartahuksemat} ja nu ain.
 
- 
+
 
 Dárbbašit go mii ođđa {linjáid}${conc,nj-nnj|linnjáid} vai oažžut doarvái el-fámu?
 
-Mun in dieđe lea go mis dárbu. Lea váttis midjiide dábálaš olbmuide dan vástidit. Davvin han ovdána servodat nugo eará sajiin máilmmis. (Mis gal lea {doarvai}${vowlat,a-á|doarvái} {el-fámu}}£{case,acc-nom|Mis gal lea doarvái el-fápmu}. Mun in dieđe, ferte vuos dutkat dan viidáseappot. Galgá {láhčat}${vowlat,a-i|láhčit} dili {buoremuslági}${cmp,1-2|buoremus lági} mielde nu ahte ii goarit boazodoallo-ealáhusa ja muđui sámi kultuvrra.
+Mun in dieđe lea go mis dárbu. Lea váttis midjiide dábálaš olbmuide dan vástidit. Davvin han ovdána servodat nugo eará sajiin máilmmis. {Mis gal lea {doarvai}${vowlat,a-á|doarvái} el-fámu}£{case,acc-nom|Mis gal lea doarvái el-fápmu}. Mun in dieđe, ferte vuos dutkat dan viidáseappot. Galgá {láhčat}${vowlat,a-i|láhčit} dili {buoremuslági}${cmp,1-2|buoremus lági} mielde nu ahte ii goarit boazodoallo-ealáhusa ja muđui sámi kultuvrra.
 
- 
+
 
 Lea go bieggafápmohuksen luondduustitlaš?
 
@@ -88,7 +88,7 @@ Diehtit go mii doarvái maid diekkár {rustegat}${conc,st-stt|rusttegat} gáibid
 
 Bieggamillogažaldat ja {ođđa linjat}¢{conc,nj-nnj;vowlat,a-á|ođđa linnját} – gos de lea dat „villmark“ maid nu {hálidit}${conm,d-id|háliidit}? Ii go de billis meahci? „Villmark“ dušše de go dábálaš olbmuid galgá caggat.
 
- 
+
 
 Birasgáhttenlihkadus ja álgoálbmogat – ovttasbargit vai vuostálagaid?
 

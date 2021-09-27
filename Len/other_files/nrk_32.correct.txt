@@ -22,7 +22,7 @@ Luonddu oaidnu guovddážis
 
 Guldal rádioášši čájáhusa birra
 
-Romssa Universitehtas {Dáiddaakademiijja}${conc,ijj-ij|Dáiddaakademiija} {profeassor}${vowc,mono|professor} Veronica Wiman, gii lea maiddái studeanttaid {oahpaheadji}${conc,dj-ddj|oahpaheaddji}, (čilge čájáhusa {nanma}${typo|nama} de go {muhttonlágan}${conc,htt-ht;vowlat,o-u|muhtunlágan} oaidnu {eanadahkii}}¢{cmp,2-1|čilge čájáhusa nama dego muhtunlágan oaidnu eanadahkii}, muhto maiddái du iežat oaidnu historjái, mo máilbmi historjá lea šaddan ja maid mo olmmoš geahččá eallima.
+Romssa Universitehtas {Dáiddaakademiijja}${conc,ijj-ij|Dáiddaakademiija} {profeassor}${vowc,mono|professor} Veronica Wiman, gii lea maiddái studeanttaid {oahpaheadji}${conc,dj-ddj|oahpaheaddji}, {čilge čájáhusa {nanma}${typo|nama} de go {muhttonlágan}${conc,htt-ht;vowlat,o-u|muhtunlágan} oaidnu eanadahkii}¢{cmp,2-1|čilge čájáhusa nama dego muhtunlágan oaidnu eanadahkii}, muhto maiddái du iežat oaidnu historjái, mo máilbmi historjá lea šaddan ja maid mo olmmoš geahččá eallima.
 
 Kárášjohka geasuha
 

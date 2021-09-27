@@ -4,7 +4,7 @@ Ortnet njuolggadusat
 #ORTNET NJUOLGGADUSAT
 #STUDEANTTAVIESUIDE
 
-Sis-Finnmárkku studeanttaid ovttastusa {studeanttaviesuid}${case,gen-nom|studeantaviesuid}  ortnetnjuolggadusat leat oassin soahpamušas gaskkal láigoheaddji (SSO) ja láigolačča, ja lea nu oassin láigošiehtadusas. Ortnetnjuolggadusat ja eará (eavttut leat biddon vai juohke ássis {galga}${vowlat,a-á|galgá} leat buorre {orrundilli}}¢{typo|eavttut leat biddjon vai juohke ássis galgá leat buorre orrundilli}.
+Sis-Finnmárkku studeanttaid ovttastusa {studeanttaviesuid}${case,gen-nom|studeantaviesuid}  ortnetnjuolggadusat leat oassin soahpamušas gaskkal láigoheaddji (SSO) ja láigolačča, ja lea nu oassin láigošiehtadusas. Ortnetnjuolggadusat ja eará {eavttut leat biddon vai juohke ássis {galga}${vowlat,a-á|galgá} leat buorre orrundilli}¢{typo|eavttut leat biddjon vai juohke ássis galgá leat buorre orrundilli}.
 
 I. Ulbmil
 
@@ -22,7 +22,7 @@ III. {Mearradusat}${vowlat,a-á|Mearrádusat}
 
 1. Juohke láigolaččas lea ovddasvástádus doallat iežas ásodaga, {feaskara}${vowlat,a-á|feaskára}, riššu ja hivssega čorgadin ja ráinnasin. Son geatnegahtto maiddái ovttas eará geavaheddjiiguin doallat oktasašsajiid ja rájuid čorgadin ja ráinnasin. {Dábálaččat ráhkadit ássit ieža bargovuorrolistu}¢{conc,st-stt|Dábálaččat ráhkadit ássit ieža bargovuorrolisttu} ráinnasindoallama birra.
 
-2. Oktasašgievkkana {galga}${vowlat,a-á|galgá} čorget ja bassat maŋŋel go lea {atnan}${vowlat,a-á,I|atnán}. Juohke láigolaš galgá bearráigeahččat ahte su {galmmidanskábe}${conm,d-h|galmmihanskábe} ja oktasašskábet leat ráidnasat ja čorgadat. (Biepmut eai {ábut}€{w|sáhte} {vurkkohuvvot}${conm,h-d|vurkkoduvvot} nu guhka {ahte}}¢{vowlat,a-á|Biepmut eai ábut vurkkoduvvot nu guhká ahte} {billehuvvet/guohcagit/guhppot}${vowlat,e-a|billahuvvet/guohcagit/guhppot}.
+2. Oktasašgievkkana {galga}${vowlat,a-á|galgá} čorget ja bassat maŋŋel go lea {atnan}${vowlat,a-á,I|atnán}. Juohke láigolaš galgá bearráigeahččat ahte su {galmmidanskábe}${conm,d-h|galmmihanskábe} ja oktasašskábet leat ráidnasat ja čorgadat. {Biepmut eai {ábut}€{w|sáhte} {vurkkohuvvot}${conm,h-d|vurkkoduvvot} nu guhka ahte}¢{vowlat,a-á|Biepmut eai ábut vurkkoduvvot nu guhká ahte} {billehuvvet/guohcagit/guhppot}${vowlat,e-a|billahuvvet/guohcagit/guhppot}.
 
 3. Sluka ferte buhtistit dávjá. Váldde oktavuođa viessobearráigehččiin jus lea buđđosan oalát.
 

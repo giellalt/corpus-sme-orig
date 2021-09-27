@@ -12,7 +12,7 @@ Anne Helene Moeng Saari ohcala lassi áhkuid ja ádjáid
 
 Anne Helene Moeng Saari ohcala lassi áhkuid ja ádjáid veahkkin {bajasgeassit}${vowlat,a-á|bajásgeassit} mánáid. Bearrašat fárredaddet ja nu báhcet mánát lagas {fuolkkiid}${vowc,mono|fulkkiid} haga mat livčče das lahkosis.
 
-Dán áiggi ollu váhnemat eai šat oro mánnávuođabáikkis eai ge alo gávdno lagas fuolkkit lahkosis veahkkin mánáid bajásgeassit. Danin (ohcala Anne {Helete}${typo|Helene} Moeng Saari lassi áhkuid ja {ádjáid}}£{case,nom-acc|ohcala Anne Helene Moeng Saari lasi áhkuid ja ádjáid} mat sáhttet veahkkin mánáiguin.
+Dán áiggi ollu váhnemat eai šat oro mánnávuođabáikkis eai ge alo gávdno lagas fuolkkit lahkosis veahkkin mánáid bajásgeassit. Danin {ohcala Anne {Helete}${typo|Helene} Moeng Saari lassi áhkuid ja ádjáid}£{case,nom-acc|ohcala Anne Helene Moeng Saari lasi áhkuid ja ádjáid} mat sáhttet veahkkin mánáiguin.
 
 Dán ášši son loktii {son}¥{0} sámedikki dievasčoahkkimii skábmamánus Bargiidbellodaga ovddas. Árvalus lea {vidáseabbot}${conc,d-id;conc,bb-pp|viidáseappot} loktejuvvon sámediggeráđđái ja vuorrasiidráđđái.
 
@@ -41,4 +41,3 @@ Go Saari oaččui {mánáid,de}${cmp,1-2|mánáid, de} oinnii man stuorra ávki 
 Son ohcališgođii dáid oktavuođaid ja lea {ángirit}${conc,ng-ŋg|áŋgirit} gulaskuddan vuorasolbmuid máhtu birra.
 
 Son lea maiddái ságastan váhnemiiguin geat eai ane lagaš {fulkkid}${fin,d-id|fulkkiid} iežaset lahka. Maiddái sii váillahit dán oktavuođa {vuorasolbmuigun}${fin,n-in|vuorasolbmuiguin}. Sii {hálidit}${conm,d-id|háliidit} ahte mánát galget atnit oktavuođa vuorrasiiguin geat ollu máhttet ja geain sáhttet veahki oažžut.
-

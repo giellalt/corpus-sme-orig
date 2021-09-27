@@ -6,7 +6,7 @@ Buffy Sainte-Marie Riddu Riđđui
 
 Buffy Sainte-Marie boahtá fas Sápmái, Olmmáivággái, boahtte jagi Riddu Riđđui.
 
-Cree-indiána artista Buffy Sainte-Marie boahtá fas Riddu {Riđđu festiválii}¢{cmp,2-1|Riđđu-festiválii} boahtte jagi, ja festiválajođiheaddji Kirsti ({Lervoll dadjá alcceseaset}€{w,refl-pers|Lervoll dadjá sidjiide} stuorra ilu ja {gutni}${conc,tn-dn|gudni} {go}}£{case,acc-nom|Lervoll dadjá sidjiide stuorra illu ja gudni go} {máilmmebeakkán}${vowlat,e-i|máilmmibeakkán} artista lea miehtan boahtit Olmmáivággái, Davvi-Norgii fas.
+Cree-indiána artista Buffy Sainte-Marie boahtá fas Riddu {Riđđu festiválii}¢{cmp,2-1|Riđđu-festiválii} boahtte jagi, ja festiválajođiheaddji Kirsti {{Lervoll dadjá alcceseaset}€{w,refl-pers|Lervoll dadjá sidjiide} stuorra ilu ja {gutni}${conc,tn-dn|gudni} go}£{case,acc-nom|Lervoll dadjá sidjiide stuorra illu ja gudni go} {máilmmebeakkán}${vowlat,e-i|máilmmibeakkán} artista lea miehtan boahtit Olmmáivággái, Davvi-Norgii fas.
 
 – Buffy Sainte-Marie lei festivála váldoartista 2009:s ja {ollusat}${conc,ll-l|olusat} leat háliidan su fas ruovttoluotta; Ii gávdno stuorit násti go son, dadjá Lervoll.
 
@@ -25,4 +25,3 @@ Dál lea Buffy Sainte-Marie badjel 70 jagi boaris, muhto ain virkui, muitala Rid
 – Sus lea ođđa joavku, ja dál Lervoll gázzi illudit fas deaivvadit eamiálbmogiid stuorimus násttiin.
 
 Boahtte jagi festivála bileahtaid vuovdigohtet otne.
-

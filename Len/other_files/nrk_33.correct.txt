@@ -10,7 +10,7 @@ Sámi {{spábbačiekčan nissonjoavkku}¢{cmp,2-1|spábbačiekčannissonjoavkku}
 
 Spábbačiekčanlihttu N.F.-Boarda {maŋŋimuš}${conc,ŋŋ-ŋ|maŋimuš} áigečállagis álmmuhit listtu mii čájeha ahte sámi nissonat leat bajimusas, {Ålanda}${vowc,a-á|Ålánda} nuppi sajis.
 
-Dát {listtu lea ráhkaduvvon}¢{conc,stt-st|listu lea ráhkaduvvon} ovdal sámi nissoniid dán gease hárjehallančiekčamiid {davvi-ruoŧas}${coninit,cap|Davvi-Ruoŧas}, ja (dan ovdal lei golbma jagi áigge go {maŋŋimuš}${conc,ŋŋ-ŋ|maŋimuš} {čikče}}£{case,gen-nom|dan ovdal lei golbma jagi áigi go maŋimuš čikče}.
+Dát {listtu lea ráhkaduvvon}¢{conc,stt-st|listu lea ráhkaduvvon} ovdal sámi nissoniid dán gease hárjehallančiekčamiid {davvi-ruoŧas}${coninit,cap|Davvi-Ruoŧas}, ja {dan ovdal lei golbma jagi áigge go {maŋŋimuš}${conc,ŋŋ-ŋ|maŋimuš} čikče}£{case,gen-nom|dan ovdal lei golbma jagi áigi go maŋimuš čikče}.
 
 Ná lea dat bajimusat, joavkkuin mat eai beasa FIFA-joavkun:
 
@@ -24,4 +24,4 @@ Padanias lea 2377 čuoggá, Kosovos 2292 čuoggá ja Armenia-Suryoye guovllus 22
 
 Sámi joavkkus guđát sajis lea 2208 čuoggá, seamma go Zanzibaras, čállá N.F.-Boarda lihttu {maŋŋimuš}${conc,ŋŋ-ŋ|maŋimuš} ođasčállosis.
 
-(Sápmi go {vuitti}${fin,0-i|vuittii} 2006 Viva World {Cupa.}}¥{redun,go-0|Sápmi vuittii 2006 Viva World Cupa.}
+{Sápmi go {vuitti}${fin,0-i|vuittii} 2006 Viva World Cupa.}¥{redun,go-0|Sápmi vuittii 2006 Viva World Cupa.}

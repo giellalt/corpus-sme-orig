@@ -18,7 +18,7 @@ Boahttevaš Anára Heargegonagasgilvvuid gonagasluohkkái besset searvat 24 suop
 
 Stivra jienastii
 
-Bálgesiid ovttastumis čohkkeje {manna}${typo|mannan} giđa bargojoavkku, man ulbmilin lei čoavdit olgoriikka herggiid searvama gonagasgilvvuide. Bargojoavkku evttohusa vuođul bálgesiid ovttastumi stivra čoahkkanii čakčamánus gieđahallat dán ášši. Čoakkámis jienaste {{deinna}${vowc,e-a|dainna} {boađusin}}${case,ess-com|dainna bohtosiin}, ahte guhtta {stivralahtu}¢{case,nom-gen|stivrralahtu} dorjo olgoriikka herggiid oassálastima ja gávccis vuosttilde.
+Bálgesiid ovttastumis čohkkeje {manna}${typo|mannan} giđa bargojoavkku, man ulbmilin lei čoavdit olgoriikka herggiid searvama gonagasgilvvuide. Bargojoavkku evttohusa vuođul bálgesiid ovttastumi stivra čoahkkanii čakčamánus gieđahallat dán ášši. Čoakkámis jienaste {{deinna}${vowc,e-a|dainna} boađusin}${case,ess-com|dainna bohtosiin}, ahte guhtta {stivralahtu}¢{case,nom-gen|stivrralahtu} dorjo olgoriikka herggiid oassálastima ja gávccis vuosttilde.
 
 – Bálgesiid ovttastumi stivra mearrida gilvoortnegis loahpalaččat ja dán jagi stivra mearridii, ahte olgoriikka hearggit eai beasa searvat gonagasluohkkái. Ášši ferte de gieđahallat ođđasit boahtte jagi, muitala Bálgesiid ovttastumi doaibmajođiheaddji Anne Ollila.
 

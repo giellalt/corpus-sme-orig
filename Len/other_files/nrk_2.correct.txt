@@ -14,7 +14,7 @@ Sámedikki dievasčoahkkin ii leat ožžon čálalaš dieđu ahte Vars luohpá r
 
 – Lea riekti diehtit
 
-– Oaivvildan ahte sámi álbmogis lea riekti diehtit gii galgá stivret Sámedikki, ja go leat addán dieđu ahte ráđđelahttu ii šat {joatke}${conc,tk-tkk|joatkke}, de (berre álmmuhuvvot gii su {sadjai}${vowlat,a-á|sadjái} {boahtá}}¢{vowc,á-a|berre almmuhuvvot gii su sadjái boahtá}, {lohka}${vowlat,a-á|lohká} Norgga Sámiid Riikasearvvi Geir Tommy Pedersen.
+– Oaivvildan ahte sámi álbmogis lea riekti diehtit gii galgá stivret Sámedikki, ja go leat addán dieđu ahte ráđđelahttu ii šat {joatke}${conc,tk-tkk|joatkke}, de {berre álmmuhuvvot gii su {sadjai}${vowlat,a-á|sadjái} boahtá}¢{vowc,á-a|berre almmuhuvvot gii su sadjái boahtá}, {lohka}${vowlat,a-á|lohká} Norgga Sámiid Riikasearvvi Geir Tommy Pedersen.
 
 – Manne dárbbahehpet diehtit go Vars ii luoba ovdal miessemánus?
 
@@ -27,11 +27,10 @@ Sámediggepresideanta, Egil Olli (Bb) logai dievasčoahkkimis ikte, gaskavahku, 
 
 Várrepresideanta Vars (Árja) dieđiha ahte áigu ohcat virgelobi.
 
-– Ovdal boahtte dievasčoahkkima (lea presideanta ožžon {ohcámuša}${vowlat,á-a|ohcamuša}, lohka {son}}¢{vowlat,a-á|lea presideanta ožžon ohcamuša,lohká son}.
+– Ovdal boahtte dievasčoahkkima {lea presideanta ožžon {ohcámuša}${vowlat,á-a|ohcamuša}, lohka son}¢{vowlat,a-á|lea presideanta ožžon ohcamuša,lohká son}.
 
 Lea dieđihan
 
 Vars ii loga dábálažžan ohcan virgelobi jagi ovdal go {áiggušii}${vowlat,u-o|áiggošii} luohpat, ja (lohka iežas {muitalan}¢{vowlat,a-á|lohká iežas muitalan} presidentii dán birra. Maiddái ovttasbargoguoimmit, iežas joavku ja bellodatjođiheapmi lea ožžon dieđu ahte lea ožžon Gáldus virggi ja áigu álgit dohko ovdal miessemánu {vuostaš}${conc,st-stt|vuosttaš} beaivvi.
 
-– Sámediggepresideanta sáhttá okto válljet iežas {ráđđelahttuid}${conc,htt-ht|ráđđelahtuid}, nu leat {njuolggádusat}${vowlat,á-a|njuolggadusat}. {Gažáldat}${vowlat,á-a|Gažaldat} sáhttá go rievdadit ovttasbargošiehtadusa, boahtá das mot (mii leat šiehttan go {vuollaičáliimet}${vowlat,a-á|vuolláičáliimet} šiehtadusa, lohka Laila Susanne {Vars}}¢{vowlat,a-á|mii leat šiehttan go vuolláičáliimet šiehtadusa, lohká Laila Susanne Vars}.
-
+– Sámediggepresideanta sáhttá okto válljet iežas {ráđđelahttuid}${conc,htt-ht|ráđđelahtuid}, nu leat {njuolggádusat}${vowlat,á-a|njuolggadusat}. {Gažáldat}${vowlat,á-a|Gažaldat} sáhttá go rievdadit ovttasbargošiehtadusa, boahtá das mot {mii leat šiehttan go {vuollaičáliimet}${vowlat,a-á|vuolláičáliimet} šiehtadusa, lohka Laila Susanne Vars}¢{vowlat,a-á|mii leat šiehttan go vuolláičáliimet šiehtadusa, lohká Laila Susanne Vars}.
