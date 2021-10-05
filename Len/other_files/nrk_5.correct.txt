@@ -10,7 +10,7 @@ Eai dovdda Suoma sámeguovllu
 
 {Álmmolašvuođas}${vowc,á-a|Almmolašvuođas} lea unnán diehtu Suoma sámeguovllu {histurjjás}${vowc,u-o|historjjás}. Danne {hálidit}${conm,d-id|háliidit} dál čalmmustahttit guovllu.
 
-Vuovde-, guolásteaddji- ja {duottarsámit searvvi ságadoalli}£{case,nom-gen|duottarsámiid searvvi ságadoalli} Erika {Sarivaara lohka leat dehálažžan čilget}¢{vowlat,a-á|Sarivaara lohká leat dehálažžan čilget} {álmmolašvuhtii}${vowc,á-a|almmolašvuhtii} dán {histurjjá}${vowc,u-o|historjjá}. Mannán vahkkoloahpa lágiduvvui ge {seminára}¢{vowlat,a-á|Mannan vahkkoloahpa lágiduvvui ge seminára} dán birra.
+Vuovde-, guolásteaddji- ja {duottarsámit searvvi ságadoalli}£{case,nom-gen|duottarsámiid searvvi ságadoalli} Erika Sarivaara {lohka}¢{vowlat,a-á|lohká} {álmmolašvuhtii}${vowc,á-a|almmolašvuhtii} dán {histurjjá}${vowc,u-o|historjjá}. {Mannán}¢{vowlat,a-á|Mannan} vahkkoloahpa lágiduvvui ge seminára dán birra.
 
 Erika Sarivaara lea hui duhtavaš seminárain.
 
