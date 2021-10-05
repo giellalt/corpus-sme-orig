@@ -13,15 +13,15 @@ Sámediggeráđđi árvala heaittihit giellahálddašanguovllu ja baicce nannet 
 
 - Priváhta skuvllaid maid berrešii smiehttat dás ja geatnegahttit maiddái daid čuovvut giellalága, dál lága gáibádusat eai guoskka daid.
 
-Siri Triumf sávašii, ahte priváhtaskuvllat maid {váldojuvvojivčče}${infl,cond|váldojuvvošedje} mielde, jus rievdadit giellalága.
+Siri Triumf sávašii, ahte priváhtaskuvllat maid {váldojuvvojivčče}£{infl,cond|váldojuvvošedje} mielde, jus rievdadit giellalága.
 
-- {Dat livčče gal oba vuogas}£{infl,coneg-sg3|Dat livččii gal oba vuogas}, jus ná geavašii, go muhtin mánát fertejit mannat priváhta skuvlii, jus áigot oaččut dakkár {oahpu}¢{conc,čč-žž|jus áigot oažžut dakkár oahpu}, mii ii gávdno stáhta skuvllain.
+- Dat {livčče}£{infl,coneg-sg3|livččii}, jus ná geavašii, go muhtin mánát fertejit mannat priváhta skuvlii, jus áigot {oaččut}¢{conc,čč-žž|oažžut} dakkár oahpu, mii ii gávdno stáhta skuvllain.
 
 Skuvllaid {iežasit}${vowm,i-e|iežaset} hálddus
 
-Ovcci gieldda Finnmárkkus Trøndeláhkii gullet dál giellahálddašanguvlui ja logát gielda galggašii dasa mielde boahtte jagi rájes. {Dáid galggašedje leat sámi- ja dárogiella ovttaárvosaš dásis}£{case,gen-loc|Dáin galggašedje leat sámi- ja dárogiella ovttaárvosaš dásis}. Dat mearkkaša, ahte {buohkain lea riekti oaččut sámegielat bálvalusaid}${conc,čč-žž|buohkain lea riekti oažžut sámegielat bálvalusaid} almmolaš ásahusain hálddašanguovllus.
+Ovcci gieldda Finnmárkkus Trøndeláhkii gullet dál giellahálddašanguvlui ja logát gielda galggašii dasa mielde boahtte jagi rájes. {Dáid}£{case,gen-loc|Dáin} galggašedje leat sámi- ja dárogiella ovttaárvosaš dásis. Dat mearkkaša, ahte buohkain lea riekti {oaččut}£{conc,čč-žž|oažžut} sámegielat bálvalusaid almmolaš ásahusain hálddašanguovllus.
 
-Sámelága giellanjuolggadusat mearriduvvojedje {1990:is}${suf,is-s|1990:s} ja dán dat áiggošii sámediggeráđđi dál rievdadit buot sápmelaččaide buorrin. Sii leat gávnnahan, ahte {eai olát daid mihttuid}¢{vowlat,á-a;conc,htt-ht|eai olat daid mihtuid}, mat leat sámegiela ektui.
+Sámelága giellanjuolggadusat mearriduvvojedje {1990:is}${suf,is-s|1990:s} ja dán dat áiggošii sámediggeráđđi dál rievdadit buot sápmelaččaide buorrin. Sii leat gávnnahan, ahte eai {olát}¢{vowlat,á-a;conc,htt-ht|olat} daid mihtuid, mat leat sámegiela ektui.
 
 - Dat ii leat dieđusge nu, ahte váikke heaittiha giellahálddašanguovllu, de buot sámi oahppit fidnejit daid vuoigatvuođaid, mat livčče almmolaš skuvllain. Dat leat olu čuolmmat, maid sii fertejit čoavdit, ee. nannet dan oahpahusvuoigatvuođa sihke olggobealde ja siskkobealde giellahálddašanguovllu, muitala sámediggeráđđi Laila Susanne Vars.
 

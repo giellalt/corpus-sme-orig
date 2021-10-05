@@ -39,7 +39,7 @@ FMX Awardas miessemánus 2008:s gilvvohalai son šaddat ”Best International FM
 
 Nordic X Elements
 
-Go Bislett {Stadionas}${loan,vowc,a-á;infl,suf,a-i|Stádionis} Oslos ledje Nordic X Elements-doalut, Ailo Gaup lágidii 14. beaivvi geassemánus 2008:s sierra FMX-gilvvu: “Ailo Invitational”. Son {bovii}${typo|bovdii} čieža FMX-vuoddji USA:s ja Eurohpás. Oassálastit ledje: Ailo Gaup, Ronnie Faisst, Kenny Bartram, Derek Burlew, Massimo Bianconcini, Gabriel Villegas, Øystein Kjørstad og Fredrik Johansson. Dáid gilvvuid vuittii Ailo ieš, vaikko lei dušše njeallje ja bealle mánu mannan go lei oalggi leamašan čuohpaheame ođđajagimánus 2008:s. Dasa lassin ledje maid Vert- ja streetskating. Diekkár valáštallandoalut eai leat goasse Norggas lágiduvvon ovdal.
+Go Bislett {Stadionas}${loan,vowc,a-á;infl,suf,a-i|Stádionis} Oslos ledje Nordic X Elements-doalut, Ailo Gaup lágidii 14. beaivvi geassemánus 2008:s sierra FMX-gilvvu: {“}‰{cit|”}Ailo Invitational”. Son {bovii}${typo|bovdii} čieža FMX-vuoddji USA:s ja Eurohpás. Oassálastit ledje: Ailo Gaup, Ronnie Faisst, Kenny Bartram, Derek Burlew, Massimo Bianconcini, Gabriel Villegas, Øystein Kjørstad og Fredrik Johansson. Dáid gilvvuid vuittii Ailo ieš, vaikko lei dušše njeallje ja bealle mánu mannan go lei oalggi leamašan čuohpaheame ođđajagimánus 2008:s. Dasa lassin ledje maid Vert- ja streetskating. Diekkár valáštallandoalut eai leat goasse Norggas lágiduvvon ovdal.
 
 Neavttár
 
@@ -47,15 +47,15 @@ Ailo Gaup lea maid neaktán.
 
 Filmmat
 
-Ibsen-jagi oktavuođas 2006:s ráhkaduvvojedje máŋga filmma Henrik Ibsena teáhterbihtáid vuođul. Dát ráidu gohčoduvvui “Ekko av Ibsen”. Ailo nevttii Ryszard “Dobbel salto”-filmmas mii lei Ibsena “Byggmester Solness” bihttá. Jagi 2008:s nevttii son norgga filmmas “Jernanger”, maid Pål Jackman rešisserii.[9]
+Ibsen-jagi oktavuođas 2006:s ráhkaduvvojedje máŋga filmma Henrik Ibsena teáhterbihtáid vuođul. Dát ráidu gohčoduvvui “Ekko av Ibsen”. Ailo nevttii Ryszard {“}‰{cit|”}Dobbel salto”-filmmas mii lei Ibsena {“}‰{cit|”}Byggmester Solness” bihttá. Jagi 2008:s nevttii son norgga filmmas {“}‰{cit|”}Jernanger”, maid Pål Jackman rešisserii.[9]
 
 TV-ráiddut
 
-Gaup {searvvai mielde guoimmuhanprográmmii}¥{redun,mielde-0|searvvai guoimmuhanprográmmii} “Mesternes Mester” mii čájehuvvui NRK:s. Das son gilvvohalai logi eará valáštalliiguin suohtas dihte. Son ollii gitta finálii Finn Christian Jaggein ja Trine Haltvikain, muhto {vuoittahalai}${vowlat,a-á|vuoittáhalai} sudno vuostá. Son vuittii oktiibuot {vihta}${conc,ht-htt|vihtta} oasi dán ráiddus, mas ledje ovcci oasi. Doppe son maid bártidii {geahppaiguin}${vowlat,a-á|geahppáiguin} ja sáddejuvvui buohccivissui. [10]
+Gaup {searvvai mielde guoimmuhanprográmmii}¥{redun,mielde-0|searvvai guoimmuhanprográmmii} {“}‰{cit|”}Mesternes Mester” mii čájehuvvui NRK:s. Das son gilvvohalai logi eará valáštalliiguin suohtas dihte. Son ollii gitta finálii Finn Christian Jaggein ja Trine Haltvikain, muhto {vuoittahalai}${vowlat,a-á|vuoittáhalai} sudno vuostá. Son vuittii oktiibuot {vihta}${conc,ht-htt|vihtta} oasi dán ráiddus, mas ledje ovcci oasi. Doppe son maid bártidii {geahppaiguin}${vowlat,a-á|geahppáiguin} ja sáddejuvvui buohccivissui. [10]
 
 Stempelridderen
 
-Ailo Gaup birra álge 2008:s ráhkadit dokumentárafilmma man namma lea "Stemperidderen". Dán filbmema leat NRK, Norgga Filbmainstituhtta, Nordnorsk Filmsenter, Seastinbáŋkku NN Fonda ja Sámediggi máksán. Filmma mávssii sullii 1,2 miljovnna ruvnno ráhkadit. Rešissevra lea Trond Brede Andersen ja buvttadeaddji Mona Steffensen/Orginal Film.
+Ailo Gaup birra álge 2008:s ráhkadit dokumentárafilmma man namma lea {"}‰{cit|”}Stemperidderen{"}‰{cit|”}. Dán filbmema leat NRK, Norgga Filbmainstituhtta, Nordnorsk Filmsenter, Seastinbáŋkku NN Fonda ja Sámediggi máksán. Filmma mávssii sullii 1,2 miljovnna ruvnno ráhkadit. Rešissevra lea Trond Brede Andersen ja buvttadeaddji Mona Steffensen/Orginal Film.
 
 Filbma čájehuvvui vuosttaš geardde 19. beaivvi ođđajagimánus Romssa Riikkaidgaskasaš Filbmafestiválas (Tromsø Internasjonale Filmfestival, TIFF 2011). NRK {aigu}${vowc,a-á|áigu} maid sáddet TV:s dan filmma.[11]
 

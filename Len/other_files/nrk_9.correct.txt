@@ -17,4 +17,4 @@ Marainen muitala girjjis leat sága guovtti bártnážis, soai {mannaga}${conm,g
 
 Váttis lei oažžut ruđa deaddileapmái
 
-Thomas Marainen muitala {lean váttisin fitnet ruđa}¢{conc,tn-dn|lean váttisin fidnet ruđa} girjji gárvvisteapmái ja {prenteheapmai}${vowlat,a-á|prenteheapmái}. Ovdal lohká {lean vejolaš fitnet ruhtadeami}¢{conc,tn-dn|lean vejolaš fidnet ruhtadeami} Norgga Sámedikkis, dál ii leange šat nu. Danne manai áigi dušše ohcat ruđaid almmustahttit girjji. Loahpa loahpas meinnestuvai ruhtadeapmi, ja leage Ruoŧa Sámediggi mii juolludii ruđa prentehit girjji. Davvi Girji dat almmustahttá Thomas Marainena girjji "Háldi lonuhus".
+Thomas Marainen muitala {lean váttisin fitnet ruđa}¢{conc,tn-dn|lean váttisin fidnet ruđa} girjji gárvvisteapmái ja {prenteheapmai}${vowlat,a-á|prenteheapmái}. Ovdal lohká lean vejolaš {fitnet}¢{conc,tn-dn|fidnet} Norgga Sámedikkis, dál ii leange šat nu. Danne manai áigi dušše ohcat ruđaid almmustahttit girjji. Loahpa loahpas meinnestuvai ruhtadeapmi, ja leage Ruoŧa Sámediggi mii juolludii ruđa prentehit girjji. Davvi Girji dat almmustahttá Thomas Marainena girjji {"}‰{cit|”}Háldi lonuhus{"}‰{cit|”}.
