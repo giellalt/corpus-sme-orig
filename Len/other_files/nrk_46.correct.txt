@@ -18,7 +18,7 @@ Vibeke Larsen {valljejuvvui}${vowc,a-á|válljejuvvui} bargiidbellodaga {preside
 
 {Várrepresideanttan}${conc,ntt-nt|Várrepresideantan} {valljejuvvui}${vowc,a-á|válljejuvvui} Johan Vasara. Maŋŋá {valljemiid}${vowc,a-á|válljemiid} lei Larsen hui movtta go bellodagas lea luohttámuš sutnje.
 
-– {Vuollegašvuođa vuolggán}£{case,acc-com|Vuollegašvuođain vuolggán} dán {doibmi}${fin,0-i|doibmii} ja {lean hui giitevaš go dáhttut}¢{vowlat,u-o|lean hui giitevaš go dáhttot} mu {{sámedikkepresideantta}${cmp,gen-nom|sámediggepresideantta} evttohassan}¢{cmp,2-1;case,gen-nom|sámediggepresideantaevttohassan}, lohká Vibeke Larsen.
+– {Vuollegašvuođa vuolggán}£{case,acc-com|Vuollegašvuođain vuolggán} dán {doibmi}${fin,0-i|doibmii} ja {dáhttut}¢{vowlat,u-o|dáhttot} mu {{sámedikkepresideantta}${cmp,gen-nom|sámediggepresideantta} evttohassan}¢{cmp,2-1;case,gen-nom|sámediggepresideantaevttohassan}, lohká Vibeke Larsen.
 
 Oahppat sámegiela
 

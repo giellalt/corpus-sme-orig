@@ -22,9 +22,9 @@ SNF bargá dán ovdii:
 
 Maid SNF bargá ?
 
-SNF {doaibmá dál juo dego resursaguovddážin}¥{redun,dego-0|doaibmá dál juo resursaguovddážin} sámi nissoniid ja sohkabealdásseárvvu várás, muhto ain aivve fal eaktodáhtolaš, nuvttá doaibman. Manne ?
+SNF doaibmá dál juo {dego}¥{redun,dego-0|} sámi nissoniid ja sohkabealdásseárvvu várás, muhto ain aivve fal eaktodáhtolaš, nuvttá doaibman. Manne ?
 
-Danne go nissonáššiid ja dásseárvvu FERTE áimmahuššat maiddái Sámis.  SNF áigu joatkit bargat sierra ásahusa ovdii {gosa čohkke máhttu}£{conc,htt-ht|gosa čohkke máhtu} ja dieđuid.
+Danne go nissonáššiid ja dásseárvvu FERTE áimmahuššat maiddái Sámis.  SNF áigu joatkit bargat sierra ásahusa ovdii gosa čohkke {máhttu}£{conc,htt-ht|máhtu} ja dieđuid.
 
 Maid doaimmahat:
 

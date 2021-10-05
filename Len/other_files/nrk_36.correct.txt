@@ -8,7 +8,7 @@ Tevnnegat {badjánahttet}${w|boktet} dološ muittu
 
 Nils Anders Eira tevdnen 1955:s
 
-{57 jagi maŋŋá geahčada 69-jahkásačča tevnnegiid maid sii ieža tevdnejedje 1955:s}£{case,acc-nom|57 jagi maŋŋá geahčada 69-jahkásaš tevnnegiid maid sii ieža tevdnejedje 1955:s}. Dás badjánit skuvllaáigge muittut.
+57 jagi maŋŋá geahčada {69-jahkásačča}£{case,acc-nom|69-jahkásaš} tevnnegiid maid sii ieža tevdnejedje 1955:s. Dás badjánit skuvllaáigge muittut.
 
 Nils Anders Eira
 
