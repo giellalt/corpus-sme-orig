@@ -7,7 +7,7 @@
 
 {Lávlun buorida geahpes-áhppi}¢{conc,hpp-hp|Lávlun buorida geahpesáhpi}
 
-Son oaivvilda leat buorre lávlut, danne go {lávlun buorida geahpes-áhppi}¢{conc,hpp-hp|lávlun buorida geahpesáhpi}. Danne son lávluge koaras, lohká Hjalmar Strømeng, ja somá maid lea.
+Son oaivvilda leat buorre lávlut, danne go lávlun buorida {geahpes-áhppi}¢{conc,hpp-hp|geahpesáhpi}. Danne son lávluge koaras, lohká Hjalmar Strømeng, ja somá maid lea.
 
 Ášši doaimmaha Ánne Olli
 
@@ -20,7 +20,7 @@ Karen Marie Strømeng lávlu maid koaras.
 
 Karen Marie Strømeng lohká ges somá lávlut koaras danne go lea oalle hástalus oahppat lávlut máŋggajitnii. Iežas muitala lávlut koaras "alt"-jiena. Son liiko dasa, ja dovdá dán jiena leat {alccesii}${fin,i-s|alccesis} buoremussan.
 
-Lillian Kemi muitala iežas lávlun koaras juo badjel 50 jagi. Dása son gal liiko, ja iežas muitala lávlut "soprána"-jiena. Sutnje leage dat lunddoleamos. Soai {lávluga}${conm,g-b|lávluba} koaras danne go lea somá, seammás {diehtalasat}${conc,ht-htt|diehttalasat} {hárjehallaba soaige seamma go Hjalmar Strømeng geahpes-áhppi}¢{conc,hpp-hp|hárjehallaba soaige seamma go Hjalmar Strømeng geahpesáhpi}, dahjege geahpeskapasitehta.
+Lillian Kemi muitala iežas lávlun koaras juo badjel 50 jagi. Dása son gal liiko, ja iežas muitala lávlut {"}‰{cit|”}soprána{"}‰{cit|”}-jiena. Sutnje leage dat lunddoleamos. Soai {lávluga}${conm,g-b|lávluba} koaras danne go lea somá, seammás {diehtalasat}${conc,ht-htt|diehttalasat} {hárjehallaba soaige seamma go Hjalmar Strømeng geahpes-áhppi}¢{conc,hpp-hp|hárjehallaba soaige seamma go Hjalmar Strømeng geahpesáhpi}, dahjege geahpeskapasitehta.
 
 Dáhtošii {koarii}${vowc,mono;conc,r-rr|korrii} eanet lávluid
 
