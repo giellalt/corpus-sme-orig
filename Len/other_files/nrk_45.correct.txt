@@ -10,7 +10,7 @@ Mari Boine lea viimmat fas boahtán ruoktot, Kárášjohkii. Dál {son áigo}£{
 
 – Lei hui somá fas {vuoddjit}¢{verb,conc|vuodjit} duoddara badjel Leavnnjas deike. Mun dovddan ahte lean váillahan ritnon muoraid ja {skábma čuovgga}¥{noun,cmp|skábmačuovgga}, lohká Mari.
 
-{Ártista}${noun,a|Artista} lea lávvardaga Kárášjoga girjegávppis signeremin iežas ja Per Lars Thonstad girjji "Fly med meg", "Girdde mu mielde". - Dat lea hui somá oaidnit dal man olusat beroštit dan girjjis. Ja mun gulan dat leat olusat juo oastán dan ovddalgihtii, lohká Mari.
+{Ártista}${noun,a|Artista} lea lávvardaga Kárášjoga girjegávppis signeremin iežas ja Per Lars Thonstad girjji {"}‰{cit|”}Fly med meg{"}‰{cit|”}, {"}‰{cit|”}Girdde mu mielde{"}‰{cit|”}. - Dat lea hui somá oaidnit dal man olusat beroštit dan girjjis. Ja mun gulan dat leat olusat juo oastán dan ovddalgihtii, lohká Mari.
 
 Reakšuvnnaid ožžon?
 
@@ -24,9 +24,9 @@ Kárášjoga {bahčá}¢{adj,a|bahča} muittut
 
 - Dat lea nu go {gálga}¢{verb,mix|galgá} muitalit muitalusa, de lea mus dat oaidnu ahte ii {don}¥{0} ábut čiegadit dat mii lei bahča ja váivi ja lossat, go eallimis leat máŋggalágan vásáhusat ja mun dovddan ahte mun lean muitalan dien ja mun lean olu lávlagiid čállán dieid birra.
 
-Mun gal lean ieš geargan ja addán ándagassii, muhto mu mielas lei dehálaš muitalit ahte vaikko lei olu mii ii lean nu álki, {de sáhtát lihkka ovdánit, nanusmuvvat ja {váldit iežas eret}£{verb,fin,sg3prs,sg2prs,infl|de sáhttá lihkka ovdánit, nanusmuvvat ja váldit iežas eret} morrašiiguin ja váivviiguin}£{noun,advl,locpl,compl,case|váldit iežas eret morrašiin ja váivviin}. Mun lean álo háliidan inspireret earáid.
+Mun gal lean ieš geargan ja addán ándagassii, muhto mu mielas lei dehálaš muitalit ahte vaikko lei olu mii ii lean nu álki, de {sáhtát}£{verb,fin,sg3prs,sg2prs,infl|sáhttá} lihkka ovdánit, nanusmuvvat ja váldit iežas eret {morrašiiguin}£{noun,advl,locpl,compl,case|morrašiin} ja {váivviiguin}£{noun,advl,locpl,compl,case|váivviin}. Mun lean álo háliidan inspireret earáid.
 
-Máŋgii sáhttet olbmot jurddašit go oidnet olbmuid geat lihkostuvvet ja {manna}${verb,á|manná} bures ahte {daiguin lea álo leamaš beare álki}£{dem,hab,locgpl,compl,case|dain lea álo leamaš beare álki}. Olbmo eallin lea girjái ja doppe leat buorit ja bahát.
+Máŋgii sáhttet olbmot jurddašit go oidnet olbmuid geat lihkostuvvet ja {manna}${verb,á|manná} bures ahte {daiguin}£{dem,hab,locgpl,compl,case|dain} lea álo leamaš beare álki. Olbmo eallin lea girjái ja doppe leat buorit ja bahát.
 
 - Lei hui somá fas {vuoddjit}¢{verb,conc|vuodjit} duoddara badjel Leavnnjas deike. Mun dovddan ahte lean váillahan ritnon muoraid ja {skábma čuovgga}¥{noun,cmp|skábmačuovgga}. Mun lean dál dáppe guokte mánu ja mun áibbašan vuoiŋŋastit, muitala Mari Boine.
 
