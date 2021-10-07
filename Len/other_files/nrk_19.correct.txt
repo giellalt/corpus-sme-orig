@@ -20,6 +20,6 @@ Guovssahas {orkestera}${vowc,diph;vowc,e-a|orkeastara} son lohká leat dien jorb
 
 Son lea hutkás duojár
 
-Petteri Laiti lea silbarávdi ja duojár, iešge lea alcces hutkan veahkkeneavvuid, bázahusain {sáhttá fitnet buriid biergasiid}¢{conc,tn-dn|sáhttá fidnet buriid biergasiid}. Nu son {loktesa}${typo|loktesta} guvssi maid báhkis lea ráhkadan. Go {šlugila}${typo|šluvgila} de geavjjainge gullá čuodjama, gollebihtážat ráhkadit jiena.
+Petteri Laiti lea silbarávdi ja duojár, iešge lea alcces hutkan veahkkeneavvuid, bázahusain sáhttá {fitnet}¢{conc,tn-dn|fidnet} buriid biergasiid. Nu son {loktesa}${typo|loktesta} guvssi maid báhkis lea ráhkadan. Go {šlugila}${typo|šluvgila} de geavjjainge gullá čuodjama, gollebihtážat ráhkadit jiena.
 
 

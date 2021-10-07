@@ -8,7 +8,7 @@ Geasi 2011 kulturárbebáikkiid kártejedje Eanodaga Gilbbesjávrris, Ohcejogas 
 
 Davvi suodjalanguovllut áddejuvvojit dávjá measta guoskkakeahtes meahcceguovlun. Duohtavuohta lea nubbi, man geasi kártemat duođaštedje. Geavus leat dološ olbmuid doaimmaid luottat measta juohke sajis.  Nu Geavujohkaleagis ja badjelis duoddaris maiddái gávdnojedje ássansajit geađgeáiggis gitta historjjálaš áiggi rádjai. Geđggiin leat čohkken seailluhanbáikkiid, biergoboraid várrevilttiid juvvii ja gottiid leat bivdán {sattoeatnamiidda}${vowc,a-á|sáttoeatnamiidda} goivojuvvon čuđiid rokkiiguin.
 
-Gilbbesjávrái leat ásaiduvvan juo geađgeáigge, ja guovllu oiddolaš diliin ássan lea joatkašuvvan gitta otná beaivái. {Earenoamáš miellagiddevačča leat ruovdeáigásaš ja gaskaáigásaš goahteássansajiid dollasajit}£{kongr,sg-pl|Earenoamáš miellagiddevaččat leat ruovdeáigásaš ja gaskaáigásaš goahteássansajiid dollasajit}, maid leat gávdnan oalle olu gili birrasis. Máŋggain lea beroštupmi maiddái joatkkasoađi áigge dahkkon ráhkadusaide {báhččingođiin}${conc,hčč-hč|báhčingođiin} {gorssuide}${vowlat,u-a|gorssaide} ja {fáŋkaleairrain}${conc,ŋk-ŋg|fáŋgaleairrain} várdobáikkiide.
+Gilbbesjávrái leat ásaiduvvan juo geađgeáigge, ja guovllu oiddolaš diliin ássan lea joatkašuvvan gitta otná beaivái. Earenoamáš {miellagiddevačča}£{kongr,sg-pl|miellagiddevaččat} leat ruovdeáigásaš ja gaskaáigásaš goahteássansajiid dollasajit, maid leat gávdnan oalle olu gili birrasis. Máŋggain lea beroštupmi maiddái joatkkasoađi áigge dahkkon ráhkadusaide {báhččingođiin}${conc,hčč-hč|báhčingođiin} {gorssuide}${vowlat,u-a|gorssaide} ja {fáŋkaleairrain}${conc,ŋk-ŋg|fáŋgaleairrain} várdobáikkiide.
 
 Lappi álbmotmeahcit leat maiddái kulturárbebáikkit
 
