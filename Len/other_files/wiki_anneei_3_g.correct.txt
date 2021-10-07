@@ -2,6 +2,6 @@
 
 Ekváhtor lea jurddašuvvon linjá mii {manna}${vowlat,a-á|manná} planehta birra polaid gaskkas. Dat linjá juohká planehta olggoža davvi ja lulli beallejorbodagaide. Ekváhtora bokte lea govdodatgráda 0°. {Ekváhtora bokte badjána beaivváš {senitas}${vowm,a-i|senitis} guktii jagis}€{w|Ekváhtora bokte lea beaivváš senitis guktii jagis} (go lea geassejorggáldat ja čakčajorggáldat). Máilmmi ekváhtora guhkkodat lea 40 075,017 km.
 
-{Riikat vuolábealde ekváhtora}¢{conc,ik-ikk|Riikkat vuolábealde ekváhtora}
+{Riikat}¢{conc,ik-ikk|Riikkat} vuolábealde ekváhtora
 
-Ekváhtora buohta leat buot beaivvit sullii 12 diimmu guhku. Diibmu {12is}${num,suf|12:s} geasse- ja čakčajorggáldagas lea beaivváš njuolga oaivvi bajábealde. {{Riikat mat leat ekváhtora vuolde}¢{conc,ik-ikk|Riikkat mat leat ekváhtora vuolde} leat dábálaččat trohpalaš klimá}£{case,nom-loc;kongr,pl-sg|Riikkain mat leat ekváhtora vuolde lea dábálaččat trohpalaš klimá}.
+Ekváhtora buohta leat buot beaivvit sullii 12 diimmu guhku. Diibmu {12is}${num,suf|12:s} geasse- ja čakčajorggáldagas lea beaivváš njuolga oaivvi bajábealde. {Riikat}¢{conc,ik-ikk|Riikkat}}£{case,nom-loc|Riikkain} mat leat ekváhtora vuolde {leat}£{kongr,pl-sg|lea} dábálaččat trohpalaš klimá.

@@ -12,7 +12,7 @@ Anne Helene Moeng Saari ohcala lassi áhkuid ja ádjáid
 
 Anne Helene Moeng Saari ohcala lassi áhkuid ja ádjáid veahkkin {bajasgeassit}${vowlat,a-á|bajásgeassit} mánáid. Bearrašat fárredaddet ja nu báhcet mánát lagas {fuolkkiid}${vowc,mono|fulkkiid} haga mat livčče das lahkosis.
 
-Dán áiggi ollu váhnemat eai šat oro mánnávuođabáikkis eai ge alo gávdno lagas fuolkkit lahkosis veahkkin mánáid bajásgeassit. Danin {ohcala Anne {Helete}${typo|Helene} Moeng Saari lassi áhkuid ja ádjáid}£{case,nom-acc|ohcala Anne Helene Moeng Saari lasi áhkuid ja ádjáid} mat sáhttet veahkkin mánáiguin.
+Dán áiggi ollu váhnemat eai šat oro mánnávuođabáikkis eai ge alo gávdno lagas fuolkkit lahkosis veahkkin mánáid bajásgeassit. Danin ohcala Anne {Helete}${typo|Helene} Moeng Saari {lassi}£{case,nom-acc|lasi} áhkuid ja ádjáid mat sáhttet veahkkin mánáiguin.
 
 Dán ášši son loktii {son}¥{0} sámedikki dievasčoahkkimii skábmamánus Bargiidbellodaga ovddas. Árvalus lea {vidáseabbot}${conc,d-id;conc,bb-pp|viidáseappot} loktejuvvon sámediggeráđđái ja vuorrasiidráđđái.
 
@@ -30,13 +30,13 @@ Vuorasolbmot besset gis čájehit ja muitalit maid sii máhttet - ja dovdet maid
 
 Fierpmádat olles Sámis
 
-Saari lohká ahte son áinnas oaidná ovttasbarggu riikkarájáid rastá danne go olbmuin leat fuolkkit miehtá Sámi ja dalle {eai leat ráját nu dehálačča}£{kongr,sg-pl|eai leat ráját nu dehálaččat}.
+Saari lohká ahte son áinnas oaidná ovttasbarggu riikkarájáid rastá danne go olbmuin leat fuolkkit miehtá Sámi ja dalle eai leat ráját nu {dehálačča}£{kongr,sg-pl|dehálaččat}.
 
-{Saaris lea alddis fuolkkit}£{kongr,sg-pl|Saaris leat alddis fuolkkit} {Suomabealde}${cmp,1-2|Suoma bealde} geaiguin lea bajásšaddan ovttas, mii lea riggodahttán su eallima mánnávuođa rájes.
+Saaris {lea}£{kongr,sg-pl|leat} alddis fuolkkit {Suomabealde}${cmp,1-2|Suoma bealde} geaiguin lea bajásšaddan ovttas, mii lea riggodahttán su eallima mánnávuođa rájes.
 
 Váillahit oktavuođa vuorrasiiguin
 
-Go Saari oaččui {mánáid,de}${cmp,1-2|mánáid, de} oinnii man stuorra ávki {{daid árvvuin}£{case,gen-loc|dain árvvuin} lea mainna}£{kongr,sg-pl|dain árvvuin lea maiguin} ieš lea bajásšaddan.
+Go Saari oaččui {mánáid,de}${cmp,1-2|mánáid, de} oinnii man stuorra ávki {daid}£{case,gen-loc|dain} árvvuin lea {mainna}£{kongr,sg-pl|maiguin} ieš lea bajásšaddan.
 
 Son ohcališgođii dáid oktavuođaid ja lea {ángirit}${conc,ng-ŋg|áŋgirit} gulaskuddan vuorasolbmuid máhtu birra.
 
