@@ -32,20 +32,20 @@ Sámi allaskuvllas don beasat
 
 Leago dás juoga mii geasuha du?
 
-"Boađe don ge hábmet iežat boahtteáiggi!"
+{"}‰{cit|”}Boađe don ge hábmet iežat boahtteáiggi!{"}‰{cit|”}
 
-Álggogeahčen oahppojagi Sámi allaskuvla lágida álggahanvahkku ođđa ja ovddeš studeanttaide. Álggahanvahkku {prográmmas leat almmolaš rahpanbeaivi}£{kongr,pl-sg|prográmmas lea almmolaš rahpanbeaivi}, diehtojuohkin Sámi allaskuvlla birra, {fáddarortnet}${conc,dd-tt|fáttarortnet} ođđa studeanttaide. Lágiduvvojit maid sosiála dáhpáhusat dego omd. dolastallan, {kano-tuvra}${vowc,a-á;hyph,1-0|kánotuvra} ja studeantaeahket. Leat maid kurssat studeanttaide, omd. {girjerájus ja Classfronter kurssat}¢{hyph,0-1;cmp,2-1|girjerájus- ja Classfronter-kurssat}.
+Álggogeahčen oahppojagi Sámi allaskuvla lágida álggahanvahkku ođđa ja ovddeš studeanttaide. Álggahanvahkku prográmmas {leat}£{kongr,pl-sg|lea} almmolaš rahpanbeaivi, diehtojuohkin Sámi allaskuvlla birra, {fáddarortnet}${conc,dd-tt|fáttarortnet} ođđa studeanttaide. Lágiduvvojit maid sosiála dáhpáhusat dego omd. dolastallan, {kano-tuvra}${vowc,a-á;hyph,1-0|kánotuvra} ja studeantaeahket. Leat maid kurssat studeanttaide, omd. {girjerájus ja Classfronter kurssat}¢{hyph,0-1;cmp,2-1|girjerájus- ja Classfronter-kurssat}.
 
 Guovdageaidnu studeanttabáikin
 
-Guovdageaidnu mearkkaša "guovdu geainnu" ja lea doloža rájes leamaš guovdu Sámi.
+Guovdageaidnu mearkkaša {"}‰{cit|”}guovdu geainnu{"}‰{cit|”} ja lea doloža rájes leamaš guovdu Sámi.
 Mii {hálidit}${conm,d-id|háliidit} ahte Guovdageaidnu ja Sámi allaskuvla dál maid galgá leat sámi nuoraid ja earáid deaivvadanbáiki, ja čohkket ollu sámi studeanttaid {miehtá Sámis}€{w,pr-adj|olles Sámis}.
 
-Guovdageainnus lea ealli sámi biras gos sámegiella gullo beaivválaččat. {Guovdageainnus leat valljugas ja girjás kultureallin}£{kongr,pl-sg|Guovdageainnus lea valljugas ja girjás kultureallin} ja dáppe kultuvrrat deaivvadit beaivválaččat.
+Guovdageainnus lea ealli sámi biras gos sámegiella gullo beaivválaččat. Guovdageainnus {leat}£{kongr,pl-sg|lea} valljugas ja girjás kultureallin ja dáppe kultuvrrat deaivvadit beaivválaččat.
 
 {Beassážit}${fin,t-id|Beassážiid} áiggi dáppe lágiduvvo Sámi beassášfestivála. Dalle čoahkkanit ollu olbmot miehtá Sámi messostallat, {dolos}${fin,s-š|dološ} árbevieru mielde. Beassášfestivála oktavuođas lágiduvvo Sámi filbmafestivála, Sámi Grand Prix, konsearttat, máilmmimeašttirgilvvut heargegilvovuodjimis, oaggungilvvut, {skuhtercrossa vuodjin}¢{cmp,2-1|skuhtercrossavuodjin}, teáhterčájálmasat ja olu eambbo. Beassážiid áiggi leat maid {konfirmášuvnnat}${vowlat,á-a|konfirmašuvnnat}, ja árbevirolaččat máŋggas heajastallet, ja risttašit mánáid.
 
-Čakčat borgemánus lágiduvvo "Kauto Live" festivála mii lea musihkkafestivála. Skábmamánus lágiduvvo {Nilut Cup, mat lea spábbačiekčangilvu}£{kongr,pl-sg|Nilut Cup, mii lea spábbačiekčangilvu} mii čohkke ollu olbmuid. Nilut Cup oktavuođas lávejit maid leat konsearttat.
+Čakčat borgemánus lágiduvvo {"}‰{cit|”}Kauto Live{"}‰{cit|”} festivála mii lea musihkkafestivála. Skábmamánus lágiduvvo {Nilut Cup, mat lea spábbačiekčangilvu}£{kongr,pl-sg|Nilut Cup, mii lea spábbačiekčangilvu} mii čohkke ollu olbmuid. Nilut Cup oktavuođas lávejit maid leat konsearttat.
 
 Guovdageainnus ja Diehtosiiddas leat maiddai eará guovddáš sámi ásahusat, nu go Sámedikki {oahpahus-, giella ja kulturossodat}£{hyph,0-1|oahpahus-, giella- ja kulturossodat}, Sámi {árkiiva}${vowlat,á-a|arkiiva}, Gáldu- Álgoálbmotvuoigatvuođaid gelbbolašvuođaguovddáš ja Riikkaidgaskasaš boazodoalloguovddáš. Guovdageainnus lea maid Beaivváš sámi teáhter, Ávvir ja Ságat aviissaid guovllukantuvrrat, Sámi Radio guovllukantuvra ja Sámi joatkka- ja boazodoalloskuvla.
 
@@ -59,7 +59,7 @@ GLR {Lágásradio}${vowc,á-a;vowlat,á-a;vowc,a-á|Lagasrádio} dáppe gávnnat
 
 Valáštallan ja {ástoáiggebuđaldusat}${vowc,á-a|astoáiggebuđaldusat}
 
-Guovdageainnus leat stuora {vejolašvuođat meahcásteapmái, ja luonddu vánddardeamis}£{case,loc-ill|vejolašvuođat meahcásteapmái, ja luonddu vánddardeapmái}, go olles Finnmárkku duottar lea juste viessouvssa olggobealde. Guovdageainnus lea hui doaibmilis valáštallanbiras, ee. lea fierbmespábbun, spábbačiekčan, giehtaspábbun, čuoigan ja aerobic. Sámi allaskuvllas leat sierra hárjehallanáiggit Báktehárjji valáštallanhállas, gos hárjehallat sisbandy ja {gievrrudanhárjehallama}${conc,vvr-vr|gievrudanhárjehallama}. Diehtosiiddas lea lášmmohallanlatnja gosa buot studeanttat ja bargit besset. Doppe leat iešguđetlágan lášmmohallanrusttegat ja gievrudanrusttegat.
+Guovdageainnus leat stuora vejolašvuođat meahcásteapmái, ja luonddu {vánddardeamis}£{case,loc-ill|vánddardeapmái}, go olles Finnmárkku duottar lea juste viessouvssa olggobealde. Guovdageainnus lea hui doaibmilis valáštallanbiras, ee. lea fierbmespábbun, spábbačiekčan, giehtaspábbun, čuoigan ja aerobic. Sámi allaskuvllas leat sierra hárjehallanáiggit Báktehárjji valáštallanhállas, gos hárjehallat sisbandy ja {gievrrudanhárjehallama}${conc,vvr-vr|gievrudanhárjehallama}. Diehtosiiddas lea lášmmohallanlatnja gosa buot studeanttat ja bargit besset. Doppe leat iešguđetlágan lášmmohallanrusttegat ja gievrudanrusttegat.
 
 Báikkálaš olgobáikkiin lea studeanttain vejolašvuohta lágidit studeantakroa, gosa buohkat badjel 18 besset. Guovdageainnus lea lávlunjoavku, gáffebára, teáhter, kino, heastastáljat ja máŋga iešguđetlágan {searvvi-}${typo|searvvi} dego dánsunsearvi, musihkkariid searvi, risttalaš searvvit ja bridge-klubba.
 
@@ -71,7 +71,7 @@ Sis-Finnmárkku studeanttaid ovttastusas (SSO) leat 18 bearašásodaga ja 18 lan
 
 Mánáidgárdi
 
-Studeantaovttastusas lea studeanttaide buorre mánáidgárdefálaldat. Studeanttaide lea vuoruhuvvon mánáidgárdesadji olles studerenáigodahkii. Mánáidgárddis leat guokte ossodaga mánáide {gaskkal 1/2 jagis- 5 jahkái}¥{redun,gaskkal-0|1/2 jagis- 5 jahkái}. Sámi doaimmat leat mielde mánáidgárddi árgabeaivvis. SSO vástida gažaldagaide mánáidgárdesaji ohcama, sajádaga ja mávssu birra.
+Studeantaovttastusas lea studeanttaide buorre mánáidgárdefálaldat. Studeanttaide lea vuoruhuvvon mánáidgárdesadji olles studerenáigodahkii. Mánáidgárddis leat guokte ossodaga mánáide {gaskkal 1/2}¥{redun,gaskkal-0|1/2 jagis-} 5 jahkái. Sámi doaimmat leat mielde mánáidgárddi árgabeaivvis. SSO vástida gažaldagaide mánáidgárdesaji ohcama, sajádaga ja mávssu birra.
 
 
 Muđui allaskuvlla fálaldagat {studeantaide}${conc,nt-ntt|studeanttaide} leat:
