@@ -8,10 +8,10 @@ Guohtoneatnamat sáhttet gáržut
 
 Boazodoallu Romssa fylkkas vásiha ahte guohtuneatnamat gáržot dađistaga. Dál sáhttá vel báhčinšillju ge huksejuvvot dohko.
 
-{Diistaga}${conc,ist-stt|Disttaga} deaivvada Romssa guovllustivra Tromssa suohkaniin. {Čoahkkimis áigot geahččalit boazoealáhusa oainnu čilget báhčinšillju}¢{conc,llj-lj|Čoahkkimis áigot geahččalit boazoealáhusa oainnu čilget báhčinšilju} huksenplánaide ja gosa sin mielas livččii vuohkkaseamos hukset dan. {Báhčinšillju huksenplánat álggahuvvojedje}¢{conc,llj-lj|Báhčinšilju huksenplánat álggahuvvojedje} jo jagis 2006:s, go huksejedje {Sálašvággai}${vowlat,a-á|Sálašvággái}. Dasa lea leamašan stuorra vuosteháhku.
+{Diistaga}${conc,ist-stt|Disttaga} deaivvada Romssa guovllustivra Tromssa suohkaniin. Čoahkkimis áigot geahččalit boazoealáhusa oainnu čilget {báhčinšillju}¢{conc,llj-lj|báhčinšilju} huksenplánaide ja gosa sin mielas livččii vuohkkaseamos hukset dan. {Báhčinšillju huksenplánat álggahuvvojedje}¢{conc,llj-lj|Báhčinšilju huksenplánat álggahuvvojedje} jo jagis 2006:s, go huksejedje {Sálašvággai}${vowlat,a-á|Sálašvággái}. Dasa lea leamašan stuorra vuosteháhku.
 
 Sálašvákki ássit muosehuvvet go báhčinšillju lea sin lagasbirrasis, ja danne lea mearriduvvon ahte dat galgá sirdojuvvot. Tromssa gávpotráđđi {hálidivččii}${conm,d-id|háliidivččii} sirdit dan moatti báikái Sálliris dahje Ráneš sullui.
 
-Buot {dieid báikkiin}£{case,gen-loc|diein báikkiin} lea boazodoallu, ja Ráneš {{orohat ii goit gal fuolašii militeara báhčinšillju}£{infl,sg3-conneg|orohat ii goit gal fuolaše militeara báhčinšillju}}¢{conc,llj-lj|orohat ii goit gal fuolaše militeara báhčinšilju} iežaset orohahkii. Ránešhasain lea birra jagi doallu sullos, ja jus huksegohtet máidege dohko, de gáržot guohtuneatnamat.
+Buot {dieid}£{case,gen-loc|diein} báikkiin lea boazodoallu, ja Ráneš orohat ii goit gal {fuolašii}£{infl,sg3-conneg|fuolaše} militeara {báhčinšillju}}¢{conc,llj-lj|báhčinšilju} iežaset orohahkii. Ránešhasain lea birra jagi doallu sullos, ja jus huksegohtet máidege dohko, de gáržot guohtuneatnamat.
 
 Eai Sállira boazoeaiggádat ge fuolaše báhčalemiid iežaset lusa. Dán birra dat odne galget ge hupmat čoahkkimis. Oassálastit leat Romssa guovllustivra, Boazodoallohálddahus ja Tromssa suohkan.
