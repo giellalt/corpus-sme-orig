@@ -8,7 +8,7 @@ Stoahkan- ja lihkadanlávlagat
 
 Árvvoštallet ođđa {bártasajiid}${vowc,á-a|bartasajiid}
 
-{Poršaŋggu}${conm,rš-rs;vowc,a-á|Porsáŋggu} gielddastivrra dohkkehii duorastaga {plánastrategiija}¢{conc,vrr-vr|gielddastivra dohkkehii duorastaga plánastrategiija} 2015 rádjai, mas maid lea oassin birrasii duhát ođđa {bartátomtta}${vowc,á-a|bartatomtta} gielddas.
+{Poršaŋggu}${conm,rš-rs;vowc,a-á|Porsáŋggu} {gielddastivrra}¢{conc,vrr-vr|gielddastivra} dohkkehii duorastaga dohkkehii duorastaga plánastrategiija 2015 rádjai, mas maid lea oassin birrasii duhát ođđa {bartátomtta}${vowc,á-a|bartatomtta} gielddas.
 
 – Dat ii leat {mearreduvvon}${vowlat,e-i|mearriduvvon} gosa dát {bártasajit}${vowc,á-a|bartasajit} šaddet, ii leat gal nu ahte šaddet dušše {guovttebeallai}${cmp,1-2;vowlat,a-á|guovtte beallái} {Poršaŋgguvuona}${conm,rš-rs;vowc,a-á|Porsáŋgguvuona}, nu go lea gullostan, lohká sátnejođiheaddji Knut Roger Hanssen.
 
