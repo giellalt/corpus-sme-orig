@@ -17,7 +17,7 @@ Olbmot goittotge ballet, ahte Eanodagas báhcet bolesbálvalusaid haga iskkadeam
 
 - Galhan dat lasiha dorvvolašvuođa, go dáppe bolesa oaidná muhtimin. In dieđe dalle boahtte jagi, guovvamánu rájes, leatgo mis dáppe bolesat ollege, smiehtada eanodatlaš Janne Näkkäläjärvi.
 
-- Lea buorre ahte boles lea dáppe leamaš. {Sávan vel, ahte sii {boahtteáiggesge}${vowlat,e-i|boahtteáiggisge} jođašedje}£{vowlat,a-á|Sávan vel, ahte sii boahtteáiggisge jođášedje}, namuha Anu Ollila.
+- Lea buorre ahte boles lea dáppe leamaš. Sávan vel, ahte sii {boahtteáiggesge}${vowlat,e-i|boahtteáiggisge} {jođašedje}£{vowlat,a-á|jođášedje}, namuha Anu Ollila.
 
 - Sidjiide lea lohpiduvvon okta bárra {dálvvirádjái}${cmp,1-2|dálvvi rádjái}, muhto galhan dáppe bissovaččat galggašii {let}${typo|leat} boles, dadjá Erkki Keskitalo.
 
@@ -29,7 +29,7 @@ Maid boles oaidná dárbbu oažžut iežas bolesiid Eanodahkii.
 
 - Bolesis leat fuomášan, ahte olbmot leat fas bivdigoahtán bolesiid veahki, go dihtet soai johtiba dáppe, dadjá bajit konstáhpel Jari Kaipainen Muonio-Eanodaga {bolesstášuvnnas}${vowc,á-a|bolesstašuvnnas}.
 
-{Eanodat lea báhcán masa ollásit {bolesbálvaluid}${typo|bolesbálvalusaid} haga}¢{vowlat,a-á|Eanodat lea báhcán masá ollásit bolesbálvalusaid haga}, go stáhta lea seastán. Maŋimuš guorahallamis eiseválddit goittotge evttohedje, ahte {boaittobeal}${vowlat,0-e|boaittobeale} guovlluin galggašedje leat bolesat.
+Eanodat lea báhcán {masa}¢{vowlat,a-á|masá} ollásit {bolesbálvaluid}${typo|bolesbálvalusaid} haga, go stáhta lea seastán. Maŋimuš guorahallamis eiseválddit goittotge evttohedje, ahte {boaittobeal}${vowlat,0-e|boaittobeale} guovlluin galggašedje leat bolesat.
 
 Loahpalaš mearrádusa áššis dahká sisáššiidministtar Päivi Räsänen ođđajagimánus.
 

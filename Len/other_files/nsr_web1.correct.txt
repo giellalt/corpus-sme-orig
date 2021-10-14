@@ -5,19 +5,19 @@
 
 (Govven: Inga Sámi Siida / Inger M. Evjen)
 
-Sámediggi juolluda doarjaga sámi mátkkošteapmái. {Man {lahkai}${vowc,a-á|láhkai} kvalitehtasihkkarastá Sámediggi ahte lea sámi buvtta man Sámediggi doarju, jeara NSR}¢{conc,r-rr;vowlat,a-á|Man láhkai kvalitehtasihkkarastá Sámediggi ahte lea sámi buvtta man Sámediggi doarju, jearrá NSR}.
+Sámediggi juolluda doarjaga sámi mátkkošteapmái. Man {lahkai}${vowc,a-á|láhkai} {kvalitehtasihkkarastá}¢{conc,r-rr|kvalitehtasihkkarastá} Sámediggi ahte lea sámi buvtta man Sámediggi doarju, {jeara}¢{vowlat,a-á|jearrá} NSR.
 
 Almmuhuvvon: 20.04.2012
 
-– Maŋimuš sámi mátkkoštanplána lea jagi 2000 rájes, {dadjá NSR/SáB Nuortaguovllu válgabiire sámediggeáirras Trond Are Anti}¢{conc,ir-irr|dadjá NSR/SáB Nuortaguovllu válgabiirre sámediggeáirras Trond Are Anti}. Anti muitala ahte NSR evttohii Sámedikkis juovlamánu 2008 ođđa áššin álggahit barggu ráhkadit ođđa ollislaš sámi mátkkoštanplána, ja {jearra}${vowlat,a-á|jearrá} dan ektui maid Sámediggi lea {bárgan}${vowc,á-a|bargan} dan ášši olis.
+– Maŋimuš sámi mátkkoštanplána lea jagi 2000 rájes, dadjá NSR/SáB Nuortaguovllu {válgabiire}¢{conc,ir-irr|válgabiirre} sámediggeáirras Trond Are Anti. Anti muitala ahte NSR evttohii Sámedikkis juovlamánu 2008 ođđa áššin álggahit barggu ráhkadit ođđa ollislaš sámi mátkkoštanplána, ja {jearra}${vowlat,a-á|jearrá} dan ektui maid Sámediggi lea {bárgan}${vowc,á-a|bargan} dan ášši olis.
 
-– Maid lea sámediggeráđđi bargan {dan áššiin}£{case,gen-com|dainna áššiin}, jurdila Anti. – Leago ráđis áigumuš ráhkadit ođđa ollislaš sámi mátkkoštanplána, ja goas {boahta}${vowlat,a-á|boahtá} dieđáhus mo sámi mátkkošteapmi doaibmá?
+– Maid lea sámediggeráđđi bargan {dan}£{case,gen-com|dainna} áššiin, jurdila Anti. – Leago ráđis áigumuš ráhkadit ođđa ollislaš sámi mátkkoštanplána, ja goas {boahta}${vowlat,a-á|boahtá} dieđáhus mo sámi mátkkošteapmi doaibmá?
 
 – Sámediggi juolluda doarjaga sámi mátkkošteapmái. Man {lahkai}${vowc,a-á|láhkai} kvalitehtasihkkarastá Sámediggi ahte lea sámi buvtta man Sámediggi doarju, loahpaha Anti.
 
 Oktasaš cealkámuš riddoássiid vuoigatvuođain
 
-NSR oaččui doarjaga oktasaš Sámedikke cealkámuššii riddoássiid vuoigatvuođain. {Dál váilo vel dat duođalaš bargu}¢{vowlat,o-u|Dál váilu vel dat duođalaš bargu}, ja NSR lea gearggus bargat ulbmillaččat Stuorradikke ektui.
+NSR oaččui doarjaga oktasaš Sámedikke cealkámuššii riddoássiid vuoigatvuođain. Dál {váilo}¢{vowlat,o-u|váilu} vel dat duođalaš bargu, ja NSR lea gearggus bargat ulbmillaččat Stuorradikke ektui.
 
 Almmuhuvvon: 20.04.2012
 
@@ -37,13 +37,13 @@ Báhčaveaivuotna billistuvvo mirkobázahusaid luoitima geažil
 
 Almmuhuvvon: 19.04.2012
 
-{NSR/SáB Nuortaguovllu válgabiire sámediggeáirras Trond Are Anti čilge}¢{conc,ir-irr|NSR/SáB Nuortaguovllu válgabiirre sámediggeáirras Trond Are Anti čilge} ahte dát {hástalus lea ovddiduvvon ođđa áššiin ja jerron}¢{fin,in-n|hástalus lea ovddiduvvon ođđa áššin ja jerron} ovdalis ráđis Sámedikki dievasčoahkkimis.
+NSR/SáB Nuortaguovllu {válgabiire}¢{conc,ir-irr|válgabiirre} sámediggeáirras Trond Are Anti čilge ahte dát hástalus lea ovddiduvvon ođđa {áššiin}¢{fin,in-n|áššin} ja jerron ovdalis ráđis Sámedikki dievasčoahkkimis.
 
-Dán olis jearrá Anti sámediggeráđis maid lea sámediggeráđđi bargan bissehit dan ahte nationála luondduluossavuotna, Báhčaveaivuotna, {ii billistuvvošii}£{infl,sg3-conneg|ii billistuvvoše} mirkobázahusaid geažil maid Mátta-Várjjaga ruvkedoaibma luoitá?
+Dán olis jearrá Anti sámediggeráđis maid lea sámediggeráđđi bargan bissehit dan ahte nationála luondduluossavuotna, Báhčaveaivuotna, ii {billistuvvošii}£{infl,sg3-conneg|billistuvvoše} mirkobázahusaid geažil maid Mátta-Várjjaga ruvkedoaibma luoitá?
 
-{Gažaldat ráđđái doaibmabijut sámiide}£{case,nom-loc|Gažaldat ráđđái doaibmabijuin sámiide} geat ásset gávpogiin
+Gažaldat ráđđái {doaibmabijut}£{case,nom-loc|doaibmabijuin} sámiide geat ásset gávpogiin
 
-Sámediggeáirras Geir Tommy Pedersen {jearra}${vowlat,a-á|jearrá} mainna lágiin {sámediggeráđđi lea jurddašan buoridit sámiid dili stuorát {gávpugiin}${vowlat,u-o|gávpogiin}}£{infl,comp-pos|sámediggeráđđi lea jurddašan buoridit sámiid dili stuorra gávpogiin}.
+Sámediggeáirras Geir Tommy Pedersen {jearra}${vowlat,a-á|jearrá} mainna lágiin sámediggeráđđi lea jurddašan buoridit sámiid dili {stuorát}£{infl,comp-pos|stuorra} {gávpugiin}${vowlat,u-o|gávpogiin} gávpogiin.
 
 Almmuhuvvon: 18.04.2012
 
@@ -53,9 +53,9 @@ Dasto oaidnit mii ahte Oslos ii leat sámi deaivvadanbáiki sámiide geat {asset
 
 Eará gávpogiin eai measta oppa gávdnoge dohkálaš fálaldagat sámiide.
 
-{Šallošit}${vowc,a-á|Šállošit} go {Sámediggeráđđi lea dihtomielalaččat hilgon áŋgiruššamis}£{case,loc-acc|Sámediggeráđđi lea dihtomielalaččat hilgon áŋgiruššama} sámi gávpotpolitihkalaš {plantain}${typo|plánain}.
+{Šallošit}${vowc,a-á|Šállošit} go Sámediggeráđđi lea dihtomielalaččat hilgon {áŋgiruššamis}£{case,loc-acc|áŋgiruššama} sámi gávpotpolitihkalaš {plantain}${typo|plánain}.
 
-Dán oktavuođas jearrá NSR ahte mainna lágiin lea {ráđđi konkrehta jurddašan buoridit sámiid dili stuorát gávpogiin ja makkár}£{infl,comp-pos|ráđđi konkrehta jurddašan buoridit sámiid dili stuorra gávpogiin ja makkár} váikkuhangaskaoamit biddjojuvvojit.
+Dán oktavuođas jearrá NSR ahte mainna lágiin lea ráđđi konkrehta jurddašan buoridit sámiid dili {stuorát}£{infl,comp-pos|stuorra} gávpogiin ja makkár váikkuhangaskaoamit biddjojuvvojit.
 
 
 Norsk versjon / {Dárugillii}${vowlat,u-o|Dárogillii}

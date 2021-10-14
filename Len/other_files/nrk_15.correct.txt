@@ -18,5 +18,5 @@ Silba- ja čoarveduojáris lea bargobáiki Anáris Davvi Suomas. Doppe son duddj
 
 Vuolahasat ledje su {álgo duodje-ávdnasat}¢{cmp,2-1|álgoduodjeávdnasat}
 
-{Vuolahasiguin}${typo|Vuolahasaiguin} álggii Petteri Laiti juo mánnán duddjot, muhto {das rájes lea son ovdánan}£{case,loc-gen|dan rájes lea son ovdánan}, ja geavaha dál olu eará ávdnasiid maid. Son manai {gollerávdeoahppui}${vowc,mono|gollerávdeohppui}, ja das maŋŋil álggii son vel čoarvvi seaguhit silbii.
-{Gollečeahpeskuvllas}${conc,hp-hpp;vowlat,e-i|Gollečeahppiskuvllas} son fuomášii mo vuohkkasit sáhttá čoarvvi geavahit silbii. {Das rájes leat su gieđaid {gaskas}${conc,sk-skk|gaskkas} riegádan olu čiŋat}£{case,loc-gen|Dan rájes leat su gieđaid gaskkas riegádan olu čiŋat} main silba ja čoarvi lea {ovttasstahtton}${conm,sst-st|ovttastahtton}.
+{Vuolahasiguin}${typo|Vuolahasaiguin} álggii Petteri Laiti juo mánnán duddjot, muhto {das}£{case,loc-gen|dan} rájes lea son ovdánan, ja geavaha dál olu eará ávdnasiid maid. Son manai {gollerávdeoahppui}${vowc,mono|gollerávdeohppui}, ja das maŋŋil álggii son vel čoarvvi seaguhit silbii.
+{Gollečeahpeskuvllas}${conc,hp-hpp;vowlat,e-i|Gollečeahppiskuvllas} son fuomášii mo vuohkkasit sáhttá čoarvvi geavahit silbii. {Das}£{case,loc-gen|Dan} rájes leat su gieđaid {gaskas}${conc,sk-skk|gaskkas} riegádan olu čiŋat main silba ja čoarvi lea {ovttasstahtton}${conm,sst-st|ovttastahtton}.
