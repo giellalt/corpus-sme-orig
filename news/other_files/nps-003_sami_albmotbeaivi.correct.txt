@@ -6,6 +6,6 @@ Sámi álbmotbeaivvi 6. luohkká {biđđii}${conc,đđ-đ|biđii} bánnobiđđos
 
 Mii {7. luohkkálaččat}¢{cmp,2-1|7-luohkkálaččat} ráhkadeimmet {{movie maker}${coninit,cap;coninit,cap|Movie Maker} presentašuvnna}¢{cmp,2-1|Movie Maker-presentašuvnna} gaskadási {Pajala mátkkis}¢{foreign;cmp,2-1|Bájil-mátkkis} {borgemánu}£{case,gen-loc|borgemánus}. Presentašuvnna ovdanbuvttiimet skuvlla aktasaš čoahkkaneamis lášmmohallansálas bánnobiđđosa boradettiin. {Pajalas}${foreign|Bájilis} finaimet Kengis {bruk:as}${suf|brukas} ja Læstadiusa hávddis.
 
-7. luohkká lea bargan {movie maker:iin}${coninit,cap;coninit,cap;suf|Movie Makeriin} {geažus sámi álbmotbeaivevahku}¢{vowlat,u-o|geažos sámi álbmotbeaivevahku}. Odd Harald lei min oahpaheaddji, ja lei vuosttaš hávi go barggaimet {movie maker:iin}${coninit,cap;coninit,cap;suf|Movie Makeriin}. Mis lei teaksta, govat ja musihkka presentašuvnnas.
+7. luohkká lea bargan {movie maker:iin}${coninit,cap;coninit,cap;suf|Movie Makeriin} {geažus}¢{vowlat,u-o|geažos} sámi álbmotbeaivevahku. Odd Harald lei min oahpaheaddji, ja lei vuosttaš hávi go barggaimet {movie maker:iin}${coninit,cap;coninit,cap;suf|Movie Makeriin}. Mis lei teaksta, govat ja musihkka presentašuvnnas.
 
 Øyvind sárdnidii sámi álbmotbeaivvi birra. Mii maid lávlluimet sámi álbmotbeaivelávlaga sihke sápmái ja {dárru}£{fin,0-i|dárrui}.
