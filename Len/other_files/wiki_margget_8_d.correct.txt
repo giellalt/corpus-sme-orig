@@ -14,7 +14,7 @@ Virggit / barggut:
 - 1954–1963: Bargi {Norges}€{foreign|} {Industriforbund:as}${prop,suf|Industriforbundas}
 - 1957–1989: {Stuorradikkeovddasteaddji Oslo Olgežii}£{attr|Oslo Olgeša stuorradiggeovddasteaddji}
 - 1963–1965: {Generálčálli}${noun,cmp,vow|Generálačálli} Olgešbellodagas
-- 1963: Hánddalministtar {i}¥{0} Lyng-ráđđehusas (borgemánnu-čakčamánnu)
+- 1963: Hánddalministtar {i}¥{redun|} Lyng-ráđđehusas (borgemánnu-čakčamánnu)
 - 1965–1970: {Hánddalministtar Bortenráđđehusas}£{attr|Bortenráđđehusa hánddalministtar}
 - 1970–1974: Olgešbellodaga jođiheaddji
 - 1970–1981: Parlamentáralaš jođiheaddji Olgešbellodaga {stuorradikkejoavku}${noun,cmp,gen,nom|stuorradiggejoavku}

@@ -16,13 +16,13 @@ Reakšuvnnaid ožžon?
 
 Máŋggas lohket, ahte sii leat nu olu oahppan, go leat lohkan dan girjji. Okta lea, ahte olbmot lohket sáhkkiivuođain, vai dihtet eambbo mu birra, muhto earenoamážit dážamáilmmis lohket, ahte sii nu olu ohppet, ja ožžot dieđuid mat sis ovdal eai lean.
 
-- Mun jáhkán dat lea juoga mii dárbbašuvvo. Dat leige jurdda {munnos Per Lars Thonstadin}${prop,svow|Thonstadain}, ahte {{moai háliideimme ráhkadit dakkár girjji, gos galget maiddái boahtit dieđut min duogáža birra}£{rel,advl,adv,locsg,x|moai háliideimme ráhkadit dakkár girjji, mas galget maiddai boahtit dieđut min duogáža birra}} ja min historjjá birra.
+- Mun jáhkán dat lea juoga mii dárbbašuvvo. Dat leige jurdda munnos Per Lars {Thonstadin}${prop,svow|Thonstadain}, ahte moai háliideimme ráhkadit dakkár girjji, {gos}£{rel,advl,adv,locsg,x|mas}  galget maiddái boahtit dieđut min duogáža birra ja min historjjá birra.
 
 Dat sáhttá ahte dakkár olbmuide geat juo dihtet ovdagihtii daid áššiid ahte sii háliidit njuikut. {-Eat}‰{space|- Eat} mii viša dien {lohkkat}¢{verb,conc|lohkat}, mii háliidit lohkat eambbo Mari birra.
 
 Kárášjoga {bahčá}¢{adj,a|bahča} muittut
 
-- Dat lea nu go {gálga}¢{verb,mix|galgá} muitalit muitalusa, de lea mus dat oaidnu ahte ii {don}¥{0} ábut čiegadit dat mii lei bahča ja váivi ja lossat, go eallimis leat máŋggalágan vásáhusat ja mun dovddan ahte mun lean muitalan dien ja mun lean olu lávlagiid čállán dieid birra.
+- Dat lea nu go {gálga}¢{verb,mix|galgá} muitalit muitalusa, de lea mus dat oaidnu ahte ii {don}¥{redun|} ábut čiegadit dat mii lei bahča ja váivi ja lossat, go eallimis leat máŋggalágan vásáhusat ja mun dovddan ahte mun lean muitalan dien ja mun lean olu lávlagiid čállán dieid birra.
 
 Mun gal lean ieš geargan ja addán ándagassii, muhto mu mielas lei dehálaš muitalit ahte vaikko lei olu mii ii lean nu álki, de {sáhtát}£{verb,fin,sg3prs,sg2prs,infl|sáhttá} lihkka ovdánit, nanusmuvvat ja váldit iežas eret {morrašiiguin}£{noun,advl,locpl,compl,case|morrašiin} ja {váivviiguin}£{noun,advl,locpl,compl,case|váivviin}. Mun lean álo háliidan inspireret earáid.
 

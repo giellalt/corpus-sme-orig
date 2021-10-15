@@ -14,7 +14,7 @@ Anne Helene Moeng Saari ohcala lassi áhkuid ja ádjáid veahkkin {bajasgeassit}
 
 Dán áiggi ollu váhnemat eai šat oro mánnávuođabáikkis eai ge alo gávdno lagas fuolkkit lahkosis veahkkin mánáid bajásgeassit. Danin ohcala Anne {Helete}${typo|Helene} Moeng Saari {lassi}£{case,nom-acc|lasi} áhkuid ja ádjáid mat sáhttet veahkkin mánáiguin.
 
-Dán ášši son loktii {son}¥{0} sámedikki dievasčoahkkimii skábmamánus Bargiidbellodaga ovddas. Árvalus lea {vidáseabbot}${conc,d-id;conc,bb-pp|viidáseappot} loktejuvvon sámediggeráđđái ja vuorrasiidráđđái.
+Dán ášši son loktii {son}¥{redun|} sámedikki dievasčoahkkimii skábmamánus Bargiidbellodaga ovddas. Árvalus lea {vidáseabbot}${conc,d-id;conc,bb-pp|viidáseappot} loktejuvvon sámediggeráđđái ja vuorrasiidráđđái.
 
 Boares olbmot máhttet
 
