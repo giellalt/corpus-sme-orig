@@ -6,11 +6,11 @@
 
 Sámi nissonat bajimusas
 
-Sámi {{spábbačiekčan nissonjoavkku}¢{cmp,2-1|spábbačiekčannissonjoavkku} lea bajimusas}¢{conc,vkk-vk|spábbačiekčannissonjoavku lea bajimusas} listtus {daid}£{case,gen-loc|dain} joavkkuin mat eai leat FIFA-joavkkut.
+Sámi {spábbačiekčan nissonjoavkku}¢{cmp,2-1|spábbačiekčannissonjoavkku} lea bajimusas}¢{conc,vkk-vk|spábbačiekčannissonjoavku lea bajimusas} listtus {daid}£{case,gen-loc|dain} joavkkuin mat eai leat FIFA-joavkkut.
 
 Spábbačiekčanlihttu N.F.-Boarda {maŋŋimuš}${conc,ŋŋ-ŋ|maŋimuš} áigečállagis álmmuhit listtu mii čájeha ahte sámi nissonat leat bajimusas, {Ålanda}${vowc,a-á|Ålánda} nuppi sajis.
 
-Dát {listtu lea ráhkaduvvon}¢{conc,stt-st|listu lea ráhkaduvvon} ovdal sámi nissoniid dán gease hárjehallančiekčamiid {davvi-ruoŧas}${coninit,cap|Davvi-Ruoŧas}, ja {dan ovdal lei golbma jagi áigge go {maŋŋimuš}${conc,ŋŋ-ŋ|maŋimuš} čikče}£{case,gen-nom|dan ovdal lei golbma jagi áigi go maŋimuš čikče}.
+Dát {listtu}¢{conc,stt-st|listu} lea ráhkaduvvon ovdal sámi nissoniid dán gease hárjehallančiekčamiid {davvi-ruoŧas}${coninit,cap|Davvi-Ruoŧas}, ja dan ovdal lei golbma jagi {áigge}£{case,gen-nom|áigi} go {maŋŋimuš}${conc,ŋŋ-ŋ|maŋimuš} čikče.
 
 Ná lea dat bajimusat, joavkkuin mat eai beasa FIFA-joavkun:
 
@@ -20,8 +20,8 @@ Sámi albmát maid listtuin
 
 Sámi {almmáiolbmujoavku}${vowlat,u-o|almmáiolbmojoavku} lea ges guđádin {albmáijoavkkuin}${conc,lbm-lmm|almmáijoavkkuin}. Bajimusas {Davvi-Italialaš}${vowc,a-á|Davvi-Itálialaš} guovlu Padania, mii lea daid {maŋŋimuš}${conc,ŋŋ-ŋ|maŋimuš} Viva World Cup čiekčamiid vuoitán, ja goalmmádin ges Kosovo.
 
-Padanias lea 2377 čuoggá, Kosovos 2292 čuoggá ja Armenia-Suryoye guovllus 2292 čuoggá ja goalmmát sadji. {Kurdálaš}${vowlat,á-a|Kurdalaš} guovlu (2273 čuoggá) lea {njealjjádin}${conc,ljj-lj|njealjádin} ja Davvi-Kypros (2246 čuoggá) {viiđádin}${conc,iđ-đ|viđádin} dán listtus. Buot dát leat joavkkut {geaid vuosttá sápmi lea čiekčan}¢{conc,stt-st|geaid vuostá sápmi lea čiekčan}.
+Padanias lea 2377 čuoggá, Kosovos 2292 čuoggá ja Armenia-Suryoye guovllus 2292 čuoggá ja goalmmát sadji. {Kurdálaš}${vowlat,á-a|Kurdalaš} guovlu (2273 čuoggá) lea {njealjjádin}${conc,ljj-lj|njealjádin} ja Davvi-Kypros (2246 čuoggá) {viiđádin}${conc,iđ-đ|viđádin} dán listtus. Buot dát leat joavkkut geaid {vuosttá}¢{conc,stt-st|vuostá} sápmi lea čiekčan.
 
 Sámi joavkkus guđát sajis lea 2208 čuoggá, seamma go Zanzibaras, čállá N.F.-Boarda lihttu {maŋŋimuš}${conc,ŋŋ-ŋ|maŋimuš} ođasčállosis.
 
-Sápmi {go}}¥{redun,go-0|} {vuitti}${fin,0-i|vuittii} 2006 Viva World Cupa. 
+Sápmi {go}¥{redun,go-0|} {vuitti}${fin,0-i|vuittii} 2006 Viva World Cupa. 
