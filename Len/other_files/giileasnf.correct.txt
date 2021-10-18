@@ -2,11 +2,11 @@
 
 Gulahallan e-poastta bokte minguin: snf(at)trollnet.no
 
-Gii lea SNF ?
+Gii lea {SNF ?}‰{notspace|SNF?}
 
 Nissonolbmot {sis-Finnmárkkus}${coninit,cap|Sis-Finnmárkkus} eret vuođđudedje SNF jagis 1993, álggos {fierbmádahkan}${conc,rbm-rpm|fierpmádahkan}, das go sii dáhtto politihkain bargagoahtit iežaset gielddas ja guovllus. Sámi Nissonolbmuid Lista Kárášjogas, ceggejuvvon vuosttas sámediggeválgii Norgga bealde 1989, álggahii Sámi NissonForuma.
 
-Jagis 1998 SNF šattai sierra organisašuvdnan (NGO). {SNFas}${suf|SNF:s} leat miellahtut {njealri}${typo|njealji} riikkas. {SNFas}${suf|SNF:s} ii leat sierra čállingoddi, iige oktage fásta bargi. Stivrralahtut jođihit barggu áŋgirit ja oskkáldasat.  Poastačujuhus lea: SNF, P.b. 110, 9735 Kárášjohka.
+Jagis 1998 SNF šattai sierra organisašuvdnan (NGO). {SNFas}${suf|SNF:s} leat miellahtut {njealri}${typo|njealji} riikkas. {SNFas}${suf|SNF:s} ii leat sierra čállingoddi, iige oktage fásta bargi. Stivrralahtut jođihit barggu áŋgirit ja oskkáldasat{.  Poastačujuhus}‰{singlespace|. Poastačujuhus} lea: SNF, P.b. 110, 9735 Kárášjohka.
 
 Maid SNF áigu?
 
@@ -20,11 +20,11 @@ SNF bargá dán ovdii:
 
 - ahte sámenissoniid eallin- ja bargodilli, sihke ovdal ja dál, dokumenterejuvvo ja čalmmustahttojuvvo.
 
-Maid SNF bargá ?
+Maid SNF {bargá ?}‰{notspace|bargá?}
 
-SNF doaibmá dál juo {dego}¥{redun,dego-0|} sámi nissoniid ja sohkabealdásseárvvu várás, muhto ain aivve fal eaktodáhtolaš, nuvttá doaibman. Manne ?
+SNF doaibmá dál juo {dego}¥{redun,dego-0|} sámi nissoniid ja sohkabealdásseárvvu várás, muhto ain aivve fal eaktodáhtolaš, nuvttá doaibman. {Manne ?}‰{notspace|Manne?}
 
-Danne go nissonáššiid ja dásseárvvu FERTE áimmahuššat maiddái Sámis.  SNF áigu joatkit bargat sierra ásahusa ovdii gosa čohkke {máhttu}£{conc,htt-ht|máhtu} ja dieđuid.
+Danne go nissonáššiid ja dásseárvvu FERTE áimmahuššat maiddái Sámis{.  SNF}‰{singlespace|. SNF} áigu joatkit bargat sierra ásahusa ovdii gosa čohkke {máhttu}£{conc,htt-ht|máhtu} ja dieđuid.
 
 Maid doaimmahat:
 

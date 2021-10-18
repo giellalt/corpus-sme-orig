@@ -24,7 +24,7 @@ Bálgesiid ovttastumis čohkkeje {manna}${typo|mannan} giđa bargojoavkku, man u
 
 {SHL:a}${suf|SHL} nubbi sátnejođiheaddji Juhani Länsman mielde Bálgesiid ovttastumi stivrra mearrádussii váikkuhii Suoma boazogilvoválljogotti oaidnu dán áššis.
 
-– {Gilvoválljogoddis}¢{conc,dd-tt|Gilvoválljogottis} {eai hálit, ahte}¢{fin,t-it|eai háliit, ahte} olgoriikka hearggit besset mielde gonagasgilvvuide. Dan dihte Bálgesiid {ovtasttumi}${conm,stt-st|ovttastumi} stivrras šadde ”sealgi seainni vuostá” bargat dakkár mearrádusa, muitala Länsman.
+– {Gilvoválljogoddis}¢{conc,dd-tt|Gilvoválljogottis} eai {hálit}¢{fin,t-it|háliit}, ahte olgoriikka hearggit besset mielde gonagasgilvvuide. Dan dihte Bálgesiid {ovtasttumi}${conm,stt-st|ovttastumi} stivrras šadde ”sealgi seainni vuostá” bargat dakkár mearrádusa, muitala Länsman.
 
 Ruhtadeapmi gonagasgilvvuide ii leat vel sohppojuvvon
 

@@ -47,7 +47,7 @@ Guovdageainnus lea ealli sámi biras gos sámegiella gullo beaivválaččat. Guo
 
 Čakčat borgemánus lágiduvvo {"}‰{cit|”}Kauto Live{"}‰{cit|”} festivála mii lea musihkkafestivála. Skábmamánus lágiduvvo {Nilut Cup, mat lea spábbačiekčangilvu}£{kongr,pl-sg|Nilut Cup, mii lea spábbačiekčangilvu} mii čohkke ollu olbmuid. Nilut Cup oktavuođas lávejit maid leat konsearttat.
 
-Guovdageainnus ja Diehtosiiddas leat maiddai eará guovddáš sámi ásahusat, nu go Sámedikki {oahpahus-, giella ja kulturossodat}£{hyph,0-1|oahpahus-, giella- ja kulturossodat}, Sámi {árkiiva}${vowlat,á-a|arkiiva}, Gáldu- Álgoálbmotvuoigatvuođaid gelbbolašvuođaguovddáš ja Riikkaidgaskasaš boazodoalloguovddáš. Guovdageainnus lea maid Beaivváš sámi teáhter, Ávvir ja Ságat aviissaid guovllukantuvrrat, Sámi Radio guovllukantuvra ja Sámi joatkka- ja boazodoalloskuvla.
+Guovdageainnus ja Diehtosiiddas leat maiddai eará guovddáš sámi ásahusat, nu go Sámedikki {oahpahus-, giella ja kulturossodat}£{hyph,0-1|oahpahus-, giella- ja kulturossodat}, Sámi {árkiiva}${vowlat,á-a|arkiiva}, Gáldu- Álgoálbmotvuoigatvuođaid gelbbolašvuođaguovddáš ja Riikkaidgaskasaš boazodoalloguovddáš. Guovdageainnus lea maid Beaivváš sámi teáhter, Ávvir ja {Ságat aviissaid}¥{Ságat-aviissaid} guovllukantuvrrat, Sámi Radio guovllukantuvra ja Sámi joatkka- ja boazodoalloskuvla.
 
 Dáin ruovttusiidduin gávnnat eanet dieđuid Guovdageainnu birra:
 
