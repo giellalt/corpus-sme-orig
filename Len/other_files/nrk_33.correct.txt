@@ -6,7 +6,7 @@
 
 Sámi nissonat bajimusas
 
-Sámi {spábbačiekčan nissonjoavkku}¢{cmp,2-1|spábbačiekčannissonjoavkku} lea bajimusas}¢{conc,vkk-vk|spábbačiekčannissonjoavku lea bajimusas} listtus {daid}£{case,gen-loc|dain} joavkkuin mat eai leat FIFA-joavkkut.
+Sámi {spábbačiekčan nissonjoavkku}¥{cmp,2-1|spábbačiekčannissonjoavkku} lea bajimusas}¢{conc,vkk-vk|spábbačiekčannissonjoavku lea bajimusas} listtus {daid}£{case,gen-loc|dain} joavkkuin mat eai leat FIFA-joavkkut.
 
 Spábbačiekčanlihttu N.F.-Boarda {maŋŋimuš}${conc,ŋŋ-ŋ|maŋimuš} áigečállagis álmmuhit listtu mii čájeha ahte sámi nissonat leat bajimusas, {Ålanda}${vowc,a-á|Ålánda} nuppi sajis.
 
