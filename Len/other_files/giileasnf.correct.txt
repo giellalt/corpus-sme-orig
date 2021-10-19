@@ -46,7 +46,7 @@ Ovttasbargat:
 
 - {SNF:as}${suf|SNF:s} lea sierra ossodat Guoládagas Ruoššas, ja SNF váldá árjjálaččat oasi {barentsguovllu}${coninit,cap|Barentsguovllu} ovttasbargodoaimmain.
 
-- SNF ovttasbargá báskalaš nissonorganisašuvnnain Bilgune Feminista, Euskal Herria.
+- SNF ovttasbargá {báskalaš}${báskálaš} nissonorganisašuvnnain Bilgune Feminista, Euskal Herria.
 
 - SNF lea FOKUSa lahttun. FOKUS lea Nissonolbmuid ja ovdánahttináššiid {vástesaš}${conm,s-v|vástevaš} Forum Norggas.
 
@@ -58,10 +58,10 @@ Sámi nissonolbmot deaivvadit:
 
 - Jahkečoahkkin oktan seminárain gos ságaškuššat áššiid main njealji riikka sámenissonat beroštuvvet.
 
-- Čoahkkimat leat leamaš Háštás, Anáris, Kárášjogas, Tromssas, Lujávrris, Jämtlánddas, Murmánskkas. Jagis 2008 čoahkkanat Roavvenjárgii.
+- Čoahkkimat leat leamaš {Háštás}${Hársttáin}, Anáris, Kárášjogas, Tromssas, Lujávrris, Jämtlánddas, Murmánskkas. Jagis 2008 čoahkkanat Roavvenjárgii.
 
 Ruhtadeapmi:
 
-- SNF oažžu jahkásaš doaibmaruđa Norgga Sámedikkis. Jagis 2008: 97 000 nkr.
+- SNF oažžu jahkásaš doaibmaruđa Norgga Sámedikkis. Jagis 2008: 97 000 {nkr}${Nkr}.
 
-- Prošeavttaid ruhtadat doarjagiiguin maid SNF ohcá, ee. {FOKUS:as}${suf|FOKUSis}, Barentsčállingottis, {Olgoriikadepartementtas}${vowc,e-ea|Olgoriikadepartemeanttas} ja Sámedikkis, Norgga bealde.
+- Prošeavttaid ruhtadat doarjagiiguin maid SNF ohcá, ee. {FOKUS:as}${suf|FOKUSis}, Barentsčállingottis, {Olgoriikadepartementtas}${vowc,e-ea|Olgoriikkadepartemeanttas} ja Sámedikkis, Norgga bealde.

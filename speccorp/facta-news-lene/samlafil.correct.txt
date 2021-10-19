@@ -251,7 +251,7 @@ Sámedikki beales sáhkavuoruid semináras dolle Klemetti Näkkäläjärvi, Heik
 
 Guovttegielat ruhta {geaveheapmi}${vowlat,e-a|geavaheapmi} Unjárggas
 
-Unjárgga Sámeálbmot bellodak lea miellahtučoahkkimis mearridan sáddet breava gos bivdit Unjárgga gielddas guorahallat geavaha go gielda ruđaid eavttuid mielde.
+Unjárgga Sámeálbmot {bellodak}${bellodat} lea miellahtučoahkkimis mearridan sáddet breava gos bivdit Unjárgga gielddas guorahallat geavaha go gielda ruđaid eavttuid mielde.
 
 Unjárgga gielda
 
@@ -290,7 +290,7 @@ Ráđđehus ovddida odne oktasaš náittoslága evttohusa. Láhka addá homofiil
 
 Eanet dokumeanttat fáttá birra
 
-anlávdegoddi
+{anlávdegoddi}${lávdegoddi}
 
 9840 Vuonnabahta / Varangerbotn
 

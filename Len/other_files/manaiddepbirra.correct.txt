@@ -44,7 +44,7 @@ Mii bivdit Unjárgga gielda dárkkistanlávdegotti bokte, čađahit dien iskosa.
 
 Bohtosat fertejit boahtit oidnosii, ja erenoamážit {dan}£{case,acc-nom|dat} ahte geavahuvvo juolluduvvon ruhta ulbmiliid ja eavttuid mielde.
 
-Unjárgga SáB boahtá čuovvut ášši, guđe láhkai gieldda bealis barget iskat guovttegielat ruhtadeame.
+Unjárgga SáB boahtá čuovvut ášši, guđe láhkai gieldda bealis barget iskat guovttegielat {ruhtadeame}${ruhtadeami}.
 
 
 Unjárga, 16.6. 2008
