@@ -34,7 +34,7 @@ Leago dás juoga mii geasuha du?
 
 {"}‰{cit|”}Boađe don ge hábmet iežat boahtteáiggi!{"}‰{cit|”}
 
-Álggogeahčen oahppojagi Sámi allaskuvla lágida álggahanvahkku ođđa ja ovddeš studeanttaide. Álggahanvahkku prográmmas {leat}£{kongr,pl-sg|lea} almmolaš rahpanbeaivi, diehtojuohkin Sámi allaskuvlla birra, {fáddarortnet}${conc,dd-tt|fáttarortnet} ođđa studeanttaide. Lágiduvvojit maid sosiála dáhpáhusat dego omd. dolastallan, {kano-tuvra}${vowc,a-á;hyph,1-0|kánotuvra} ja studeantaeahket. Leat maid kurssat studeanttaide, omd. {girjerájus ja Classfronter kurssat}¢{hyph,0-1;cmp,2-1|girjerájus- ja Classfronter-kurssat}.
+Álggogeahčen oahppojagi Sámi allaskuvla lágida álggahanvahkku ođđa ja ovddeš studeanttaide. Álggahanvahkku prográmmas {leat}£{kongr,pl-sg|lea} almmolaš rahpanbeaivi, diehtojuohkin Sámi allaskuvlla birra, {fáddarortnet}${conc,dd-tt|fáttarortnet} ođđa studeanttaide. Lágiduvvojit maid sosiála dáhpáhusat dego omd. dolastallan, {kano-tuvra}${vowc,a-á;hyph,1-0|kánotuvra} ja studeantaeahket. Leat maid kurssat studeanttaide, omd. girjerájus ja {{Classfronter kurssat}${ClassFronter kurssat}}¥{hyph,0-1;cmp,2-1|ClassFronter-kurssat}.
 
 Guovdageaidnu studeanttabáikin
 
