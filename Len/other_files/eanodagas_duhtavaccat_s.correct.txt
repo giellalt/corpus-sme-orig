@@ -21,7 +21,7 @@ Olbmot goittotge ballet, ahte Eanodagas báhcet bolesbálvalusaid haga iskkadeam
 
 - Sidjiide lea lohpiduvvon okta bárra {dálvvirádjái}${cmp,1-2|dálvvi rádjái}, muhto galhan dáppe bissovaččat galggašii {let}${typo|leat} boles, dadjá Erkki Keskitalo.
 
-Eanodaga gielda lea okta Suoma stuorimus gielddain. Gilbbesjávrris lea váile 200 kilomehtera gieldda máttaosiide. Borgemánus gieldda maŋimušge boles sirdojuvvui máddelii, {Muonioi}${foreign|Muonái}.
+Eanodaga gielda lea okta Suoma stuorimus gielddain. Gilbbesjávrris lea váile 200 kilomehtera gieldda máttaosiide. Borgemánus gieldda maŋimušge boles sirdojuvvui máddelii, {Muonioi}€{foreign|Muonái}.
 
 Dan rájes leat olbmot gáibidan bissovaččat Eanodahkii čujuhuvvon bolesiid gieldda olbmuide dorvun.
 
