@@ -25,6 +25,6 @@ Máŋggabealat prográmma
 
 Luossagonagasgilvvu lassin {prográmmas leat Teáhterčájáhus}£{kongr,pl-sg|prográmmas lea Teáhterčájáhus} Pensas, mánáid oaggungilvu, njoarostangilvu, njuollabálkestangilvu, ja Onni ja Hilda Länsman luođit ja musihkka.
 
-{Bálkkašupmin leat earet eará Deanu fanas}£{kongr,pl-sg|Bálkkašupmin lea earet eará Deanu fanas}, fanasmohtor ja {sveicenmášen}${conc,ic-is;vowc,á-a;vowc,e-i;conm,n-idn;vowlat,0-a|sveisenmašiidna}.
+{Bálkkašupmin leat earet eará Deanu fanas}£{kongr,pl-sg|Bálkkašupmin lea earet eará Deanu fanas}, fanasmohtor ja {sveicenmášen}${conc,ic-is;vowc,á-a;vowc,e-i;conm,n-idn;vowlat,0-a|sveisenmašiidna///sveisenmášen}.
 
 #Yle Sápmi / Ailu Valle & Sammol Lukkari
