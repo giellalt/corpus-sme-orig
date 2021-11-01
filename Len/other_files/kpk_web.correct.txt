@@ -79,9 +79,9 @@ Jens-Petter Johnsen (63) {valljejuvvui}${vowc,a-á|válljejuvvui} mannan vahku f
 
 {Mišuvdnaolbmui}${conm,š-šš|Miššuvdnaolbmui} gonagasa ánsu
 
-Per-Inge Søreng, Finnsnesas eret, oaččui Gonagasa {silba ánsomedálja}¢{cmp,2-1|silbaánsomedálja}. Romssa fylkkamánni, Svein Ludvigsen, geigii ánssu, ja čoahkkanan ledje bearaš ja ustibat ja dasa lassin ledje ásahusat nu mo Norgga {Lutherlaš}${conc,th-t;vowm,0-a|Luteralaš} {Mišuvdnalihttu}${conm,š-šš|Miššuvdnalihttu} (NLM), KrF, Lenvik suohkan ja Gaska-Romssa ealáhusat boahtán dilálašvuhtii.
+Per-Inge Søreng, Finnsnesas eret, oaččui Gonagasa {silba ánsomedálja}¢{cmp,2-1|silbaánsomedálja}. Romssa fylkkamánni, Svein Ludvigsen, geigii ánssu, ja čoahkkanan ledje bearaš ja ustibat ja dasa lassin ledje ásahusat nu mo Norgga {Lutherlaš}${conc,th-t;vowm,0-a|Luteralaš///Luteránalaš} {Mišuvdnalihttu}${conm,š-šš|Miššuvdnalihttu} (NLM), KrF, Lenvik suohkan ja Gaska-Romssa ealáhusat boahtán dilálašvuhtii.
 
-Søreng lea máŋga áigodaga leamaš NLM {biirrestivralahttu}${case,nom-gen|biirrestivrralahttu} ja {biireovdaolmmoš}${case,nom-gen|biirreovdaolmmoš} Romssa ja Finnmárkku biirres, mii dál gullá Davvi regiovdnii.
+Søreng lea máŋga áigodaga leamaš NLM {biirrestivralahttu}${case,nom-gen|biirrestivrralahttu} ja {biireovdaolmmoš}${case,nom-gen|biirreovdaolmmoš} Romssa ja Finnmárkku biirres, mii dál gullá {Davvi regiovdnii}¥{Davviregiovdnii}.
 Ánsomedálja geigema ággan lei go Søreng lea nannosit áŋggirdan bargat iežas eallinoainnu vuođul, namalassii luohttámušdoaimmaid váldán risttalaš doaimmaid ovddidit ja maiddái lea olu bargan guovllu ealáhusaid ovddidit.
 
 – Don leat leamaš dat maid sáhttá dadjat buorre olmmoš ja leat iežat eallinoainnu vuođul bargan servodathuksejeaddji doaimmaid almmá ahte leat ohcalan iežat ávkki, dajai fylkkamánni sártnistis. KPK
@@ -143,7 +143,7 @@ Børre Knudsena maŋisčuovvu vihahuvvo Romssas
 
 Válgasearvegottit vihahit Thor Henrik With ođđa bisman njukčamánu 24.-25.beivviid. Son váldá bismadoaimma badjelasas maŋŋil go Børre Knudsen gárttai luohpat bisman dan dihtii go dearvvašvuohta hedjonii. Ođđa bisma lea bargan Norgga Kristtalaš Studeanta- ja Skuvlanuoraidsearvvis, lea bargan suohkanbáhppan ja dál doaibmá {Samemišuvnna}${vowc,a-á;conm,š-šš|Sámemiššuvnna} váldočállin.
 
-Preassadieđáhus lea almmuhuvvon ja das daddjo ahte válgasearvegottit ásahit ieža ipmilbálvalusaid dain guovlluin gos dovddasteaddji searvegoddi dovdá ahte Norgga girku sárdnideapmi lea gáidan eret Biibbalis ja {lutherlaš}${conc,th-t|luteralaš} dovddastusas. Searvegotti miellahtut gullet eanas muddui Norgga girkui, muhto leat maid muhtin earát. Searvegottit birgejit ieža ruđalaččat, eai oaččo almmolaš doarjaga gostege ja ieža virgádit báhpaid.
+Preassadieđáhus lea almmuhuvvon ja das daddjo ahte válgasearvegottit ásahit ieža ipmilbálvalusaid dain guovlluin gos dovddasteaddji searvegoddi dovdá ahte Norgga girku sárdnideapmi lea gáidan eret Biibbalis ja {lutherlaš}${conc,th-t|luteralaš//luteránalaš} dovddastusas. Searvegotti miellahtut gullet eanas muddui Norgga girkui, muhto leat maid muhtin earát. Searvegottit birgejit ieža ruđalaččat, eai oaččo almmolaš doarjaga gostege ja ieža virgádit báhpaid.
 
 {Bismavihaheami}${case,nom-gen|Bismmavihaheami} jođiha bisma Roland Gustafson gii gullá Ruoŧa/Suoma {Mišuvdnaprovinsii}${conm,š-šš|Miššuvdnaprovinsii}, árkabisma Walter Obare, Kenyas eret ja máŋggat earát. Vihaheapmi lea Romssas. KPK
 
@@ -170,7 +170,7 @@ Normisjon lea ráhkadan ođđa strategiijaplána. Dasa lea bivdán oaiviliid olb
 
 {Blå Kors- direktevra}¢{cmp,2-1|Blå Kors-direktevra} cuiggoda Norsk Tippinga
 
--Kulturministtar berre gulahallat dearvvašvuođaministariin, iige diktit {Norsk Tippings}${fin,s-0|Norsk Tipping} speallat iežas spealu dan guvlui ahte eambbogat šaddet speallansorjavaččat (darvánit speallamii) ja sii eai galgga oažžut láhčit nu ahte geafit galget sin buriid doaimmaid ruhtadit. Nu dadjá Blå Kors Gaska ja Davvi regiovnna guovlludirektevra Odd Anders With, go addá {komeantta}${conm,m-mm|kommeantta} Norsk Tippinga plánaide ahte cegget ođđa speallanfálaldaga interneahtas.
+-Kulturministtar berre gulahallat dearvvašvuođaministariin, iige diktit {Norsk Tippings}${fin,s-0|Norsk Tipping} speallat iežas spealu dan guvlui ahte eambbogat šaddet speallansorjavaččat (darvánit speallamii) ja sii eai galgga oažžut láhčit nu ahte geafit galget sin buriid doaimmaid ruhtadit. Nu dadjá Blå Kors Gaska ja {Davvi regiovnna}¥{Davviregiovnna} guovlludirektevra Odd Anders With, go addá {komeantta}${conm,m-mm|kommeantta} Norsk Tippinga plánaide ahte cegget ođđa speallanfálaldaga interneahtas.
 
 Norsk Tipping sávvá álggahit kasinospealu ja eará spealuid interneahtas mas vurdet lasi sisaboađu birrasiid 300 miljovnna kruvnno jahkái. Sin mielas spealut eai váikkut dasa ahte olbmot eambbo šaddet speallansorjavažžan ja šaddet speallanváttisvuođat. {Spealut galget hábmejuvvot nu ahte dat unnimus lágis dolvot olbmuid dakkár speallandábiide maid eat hálit}¢{fin,t-it|Spealut galget hábmejuvvot nu ahte dat unnimus lágis dolvot olbmuid dakkár speallandábiide maid eat háliit}.
 
@@ -244,7 +244,7 @@ Muđui adnojuvvo skeaŋkaruhta doaimmahit {Frelsesarmeá}${vowlat,á-a|Frelsesar
 
 NLM lea ožžon ođđa jođiheaddji
 
-Øystein Engås (41) lea virgáduvvon ođđa jođiheaddjin Norgga {lutherlaš}${conc,th-t|luteralaš} miššonlihttui (NLM) Norggas. Su ovddasvástádus lea Miššonlihtu bargu Norggas mas ovddeš jođiheaddji lei Ernst Jan Halsne.
+Øystein Engås (41) lea virgáduvvon ođđa jođiheaddjin Norgga {lutherlaš}${conc,th-t|luteralaš///luteránalaš} miššonlihttui (NLM) Norggas. Su ovddasvástádus lea Miššonlihtu bargu Norggas mas ovddeš jođiheaddji lei Ernst Jan Halsne.
 
 Øystein Engås jođiha Misjonssalena čoakkalmasaid {Ålesunddas}${conc,ndd-nd|Ålesundas}. Son lea oktan eamidiinnis, {Anne-Marehiin}${vowc,a-á;vowc,a-á|Ánne-Márehiin}, leamaš NLM {mišuneara}${conc,š-šš;vowlat,u-o|miššoneara} Bolivias.
 
@@ -284,24 +284,24 @@ Doppe sáhttá maid guldalit ja viežžat iežas dihtorii čoakkalmasaid ja muht
 #http://www.kpk.no/artikkel/article/115453
 
 
-NLM Davvi oasis ođđa bargit
+NLM {Davvi oasis}¥{Davvioasis} ođđa bargit
 
-Norgga {Lutherlaš}${conc,th-t|Luteralaš} Miššonlihttu (NLM) lea Davvi regiovnna {guovlostivrračoahkkimis}${case,nom-gen|guovllustivrračoahkkimis} juovlamánu virgádan Evelyn ja Per Inge Søreng {kanturbargin}${vowc,a-á|kánturbargin} ja hálddahusjođiheaddjin {guovlokantuvrii}${case,nom-gen|guovllukantuvrii}.
+Norgga {Lutherlaš}${conc,th-t|Luteralaš///Luteránalaš} Miššonlihttu (NLM) lea Davvi regiovnna {guovlostivrračoahkkimis}${case,nom-gen|guovllustivrračoahkkimis} juovlamánu virgádan Evelyn ja Per Inge Søreng {kanturbargin}${vowc,a-á|kánturbargin} ja hálddahusjođiheaddjin {guovlokantuvrii}${case,nom-gen|guovllukantuvrii}.
 
 Evelyn Søreng álgá jahkemolsumis 20 % {kanturvirgái}${vowc,a-á|kánturvirgái} gitta suoidnemánu 31.beaivái 2012. Per Inge Søreng álgá seammá áiggis 50 % virgái hálddahusjođiheaddjin suoidnemánu 31.beaivái 2012.
 
 Evelyn lea olu jagiid leamaš Norborg joatkkaskuvllas, ja Per Inge lea IF dáhkádusfitnodagas bargan.
 
-Kristian Birkeland doaibmagoahtá Davvi regiovnna Nuorra-oassái jođiheaddjin guovvamánu 1.beaivvis 2012 ja geasi rádjái Kjetil Apeland sajis geas álgá virgelohpi. Davvi regiovdnii gullet čuovvovaš báikkit: Saltdal, Beiarn, Meløy ja Røst suohkanat lulde gitta Nordkáhppii davvi-oarjin ja nuorttabealde fas {Várggát}£{case,nom-ill|Várggáide} ja {Mátta-Várjjat}£{case,nom-ill|Mátta-Várjjagii}. Guovllukantuvra lea Romssa fylkkas, Finnsnesas. KPK
+Kristian Birkeland doaibmagoahtá Davvi regiovnna Nuorra-oassái jođiheaddjin guovvamánu 1.beaivvis 2012 ja geasi rádjái Kjetil Apeland sajis geas álgá virgelohpi. {Davvi regiovdnii}¥{Davviregiovdnii} gullet čuovvovaš báikkit: Saltdal, Beiarn, Meløy ja Røst suohkanat lulde gitta Nordkáhppii davvi-oarjin ja nuorttabealde fas {Várggát}£{case,nom-ill|Várggáide} ja {Mátta-Várjjat}£{case,nom-ill|Mátta-Várjjagii}. Guovllukantuvra lea Romssa fylkkas, Finnsnesas. KPK
 
 
 Girkuin leat hejot láhčán dili
 
-{Olu girkut Norggas lea unnán heivehuvvon}£{kongr,sg-pl|Olu girkut Norggas leat unnán heivehuvvon} olbmuide geain leat lihkadanváttisvuođat. Heajos hivssethoiddut doaimmashehttejuvvon olbmuide, jorristuoluin lea váttis beassat girkui go tráhpat leat váilevaččat, ja girkuin leat billašuvvan {heissat}${vowc,e-ea|heaissat} ja danne oallugat eai beasa girkuide. Nu boahtá ovdan Girkolaš bargoaddi- ja {beroštusorganisašuvnnna}${typo|beroštusorganisašuvnna} (KA) dilleraporttas.
+Olu girkut Norggas {lea}£{kongr,sg-pl|leat} unnán heivehuvvon olbmuide geain leat lihkadanváttisvuođat. Heajos hivssethoiddut doaimmashehttejuvvon olbmuide, jorristuoluin lea váttis beassat girkui go tráhpat leat váilevaččat, ja girkuin leat billašuvvan {heissat}${vowc,e-ea|heaissat} ja danne oallugat eai beasa girkuide. Nu boahtá ovdan Girkolaš bargoaddi- ja {beroštusorganisašuvnnna}${typo|beroštusorganisašuvnna} (KA) dilleraporttas.
 
 Olles 40,7 % dan 1600 girkus mat leat kártejuvvon leat heajut dahje eai nu buorit.
 
-Norges Handikapforbund (NHF) oaivvilda raportta čájehit ahte {leat guhkes geaidnu}£{kongr,pl-sg|lea guhkes geaidnu} ovdalgo girkut leat buohkaid várás heivehuvvon.
+Norges Handikapforbund (NHF) oaivvilda raportta čájehit ahte {leat}£{kongr,pl-sg|lea} guhkes geaidnu ovdalgo girkut leat buohkaid várás heivehuvvon.
 
 - Min mielas galget buohkat sáhttit girku geavahit dásseárvosaš vugiin, dadjá NHF lihttonjunuš
 Arne Lein. Son oaivvilda leat dievas vejolažžan maiddái ráfáidahttojuvvon visttiid láhčit doaimmashehttejuvvon olbmuide. KPK
