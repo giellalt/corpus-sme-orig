@@ -4,10 +4,10 @@ Numo lávege, de ledje ollu somás doaimmat {beatnatvuodjima}${case,gen-nom|bean
 
 15-03-2007 Bent Johansen
 
-Stuorravuona oahppit ja oahpaheaddjit ledje erenoamáš áŋgirat geahččaladdat daid ollu doaibmafálaldagaid maid Várjjat Sámi {Musea(}‰{Musea (}VSM) lei heivehan. Ledje e.e. {njuollabissubáhčimat}${vowlat,u-o|njuollabissobáhčimat} ja {njoarusteapmi}${vowlat,u-o|njoarosteapmi}. Čáppa muohtaskulptuvrraid ráhkadeapmi VSM olggobealde lei maiddái ovttasbargu gaskal {skuvla ohppiid}¥{skuvlaohppiid} ja VSM.
+Stuorravuona oahppit ja oahpaheaddjit ledje erenoamáš áŋgirat geahččaladdat daid ollu doaibmafálaldagaid maid Várjjat Sámi {Musea(}‰{singlespace|Musea (}VSM) lei heivehan. Ledje e.e. {njuollabissubáhčimat}${vowlat,u-o|njuollabissobáhčimat} ja {njoarusteapmi}${vowlat,u-o|njoarosteapmi}. Čáppa muohtaskulptuvrraid ráhkadeapmi VSM olggobealde lei maiddái ovttasbargu gaskal {skuvla ohppiid}¥{skuvlaohppiid} ja VSM.
 
 Maiddái dánge jagi barggai {VSM  buori}‰{singlespace|VSM buori} barggu Finnmarksløpet miellágideaddjin. Sii dolle rabasin birranbeaivve sihke {beatnatvuoddjiide}${case,gen-nom;vowc,uo-u|beanavuddjiide}, bargiide ja mediaide. Doppe maiddái besse olbmot vuovdit {iešguđátlágán}${vowlat,á-e|iešguđetlágán} giehtadujiid, ja NIF doalai kafea.
 
 Rukses ruossas lei nuvttá káfe ja veahkehedje muđuige, {nomo}${vowc,o-u|numo} bearráigeahččat johtolaga {bisánanabáikái}${typo|bisánanbáikái}.
 
-Jus don(dego mun) {hálidit}${conm,d-id|háliidit} buori gourmet-gaskabeaivvi, de besset {Searvegottevisttis}${case,gen-nom|Searvegoddevisttis} návddašit {boahkke lábbábierggu}${cmp,2-1|boahkkelábbábierggu} ja luossamáli. Maiddái {Searvegottevisti}${case,gen-nom|Searvegoddevisti} lei rabas ijatbeaivve vai olbmot ožžo borramuša.
+Jus {don(}‰{don (}dego mun) {hálidit}${conm,d-id|háliidit} buori gourmet-gaskabeaivvi, de besset {Searvegottevisttis}${case,gen-nom|Searvegoddevisttis} návddašit {boahkke lábbábierggu}${cmp,2-1|boahkkelábbábierggu} ja luossamáli. Maiddái {Searvegottevisti}${case,gen-nom|Searvegoddevisti} lei rabas ijatbeaivve vai olbmot ožžo borramuša.
