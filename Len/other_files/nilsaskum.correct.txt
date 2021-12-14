@@ -60,7 +60,7 @@ Caggá báikeolbmuid geavahit meahci nu go álo leat dahkan.
 
 Galgá go báikkálaš olbmuin leat vuosttašvuoigatvuohta {luonddoriggodagaide}${vowlat,o-u|luondduriggodagaide}?
 
-Jua, de gálga leat. Lea ágga manne olbmot orrot sis-Finnmárkkus ja {boaittobealbáikkiinja}${typo|boaittobealbáikkiin ja} vižžet luonddus dárbbuid.
+Jua, de gálga leat. Lea ágga manne olbmot orrot {sis-Finnmárkkus}${Sis-Finnmárkkus} ja {boaittobealbáikkiinja}${typo|boaittobealbáikkiin ja} vižžet luonddus dárbbuid.
 
 Jus olggobeal-olbmuin leat seamma vuoigatvuođat, de lea vejolašvuohta olggobeal-máilbmái eambbo geavahišgoahtit guovllu ja {dainnalágiin}${cmp,1-2|dainna lágiin} oažžut eambbo válddi dadjat ja hábmet movt Finnmárkku meahcci galgá leat. Lea boastut jus olggobeal-olbmuin leat vuoigatvuođat mat dušše muhtumin fitnet {„}‰{cit|”}luonddu návddašeame{“}‰{cit|”}, ja fas mannet daidda duolva gávpogiidda.
 

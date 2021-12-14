@@ -18,7 +18,7 @@ Gietkka maid Liv Bangsund lea {eadnestis}${conc,dn-tn;vowlat,e-i|eatnistis} ož�
 
 Luonddu oaidnu guovddážis
 
-Čájáhusa namma lea {"}‰{cit|”}Bastilis ravddat leat jorbon, ja olles juhkosat leat gahččan{"}‰{cit|”} mii lea čilgejuvvon ná: áiggit ja sajit beaškkehit oktii, leat biddjon vuostálaga dahje fas {{šadda}${vowlat,a-á|šaddá}}£{kongr,sg-pl|šaddet}.
+Čájáhusa namma lea {"}‰{cit|”}Bastilis ravddat leat jorbon, ja olles juhkosat leat gahččan{"}‰{cit|”} mii lea čilgejuvvon ná: áiggit ja sajit beaškkehit oktii, leat biddjon vuostálaga dahje fas {{šadda}${vowlat,a-á|šaddá}}£{verb,kongr,sg-pl|šaddet}.
 
 Guldal rádioášši čájáhusa birra
 

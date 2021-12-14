@@ -22,7 +22,7 @@ Olgešbellodaga politihkkár ja sátnejođiheaddji {lohká dál plánegoahttit}�
 
 Árabut dán vahkus son lei fuolastuvvan gieldda plánaide, go lei gullan ahte gártet duhát ođđa {bártasaji}${vowc,á-a|bartasaji} {guovttebeallai}${cmp,1-2;vowlat,a-á|guovtte beallái} {Porsangguvuona}${vowc,a-á;conc,ngg-ŋgg|Porsáŋgguvuona}, gos geasseeatnamiin leat birrasii 20-duhát bohcco.
 
-– {Boazodoallit čoahkkinasttigoahttit}${conc,stt-st;conc,htt-ht;vowc,mono;vowlat,i-e|Boazodoallit čoahkkinastigohtet}
+– Boazodoallit {čoahkkinasttigoahttit}${conc,stt-st;conc,htt-ht;vowc,mono;vowlat,i-e|čoahkkinastigohtet}
 
 Alf Johansen lohká {boazodoalliin}${vowc,mono|boazodolliin} dárbu dál gulahallat dán áššis, ja son sávvá {bártahuksemiid}${vowc,á-a|bartahuksemiid} bidjat guovlluide gos jo leat {bárttat}${vowc,á-a|barttat} ja maid boazoealáhus lea dohkkehan.
 
