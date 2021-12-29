@@ -12,7 +12,7 @@ Eambbogat {hálidit}${conm,d-id|háliidit} {mineráldivada}${vowlat,0-a|minerál
 
 Sámediggepresideanta Egil Olli {lohka}¢{vowlat,a-á|lohká} {álgoálbmotdiva gáibádusaid}¥{cmp,2-1|álgoálbmotdivagáibádusaid} leat {eambbo vejolažžan}£{comp,analyt-synt|vejolaččabun} ásahit dál go goassige ovdal.
 
-{Kánáda}${vowc,á-a|Kanáda} álgoálbmogat ožžo measta 500 {milljun}${conc,llj-lj;vowlat,u-o|miljon} ruvnnu divamávssu mineráladoaimmain diibmá. {Indiánat}£{case,nom-loc|Indiánain} {leat}£{kongr,pl-sg|lea} {jagis}£{case,loc-gen|jagi} 1989 rájes leamašan šiehtadus máilmmi stuorámus {sinkminerála}${conc,nk-ŋk;vowlat,0-a|siŋkaminerála} ruvkedoaimmain, máid Red Dog {čađáha}${vowlat,á-a|čađaha} indiánaid ássanguovlluin.
+{Kánáda}${vowc,á-a|Kanáda} álgoálbmogat ožžo measta 500 {milljun}${conc,llj-lj;vowlat,u-o|miljon} ruvnnu divamávssu mineráladoaimmain diibmá. {Indiánat}£{case,nom-loc|Indiánain} {leat}£{verb,kongr,pl-sg|lea} {jagis}£{case,loc-gen|jagi} 1989 rájes leamašan šiehtadus máilmmi stuorámus {sinkminerála}${conc,nk-ŋk;vowlat,0-a|siŋkaminerála} ruvkedoaimmain, máid Red Dog {čađáha}${vowlat,á-a|čađaha} indiánaid ássanguovlluin.
 
 {Hálida}${conm,d-id|Háliida} seammalágan málle
 

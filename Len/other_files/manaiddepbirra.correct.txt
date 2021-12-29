@@ -19,7 +19,7 @@ addit mánáide ja nuoraide oadjebas {bajasšaddandili}${vowlat,a-á|bajásšadd
 
 Min bargosuorggit gusket eanas olbmuid árgabeaivái, ja mearrádusat mat dahkkojit sáhttet leat hirbmat mávssolaččat juohke olbmui.
 
-Eanas oassi MLD bušeahtas manná juolludemiide {mánnábearrášiidda}${vowlat,á-a|mánnábearrašiidda} - mánnáoadju, {riegadahttinruhtii}${vowlat,a-á|riegádahttinruhtii} ja reaidadoarjagii. Buorredilledoaimmaid dáfus {leat mánáidsuodjalus}£{kongr,pl-sg|lea mánáidsuodjalus} okta dain stuorimus bušeahttapoasttain.
+Eanas oassi MLD bušeahtas manná juolludemiide {mánnábearrášiidda}${vowlat,á-a|mánnábearrašiidda} - mánnáoadju, {riegadahttinruhtii}${vowlat,a-á|riegádahttinruhtii} ja reaidadoarjagii. Buorredilledoaimmaid dáfus {leat}£{verb,kongr,pl-sg|lea} mánáidsuodjalus okta dain stuorimus bušeahttapoasttain.
 
 
 Fágaossodagat hálddašit lágaid ja {doarjjasortnegiid}${typo|doarjjaortnegiid}, barget plánemiin, čielggademiiguin, váikkuhandoaimmaiguin, bagadallamiin, diehtojuohkimiin álbmogii ja joavkkuide geaidda guoská. Ossodagat addet maiddái doarjaga dutkamii, {geahččalan}¢{hyph,0-1|geahččalan-} ja ovdánahttinbargui, ja servet riikkaidgaskasaš ovttasbargguide sin fágasurggiineaset.

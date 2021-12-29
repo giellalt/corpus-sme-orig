@@ -12,7 +12,7 @@ Kárášjoga ealgabivdiid searvvis lohket váidalahttin go buot bivdiid navdet j
 Ealgabivdiid searvvi {nubbejođiheaddji}${noun,cmp,svow|nubbijođiheaddji}, Jan Helge Soleng, ii mieđit diekkár láhttenvuogi gullat bivdokultuvrii.
 
 
-Maŋimuš beivviid lea mediain beaggán {Kárášjot}${prop,infl|Kárášjoga} ealgabivdiid vejolaš {láhkarihkkumat}£{verb,fin,pl3prs,sg3prs,kongr|Maŋimuš beivviid leat mediain beaggán Kárášjoga ealgabivdiid vejolaš láhkarihkkumat}.
+Maŋimuš beivviid {lea}£{verb,fin,pl3prs,sg3prs,kongr|leat} mediain beaggán {Kárášjot}${prop,infl|Kárášjoga} ealgabivdiid vejolaš láhkarihkkumat.
 
 Ealgabivdiid searvi ii dohkket
 

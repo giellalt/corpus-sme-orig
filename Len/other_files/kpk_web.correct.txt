@@ -74,7 +74,7 @@ Girkoráđi direktevran vel nuppi {guhta}${conc,ht-htt|guhtta} jagi
 
 Jens-Petter Johnsen (63) {valljejuvvui}${vowc,a-á|válljejuvvui} mannan vahku fas Girkoráđi direktevran nuppi {guhttajagi}${cmp,1-2|guhtta jagi} áigodahkii. Dálá válljejuvvon Girkoráđđi doarjjui Johnsena direktevran. Son lea juo guhtta jagi leamaš ja illuda fas nuppi guhtta jagi čavgat direktevran.
 
-– Mun {hálidan}${conm,d-id|háliidan} joatkit barggus go girkus lea dál historjjálaš mearkkašahtti áigi. Girkus {lea}£{kongr,sg-pl|leat} olu ođastusat ja máŋga stuora barggu jođus. Dán maŋemus guhtta jagi leat olu rievdadusat leamaš nu mo oskkuoahpahusa rievdadeapmi ja ovddideapmi, ipmilbálvalusođasteapmi, girkomusihkka, diakoniija, girku ja kultuvra, sámi girkoeallin, bassivádjolusbargu, IKT ja eará. Munnje lea gelddolaš joatkit dáiguin bargguiguin ja oaidnit maid dat mearkkašit olbmuide ja girkuide ja ipmilbálvalusaide. KPK
+– Mun {hálidan}${conm,d-id|háliidan} joatkit barggus go girkus lea dál historjjálaš mearkkašahtti áigi. Girkus {lea}£{verb,kongr,sg-pl|leat} olu ođastusat ja máŋga stuora barggu jođus. Dán maŋemus guhtta jagi leat olu rievdadusat leamaš nu mo oskkuoahpahusa rievdadeapmi ja ovddideapmi, ipmilbálvalusođasteapmi, girkomusihkka, diakoniija, girku ja kultuvra, sámi girkoeallin, bassivádjolusbargu, IKT ja eará. Munnje lea gelddolaš joatkit dáiguin bargguiguin ja oaidnit maid dat mearkkašit olbmuide ja girkuide ja ipmilbálvalusaide. KPK
 
 
 {Mišuvdnaolbmui}${conm,š-šš|Miššuvdnaolbmui} gonagasa ánsu
@@ -297,11 +297,11 @@ Kristian Birkeland doaibmagoahtá Davvi regiovnna Nuorra-oassái jođiheaddjin g
 
 Girkuin leat hejot láhčán dili
 
-Olu girkut Norggas {lea}£{kongr,sg-pl|leat} unnán heivehuvvon olbmuide geain leat lihkadanváttisvuođat. Heajos hivssethoiddut doaimmashehttejuvvon olbmuide, jorristuoluin lea váttis beassat girkui go tráhpat leat váilevaččat, ja girkuin leat billašuvvan {heissat}${vowc,e-ea|heaissat} ja danne oallugat eai beasa girkuide. Nu boahtá ovdan Girkolaš bargoaddi- ja {beroštusorganisašuvnnna}${typo|beroštusorganisašuvnna} (KA) dilleraporttas.
+Olu girkut Norggas {lea}£{verb,kongr,sg-pl|leat} unnán heivehuvvon olbmuide geain leat lihkadanváttisvuođat. Heajos hivssethoiddut doaimmashehttejuvvon olbmuide, jorristuoluin lea váttis beassat girkui go tráhpat leat váilevaččat, ja girkuin leat billašuvvan {heissat}${vowc,e-ea|heaissat} ja danne oallugat eai beasa girkuide. Nu boahtá ovdan Girkolaš bargoaddi- ja {beroštusorganisašuvnnna}${typo|beroštusorganisašuvnna} (KA) dilleraporttas.
 
 Olles 40,7 % dan 1600 girkus mat leat kártejuvvon leat heajut dahje eai nu buorit.
 
-Norges Handikapforbund (NHF) oaivvilda raportta čájehit ahte {leat}£{kongr,pl-sg|lea} guhkes geaidnu ovdalgo girkut leat buohkaid várás heivehuvvon.
+Norges Handikapforbund (NHF) oaivvilda raportta čájehit ahte {leat}£{verb,kongr,pl-sg|lea} guhkes geaidnu ovdalgo girkut leat buohkaid várás heivehuvvon.
 
 - Min mielas galget buohkat sáhttit girku geavahit dásseárvosaš vugiin, dadjá NHF lihttonjunuš
 Arne Lein. Son oaivvilda leat dievas vejolažžan maiddái ráfáidahttojuvvon visttiid láhčit doaimmashehttejuvvon olbmuide. KPK
