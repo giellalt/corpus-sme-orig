@@ -54,7 +54,7 @@ Eahpesihkkarvuohta hárdá Eanodagas.
 
 Gulahallan e-poastta bokte minguin: snf(at)trollnet.no
 
-Gii lea SNF ?
+Gii lea SNF{ }‰{notspace|}?
 
 Nissonolbmot {sis-Finnmárkkus}${prop,cap|Sis-Finnmárkkus} eret vuođđudedje SNF jagis 1993, álggos {fierbmádahkan}${conc,rbm-rpm|fierpmádahkan}, das go sii dáhtto politihkain bargagoahtit iežaset gielddas ja guovllus. Sámi Nissonolbmuid Lista Kárášjogas, ceggejuvvon vuosttas sámediggeválgii Norgga bealde 1989, álggahii Sámi NissonForuma.
 
@@ -72,9 +72,9 @@ SNF bargá dán ovdii:
 
 - ahte sámenissoniid eallin- ja bargodilli, sihke ovdal ja dál, dokumenterejuvvo ja čalmmustahttojuvvo.
 
-Maid SNF bargá ?
+Maid SNF bargá{ }‰{notspace|}?
 
-SNF doaibmá dál juo {dego}¥{0} resursaguovddážin sámi nissoniid ja sohkabealdásseárvvu várás, muhto ain aivve fal eaktodáhtolaš, nuvttá doaibman. Manne ?
+SNF doaibmá dál juo {dego}¥{0} resursaguovddážin sámi nissoniid ja sohkabealdásseárvvu várás, muhto ain aivve fal eaktodáhtolaš, nuvttá doaibman. Manne{ }‰{notspace|}?
 
 Danne go nissonáššiid ja dásseárvvu FERTE áimmahuššat maiddái Sámis.  SNF áigu joatkit bargat sierra ásahusa ovdii gosa čohkke {máhttu}${conc,htt-ht|máhtu} ja dieđuid.
 
@@ -659,11 +659,11 @@ Larisa Abryutina gullá čukči-álbmogii {Sibirijas}${prop,vowm,a-á|Sibirijás
 
 SNF áigu digaštallat man diehtomielalaččat leat alkohola návddašeames almmolaš sámi ja {eamiálbmot-deaivvademiin}${cmp,hyph-0|eamiálbmotdeaivvademiin}, ja eai go son sámi orgánat ja organisašuvnnat dás ságastala?
 
-Petra Biret Magga lea sáhkavuorus gohčodan {“}‰{cit|”}{Elles}${infl,verb|Ellos} sámi mánáid kultuvra!”. Su sáhkavuorru lea Sámemánáid Kulturguovddáža prošeaktabarggu vásáhusaid vuođul, Suoma beal Sámis. Mo stohket ja ellet sámemánát dál ? Lea go prošeakta buktán bohtosiid servodahkii ja {eandalit}${fin,t-i|eandalii} mánáide? Makkár niestti sámemánná dárbbaša boahtte áigái?  Petra lea Suoma Sámi ravdaguovllus Vuohčus eret. Skuvlejupmi: Pedagogihka {magistter/}${loan,vowlat,e-a|magisttar} {Luohkáoahpaheaddji}${conc,hk-hkk|Luohkkáoahpaheaddji} Lappi universitehtas. Son lea bargan oahpaheaddjin, ja 2004 čavčča rájes Sámedikki Sámemánáid Kulturguovddáža prošeaktajođiheaddjin. Unna Junná sámemánáid tv-prográmmajođiheaddji 2007 čavčča rájes. Muđui son lea juoigi, sámediggelahttu nuppi áigodagas, ja Vuohču Sámiid Searvvi várreságajođiheaddji.
+Petra Biret Magga lea sáhkavuorus gohčodan {“}‰{cit|”}{Elles}${infl,verb|Ellos} sámi mánáid kultuvra!”. Su sáhkavuorru lea Sámemánáid Kulturguovddáža prošeaktabarggu vásáhusaid vuođul, Suoma beal Sámis. Mo stohket ja ellet sámemánát dál{ }‰{notspace|}? Lea go prošeakta buktán bohtosiid servodahkii ja {eandalit}${fin,t-i|eandalii} mánáide? Makkár niestti sámemánná dárbbaša boahtte áigái?  Petra lea Suoma Sámi ravdaguovllus Vuohčus eret. Skuvlejupmi: Pedagogihka {magistter/}${loan,vowlat,e-a|magisttar} {Luohkáoahpaheaddji}${conc,hk-hkk|Luohkkáoahpaheaddji} Lappi universitehtas. Son lea bargan oahpaheaddjin, ja 2004 čavčča rájes Sámedikki Sámemánáid Kulturguovddáža prošeaktajođiheaddjin. Unna Junná sámemánáid tv-prográmmajođiheaddji 2007 čavčča rájes. Muđui son lea juoigi, sámediggelahttu nuppi áigodagas, ja Vuohču Sámiid Searvvi várreságajođiheaddji.
 
-Risten Rauna Magga orru Njunnásis ja lea Sami Soster Searvvi beaivválaš jođiheaddjin Anáris, Suomas. Son bargá sámiid giella- ja kulturvuoigatvuođaid ovdii, {eandalit}${fin,t-i|eandalii} mánáid ektui ja sosiála- ja dearvvasvuođasuorggis. Son oaččui 2007 sámedikkiid (Sámi Parlamentáralaš Ráđi) dásseárvobálkkašumi, iežas barggu dihtii sámegiela ja sámi {dearvvasvuodabálvalusaid}${conc,d-đ|dearvvasvuođabálvalusaid} ovdii Suomas ja barggustis ovddas gárrenmirkkogeavaheami vuostá. Son ge lea sámediggelahttu
+Risten Rauna Magga orru Njunnásis ja lea {Sami Soster Searvvi}${Sámi Soster Searvvi} beaivválaš jođiheaddjin Anáris, Suomas. Son bargá sámiid giella- ja kulturvuoigatvuođaid ovdii, {eandalit}${fin,t-i|eandalii} mánáid ektui ja sosiála- ja dearvvasvuođasuorggis. Son oaččui 2007 sámedikkiid (Sámi Parlamentáralaš Ráđi) dásseárvobálkkašumi, iežas barggu dihtii sámegiela ja sámi {dearvvasvuodabálvalusaid}${conc,d-đ|dearvvasvuođabálvalusaid} ovdii Suomas ja barggustis ovddas gárrenmirkkogeavaheami vuostá. Son ge lea sámediggelahttu
 
-{Som}${typo|Son} čilge {SNFa}${acro,suf|SNF} semináras iežas barggu birra ja manne lea dárbbašlaš ráhkadit doaibmaplána ovddidan dihte sámenissoniid dili. SamiSoster lea fállan searvat Suoma {riikkasis}${px,infl|riikkastis} bargui dán suorggis. Dáidá leat nu ahte njealji riikka sámenissonat ovttasráđiid ráhkadit dákkár plána?
+{Som}${typo|Son} čilge {SNFa}${acro,suf|SNF} semináras iežas barggu birra ja manne lea dárbbašlaš ráhkadit doaibmaplána ovddidan dihte sámenissoniid dili. {SamiSoster}${Sámi Soster} lea fállan searvat Suoma {riikkasis}${px,infl|riikkastis} bargui dán suorggis. Dáidá leat nu ahte njealji riikka sámenissonat ovttasráđiid ráhkadit dákkár plána?
 
 Seminára leat ruhtadan Norgga Sámediggi ja Barentsčállingoddi, ja Sámiráđđi.
 
@@ -3535,7 +3535,7 @@ Várrelahttun: Erika Sarivaara, Maarit K. Peski, Jouni Esa {Nuosuniemi}${prop,ty
 
 Ortnet njuolggadusat
 
-Sis-Finnmárkku studeanttaid ovttastusa studeanttaviesuid  ortnetnjuolggadusat leat oassin soahpamušas gaskkal láigoheaddji (SSO) ja láigolačča, ja lea nu oassin láigošiehtadusas. Ortnetnjuolggadusat ja eará eavttut leat {biddon}${typo|biddjon} vai juohke ássis {galga}${vowlat,a-á|galgá} leat buorre orrundilli.
+Sis-Finnmárkku studeanttaid ovttastusa studeanttaviesuid{ }‰{singlespace| }ortnetnjuolggadusat leat oassin soahpamušas gaskkal láigoheaddji (SSO) ja láigolačča, ja lea nu oassin láigošiehtadusas. Ortnetnjuolggadusat ja eará eavttut leat {biddon}${typo|biddjon} vai juohke ássis {galga}${vowlat,a-á|galgá} leat buorre orrundilli.
 
 I. Ulbmil
 
