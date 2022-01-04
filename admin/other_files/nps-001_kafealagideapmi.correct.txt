@@ -11,7 +11,7 @@ Mirja ja Line leaba {gulahallan olbmožat}¥{noun,cmp|gulahallanolbmožat}, ja v
 
 Sámi váhnenfierpmádaga ovddasteaddji rahpá Guovssahas mánáidgárddi uvssaid {álohit}¢{adv,fin|álohii} go leat doalut. {Sis}£{pers,subj,nompl,locpl,case|Sii} {geas}£{rel,hab,nompl,nomsg,kongr|geain} lea ovddasvástádus lágidit kaféa bohtet dii. 12.00 ja kaféa {{rahppasa}¢{verb,conc|rahpasa}}€{der|rahppojuvvo} dii. 13.00.
 
-Doalut {bistte}£{verb,fin,pl3prs,conneg,infl|bistet} gitta dii. {16:00}¥{missing|16:00 rádjai}. Maŋŋá doaluid fertejit maiddái čorget ovttas sámi {váhnenfierpmádat}£{noun,det,gensg,nomsg,case|váhnenfierpmádaga} miellahtuiguin.
+Doalut {bistte}£{verb,fin,pl3prs,conneg,infl,kongr|bistet} gitta dii. {16:00}¥{missing|16:00 rádjai}. Maŋŋá doaluid fertejit maiddái čorget ovttas sámi {váhnenfierpmádat}£{noun,det,gensg,nomsg,case|váhnenfierpmádaga} miellahtuiguin.
 
 Sii geat lágidit kaféa fertejit váldit mielde daid maid galget vuovdit omd. Pizza, gáhkuid, {váffelat}£{noun,obj,accpl,nompl,case|váffeliid}, {mállásat}£{noun,obj,accpl,nompl,case|mállásiid} jna.
 
@@ -43,7 +43,7 @@ Maŋŋel kaféa doaluid {dalle}¥{redun|} fertejit sii {geas}£{rel,hab,nompl,no
 
 KAFEA-KÁSSA: kaféa-kássa vižžojuvvo skuvllas. Gii dan viežžá fertebehtet ieža mearridit. Maŋŋel doaluid {de}¥{redun|} galgá kaféa-kássa buktojuvvot skuvlii {mánnodagas}£{noun,advl,gensg,locsg,case|mánnodaga}. Jus lea mii nu mii váilu {kássas-}¥{noun,nothyph|kássas,} de fertebehtet čálistit unna {girjážii}${noun,conc|girjjážii} mii lea ruhta-kássas.
 
-RUHTA-KÁSSAS: galgá {álohit}¢{adv,fin|álohii} leat {1000,- .}‰{notspace|1000,-.} Maŋŋel {doaluid, fertebehtet}‰{notcomma|doaluid fertebehtet} rehkenastit dietnasa ja {čállet}£{verb,infin,infinite,pl3prs,number|čállit} dan unna girjjážii mii lea ruhta-kássas. Dietnasa bidjabehtet sierra {plastihka-bosi}¢{noun,mix|plastihkkabussii} nu ahte mii skuvllas eat dárbbaš lohkat dáid.
+RUHTA-KÁSSAS: galgá {álohit}¢{adv,fin|álohii} leat {1000,- .}‰{notspace|1000,-.} Maŋŋel {doaluid, fertebehtet}‰{notcomma|doaluid fertebehtet} rehkenastit dietnasa ja {čállet}£{verb,infin,infinite,pl3prs,number,kongr|čállit} dan unna girjjážii mii lea ruhta-kássas. Dietnasa bidjabehtet sierra {plastihka-bosi}¢{noun,mix|plastihkkabussii} nu ahte mii skuvllas eat dárbbaš lohkat dáid.
 
 {MÁNÁID-GÁRDDI}${noun,nothyph|MÁNÁIDGÁRDDI} RAHPAN JA LÁSSEN: Dát ášši ii leat vuos čielggas. Ovdal lea leamaš nu ahte muhtin Sámi váhnenfierpmádagas {rahpán}${verb,fin|rahpá} ja lásse uvssa.
 
