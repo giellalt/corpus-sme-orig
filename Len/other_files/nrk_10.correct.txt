@@ -14,7 +14,7 @@ Sii eai leat váttisvuohtan dáppe, {oaivvilda áiddo ásahuvvon turistafitnodag
 
 Dál dáhttu Geaggánvuomi čearu boazoeaiggát, Nils Ánte Blind jávkadit beanafitnodaga Dápmotvuovddis, Báhccavuonas.
 
-- Sidjiide gal lea váttisvuohta dán beanafitnodagas, doppe {lea}£{kongr,sg-pl|leat} olu beatnagat, olbmot ja sii lihkadit olu guovllus, gos lea bohccuid lunddolaš johtolat. Son vásiha, ahte sii eai buohkat čága deike, fitnodat galgá vuolgit eret dáppe, ii sin ovttasbargu doaimma, váikke dán gohčodit oktasašbargun, muhto dat ii doaimma, dasa dárbbašuvvojit guktot bealit, {lohka}¢{vowlat,á-a|lohká} Blind.
+- Sidjiide gal lea váttisvuohta dán beanafitnodagas, doppe {lea}£{verb,kongr,sg-pl|leat} olu beatnagat, olbmot ja sii lihkadit olu guovllus, gos lea bohccuid lunddolaš johtolat. Son vásiha, ahte sii eai buohkat čága deike, fitnodat galgá vuolgit eret dáppe, ii sin ovttasbargu doaimma, váikke dán gohčodit oktasašbargun, muhto dat ii doaimma, dasa dárbbašuvvojit guktot bealit, {lohka}¢{vowlat,á-a|lohká} Blind.
 
 (Artihkal joatkašuvvá gova vuolde)
 
@@ -27,7 +27,7 @@ Lobálaš doaibma
 
 Lyngenfjord Adventure eaiggát, Hans Olav Eriksen ii ipmir manne Nils Ánte Blind dáhttu sin fitnodaga heaittihit doaimmaid guovllus, go dát han lea dál dohkkehuvvon sihke boazodoalu ja suohkana bealis.
 
-- Dát šattašii váivi, sis {lea}£{kongr,sg-pl|leat} sullii 30 báikkálaš bargi dáppe. Sin {vistithan}¢{conc,st-stt|visttithan} leat priváhta eatnamis, mii lea dohkkehuvvon turismma doaimmaide ja dat lea dohkkehuvvon sihke gielddas ja fylkkamánnis. Dat maid {bidjui}${conc,dj-ddj|biddjui} gulaskuddamii boazoorohahkii, mii dasto dohkkehii doaimmaid, muitala Eriksen.
+- Dát šattašii váivi, sis {lea}£{verb,kongr,sg-pl|leat} sullii 30 báikkálaš bargi dáppe. Sin {vistithan}¢{conc,st-stt|visttithan} leat priváhta eatnamis, mii lea dohkkehuvvon turismma doaimmaide ja dat lea dohkkehuvvon sihke gielddas ja fylkkamánnis. Dat maid {bidjui}${conc,dj-ddj|biddjui} gulaskuddamii boazoorohahkii, mii dasto dohkkehii doaimmaid, muitala Eriksen.
 
 Gidde johtolaga
 
