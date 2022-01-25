@@ -26,7 +26,7 @@ Oktavuohta lea dehálaš danin go mánát ohppet sámi {árbevearuid}${vowc,ea-i
 
 {Vánemat}${conc,n-hn|Váhnemat} ožžot veahki bajásgeassit mánáid ja veahki daid geahččat go fertejit {ovda mearka dihte}¢{cmp,2-1;conc,rk-rkk|ovdamearkka dihte} dihte mannat čoahkkimiidda.
 
-Vuorasolbmot besset gis čájehit ja muitalit maid sii máhttet - ja dovdet maid ahte {leat dehálačča}£{kongr,sg-pl|leat dehálaččat} servodagas.
+Vuorasolbmot besset gis čájehit ja muitalit maid sii máhttet - ja dovdet maid ahte leat {dehálačča}£{kongr,sg-pl|dehálaččat} servodagas.
 
 Fierpmádat olles Sámis
 
