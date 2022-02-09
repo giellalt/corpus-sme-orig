@@ -198,7 +198,7 @@ Soagi báhkki ii šatta iešalddis čáppa gohppan.
 
 Ii ge dan goit min mielas oba sáhte ge gohppan gohčodit, muhto baicce gievdnin, nu go Sámi beakkán duojár, John Ole Andersen, maiddái govvida dan.
 
-Dan várra eai navddášii árbevirolaš sápmelaččat šat guksin, muhto gohppan.
+Dan várra eai {navddášii}£{verb,kongr|návddáše} árbevirolaš sápmelaččat šat guksin, muhto gohppan.
 
 Ja makkár ulbmil oppa livččii ge ráhkadit gohpa mii ii adnojuvvo gohppan?
 
