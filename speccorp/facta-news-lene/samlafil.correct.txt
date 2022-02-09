@@ -216,7 +216,7 @@ Mikkel Per Sara mielde heargelihtuid ja bálgesiid ovttastumi oktasaš čoakkám
 
 – Norgalaččat leat gal čájehan beroštumi doarjut ekonomalaččat {heargegilvohallamiid}${conc,lv-lvv|heargegilvvohallamiid}, muhto dat ii leat gal dán dilis vejolaš, muitala Ollila.
 
-LK ságat ii darvehan ságaide gilvoválljogotti ságadoalli Mauri Lakela, iige bargojoavkku jođiheaddji Jukka Knuuti.
+LK ságat {ii}£{verb,kongr|eai} darvehan ságaide gilvoválljogotti ságadoalli Mauri Lakela, iige bargojoavkku jođiheaddji Jukka Knuuti.
 
 
 
@@ -1383,7 +1383,7 @@ Mun boađán dáppe Guovdageainnus, mu namma lea Nils Aslak Skum. Mun boađán r
 
 Muhto dás mun áiggun álggus dadjat juoidá dasa maid dat Lásse [Lars Haltbrekken (doaim.)] humai. Son humai daid luottaid birra lulde, dakkár {"}‰{cit|”}skogsveier{"}‰{cit|”}. Doppe leat vaikko man ollu dakkárat, doppe sáhttá vuodjit daid luottaid mielde, ja bivdit ja vaikko maid. Mun lean ieš leamaš lulde ja oaidnán. Doppe ii dárbbaš sierra vuojána, doppe beassá vuodjit daid luottaid ráige biillain.
 
-Ja de namuhii muorračuohppama. Muhtin lohket ahte lea unnán muorat, eará ahte lea šaddan. Dáppe lea nu ollu šaddan muoraid ahte ii báljo beasa daid čađa. Muhto olbmot eai beasa váldit muoraid ja de bidjan vel hatti dasa, galgá máksit. Dat ii leat vel mu mielas dohkkehahtti, de olbmot lohket ahte baicce vižžet muoraid doppe Suoma bealde. Álggos ferte oastit muoraid ja de ieš čuollat ja fievrridit daid ruoktot.
+Ja de namuhii muorračuohppama. Muhtin lohket ahte {lea}£{verb,kongr|leat} unnán muorat, eará ahte lea šaddan. Dáppe lea nu ollu šaddan muoraid ahte ii báljo beasa daid čađa. Muhto olbmot eai beasa váldit muoraid ja de bidjan vel hatti dasa, galgá máksit. Dat ii leat vel mu mielas dohkkehahtti, de olbmot lohket ahte baicce vižžet muoraid doppe Suoma bealde. Álggos ferte oastit muoraid ja de ieš čuollat ja fievrridit daid ruoktot.
 
 
 
@@ -1407,7 +1407,7 @@ Nu movt odne lea dilli, de lea báikeolmmoš juogalágan bahádahkki go meahccá
 
 Sis-Finnmárkkus leat eanaš olbmot bajásšaddadettiin oahpahuvvon meahci vánddardit. Servodat ii sáhte gáibidit ja vuordit ahte fáhkkestaga dan galget heaitit bargamis dan dihte go vuhtto ahte dan barget. Servodat sáhttá láhčet dili nu ahte billisteapmi ii leava viidábut go daidda váldogeainnuide gokko olbmot álo leat vánddardan. Dan sáhttá maid divodit daid luottaid, dat ii leat nu váttis ja dat seasttašii ollu luonddu.
 
-Nu movt earenoamážit Sámis lea, gos meahcci geavahuvvo {biebmo-háhkamii}${cmp,hyph-0|biebmoháhkamii} ja ávnnasteapmái, de ii sáhte servvodat vuordit ahte bivdovuohki ja vánddardeapmi galgá {dáhpahuvvat}${vowlat,a-á|dáhpáhuvvat} vácci, heastaskearruin dahje herggiin. Eai mis leat šat dat. Dáppe {guovllo}${vowlat,o-u|guovllu} olbmot maid čuovvot servodaga nu go muđui máilbmi. {Heastaskearro-bálgát}${cmp,hyph-0|Heastaskearrobálgát} leat dal rievdan 4-juvllat luoddan, muhto dat márahagat leat álo vuhtton. Daid sáhttá ovdamearkka dihte divodit vai eai leava viidábut.
+Nu movt earenoamážit Sámis lea, gos meahcci geavahuvvo {biebmo-háhkamii}${cmp,hyph-0|biebmoháhkamii} ja ávnnasteapmái, de ii sáhte servvodat vuordit ahte bivdovuohki ja vánddardeapmi galgá {dáhpahuvvat}${vowlat,a-á|dáhpáhuvvat} vácci, heastaskearruin dahje herggiin. Eai mis leat šat dat. Dáppe {guovllo}${vowlat,o-u|guovllu} olbmot maid {čuovvot}£{verb,kongr|čuvvot} servodaga nu go muđui máilbmi. {Heastaskearro-bálgát}${cmp,hyph-0|Heastaskearrobálgát} leat dal rievdan 4-juvllat luoddan, muhto dat márahagat leat álo vuhtton. Daid sáhttá ovdamearkka dihte divodit vai eai leava viidábut.
 
 Mis lei ovdal {traktor}${loan,vowc,a-á|tráktor}, dat čuovui seamma luotta, dat eai leavvan, dat lei buoremus fievru mii dáppe lei, muhto de bohte dat 4-juvllagat.
 
@@ -1596,7 +1596,7 @@ Olgeža {stuorradigge áirras}¥{cmp,2-1|stuorradiggeáirras} Frank Bakke-Jensen
 
 - Sii leat addán molssaevttolaš {bušeahtta árvalusa}¥{cmp,2-1|bušeahttaárvalusa}, das sii eai dárbbaš nannet juolludemiid sámi doaimmaide dan ektui, maid ráđđehus lea bidjan {stáhtabušeahtta árvalussii}¥{cmp,2-1|stáhtabušeahttaárvalussii}. Nu čuvvot sii dan, maid ráđđehus lea evttohan juolludit sámi doaimmaide, lohká Bakke-Jensen.
 
-Dál figgá Helga Pedersen dušše dagahit digaštallama Olgeža ja ovddádusbellodaga gaskii ja diet lea dušše válgagičču ságat, dan sii gal dovdet juo ovddežis, dadjá Bakke-Jensen
+Dál figgá Helga Pedersen dušše dagahit digaštallama Olgeža ja ovddádusbellodaga gaskii ja diet {lea}£{verb,kongr|leat} dušše válgagičču ságat, dan sii gal dovdet juo ovddežis, dadjá Bakke-Jensen
 
 
 
@@ -2061,7 +2061,7 @@ Ann-Mari Andersen muitala ođđa CD:s mii smávva mánáide lea jurddašuvvon.
 
 Ann-Mari Andersen lea leamaš prošeaktajođiheaddji mánáid-CD buvttadeamis, ja okta njealljásis gii lávlu CD:s mas leat máŋgga {lagan}${vowc,a-á|lágan} lávlagat. Oktiibuot 25 šuoŋa. Dát lea smávit mánáide ráhkaduvvon, danne leat dás lávlagat maidda mánát sáhttet doaškkut gieđaid, ja {maiddai}${vowlat,a-á|maiddái} leat das lávlagat maidda mánát sáhttet lihkadit go gullet lávlagiid.
 
-Sámediggi ruhtadan {CD`almmuheami}${cmp,punct-hyph|CD-almmuheami}
+Sámediggi {ruhtadan}£{verb,kongr|ruhtada} {CD`almmuheami}${cmp,punct-hyph|CD-almmuheami}
 Ann-Mari Andersen muitala IKO-lágádusa ovttasráđiid Sámi girkoráđiin almmuhan {CDa}${acro,suf|CD}, ja Sámediggi lea dorjon almmuheami.
 
 
@@ -2463,7 +2463,7 @@ Boazohattit ja njuovvandeattut leat njiedjan, boahtá ovdan maŋimuš obbalaš b
 
 Boazodoalu Ekonomalaš lávdegoddi buktá ovdán mo obbalaš boazodoalu rehketdoallu lea.
 
-- Dás oidno, ahte biergohattit leat njiedjan maŋimuš golmma jagis, dasa lassin lea maid njuovvandeattut unnon, vaikko miessedeattu lea buorránan maŋimuš {viđá}${vowlat,á-a|viđa} jagis, de ráves bohccot leat gehppon. Dadjá Norgga eanandoallodutkan {instituhtta}${loan,conc,htt-ht|instituhta} ossodatdirektevra ja lávdegotti jođiheaddji, Lars Johan Rustad.
+- Dás oidno, ahte biergohattit leat njiedjan maŋimuš golmma jagis, dasa lassin {lea}£{verb,kongr|leat} maid njuovvandeattut unnon, vaikko miessedeattu lea buorránan maŋimuš {viđá}${vowlat,á-a|viđa} jagis, de ráves bohccot leat gehppon. Dadjá Norgga eanandoallodutkan {instituhtta}${loan,conc,htt-ht|instituhta} ossodatdirektevra ja lávdegotti jođiheaddji, Lars Johan Rustad.
 
 Rahčet gánnáhahttivuođain
 
@@ -2566,7 +2566,7 @@ Fierpmádat olles Sámis
 
 Saari lohká ahte son áinnas oaidná ovttasbarggu riikkarájáid rastá danne go olbmuin leat fuolkkit miehtá Sámi ja dalle eai leat ráját nu {dehálačča}${adj,fin,0-t|dehálaččat}.
 
-Saaris lea alddis fuolkkit {Suomabealde}${cmp,1-2|Suoma bealde} geaiguin lea bajásšaddan ovttas, mii lea riggodahttán su eallima mánnávuođa rájes.
+Saaris {lea}£{verb,kongr|leat} alddis fuolkkit {Suomabealde}${cmp,1-2|Suoma bealde} geaiguin lea bajásšaddan ovttas, mii lea riggodahttán su eallima mánnávuođa rájes.
 
 Váillahit oktavuođa vuorrasiiguin
 
@@ -3089,7 +3089,7 @@ NSR oaivvilda ahte sámi kulturmuitohálddašeapmi ferte árvvoštallojuvvot. Ah
 
 Almmuhuvvon: 17.04.2012
 
-- Mii oaivvildat ahte kulturmuitohálddašeapmi ferte guorahallojuvvot, dadjá Rolf Johansen, sámediggeáirras {Ivggus}${prop,conc,vgg-vg|Ivgus} eret. - NSR oaidná dehálažžan ahte sámi kulturmuittut lea suddjejuvvon nu oanehis áiggi maŋŋá go 100 jagi.{  }‰{singlespace| }Sámi kultuvra ii leat guođđán nu stuorra luottaid lundui ja servodahkii, ja galgá váldit vara dan veaháš mii gávdno.{  }‰{singlespace| }Muhto boahtteáiggis lea hástalus, dadjá Rolf, ja čilge: - Jus otná njuolggadusat, mas buot mii lea sámi ja badjel 100 jagi automáhtalaččat suddjejuvvo, maiddá doibmet boahtteáiggis, de sáhttit mii ovdamearkka dihte oažžut stuorra hástalusaid ođđaáiggi eanandoalureaidduid ja skohteriid ektui.{  }‰{singlespace| }- Danne fertet mii oažžut čielggadeami njuolggadusain dan ektui ahte maid {hálidat}${conm,d-id|háliidat} suddjet, dadjá son.
+- Mii oaivvildat ahte kulturmuitohálddašeapmi ferte guorahallojuvvot, dadjá Rolf Johansen, sámediggeáirras {Ivggus}${prop,conc,vgg-vg|Ivgus} eret. - NSR oaidná dehálažžan ahte sámi kulturmuittut {lea}£{verb,kongr|leat} suddjejuvvon nu oanehis áiggi maŋŋá go 100 jagi.{  }‰{singlespace| }Sámi kultuvra ii leat guođđán nu stuorra luottaid lundui ja servodahkii, ja galgá váldit vara dan veaháš mii gávdno.{  }‰{singlespace| }Muhto boahtteáiggis lea hástalus, dadjá Rolf, ja čilge: - Jus otná njuolggadusat, mas buot mii lea sámi ja badjel 100 jagi automáhtalaččat suddjejuvvo, maiddá doibmet boahtteáiggis, de sáhttit mii ovdamearkka dihte oažžut stuorra hástalusaid ođđaáiggi eanandoalureaidduid ja skohteriid ektui.{  }‰{singlespace| }- Danne fertet mii oažžut čielggadeami njuolggadusain dan ektui ahte maid {hálidat}${conm,d-id|háliidat} suddjet, dadjá son.
 
 Nubbi {poeŋga}${loan,vowc,diph|poeaŋga} lea ahte otná ortnegis lea ovttaskas olbmuin ovddasvástádus ruhtadit kulturmuittuid iskkademiid ja registreremiid huksenprošeavttaid oktavuođas. - Dát lea máksinprinsihppa mii duohtavuođas mearkkaša ahte oktasaš kulturárbi máksojuvvo olbmuid priváhta burssas, čilge Johansen. NSR ballá ahte dát áiggi mielde sáhttá heajosmahttit dehálaš kulturmuittuid registrerema ja áimmahuššama. - Lea go álbmot ovttaoaivilis dáinna ortnegiin, vai sáhttá go nu geavvat ahte olbmot válljejit ahte eai atte dieđuid suddjejuvvon kulturmuittuid birra go dat dagaha váttisvuođaid, ja njulgestaga olggosgoluid guovlluid, visttiid ja dávviriid geavaheami hárrái, imaštallá Rolf Johansen.
 
@@ -3719,7 +3719,7 @@ SNF ásahuvvui de fierpmádahkan 1993, ja šattai oppasámi {organisašuvnan}${l
 
 2010 rájes lea SNF gohčodan iežas maiddái njealji riikka sámenissoniid gelbbolašvuođa- ja resursaguovddážin. Dát lea danne go SNF doaibmá juo danin, muhto ain eanaš idealisttalaš vuođu alde, go eai leat bistevaš doaibmaruđat nu go eará sámi guovddážiin ja ásahusain.
 
-SNF oažžu jahkásaš organisašundoarjaga Norgga Sámedikkis. Dát {jahkesaš}${der,vowlat,e-á|jahkásaš} ohcanviđa ruhtadoarjja lea laskan bás lávkkážiiguin ain hávil, gitta 145 000 ruvdnui jagis 2009 ja 151 000 ru. rádjai jagis 2010. Das go Norgga {Sáráhkka}${prop,vowlat,a-á|Sáráhkká} jagis 2011 ii ohcan dásseárvoorganisašuvnnaid {vástesaš}${conm,s-v|vástevaš} ruhtaseahkas, de várrejuvvon ruhta 300 000 ru. juolluduvvui ollásit {SNF:ii}${acro,suf|SNF:i}. 2012 organisašundoarjja lea de fas {uhccun}${vowlat,u-o|uhccon}, 188 000 ruvdnui. SNF:s lea jahkásaš golut lágidit stivračoahkkimiid ja jahkečoahkkima, ja muđui organisašungoluide, mat leat de áibbas vuolimus dásis doallat oppasámi organisašuvnna – ja resursaguovddáža – heakkas. Stivračoahkkimat leat okta jahkái, dahje diehtojuohkin ja digaštallamat {telefuvnna}${loan,vowc,u-o|telefovnna} ja {epoastta}${loan,cmp,0-hyph|e-poastta} bokte. 2012 jahkečoahkkin Anáris čohkkii nissonolbmuid njealji riikkas ja dulkojuvvui njealji giela gaskka; davvisáme-, suoma-, dáro-/ruoŧa- ja ruoššagiela.
+SNF oažžu jahkásaš organisašundoarjaga Norgga Sámedikkis. Dát {jahkesaš}${der,vowlat,e-á|jahkásaš} ohcanviđa ruhtadoarjja lea laskan bás lávkkážiiguin ain hávil, gitta 145 000 ruvdnui jagis 2009 ja 151 000 ru. rádjai jagis 2010. Das go Norgga {Sáráhkka}${prop,vowlat,a-á|Sáráhkká} jagis 2011 ii ohcan dásseárvoorganisašuvnnaid {vástesaš}${conm,s-v|vástevaš} ruhtaseahkas, de várrejuvvon ruhta 300 000 ru. juolluduvvui ollásit {SNF:ii}${acro,suf|SNF:i}. 2012 organisašundoarjja lea de fas {uhccun}${vowlat,u-o|uhccon}, 188 000 ruvdnui. SNF:s {lea}£{verb,kongr|leat} jahkásaš golut lágidit stivračoahkkimiid ja jahkečoahkkima, ja muđui organisašungoluide, mat leat de áibbas vuolimus dásis doallat oppasámi organisašuvnna – ja resursaguovddáža – heakkas. Stivračoahkkimat leat okta jahkái, dahje diehtojuohkin ja digaštallamat {telefuvnna}${loan,vowc,u-o|telefovnna} ja {epoastta}${loan,cmp,0-hyph|e-poastta} bokte. 2012 jahkečoahkkin Anáris čohkkii nissonolbmuid njealji riikkas ja dulkojuvvui njealji giela gaskka; davvisáme-, suoma-, dáro-/ruoŧa- ja ruoššagiela.
 
 SNF giitá go Norgga Sámediggi ja Sámi {parlamentarálaš}${loan,vowc,a-á;vowlat,á-a|parlamentáralaš} ráđđi geigii dán jagáš dásseárvobálkkašumi {SNF:ii}${acro,suf|SNF:i}. Atnit árvvolažžan oažžut rámi iežamet olbmuin. Dalle šattai min barguge eanet oainnusin, omd. ahte mii buktit beaivečuvgii tabuáššiid nu go seksuála givssideami, veahkaválddi ja jugešvuođa. Nanosmahttin dihtii {barggumet}${px,conc,rgg-rg;vowlat,u-o|bargomet}, de lea SNF jahkásaččat ohcan 500 000 ru. organisašun- ja doaibmadoarjaga. Dakkár vuođđodoarjja sihkkarasttášii ahte SNF organisašun- ja prošeaktabarggus lea nana sajádat ja geađgejuolgi, mii de livččii lieđđudit lasi doaibmabijuid ja ovdáneami. Sierra prošeaktaruhta dásseárvoulbmiliidda lea dađi bahábut heaittihuvvon Sámedikkis 2009:s – dušše ruhta sámi nissonáigečállagii Gába, mii álgoálggus lei dásseárvoprošeakta, lea doalahuvvon. SNF sávvá ahte dát ruhtadoarjja davviguovlluid áidna nissonbláđđái joatkašuvvo. Gába lea maiddái dehálaš sámegiela ovddideaddjin go lassin dárogillii čállá sihke davvi-, julev- ja máttasámegillii. Gába gal ealáska ja eallá, jos čiehkageađggit ja geađgejuolgi leat sajis.
 
@@ -3748,7 +3748,7 @@ Duorastaga 1.11. {Sámeradio}${loan,vowc,a-á|Sámerádio} ođđasiin jearahalle
 
 Ii lean leamaš mangelágan ságastallan leago oppanassiige riekta dahje jierpmálaš, dahje makkár eavttuid mii háliidit bidjat šiehtadussii, vástidii dalá rektor. Ledjen vel eanet hirpmástuvvan ja imaštallen, livččiigo dakkár šiehtadusaid vuolláičállin almma almmolaš ságastallama haga ásahusas vejolaš gostige eará {sájis}${vowlat,á-a|sajis} eamiálbmotmáilmmis? Ii goit daid guovlluin, maiguin ieža ledjen oahpis, ja eahpidin sakka eará sajisge. Oljofitnodagat leat nu ollu buktán buotlágan baháid eamiálbmogiid gaskii. Jurddašin Uwa-álbmoga Colombias ja Occidental Petroleum oljobohkamiid sin guovllus. Logi jagi dassái sin dilli lei nu vearrái, ahte álbmot uhkidii joavkoiešsoardimiin jos Occidental Petroleum ii {šluhte}${conc,ht-htt|šluhtte} bohkanáigumušain. Jurddašin maiddái Lubicon Cree seamma Alberta-provinssas Kanadas, geat leat 1980-logu rájes dáistalan Shell vuostá iežaset eatnamiin. Naba Shell doaimmat Ogoni-álbmoga eatnamiin Nigerias? Gii muitá Ken Saro-Wiwa rohki ja manne son goddojuvvui?
 
-Ja mii dušše čálistit vuollái šiehtadusa guorahalakeahttá ja ságastalakeahttá min dahje Statoil áigumušain dahje šiehtadusa čuovvumušain. Leagoson vuot sáhka das, mo mii sámit luhttet dasa ahte eiseválddit ({ }‰{notspace|}ja {maidái}${conc,id-idd|maiddái} stáhta fitnodagat{ }‰{notspace|}) gal jurddašit sámiid buori ja doibmet dušše {buorredahtolašvuođain}${vowc,a-á|buorredáhtolašvuođain} sámiid ektui? Vai {jáhkiigo}£{jáhkkego} Sámi allaskuvlla jođiheaddjit duođaid ráđđeaddi {rollai}${loan,ill,vowlat,ai-ii|rollii} {eamiálbmotáššiiguin}£{eamiálbmotáššiin}?
+Ja mii dušše čálistit vuollái šiehtadusa guorahalakeahttá ja ságastalakeahttá min dahje Statoil áigumušain dahje šiehtadusa čuovvumušain. Leagoson vuot sáhka das, mo mii sámit {luhttet}£{verb,kongr|luohttit} dasa ahte eiseválddit ({ }‰{notspace|}ja {maidái}${conc,id-idd|maiddái} stáhta fitnodagat{ }‰{notspace|}) gal jurddašit sámiid buori ja doibmet dušše {buorredahtolašvuođain}${vowc,a-á|buorredáhtolašvuođain} sámiid ektui? Vai {jáhkiigo}£{jáhkkego} Sámi allaskuvlla jođiheaddjit duođaid ráđđeaddi {rollai}${loan,ill,vowlat,ai-ii|rollii} {eamiálbmotáššiiguin}£{eamiálbmotáššiin}?
 
 Lean ain {vuorddášeamen}${vowlat,á-a|vuorddašeamen} ságastallama gáffe- dahje borranbottus Statoila ja allaskuvlla gaskavuođain, badjelaš jahkebeali maŋŋá. Ieš goit in leat vel oassálastán dákkár ságastallamii, mii muhtumin gal bidjá jurddašit ahte mo sámi akademalaš ásahus sáhttá leat nu jaskat áigeguovdilis áššiid birra, maiddái gaskaneaset. Gii dat buktá dákkár dehálaš, áigeguovdilis, buolli áššiid ja gažaldagaid ovdan jos mii eat dan daga?
 
