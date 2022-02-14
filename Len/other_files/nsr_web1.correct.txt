@@ -107,7 +107,7 @@ Sámedikkis ii leat ollislašfápmu šiehtadallat eret historjjálaš rivttiid g
 
 Šiehtadus ii leat álbmotrivttiid unnimusstandárda siskkobealde.
 
-{Fátmmastit šiehtadussii}£{case,ill-acc|Fátmmastit šiehtadusa} {sáhttá atnot sámi {vuoigatvuođaeaiggadiid}${vowlat,a-á|vuoigatvuođaeaiggádiid} vuosttá}¢{conc,tn-dn|sáhttá adnot sámi vuoigatvuođaeaiggádiid vuosttá}¢{conc,stt-st|sáhttá adnot sámi vuoigatvuođaeaiggádiid vuostá}, ja eará álgoálbmogiid sullasaš vuoigatvuođaiguin boahttevaš riekteproseassain.
+Fátmmastit {šiehtadussii}£{case,ill-acc|šiehtadusa} sáhttá {atnot}¢{conc,tn-dn|adnot} sámi {vuoigatvuođaeaiggadiid}${vowlat,a-á|vuoigatvuođaeaiggádiid} {vuosttá}¢{conc,stt-st|vuostá}, ja eará álgoálbmogiid sullasaš vuoigatvuođaiguin boahttevaš riekteproseassain.
 
 Vejolaš doaimmaid {nannendihte}${cmp,1-2|nannen dihte} dili mearrasámi guovlluin sáhttá {dahkkát}¢{conc,hkk-hk;vowlat,á-a|dahkat} vaikko eai šatta láhkarievdadusat
 NSR oaidná ahte dát vuođđudusat {čuččot}¢{conc,čč-žž|čužžot} ain. NSR šálloša garrasit go {vánis}£{infl,nom-attr|vátna} eanetlohku Sámedikkis mearridii šiehtadusa. (Dál go proposišuvdna lea gárvvis ollislaččat berre leat vuođđu váldit ášši fas bajás Sámedikkis ođđa meannudeapmái.) NSR šálloša maid go presideanta Egil Olli šiehtadusa máidnu, iige namutge buot daid várrehusaid maid {vánis}£{infl,nom-attr|vátna} eanetlohku bijai šiehtadussii.

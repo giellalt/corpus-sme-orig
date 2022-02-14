@@ -38,4 +38,4 @@ Mikkel Per Sara mielde heargelihtuid ja bálgesiid ovttastumi oktasaš čoakkám
 
 – Norgalaččat leat gal čájehan beroštumi doarjut ekonomalaččat {heargegilvohallamiid}${conc,lv-lvv|heargegilvvohallamiid}, muhto dat ii leat gal dán dilis vejolaš, muitala Ollila.
 
-LK ságat ii darvehan ságaide gilvoválljogotti ságadoalli Mauri Lakela, iige bargojoavkku jođiheaddji Jukka Knuuti.
+LK ságat {ii}£{verb,kongr|eai} darvehan ságaide gilvoválljogotti ságadoalli Mauri Lakela, iige bargojoavkku jođiheaddji Jukka Knuuti.
