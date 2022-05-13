@@ -37,7 +37,7 @@
     <xsl:variable name="author2_fn" select="'Anni'"/>
     <xsl:variable name="author2_ln" select="'Näkkäläjärvi'"/>
     <xsl:variable name="author2_gender" select="'f'"/>
-    <xsl:variable name="author2_nat" select="''"/>
+    <xsl:variable name="author2_nat" select="'FI'"/>
     <xsl:variable name="author2_born" select="''"/>
 
     <!--
