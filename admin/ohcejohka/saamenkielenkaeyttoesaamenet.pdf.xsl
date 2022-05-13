@@ -21,7 +21,7 @@
     <xsl:variable name="author1_fn" select="'Anne'"/>
     <xsl:variable name="author1_ln" select="'Länsman'"/>
     <!-- m, f or unknown -->
-    <xsl:variable name="author1_gender" select="'unknown'"/>
+    <xsl:variable name="author1_gender" select="'f'"/>
     <!--
         The country where the author is from. It should be written as
         an ISO_3166-1 code.
@@ -36,7 +36,7 @@
     -->
     <xsl:variable name="author2_fn" select="'Saara'"/>
     <xsl:variable name="author2_ln" select="'Tervaniemi'"/>
-    <xsl:variable name="author2_gender" select="'unknown'"/>
+    <xsl:variable name="author2_gender" select="'f'"/>
     <xsl:variable name="author2_nat" select="''"/>
     <xsl:variable name="author2_born" select="''"/>
 
