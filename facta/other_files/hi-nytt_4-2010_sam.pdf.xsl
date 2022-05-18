@@ -27,7 +27,7 @@
         an ISO_3166-1 code.
         https://no.wikipedia.org/wiki/ISO_3166-1
     -->
-    <xsl:variable name="author1_nat" select="''"/>
+    <xsl:variable name="author1_nat" select="'NO'"/>
     <!-- Either YYYY or YYYYMMDD. Examples: 1954 or 19451224 -->
     <xsl:variable name="author1_born" select="''"/>
     <!--
@@ -37,7 +37,7 @@
     <xsl:variable name="author2_fn" select="'Hans Kristian'"/>
     <xsl:variable name="author2_ln" select="'Strand'"/>
     <xsl:variable name="author2_gender" select="'m'"/>
-    <xsl:variable name="author2_nat" select="''"/>
+    <xsl:variable name="author2_nat" select="'NO'"/>
     <xsl:variable name="author2_born" select="''"/>
 
     <!--
@@ -47,7 +47,7 @@
     <xsl:variable name="author3_fn" select="'Frithjof'"/>
     <xsl:variable name="author3_ln" select="'Moy'"/>
     <xsl:variable name="author3_gender" select="'m'"/>
-    <xsl:variable name="author3_nat" select="''"/>
+    <xsl:variable name="author3_nat" select="'NO'"/>
     <xsl:variable name="author3_born" select="''"/>
 
     <!--
@@ -67,7 +67,7 @@
     <xsl:variable name="author5_fn" select="'Hartvig'"/>
     <xsl:variable name="author5_ln" select="'Christie'"/>
     <xsl:variable name="author5_gender" select="'m'"/>
-    <xsl:variable name="author5_nat" select="''"/>
+    <xsl:variable name="author5_nat" select="'NO'"/>
     <xsl:variable name="author5_born" select="''"/>
 
     <xsl:variable name="publisher" select="'Havforskningsinstituttet'"/>

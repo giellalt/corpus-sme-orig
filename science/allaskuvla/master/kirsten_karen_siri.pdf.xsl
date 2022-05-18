@@ -13,8 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://samas.brage.unit.no/samas-xmlui/bitstream/handle/11250/2650358/Kirsten%20Karen%20M.%20N.%20Siri%20-%20D%C3%A1ppe%20ellet%20gielat%20b%C3%A1lddalaga_Giellaoahpahus%20gaskad%C3%A1sis%20gos%20majoritehtagiella%20lea%20s%C3%A1megiella%20ja%20minoritehtagiella%20d%C3%A1rogiella.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'“Dáppe ellet gielat bálddalaga”. Giellaoahpahus gaskadásis gos majoritehtagiella lea
-sámegiella ja minoritehtagiella dárogiella'"/>
+    <xsl:variable name="title" select="'“Dáppe ellet gielat bálddalaga”. Giellaoahpahus gaskadásis gos majoritehtagiella lea sámegiella ja minoritehtagiella dárogiella'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

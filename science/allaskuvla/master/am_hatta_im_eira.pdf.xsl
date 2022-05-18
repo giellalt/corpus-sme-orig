@@ -13,8 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://samas.brage.unit.no/samas-xmlui/bitstream/handle/11250/2688888/Anna%20Margrethe%20B.%20Hætta%20ja%20Inger%20Marlene%20Eira%20-%20Diiddaid%20ja%20sátnevádjasiid%20geavaheapmi%20buolvvas%20bulvii.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Diiddaid ja sátnevádjasiid geavaheapmi buolvvas bulvii. 
-Muittuhussan mánáide, nuoraide ja rávisolbmuide. Sámegiela didaktihka masterbargu'"/>
+    <xsl:variable name="title" select="'Diiddaid ja sátnevádjasiid geavaheapmi buolvvas bulvii.  Muittuhussan mánáide, nuoraide ja rávisolbmuide. Sámegiela didaktihka masterbargu'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

@@ -27,7 +27,7 @@
         an ISO_3166-1 code.
         https://no.wikipedia.org/wiki/ISO_3166-1
     -->
-    <xsl:variable name="author1_nat" select="'nor'"/>
+    <xsl:variable name="author1_nat" select="'NO'"/>
     <!-- Either YYYY or YYYYMMDD. Examples: 1954 or 19451224 -->
     <xsl:variable name="author1_born" select="''"/>
     <!--
@@ -37,8 +37,8 @@
     <xsl:variable name="author2_fn" select="'Hege'"/>
     <xsl:variable name="author2_ln" select="'Fjellheim Sarre'"/>
     <xsl:variable name="author2_gender" select="'f'"/>
-    <xsl:variable name="author2_nat" select="'nor'"/>
-    <xsl:variable name="author2_born" select="''"/>
+    <xsl:variable name="author2_nat" select="'NO'"/>
+    <xsl:variable name="author2_born" select="'1962'"/>
 
     <!--
         Information of the third author: first name, last name,
