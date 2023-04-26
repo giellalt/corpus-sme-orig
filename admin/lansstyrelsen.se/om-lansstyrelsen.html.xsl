@@ -176,12 +176,12 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="om-lansstyrelsen.html"/>
-    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmu"/>
-<parallel_text location="om-lansstyrelsen.html" xml:lang="rmy-rka"/>
-<parallel_text location="om-lansstyrelsen.html" xml:lang="yid"/>
-<parallel_text location="om-lansstyrelsen.html" xml:lang="rmy-rlo"/>
-<parallel_text location="om-lansstyrelsen.html" xml:lang="rmf"/>
-<parallel_text location="om-lansstyrelsen.html" xml:lang="rmn"/>
+    <parallel_text xml:lang="rmu" location="om-lansstyrelsen.html"/>
+<parallel_text xml:lang="rmy-rka" location="om-lansstyrelsen.html"/>
+<parallel_text xml:lang="yid" location="om-lansstyrelsen.html"/>
+<parallel_text xml:lang="rmy-rlo" location="om-lansstyrelsen.html"/>
+<parallel_text xml:lang="rmf" location="om-lansstyrelsen.html"/>
+<parallel_text xml:lang="rmn" location="om-lansstyrelsen.html"/>
 </xsl:variable>
 
     <!--

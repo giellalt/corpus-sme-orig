@@ -176,7 +176,7 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="rostkortsfolder_2013.pdf"/>
-    <parallel_text location="folder_kyrkoval2013_romani_kelderash.pdf" xml:lang="rmy-rka"/>
+    <parallel_text xml:lang="rmy-rka" location="folder_kyrkoval2013_romani_kelderash.pdf"/>
 </xsl:variable>
 
     <!--

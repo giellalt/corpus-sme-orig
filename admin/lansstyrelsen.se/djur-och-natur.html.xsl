@@ -176,12 +176,12 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="djur-och-natur.html"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="rmu"/>
-<parallel_text location="djur-och-natur.html" xml:lang="rmy-rka"/>
-<parallel_text location="djur-och-natur.html" xml:lang="yid"/>
-<parallel_text location="djur-och-natur.html" xml:lang="rmy-rlo"/>
-<parallel_text location="djur-och-natur.html" xml:lang="rmf"/>
-<parallel_text location="djur-och-natur.html" xml:lang="rmn"/>
+    <parallel_text xml:lang="rmu" location="djur-och-natur.html"/>
+<parallel_text xml:lang="rmy-rka" location="djur-och-natur.html"/>
+<parallel_text xml:lang="yid" location="djur-och-natur.html"/>
+<parallel_text xml:lang="rmy-rlo" location="djur-och-natur.html"/>
+<parallel_text xml:lang="rmf" location="djur-och-natur.html"/>
+<parallel_text xml:lang="rmn" location="djur-och-natur.html"/>
 </xsl:variable>
 
     <!--

@@ -141,7 +141,7 @@
     -->
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="sme"/><language xml:lang="swe"/></xsl:variable>
+    <language xml:lang="swe"/><language xml:lang="sme"/></xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
@@ -176,12 +176,12 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rka"/>
-<parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmn"/>
-<parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmu"/>
-<parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="yid"/>
-<parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rlo"/>
-<parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmf"/>
+    <parallel_text xml:lang="rmy-rka" location="vad-kostar-lakemedel-pa-recept.html"/>
+<parallel_text xml:lang="rmn" location="vad-kostar-lakemedel-pa-recept.html"/>
+<parallel_text xml:lang="rmu" location="vad-kostar-lakemedel-pa-recept.html"/>
+<parallel_text xml:lang="yid" location="vad-kostar-lakemedel-pa-recept.html"/>
+<parallel_text xml:lang="rmy-rlo" location="vad-kostar-lakemedel-pa-recept.html"/>
+<parallel_text xml:lang="rmf" location="vad-kostar-lakemedel-pa-recept.html"/>
 </xsl:variable>
 
     <!--

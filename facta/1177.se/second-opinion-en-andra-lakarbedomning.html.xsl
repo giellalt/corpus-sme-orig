@@ -141,7 +141,7 @@
     -->
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="sme"/><language xml:lang="swe"/></xsl:variable>
+    <language xml:lang="swe"/><language xml:lang="sme"/></xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
@@ -176,12 +176,12 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="second-opinion-en-andra-lakarbedomning.html"/>
-    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmy-rka"/>
-<parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmn"/>
-<parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmu"/>
-<parallel_text location="second-opinion-en-andra-lakerbedomning.html" xml:lang="yid"/>
-<parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmy-rlo"/>
-<parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmf"/>
+    <parallel_text xml:lang="rmy-rka" location="second-opinion-en-andra-lakarbedomning.html"/>
+<parallel_text xml:lang="rmn" location="second-opinion-en-andra-lakarbedomning.html"/>
+<parallel_text xml:lang="rmu" location="second-opinion-en-andra-lakarbedomning.html"/>
+<parallel_text xml:lang="yid" location="second-opinion-en-andra-lakerbedomning.html"/>
+<parallel_text xml:lang="rmy-rlo" location="second-opinion-en-andra-lakarbedomning.html"/>
+<parallel_text xml:lang="rmf" location="second-opinion-en-andra-lakarbedomning.html"/>
 </xsl:variable>
 
     <!--

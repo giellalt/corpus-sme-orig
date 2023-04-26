@@ -141,7 +141,7 @@
     -->
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="nob"/><language xml:lang="sme"/></xsl:variable>
+    <language xml:lang="sme"/><language xml:lang="nob"/></xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
@@ -176,15 +176,15 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
-    <parallel_text location="ppt_arabisk_faktaark.pdf" xml:lang="ara"/>
-<parallel_text location="ppt_persisk_faktaark.pdf" xml:lang="fas"/>
-<parallel_text location="ppt_vietnamesisk_faktaark.pdf" xml:lang="vie"/>
-<parallel_text location="ppt_sorani_faktaark.pdf" xml:lang="ckb"/>
-<parallel_text location="ppt_urdu_faktaark.pdf" xml:lang="urd"/>
-<parallel_text location="ppt_fransk_faktaark.pdf" xml:lang="fra"/>
-<parallel_text location="ppt_somalisk_faktaark.pdf" xml:lang="som"/>
-<parallel_text location="ppt_tyrkisk_faktaark.pdf" xml:lang="tur"/>
-<parallel_text location="ppt_polsk_faktaark.pdf" xml:lang="pol"/>
+    <parallel_text xml:lang="ara" location="ppt_arabisk_faktaark.pdf"/>
+<parallel_text xml:lang="fas" location="ppt_persisk_faktaark.pdf"/>
+<parallel_text xml:lang="vie" location="ppt_vietnamesisk_faktaark.pdf"/>
+<parallel_text xml:lang="ckb" location="ppt_sorani_faktaark.pdf"/>
+<parallel_text xml:lang="urd" location="ppt_urdu_faktaark.pdf"/>
+<parallel_text xml:lang="fra" location="ppt_fransk_faktaark.pdf"/>
+<parallel_text xml:lang="som" location="ppt_somalisk_faktaark.pdf"/>
+<parallel_text xml:lang="tur" location="ppt_tyrkisk_faktaark.pdf"/>
+<parallel_text xml:lang="pol" location="ppt_polsk_faktaark.pdf"/>
 </xsl:variable>
 
     <!--

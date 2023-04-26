@@ -141,7 +141,7 @@
     -->
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="sme"/><language xml:lang="swe"/></xsl:variable>
+    <language xml:lang="swe"/><language xml:lang="sme"/></xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
@@ -176,11 +176,11 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="att-testa-sig.html"/>
-    <parallel_text location="te-rodepha-siro.html" xml:lang="rmu"/>
-<parallel_text location="te-lel-frestiba.html" xml:lang="rmf"/>
-<parallel_text location="te-probilpe-o-manu.html" xml:lang="rmy-rka"/>
-<parallel_text location="te-testulij-pe-o-manu.html" xml:lang="rmy-rlo"/>
-<parallel_text location="testiribe-korkori-pes.html" xml:lang="rmn"/>
+    <parallel_text xml:lang="rmu" location="te-rodepha-siro.html"/>
+<parallel_text xml:lang="rmf" location="te-lel-frestiba.html"/>
+<parallel_text xml:lang="rmy-rka" location="te-probilpe-o-manu.html"/>
+<parallel_text xml:lang="rmy-rlo" location="te-testulij-pe-o-manu.html"/>
+<parallel_text xml:lang="rmn" location="testiribe-korkori-pes.html"/>
 </xsl:variable>
 
     <!--

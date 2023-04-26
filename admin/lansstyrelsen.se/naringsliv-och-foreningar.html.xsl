@@ -176,12 +176,12 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="naringsliv-och-foreningar.html"/>
-    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmu"/>
-<parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rka"/>
-<parallel_text location="naringsliv-och-foreningar.html" xml:lang="yid"/>
-<parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rlo"/>
-<parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmf"/>
-<parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmn"/>
+    <parallel_text xml:lang="rmu" location="naringsliv-och-foreningar.html"/>
+<parallel_text xml:lang="rmy-rka" location="naringsliv-och-foreningar.html"/>
+<parallel_text xml:lang="yid" location="naringsliv-och-foreningar.html"/>
+<parallel_text xml:lang="rmy-rlo" location="naringsliv-och-foreningar.html"/>
+<parallel_text xml:lang="rmf" location="naringsliv-och-foreningar.html"/>
+<parallel_text xml:lang="rmn" location="naringsliv-och-foreningar.html"/>
 </xsl:variable>
 
     <!--

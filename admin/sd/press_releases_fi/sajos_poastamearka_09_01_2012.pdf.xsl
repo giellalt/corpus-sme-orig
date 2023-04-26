@@ -176,7 +176,7 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="sajos_frimarke_09_01_2012.pdf"/>
-    <parallel_text location="sajos_briefmarke_09_01_2012.pdf" xml:lang="deu"/>
+    <parallel_text xml:lang="deu" location="sajos_briefmarke_09_01_2012.pdf"/>
 </xsl:variable>
 
     <!--

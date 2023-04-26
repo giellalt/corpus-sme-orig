@@ -141,7 +141,7 @@
     -->
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="sme"/><language xml:lang="swe"/></xsl:variable>
+    <language xml:lang="swe"/><language xml:lang="sme"/></xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
@@ -176,12 +176,12 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="l1.html"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-<parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-<parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-<parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-<parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-<parallel_text location="ont-i-orat-hos-barn---egenvard.html" xml:lang="rmf"/>
+    <parallel_text xml:lang="rmy-rka" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+<parallel_text xml:lang="rmn" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+<parallel_text xml:lang="rmu" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+<parallel_text xml:lang="yid" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+<parallel_text xml:lang="rmy-rlo" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+<parallel_text xml:lang="rmf" location="ont-i-orat-hos-barn---egenvard.html"/>
 </xsl:variable>
 
     <!--

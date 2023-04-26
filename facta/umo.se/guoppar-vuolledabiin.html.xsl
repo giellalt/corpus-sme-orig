@@ -141,7 +141,7 @@
     -->
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="sme"/><language xml:lang="swe"/></xsl:variable>
+    <language xml:lang="swe"/><language xml:lang="sme"/></xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
@@ -176,11 +176,11 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="svamp-i-underlivet.html"/>
-    <parallel_text location="rappani-an-minshe.html" xml:lang="rmu"/>
-<parallel_text location="balanis-aro-teluni-trupos.html" xml:lang="rmf"/>
-<parallel_text location="infektacija-makar-le-purne.html" xml:lang="rmy-rka"/>
-<parallel_text location="fungus-svamp-ande-telunipe-vagina-penis.html" xml:lang="rmy-rlo"/>
-<parallel_text location="parnothavdipa.html" xml:lang="rmn"/>
+    <parallel_text xml:lang="rmu" location="rappani-an-minshe.html"/>
+<parallel_text xml:lang="rmf" location="balanis-aro-teluni-trupos.html"/>
+<parallel_text xml:lang="rmy-rka" location="infektacija-makar-le-purne.html"/>
+<parallel_text xml:lang="rmy-rlo" location="fungus-svamp-ande-telunipe-vagina-penis.html"/>
+<parallel_text xml:lang="rmn" location="parnothavdipa.html"/>
 </xsl:variable>
 
     <!--

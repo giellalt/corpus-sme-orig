@@ -176,12 +176,12 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="miljo-och-klimat.html"/>
-    <parallel_text location="miljo-och-klimat.html" xml:lang="rmu"/>
-<parallel_text location="miljo-och-klimat.html" xml:lang="rmy-rka"/>
-<parallel_text location="miljo-och-klimat.html" xml:lang="yid"/>
-<parallel_text location="miljo-och-klimat.html" xml:lang="rmy-rlo"/>
-<parallel_text location="miljo-och-klimat.html" xml:lang="rmf"/>
-<parallel_text location="miljo-och-klimat.html" xml:lang="rmn"/>
+    <parallel_text xml:lang="rmu" location="miljo-och-klimat.html"/>
+<parallel_text xml:lang="rmy-rka" location="miljo-och-klimat.html"/>
+<parallel_text xml:lang="yid" location="miljo-och-klimat.html"/>
+<parallel_text xml:lang="rmy-rlo" location="miljo-och-klimat.html"/>
+<parallel_text xml:lang="rmf" location="miljo-och-klimat.html"/>
+<parallel_text xml:lang="rmn" location="miljo-och-klimat.html"/>
 </xsl:variable>
 
     <!--

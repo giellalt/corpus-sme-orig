@@ -176,7 +176,7 @@
         <parallel_text xml:lang="smn" location="saamelaisetinarinsame.pdf"/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
-    <parallel_text location="saamelaisetsaksa.pdf" xml:lang="deu"/>
+    <parallel_text xml:lang="deu" location="saamelaisetsaksa.pdf"/>
 </xsl:variable>
 
     <!--

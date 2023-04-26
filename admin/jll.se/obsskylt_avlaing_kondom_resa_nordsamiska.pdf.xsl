@@ -176,11 +176,11 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="obsskylt_avlaing_kondom_resa.pdf"/>
-    <parallel_text location="obsskylt_avlaing_kondom_resa_arabiska.pdf" xml:lang="ara"/>
-<parallel_text location="obsskylt_avlaing_kondom_resa_franska.pdf" xml:lang="fra"/>
-<parallel_text location="obsskylt_avlaing_kondom_resa_italienska.pdf" xml:lang="ita"/>
-<parallel_text location="obsskylt_avlaing_kondom_resa_persiska.pdf" xml:lang="fas"/>
-<parallel_text location="obsskylt_avlaing_kondom_resa_spanska.pdf" xml:lang="spa"/>
+    <parallel_text xml:lang="ara" location="obsskylt_avlaing_kondom_resa_arabiska.pdf"/>
+<parallel_text xml:lang="fra" location="obsskylt_avlaing_kondom_resa_franska.pdf"/>
+<parallel_text xml:lang="ita" location="obsskylt_avlaing_kondom_resa_italienska.pdf"/>
+<parallel_text xml:lang="fas" location="obsskylt_avlaing_kondom_resa_persiska.pdf"/>
+<parallel_text xml:lang="spa" location="obsskylt_avlaing_kondom_resa_spanska.pdf"/>
 </xsl:variable>
 
     <!--
