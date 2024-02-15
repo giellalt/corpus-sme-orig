@@ -1,0 +1,26 @@
+﻿<ldml><identity><version number="" /><generation date="0001-01-01T00:00:00Z" /><language type="se" /><territory type="SE" /></identity><layout><orientation><characterOrder>left-to-right</characterOrder></orientation></layout><characters><special xmlns:sil="urn://www.sil.org/ldml/0.1"><sil:exemplarCharacters type="diacritics">[]</sil:exemplarCharacters><sil:exemplarCharacters type="wordFormingPunctuation">[]</sil:exemplarCharacters><sil:exemplarCharacters type="footnotes">[]</sil:exemplarCharacters><sil:exemplarCharacters type="crossrefs">[]</sil:exemplarCharacters><sil:exemplarCharacters type="verseSegments">[]</sil:exemplarCharacters><sil:exemplarCharacters type="wordBreaks">[]</sil:exemplarCharacters></special></characters><collations><defaultCollation>standard</defaultCollation><collation type="standard"><cr><![CDATA[&[before 1] [first regular] < a\/A < b\/B < c\/C < d\/D < e\/E < f\/F < g\/G < h\/H < i\/I < j\/J < k\/K < l\/L < m\/M < n\/N < o\/O < p\/P < q\/Q < r\/R < s\/S < t\/T < u\/U < v\/V < w\/W < x\/X < y\/Y < z\/Z]]></cr><special xmlns:sil="urn://www.sil.org/ldml/0.1"><sil:simple><![CDATA[a/A
+b/B
+c/C
+d/D
+e/E
+f/F
+g/G
+h/H
+i/I
+j/J
+k/K
+l/L
+m/M
+n/N
+o/O
+p/P
+q/Q
+r/R
+s/S
+t/T
+u/U
+v/V
+w/W
+x/X
+y/Y
+z/Z]]></sil:simple></special></collation></collations><special xmlns:sil="urn://www.sil.org/ldml/0.1"><sil:external-resources><sil:font name="Cambria" size="1.6" /></sil:external-resources></special></ldml>
