@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/areal-klima-og-miljo/klima/?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/areala-dalkkadat-ja-biras/dalkkadat/'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Dálkkádat - Sámediggi'"/>
+    <xsl:variable name="title" select="'Dálkkádat - Sametinget'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

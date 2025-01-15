@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/lierehtimmie/learoesoejkesjh/learoesoejkesjh/nasjonale-lareplaner-pa-samisk/?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/grunnopplaring/lareplaner/lareplaner/nasjonale-lareplaner-pa-samisk/?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Našunála oahppoplánat sámegillii - Sámediggi'"/>
     <!--
@@ -185,7 +185,7 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location="nasjonale_laereplaner_pa_samisk.html"/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
+        <parallel_text xml:lang="sma" location="nasjonaale_learoesoejkesjh_saemiengielesne.html"/>
         <parallel_text xml:lang="sme" location=""/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>

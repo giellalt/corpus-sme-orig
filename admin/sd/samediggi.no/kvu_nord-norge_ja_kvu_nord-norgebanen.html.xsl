@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/saernieh/kvu-nord-norge-og-kvu-nord-norgebanen.27732.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/adasa/kvu-nord-norge-og-kvu-nord-norgebanen.27731.aspx?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'KVU Nord-Norge ja KVU Nord-Norgebanen - Sámediggi'"/>
     <!--

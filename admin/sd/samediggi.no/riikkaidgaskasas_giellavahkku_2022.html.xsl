@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/saernieh/gaskenasjonaale-saemien-gielevahkoe-2022.22462.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/aktuelt/internasjonal-samisk-sprakuke-2022.22456.aspx?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Riikkaidgaskasaš giellavahkku 2022 - Sámediggi'"/>
     <!--

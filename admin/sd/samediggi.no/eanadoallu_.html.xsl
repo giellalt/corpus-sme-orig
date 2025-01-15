@@ -183,7 +183,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="jordbruk_0_.html"/>
+        <parallel_text xml:lang="nob" location="jordbruk.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="jaartaburrie.html"/>
         <parallel_text xml:lang="sme" location=""/>

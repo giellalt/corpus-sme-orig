@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://www.samediggi.no/Samedikki-birra2/Arkiiva-aigodat-2016-2017/Samediggeraddi'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/politihkka/politihkalas-organiseren-ja-jodiheapmi/samediggeraddi/'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámediggeráđđi'"/>
+    <xsl:variable name="title" select="'Sámediggeráđđi - Sametinget'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="'2017'"/>
+    <xsl:variable name="year" select="'2021'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -183,7 +183,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="sametingsraadet.html"/>
+        <parallel_text xml:lang="nob" location="sametingsradet.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="saemiedigkieraerie.html"/>
         <parallel_text xml:lang="sme" location=""/>

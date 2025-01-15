@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/aktuelt/nordisk-konferanse-om-samisk-immateriell-kulturarv.22349.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/saernieh/konferanse-saemien-immaterijelle-kultuvreaerpien-bijre.22353.aspx?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Konferánsa sámi immateriála kulturárbbis - Sámediggi'"/>
     <!--
@@ -183,7 +183,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="nordisk_konferanse_om_samisk_immateriell_kulturarv_0_.html"/>
+        <parallel_text xml:lang="nob" location="nordisk_konferanse_om_samisk_immateriell_kulturarv.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="konferanse_saemien_immaterijelle_kultuvreaerpien_bijre.html"/>
         <parallel_text xml:lang="sme" location=""/>

@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/adasa/tilskudd-til-sorsamisk-bibeloversettelse.25227.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/saernieh/tilskudd-til-sorsamisk-bibeloversettelse.25228.aspx?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Doarjja lullisámegiela biibbaljorgaleapmái  - Sámediggi'"/>
     <!--

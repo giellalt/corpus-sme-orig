@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/adasa/prm-mija-tekno-felles-samisk-sprakteknologistrategi.22280.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/aktuelt/prm-mija-tekno-felles-samisk-sprakteknologistrategi.22279.aspx?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'PRD: Mijá tekno – oktasaš sámi giellateknologiijastrategiija - Sámediggi'"/>
     <!--

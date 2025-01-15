@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/politikk/taler-og-innlegg/minneord-ved-begravelsen-til-ellen-inga-o-hatta.25028.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/politihkka/sartnit-ja-sahkavuorut/muitosanit-ellen-inga-o-hatta-havdadeamis.25031.aspx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Muitosánit Ellen Inga O. Hætta hávdádeamis - Sámediggi'"/>
+    <xsl:variable name="title" select="'Muitosánit Ellen Inga O. Hætta hávdádeamis - Sametinget'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

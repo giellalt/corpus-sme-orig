@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/adasa/adaasadum-julevsame-manajgardde-viejega-as-oadtju-500-000-kravna-doarjjan.22294.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/oddasat/aiddo-asahuvvon-julevsami-manaidgardi-viejega-as-oazzu-590-000-ruvdnosas-doarjaga.22296.aspx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Aiddo ásahuvvon julevsámi mánáidgárdi Viejega AS oažžu 590 000 ruvdnosaš doarjaga - Sámediggi'"/>
+    <xsl:variable name="title" select="'Aiddo ásahuvvon julevsámi mánáidgárdi Viejega AS oažžu 590 000 ruvdnosaš doarjaga - Sametinget'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

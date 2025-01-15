@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/lierehtimmie/nuhteligs-vierhtieh/saemien-taalh-soptsestieh/?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/vuoddooahpahus/avkkalas-resurssat/sami-logut-muitalit/'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sámi logut muitalit - Sámediggi'"/>
+    <xsl:variable name="title" select="'Sámi logut muitalit - Sametinget'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -183,7 +183,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="samiske_tall_forteller.html"/>
+        <parallel_text xml:lang="nob" location="sami_logut_muitalit_samiske_tall_forteller.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="saemien_taalh_soptsestidh.html"/>
         <parallel_text xml:lang="sme" location=""/>

@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/saemiedigkien-garjagaetie/lohkh-munnjien-giele-voestesiereste/daah-tjielth-meatan/?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/sametingets-bibliotek/les-for-meg-sprak-fra-forste-stund/disse-deltar-i-les-for-meg/?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Dát leat searvan Loga munnje!-fálaldahkii - Sámediggi'"/>
     <!--

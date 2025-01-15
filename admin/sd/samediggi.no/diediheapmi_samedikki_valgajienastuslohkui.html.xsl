@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/politihkka/valgga/samedikke-valggajienastuslahko/tjaledibme-jienastuslahkuj/?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/politihkka/valga/samedikki-valgajienastuslohku/diediheapmi-jienastuslohkui/'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Dieđiheapmi Sámedikki válgajienastuslohkui - Sámediggi'"/>
+    <xsl:variable name="title" select="'Dieđiheapmi Sámedikki válgajienastuslohkui - Sametinget'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -185,9 +185,9 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location="innforing_i_sametingets_valgmanntall.html"/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
+        <parallel_text xml:lang="sma" location="registreereme_veeljemelahkose.html"/>
         <parallel_text xml:lang="sme" location=""/>
-        <parallel_text xml:lang="smj" location=""/>
+        <parallel_text xml:lang="smj" location="tjaledibme_jienastuslahkuj.html"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

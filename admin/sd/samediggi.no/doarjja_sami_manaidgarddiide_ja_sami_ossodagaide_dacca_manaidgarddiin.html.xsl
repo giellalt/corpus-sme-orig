@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/stipende-jih-daarjoe/daarjoe/maanagierte/saemien-maanagierth-jih-saemien-goevtesh-noorjen-maanagiertine/?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/stipeanddat-ja-doarjagat/buot-doarjjaortnegat/manaidgardi/doarjja-sami-manaidgarddiide-ja-sami-ossodagaide-dacca-manaidgarddiin/'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Doarjja sámi mánáidgárddiide ja sámi ossodagaide dáčča mánáidgárddiin - Sámediggi'"/>
+    <xsl:variable name="title" select="'Doarjja sámi mánáidgárddiide ja sámi ossodagaide dáčča mánáidgárddiin - Sametinget'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -183,7 +183,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="tilskudd_til_samiske_barnehager_og_samiske_avdelinger_i_norske_barnehager.html"/>
+        <parallel_text xml:lang="nob" location="samiske_barnehager_og_barnehager_med_samisk_avdeling.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>

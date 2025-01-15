@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://www.samediggi.no/Preassa/Preassaoktavuodat'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/saemiedigkien-bijre/preesse/preessegovlehtallijh/?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Preassaoktavuođat'"/>
+    <xsl:variable name="title" select="'Preassaoktavuođat - Sámediggi'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -183,7 +183,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="pressekontakter.html"/>
+        <parallel_text xml:lang="nob" location="mediekontakter.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="preessegovlehtallijh.html"/>
         <parallel_text xml:lang="sme" location=""/>

@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/politihkka/politihkalasj-organisierim-ja-jadedibme/same-parlamentaralasj-rade/samisk-grensehinderutvalg/?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/politikk/politisk-organisering-og-ledelse/samisk-parlamentarisk-rad-spr/samisk-grensehinderutvalg/?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Sámi rádjehehttehuslávdegoddi - Sámediggi'"/>
     <!--

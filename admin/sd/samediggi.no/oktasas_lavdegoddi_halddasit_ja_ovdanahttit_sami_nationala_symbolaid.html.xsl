@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/politihke/politihkeles-oornedimmie-jih-stuvreme/saemien-parlamentarihkeles-raerie-spr/ektie-argaane-saemien-nasjonaale-symbovlh-reerie-jih-evtede/?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/politikk/politisk-organisering-og-ledelse/samisk-parlamentarisk-rad-spr/felles-organ-for-forvaltning-og-utvikling-av-samiske-nasjonalsymboler/?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Oktasaš lávdegoddi hálddašit ja ovdánahttit sámi nationála symbolaid - Sámediggi'"/>
     <!--

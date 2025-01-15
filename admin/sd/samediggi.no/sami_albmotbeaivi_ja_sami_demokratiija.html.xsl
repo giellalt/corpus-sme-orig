@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/politihkka/hala/samenes-nasjonaldag-og-det-samiske-demokratiet.10971.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/aktuelt/samenes-nasjonaldag-og-det-samiske-demokratiet.10970.aspx?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Sámi álbmotbeaivi ja sámi demokratiija - Sámediggi'"/>
     <!--

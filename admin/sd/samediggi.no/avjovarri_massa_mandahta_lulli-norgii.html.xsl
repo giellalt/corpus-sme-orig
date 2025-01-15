@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/saernieh/avjovarri-mandaatem-aarjel-noorjese-dassa.27712.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/oddasat/avjovarri-massa-mandahta-lulli-norgii.27713.aspx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Ávjovárri massá mandáhta Lulli-Norgii - Sámediggi'"/>
+    <xsl:variable name="title" select="'Ávjovárri massá mandáhta Lulli-Norgii - Sametinget'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

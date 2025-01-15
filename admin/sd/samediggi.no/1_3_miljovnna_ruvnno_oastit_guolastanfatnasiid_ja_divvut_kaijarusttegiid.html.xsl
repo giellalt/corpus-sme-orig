@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/saernieh/1-3-millioner-kroner-til-innkjop-av-fiskefartoy-og-utbedring-av-kaianlegg.23246.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/aktuelt/1-3-millioner-kroner-til-innkjop-av-fiskefartoy-og-utbedring-av-kaianlegg.23244.aspx?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'1,3 miljovnna ruvnno oastit guolástanfatnasiid ja divvut káijarusttegiid - Sámediggi'"/>
     <!--

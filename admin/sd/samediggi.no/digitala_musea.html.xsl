@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/kulturmuito-ja-vistesuodjalus/avkkalas-resurssat/digitala-musea/'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/kulturminne-og-bygningsvern/nyttige-ressurser/digitalt-museum/?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Digitála musea - Sametinget'"/>
+    <xsl:variable name="title" select="'Digitála musea - Sámediggi'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

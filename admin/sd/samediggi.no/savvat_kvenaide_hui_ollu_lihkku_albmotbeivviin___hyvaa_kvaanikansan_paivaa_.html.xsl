@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/aktuelt/gratulerer-med-kvenfolkets-dag-hyvaa-kvaanikansan-paivaa.25206.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/oddasat/savvat-kvenaide-hui-ollu-lihkku-albmotbeivviin-hyvaa-kvaanikansan-paivaa.25209.aspx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sávvat kvenaide hui ollu lihkku álbmotbeivviin! / Hyvää kväänikansan päivää!   - Sámediggi'"/>
+    <xsl:variable name="title" select="'Sávvat kvenaide hui ollu lihkku álbmotbeivviin! / Hyvää kväänikansan päivää!   - Sametinget'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

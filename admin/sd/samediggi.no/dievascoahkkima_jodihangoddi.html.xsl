@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/politihke/politihkeles-oornedimmie-jih-stuvreme/stoerretjaangkoestavroe/?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/politikk/politisk-organisering-og-ledelse/plenumsledelsen/?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Dievasčoahkkima jođihangoddi - Sámediggi'"/>
     <!--
@@ -183,7 +183,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="plenumsledelsen_0_.html"/>
+        <parallel_text xml:lang="nob" location="plenumsledelsen.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="stoerretjaangkoestavroe.html"/>
         <parallel_text xml:lang="sme" location=""/>

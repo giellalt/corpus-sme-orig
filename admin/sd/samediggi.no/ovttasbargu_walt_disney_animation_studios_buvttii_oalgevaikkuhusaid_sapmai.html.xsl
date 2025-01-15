@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/internasjonalt-arbeid/samisk-samarbeid/samarbeid-med-walt-disney-animation-studios/samarbeid-med-walt-disney-animation-studios-gir-ringvirkninger-til-sapmi/?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/riikkaidgaskasas-bargu/sami-ovttasbargu/ovttasbargu-walt-disney-animation-studios/ovttasbargu-walt-disney-animation-studios-buvttii-oalgevaikkuhusaid-sapmai/'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Ovttasbargu Walt Disney Animation Studios buvttii oalgeváikkuhusaid Sápmái - Sámediggi'"/>
+    <xsl:variable name="title" select="'Ovttasbargu Walt Disney Animation Studios buvttii oalgeváikkuhusaid Sápmái - Sametinget'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

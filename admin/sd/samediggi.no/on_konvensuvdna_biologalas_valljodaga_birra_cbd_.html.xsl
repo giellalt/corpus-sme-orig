@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/areal-klima-og-miljo/naturmangfold/folkeretten-naturmangfoldsloven-og-samiske-rettigheter/fns-konvensjon-om-biologisk-mangfold-cbd/?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/areala-dalkkadat-ja-biras/luonddusladdjivuohta/albmotriekti-luondduvalljodatlahka-ja-sami-vuoigatvuodat/on-konvensuvdna-biologalas-valljodaga-birra-cbd/'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'ON konvenšuvdna biologalaš valljodaga birra (CBD) - Sámediggi'"/>
+    <xsl:variable name="title" select="'ON konvenšuvdna biologalaš valljodaga birra (CBD) - Sametinget'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

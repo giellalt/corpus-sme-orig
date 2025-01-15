@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/kulturmuito-ja-vistesuodjalus/sami-kulturmuittut-ja-eanadat/valljejuvvon-sami-kultureanadat/valljejuvvon-arkeologalas-kulturmuittut-bark/lahcin-sirjennuanas-raavrhvijhkes/'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/kultuvrramujtto-ja-huonajsuodjalus/same-kultuvrramujto-ja-duobddaga/utvalgte-samiske-kulturlandskap/utvalgte-arkeologiske-kulturminner-bark/tilrettelegging-pa-sarinatangen-i-royrvik/?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Láhčin Sirjennuanas Raavrhvijhkes - Sametinget'"/>
+    <xsl:variable name="title" select="'Láhčin Sirjennuanas Raavrhvijhkes - Sámediggi'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

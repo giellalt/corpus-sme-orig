@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/adasa/samiske-kulturminner-i-valdres-skiltes-og-synliggjores.22498.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/aktuelt/samiske-kulturminner-i-valdres-skiltes-og-synliggjores.22497.aspx?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Sámi kulturmuittut Valdresis galget galbejuvvot ja čalmmustahttojuvvot - Sámediggi'"/>
     <!--

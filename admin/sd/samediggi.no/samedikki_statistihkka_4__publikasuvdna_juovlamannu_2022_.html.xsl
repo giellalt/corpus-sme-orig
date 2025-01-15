@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/om-sametinget/administrasjonen/statistikk-fra-sametinget/statistikk-fra-sametinget-4-publikasjon-desember-2022.23073.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/saernieh/statistikk-fra-sametinget-4-publikasjon-desember-2022.23075.aspx?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Sámedikki statistihkka, 4. publikašuvdna (juovlamánnu 2022) - Sámediggi'"/>
     <!--

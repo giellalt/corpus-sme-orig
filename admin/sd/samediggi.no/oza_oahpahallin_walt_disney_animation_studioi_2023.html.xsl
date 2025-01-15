@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/saernieh/ohtsh-lierehtajjine-arrodh-walt-disney-animation-studiosne-2023.23191.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/aktuelt/apply-as-an-internship-at-walt-disney-animation-studios-2023.23187.aspx?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Oza oahpahallin Walt Disney Animation Studioi 2023 - Sámediggi'"/>
     <!--

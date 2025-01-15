@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/aktuelt/prm-sprakloftprisen-2022-til-aage-solbakk.22507.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/oddasat/prd-giellaloktenbalkkasupmi-2022-aage-solbakkii.22512.aspx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'PRD: Giellaloktenbálkkašupmi 2022 Aage Solbakkii - Sámediggi'"/>
+    <xsl:variable name="title" select="'PRD: Giellaloktenbálkkašupmi 2022 Aage Solbakkii - Sametinget'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

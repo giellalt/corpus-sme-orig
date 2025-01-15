@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/kultuvrramujtto-ja-huonajsuodjalus/avkalasj-ressursa/fagrapporter/befaringsrapport-stradalen-tverradalen-og-lakadalen-verdal-kommune-september-2019.8703.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/kulturmuito-ja-vistesuodjalus/avkkalas-resurssat/fagaraporttat/geahcadanraporta-stradalen-tverradalen-ja-lakadalen-verdal-suohkanis-cakcamanu-2019.8705.aspx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Geahčadanraporta Strådalen, Tverrådalen ja  Lakadalen, Verdal suohkanis, čakčamánu 2019 - Sámediggi'"/>
+    <xsl:variable name="title" select="'Geahčadanraporta Strådalen, Tverrådalen ja  Lakadalen, Verdal suohkanis, čakčamánu 2019 - Sametinget'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

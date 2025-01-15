@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/saernieh/mojhtesetaavla-skaerreste-maam-majesteete-ganka-olav-v-vuelietjaaleme-goh-bielie-noorjen-dokumenteaerpeste.9167.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/oddasat/muitotavval-sisttis-maid-majestehtalas-gonagas-olav-v-vuollaicalii-oassin-norgga-dokumeantaarbbis.9173.aspx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Muitotávval sisttis maid Majestehtalaš Gonagas Olav V vuolláičálii oassin Norgga dokumeantaárbbis - Sámediggi'"/>
+    <xsl:variable name="title" select="'Muitotávval sisttis maid Majestehtalaš Gonagas Olav V vuolláičálii oassin Norgga dokumeantaárbbis - Sametinget'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

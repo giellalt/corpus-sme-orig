@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/areaale-klijma-jih-byjrese/nuhteligs-vierhtieh/reektehtsh/sameradets-klimarapport-klimaendringer-i-sapmi-en-oversikt-og-veien-videre/?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/arealla-dalkadahka-ja-biras/avkalasj-ressursa/rapporter/sameradets-klimarapport-klimaendringer-i-sapmi-en-oversikt-og-veien-videre/?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Sámeráđi dálkkádatraporta «Dálkkádat rievdadeamit Sámis - oppalaš geahčastat ja dádjadeapmi» - Sámediggi'"/>
     <!--
@@ -183,7 +183,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="sameradets_klimarapport_klimaendringer_i_sapmi_-_en_oversikt_og_veien_videre__0_.html"/>
+        <parallel_text xml:lang="nob" location="sameradets_klimarapport_klimaendringer_i_sapmi_-_en_oversikt_og_veien_videre_.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>

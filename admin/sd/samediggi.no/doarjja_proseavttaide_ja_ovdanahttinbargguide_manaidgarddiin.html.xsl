@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/aktuelt/tilskudd-til-prosjekter-og-utviklingsarbeid-i-barnehager.26692.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/oddasat/doarjja-proseavttaide-ja-ovdanahttinbargguide-manaidgarddiin.26698.aspx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Doarjja prošeavttaide ja ovdánahttinbargguide mánáidgárddiin - Sámediggi'"/>
+    <xsl:variable name="title" select="'Doarjja prošeavttaide ja ovdánahttinbargguide mánáidgárddiin - Sametinget'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -183,7 +183,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="tilskudd_til_prosjekter_og_utviklingsarbeid_i_barnehager_0_.html"/>
+        <parallel_text xml:lang="nob" location="tilskudd_til_prosjekter_og_utviklingsarbeid_i_barnehager.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>

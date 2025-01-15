@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/aktuelt/sterke-sprakmodeller-rapport-lansert.20593.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/maanagierte/nuhteligs-vierhtieh/rapport-om-sterke-sprakmodeller/?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Gievrras giellamodeallat-raporta almmuhuvvon - Sámediggi'"/>
     <!--

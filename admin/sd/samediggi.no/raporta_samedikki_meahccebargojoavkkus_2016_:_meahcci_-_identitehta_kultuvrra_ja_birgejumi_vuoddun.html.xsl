@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/areal-klima-og-miljo/nyttige-ressurser/rapporter/rapport-fra-sametingets-arbeidsgruppe-for-utmark-meahcci-et-grunnlag-for-identitet-kultur-og-birgejupmi/?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/areala-dalkkadat-ja-biras/avkkalas-resurssat/raporttat/raporta-samedikki-meahccebargojoavkkus-meahcci-identitehta-kultuvrra-ja-birgejumi-vuoddun/'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Raporta sámedikki meahccebargojoavkkus (2016): Meahcci - identitehta, kultuvrra ja birgejumi vuođđun - Sámediggi'"/>
+    <xsl:variable name="title" select="'Raporta sámedikki meahccebargojoavkkus (2016): Meahcci - identitehta, kultuvrra ja birgejumi vuođđun - Sametinget'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

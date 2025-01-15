@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/adasa/duodjikurs-hever-kompetansen-blant-duodjiutovere.26960.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/aktuelt/duodjikurs-hever-kompetansen-blant-duodjiutovere.26959.aspx?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Duodjekurssat loktejit duojáriid gelbbolašvuođa - Sámediggi'"/>
     <!--

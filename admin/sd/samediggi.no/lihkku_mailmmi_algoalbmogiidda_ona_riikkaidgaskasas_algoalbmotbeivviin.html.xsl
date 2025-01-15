@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/aktuelt/gratulerer-til-verdens-urfolk-med-fns-internasjonale-urfolksdag.27017.aspx?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/saernieh/lahkoe-veartenen-aalkoeaalmegidie-fn-n-internasjonaale-aalkoeaalmegebiejjine.27021.aspx?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Lihkku máilmmi álgoálbmogiidda ONa riikkaidgaskasaš álgoálbmotbeivviin - Sámediggi'"/>
     <!--

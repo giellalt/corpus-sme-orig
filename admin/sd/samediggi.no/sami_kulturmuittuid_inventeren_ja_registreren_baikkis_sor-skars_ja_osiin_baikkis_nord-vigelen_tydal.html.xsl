@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/kultuvremojhtese-jih-gaetievaarjelimmie/nuhteligs-vierhtieh/prosjekter-som-har-fatt-stotte/inventering-og-registrering-av-samiske-kulturminner-i-sor-skars-og-deler-av-nord-vigelen-tydal/?sprak=12'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/kulturminne-og-bygningsvern/nyttige-ressurser/prosjekter-som-har-fatt-stotte/inventering-og-registrering-av-samiske-kulturminner-i-sor-skars-og-deler-av-nord-vigelen-tydal/?sprak=12'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Sámi kulturmuittuid inventeren ja registreren báikkis Sør-Skars ja osiin báikkis Nord-Vigelen, Tydal - Sámediggi'"/>
     <!--
