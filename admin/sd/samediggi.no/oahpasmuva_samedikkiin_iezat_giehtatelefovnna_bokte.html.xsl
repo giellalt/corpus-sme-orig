@@ -185,9 +185,9 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location="bli_bedre_kjent_med_sametinget_via_din_mobiltelefon.html"/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="buerebelaakan_saemiedigkine_aahpenh_dov_mobijlen_tjirrh.html"/>
+        <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
-        <parallel_text xml:lang="smj" location="oahpastuva_samedikkijn_ietjat_mobijla_baktu.html"/>
+        <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

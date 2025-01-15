@@ -185,7 +185,7 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location="tildelt_stotte_til_samisk_litteratur_.html"/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="daarjoe_saemien_lidteratuvrese.html"/>
+        <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
