@@ -130,7 +130,7 @@
          letters, the command "ccat -l sme -o names" (etc.) will give the available 
          orthograpies. Example names: bergslandruong, friis, itkonen, leem, ...
     -->
-     <xsl:variable name="orthography" select="''"/> 
+     <xsl:variable name="orthography" select="'leem'"/> 
     
     <!--
         In the case of a multilingual document, we may want to check for
