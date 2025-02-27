@@ -124,15 +124,16 @@
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="mainlang" select="'sme'"/>
 
+    <!-- This variable indicates orthography. If the text is written in the
+         current (today's) orthography, the value may be left empty ("''")
+         or marked "'contemoprary'"). Orthography names are written without capital 
+         letters, the command "ccat -l sme -o names" (etc.) will give the available 
+         orthograpies. Example names: bergslandruong, friis, itkonen, leem, ...
+    -->
+     <xsl:variable name="orthography" select="'bergslan'"/> 
+    
     <!--
         In the case of a multilingual document, we may want to check for
-        other languages. Set the variable monolingual to '1' to turn off
-        language recognition (treating everything as mainlang)
-    -->
-    <xsl:variable name="monolingual" select="''"/>
-
-    <!--
-        If monolingual is not set, the document is multilingual.
         Uncomment the languages you want to check for (or add new lines
         with the right ISO-639-3 language codes).
 
