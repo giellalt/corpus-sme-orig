@@ -81,7 +81,22 @@
 
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="genre" select="'science'"/>
+
     <xsl:variable name="collection" select="'Sami logut muitalit'"/>
+
+    <!-- This variable indicates orthography. If the text is written in the
+         current (today's) orthography, the value may be left empty ("''")
+         or marked "'contemoprary'"). Orthography names are written without capital 
+         letters, the command "ccat -l sme -o names" (etc.) will give the available 
+         orthograpies. Example names: bergslandruong, friis, itkonen, leem, ...
+    -->
+     <xsl:variable name="orthography" select="''"/> 
+    
+
+    <!-- Free form tags to describe the document -->
+    <xsl:variable name="tags">
+        <!-- <tag>example</tag> -->
+    </xsl:variable>
     <!--
         Three letter language code.
         https://no.wikipedia.org/wiki/Liste_over_ISO_639-1-koder
