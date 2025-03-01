@@ -1,0 +1,1940 @@
+Error at: 119
+<string>:1:0:ERROR:VALID:DTD_INVALID_CHILD: Element span is not declared in span list of possible children
+
+<string>:1:0:ERROR:VALID:DTD_INVALID_CHILD: Element span is not declared in span list of possible children
+
+<string>:1:0:ERROR:VALID:DTD_INVALID_CHILD: Element span is not declared in span list of possible children
+
+<string>:1:0:ERROR:VALID:DTD_INVALID_CHILD: Element span is not declared in span list of possible children
+
+<string>:1:0:ERROR:VALID:DTD_INVALID_CHILD: Element span is not declared in span list of possible children
+<document {http://www.w3.org/XML/1998/namespace}lang="sme" id="no_id">
+    <header>
+        <title>
+            Álgu
+        </title>
+        <genre code="admin">
+        </genre>
+        <author>
+            <unknown>
+            </unknown>
+        </author>
+        <wordcount>
+            2979
+        </wordcount>
+        <conversion_status type="standard">
+        </conversion_status>
+        <availability>
+            <free>
+            </free>
+        </availability>
+        <multilingual>
+            <language {http://www.w3.org/XML/1998/namespace}lang="nob">
+            </language>
+        </multilingual>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="dan" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="eng" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fin" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fit" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fkv" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="ger" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="isl" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="kal" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="kpv" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="nno" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="nob" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="rus" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sma" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sme" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="smj" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="smn" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sms" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="swe" location="">
+        </parallel_text>
+        <metadata>
+            <uncomplete>
+            </uncomplete>
+        </metadata>
+        <version>
+            XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.7 $; common.xsl  $Revision$;
+        </version>
+    </header>
+    <body>
+        <p>
+            <em type="bold">
+                GUOVDAGEAINNU NUORAIDSKUVLA
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Plána – oahppo- ja fidnobadadeapmi
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                8. - 10. luohkká
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                ráđđeaddi bokte
+            </em>
+        </p>
+        <p type="title">
+            Sisdoallu
+        </p>
+        <p>
+            Álgu 1
+        </p>
+        <p type="title">
+            Ulbmil									 2
+        </p>
+        <p>
+            8. luohkká 3
+        </p>
+        <p>
+            9. luohkká 5
+        </p>
+        <p>
+            10. luohkká 6
+        </p>
+        <p>
+            Áigemearreplána 10. luohkká 7
+        </p>
+        <p>
+            Árvvoštallan 10. luohkká 8
+        </p>
+        <p>
+            Bargobihtát 9 – 16
+        </p>
+        <p>
+            <span type="quote">
+                ”Du joatkkaoahppu”
+            </span>
+        – ohppiidbarggut 17
+        </p>
+        <p type="title">
+            Álgu
+        </p>
+        <p>
+            Dát galgá doaibmat fágaidrasttideaddji dahkosiid rámmaplánan.
+        </p>
+        <p>
+            Mis, Guovdageainnu nuoraidskuvlla oahpaheddjiin, lea oktasaš ovddasvástádus ráhkkanahttit ohppiid vai buoremus lágis máhttet válljet oahpa go bohtet 10.luohkkái.
+        </p>
+        <p>
+            Ii leat álki ohppiide nu nuorran válljet oahppogeainnu. Dainna lea mávssolaš ahte mii, rávisolbmot, juohkit dieđuid nu bures go vejolaš. Dieđuid galgat juohkit vugiin mainna olahit nu oallugiid go vejolaš.
+        </p>
+        <p>
+            <span type="quote">
+                “ Berre árrat álggahuvvot oahpaheapmi ja nevvodeapmi mii veahkeha oahppi válljet oahpu ja fidnu. Guhkes áiggi bargu, mas olle oažžut dieđu ja máhtu ja iešipmárdusa, lea buorre vuođđu válljet riekta”
+            </span>
+        .
+        </p>
+        <p>
+            (
+            <span type="quote">
+                “Ungdom i valg”
+            </span>
+        )
+        </p>
+        <p>
+            Dahkosis galgá leat teorioassi mas skuvlla bargit addet diehtojuohkima veahkkálaga olggobeale olbmuiguin. Seammás oažžu oahppi doarjaga ja veahki dovddiidit iežas nana beliid, beroštumiid, áhpiid ja attáldagaid.
+        </p>
+        <p>
+            Oahppái lea maiddái mávssolaš hárjánit fidnoeallimis, ja dan oahppá dehe hárjána geavatlaš prošeaktabarggus ja ohppiid válljemiid bokte.
+        </p>
+        <p>
+            Luohkkáteam:in galget ságastallat dahkosiid sisdoalu čakčat go skuvla álgá, vai sáhttá daid gođđit luohká doaibmaplánii/fágaplánaide.
+        </p>
+        <p>
+            Johan Mathis J. Hætta (Lemeha-Juhána Juhán Máhtte)
+        </p>
+        <p>
+            ULBMIL:
+        </p>
+        <p>
+            Fidnoválljenproseassa Guovdageainnu nuoraidskuvllas veahkeha ohppiid:
+        </p>
+        <p>
+            Dovddiidit mat leat sin:
+        </p>
+        <list>
+            <p type="listitem">
+                nana bealit
+            </p>
+            <p type="listitem">
+                beroštumit
+            </p>
+            <p type="listitem">
+                árvvut
+            </p>
+            <p type="listitem">
+                návccat ja vejolašvuođat
+            </p>
+            <p type="listitem">
+                válljeneavttut
+            </p>
+        </list>
+        <p>
+            oažžut gálggaid vai ieža sáhttet:
+        </p>
+        <list>
+            <p type="listitem">
+                viežžat obbalaš dieđuid ja sierra dieđuid oahppogeainnuid ja fidnuid birra
+            </p>
+            <p type="listitem">
+                ákkastallat manin sii leat oadjebasat/oadjebasmeahttumat iežaset válljema dáfus
+            </p>
+            <p type="listitem">
+                roggat varas dieđuid bargomárkana birra
+            </p>
+        </list>
+        <p>
+            ja loahpas
+        </p>
+        <p>
+            <em type="bold">
+                oahppit galget ráhkkanahttojuvvot ieža válljet!
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                8. luohkká
+            </em>
+        </p>
+        <p>
+            Oahppo- ja fidnobagadeapmi 8.luohkkái veahkeha ohppiid ipmirdit mii olbmo iešguđetlágan válljemiid mearrida, makkár váikkuhusat čuvvot iešguđetlágan válljenvejolašvuođaid, iežaset áhpiid ja beroštumiid atnit válljemiid vuođđun.
+        </p>
+        <p>
+            <span type="quote">
+                “ungdom i valg”
+            </span>
+        </p>
+        <list>
+            <p type="listitem">
+                <span>
+                    <em type="bold">
+                        Bargobihtát gihppagis
+                        <span type="quote">
+                            “Ungdom i valg”
+                        </span>
+                    </em>
+                </span>
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                Válljema birra
+            </p>
+            <p type="listitem">
+                Masa lean mun čeahppi?
+            </p>
+            <p type="listitem">
+                Dieđán go mun maid liikon bargat?
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                <span>
+                    Báikkálaš servodat ovdal ja dál
+                </span>
+            </p>
+        </list>
+        <p>
+            (fáddá-/prošeaktabargu mas dát lea okta čuolbmaformuleren):
+        </p>
+        <list>
+            <p type="listitem">
+                diehtu dološ áiggi oahpuid ja fidnuid birra
+            </p>
+            <p type="listitem">
+                erohusat – duogážat
+            </p>
+        </list>
+        <p>
+            - boazodoallu ovdal ja dál
+        </p>
+        <p>
+            - jearahallat áhkuin ja ádjáin/earáin
+        </p>
+        <p>
+            - vuorasolbmot oahppaladdet luohká
+        </p>
+        <p>
+            - finadit Gilišiljus
+        </p>
+        <p type="title">
+            C.	Sohkabeal’ vierut ovdal ja dál
+        </p>
+        <p>
+            (fáddábargu)
+        </p>
+        <p>
+            - Diehttát gii mearridii ja movt mearriduvvui fidnu válljen ovdalaš áiggi.
+        </p>
+        <p>
+            - Sohkabealrollat ja dásseárvu
+        </p>
+        <list>
+            <p type="listitem">
+                <span>
+                    <span type="quote">
+                        “Mu fidnu”
+                    </span>
+                </span>
+            </p>
+        </list>
+        <p>
+            <em type="bold">
+                (fáddábargu)
+            </em>
+        </p>
+        <list>
+            <p type="listitem">
+                Gáibádusat /vejolašvuođat mat fidnus leat
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                Oahppu mii gáibiduvvo
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                Bálká
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                Otná vejolašvuođat oažžut barggu
+            </p>
+        </list>
+        <p>
+            <em type="bold">
+                9. luohkká
+            </em>
+        </p>
+        <p>
+            Oahppo- ja fidnobagadeapmi 9.luohkkái veahkeha ohppiid buorebut dovddiidit iežaset áhpiid ja beroštumiid. Dán ahkeluohká bargobihtát galget maiddái veahkehit ohppiid ipmirdit dajaldaga árvvut, áddegoahtit iežas árvvuid ja ipmirdit movt árvvut čuvvot go olmmoš mearrida persovnnalaš válljemiid.
+        </p>
+        <p>
+            <span type="quote">
+                “ungdom i valg”
+            </span>
+        </p>
+        <list>
+            <p type="listitem">
+                <em type="bold">
+                    Joatkit 8.luohká dahkosiin.
+                </em>
+            </p>
+        </list>
+        <p>
+            Bargobihtát gihppagis
+            <span type="quote">
+                “Ungdom i valg”
+            </span>
+        </p>
+        <list>
+            <p type="listitem">
+                Árvvut ja árvoválljen
+            </p>
+            <p type="listitem">
+                <span type="quote">
+                    “mii ja gii mearrida válljema”
+                </span>
+            </p>
+            <p type="listitem">
+                <span type="quote">
+                    “ maid mun dieđán iežan birra”
+                </span>
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                <span>
+                    Bargoeallinhárjáneapmi
+                </span>
+            </p>
+        </list>
+        <p>
+            Geavahit unnimusat nuppi áigodaga (guokte áigodaga goabbá nai lea ovtta vahku) ohppiid válljemis leat muhtin bargosajis. Oahppi čállá raportta.
+        </p>
+        <list>
+            <p type="listitem">
+                <span>
+                    <span type="quote">
+                        “Mu niehkofidnu”
+                    </span>
+                (fáddá-/prošeaktabargun giđđajahkebeali)
+                </span>
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                joatkkaskuvlla oahppogeainnut, vejolaš eará skuvllat
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                oahppogeainnut allaskuvllain/universitehttadásis
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                mun berren liikot /leat čeahppi čuovvovaš fágain/surggiin
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                fidnu barggut (jearahit sis geat leat fidnus)
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                mun smiehtan movt lea ?????? (bálká, bargovejolašvuođat ...)
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                <span type="quote">
+                    “You”
+                </span>
+            - fidno- ja oahppodiehtojuohkin Internett:s
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                ealáhusat mat leat ovdáneame /maŋásmanname
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                bargguhisvuohta
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                vearrosisaboađut suohkanii
+            </p>
+        </list>
+        <p type="title">
+            D.		Diehtojuohkin:  Ođastus 94 ja joatkkaskuvla
+        </p>
+        <list>
+            <p type="listitem">
+                Báikkálaš skuvlla ráđđeaddi čuvge
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                Finadit báikkálaš joatkkaskuvllas
+            </p>
+        </list>
+        <p>
+            <em type="bold">
+                10. luohkká
+            </em>
+        </p>
+        <p>
+            Maŋemus jagi vuođđoskuvllas galget oahppit vuosttaš geardde dahkat deaŧalaš válljema, namalassii válljet oahpu, man áigot váldit. Evttohuvvon bargobihtát maid gávnnat gihppagis
+            <span type="quote">
+                “Ungdom i valg”
+            </span>
+        , veahkehit ohppiid vel buorebut dovddidit iežaset áhpiid. Bargobihtát galget maiddái veahkehit ohppiid :
+        </p>
+        <list>
+            <p type="listitem">
+                ipmirdit mii
+                <em type="italic">
+                    bargobiras
+                </em>
+            -dajaldaga sisdoallu lea
+            </p>
+            <p type="listitem">
+                oažžut gálggaid vai sáhttet ohcat dieđuid oahppogeainnud ja fidnuid birra ja bargomárkana birra báikkálaš ja riika dásis.
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                <span>
+                    Joatkit 8. ja 9. luohká dahkosiin
+                </span>
+            </p>
+        </list>
+        <p>
+            Bargobihtát gihppagis
+            <span type="quote">
+                “Ungdom i valg”
+            </span>
+        </p>
+        <list>
+            <p type="listitem">
+                mu áhpit
+            </p>
+            <p type="listitem">
+                mii lea bargobiras
+            </p>
+            <p type="listitem">
+                bargomárkan riikka ja báikkálaš dásis
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                <span>
+                    <span type="quote">
+                        “Du válljemat”
+                    </span>
+                </span>
+            </p>
+        </list>
+        <p>
+            NHO Videot
+        </p>
+        <list>
+            <p type="listitem">
+                <span>
+                    Diehtojuohkin joatkkaskuvllaid skuvlafálaldagaid birra
+                </span>
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                Sámi joatkkaskuvla oahppaladdá
+            </p>
+            <p type="listitem">
+                Altta joatkkaskuvla oahppaladdá
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                <span>
+                    Bargokantuvra Guovdageainnus oahppaladdá
+                </span>
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                movttiidahttit oahpuid váldit
+            </p>
+            <p type="listitem">
+                bargomárkan Guovdageainnus/Finnmárkkus /riikkas
+            </p>
+            <p type="listitem">
+                boahtteáiggi vejolašvuođat bargomárkanis
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                <span>
+                    Finadit Sámi joatkkaskuvllas Guovdageainnus
+                </span>
+            </p>
+        </list>
+        <p>
+            - oahpásnuvvat skuvlla iešguđetlágan oahpposurggiide
+        </p>
+        <p type="title">
+            F.	Fidnodiehtojuohkin-čoagganeapmi Alttas
+        </p>
+        <p>
+            - finadit čoagganeamis mas čuvvot bargobihtát ja ovda- ja maŋŋilbargu
+        </p>
+        <list>
+            <p type="listitem">
+                <span>
+                    <span type="quote">
+                        “Movt ohcat barggu”
+                    </span>
+                </span>
+            </p>
+        </list>
+        <p>
+            - atnit gihppaga
+            <span type="quote">
+                “Det store valget”
+            </span>
+        </p>
+        <list>
+            <p type="listitem">
+                <span>
+                    Dihtorprográmma
+                    <span type="quote">
+                        “You”
+                    </span>
+                </span>
+            </p>
+            <p type="listitem">
+                <em type="bold">
+                    Gihppagat
+                    <span type="quote">
+                        “du joatkkaoahppu”
+                    </span>
+                – dasa bargobihtát ja
+                </em>
+            </p>
+        </list>
+        <p>
+            ”
+            <em type="bold">
+                Eanet oahppu”
+            </em>
+        </p>
+        <p>
+            “
+            <em type="bold">
+                ÁIGEMEARREPLÁNA” 10. LUOHKKÁ
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Skuvla-/fidnobagadeapmi
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Guovdageainnu nuoraidskuvla
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                ráđđeaddi bokte
+            </em>
+        </p>
+        <p>
+            41. vahku: - Diehtit galle oahppi ohcet erenoamáš heivehuvvon oahpu
+        </p>
+        <p>
+            41-43. vahkut: - Ráđđeaddi oassálastá luohkkáváhnenčoahkkimiin (jus sávvet)
+        </p>
+        <p>
+            44-51. vahkut: - Joatkkaskuvllat oahppaladdet
+        </p>
+        <list>
+            <p type="listitem">
+                Juohkit gihppagiid
+                <span type="quote">
+                    “Du joatkkaoahppu”
+                </span>
+                <em type="bold">
+                    Fuom!
+                </em>
+            Bargobihtát
+            </p>
+            <p type="listitem">
+                Ráđđeaddi finada luohkáin:
+            </p>
+        </list>
+        <p>
+            - obbalaš dieđut joatkkaskuvlla birra
+        </p>
+        <p>
+            - ohcanáigemearit
+        </p>
+        <p>
+            - bargokantuvra oahppaladdá
+        </p>
+        <p>
+            48-07.vahkut: - geahččat videoid
+            <em type="bold">
+                <span type="quote">
+                    “Ditt valg”
+                </span>
+            </em>
+        </p>
+        <p>
+            1. vahku: - finadit Sámi joatkkaskuvllas Guovdageainnus
+        </p>
+        <p>
+            - buohkat válljejit
+            <span type="quote">
+                “iežaset”
+            </span>
+        oahpposuorggi
+        </p>
+        <p>
+            2. vahku: - váhnenčoahkkin joatkkaskuvlla oahpposurggiid birra
+        </p>
+        <p>
+            - oktasaš čoahkkin goappašat luohkáide
+        </p>
+        <p>
+            3. vahku: - geahčadit skuvlakataloga ja ohcanšemá: ráđđeaddi bokte
+        </p>
+        <p>
+            - Reive ovddasteddjiide
+        </p>
+        <p>
+            - Searvečoahkkin: váhnemat geaid mánná lea
+            <span type="quote">
+                “erenoamášohcci”
+            </span>
+        / PP-bálvalus/joatkkaskuvlla ráđđeaddi/nuoraidskuvlla ráđđeaddi
+        </p>
+        <p>
+            - Čoahkkindáhton biddjo ráđđálagaid PP-bálvalusain.
+        </p>
+        <p>
+            5. vahku: - Ohcanáigemearri ”erenoamáš ”:
+            <em type="bold">
+                guovvamánnu 1.b
+            </em>
+        .
+        </p>
+        <p>
+            7. vahku: - fidnodiehtojuohkin-čoagganeapmi Alttas
+        </p>
+        <p>
+            - bargobihtát ovda- ja maŋŋilbargguin
+        </p>
+        <p>
+            8. vahku: - ráđđeaddi čohkke ohcamiid : ohcanáigi
+            <em type="bold">
+                njukčamánnu 1.b.
+            </em>
+        </p>
+        <p>
+            10-11. vahkut: - árvvoštallat 10. luohká fidnobagadeami (geahča 8-9. s.)
+        </p>
+        <p>
+            <em type="bold">
+                FUOMÁŠ! Ane
+                <span type="quote">
+                    “Ungdom i valg”
+                </span>
+            - gihppaga. Das gávnnat ollu buriid bargobihtáid mat heivejit eanas fágaide. Dáid galget oahpaheaddjit heivehit iežaset plánaide. Ii leat lohpi garvit dán mávssolaš fáttá!
+            </em>
+        </p>
+        <p>
+            Guovdageainnu nuoraidskuvla
+        </p>
+        <p>
+            Ráđđeaddi bokte
+        </p>
+        <p>
+            <em type="bold">
+                Árvvoštallan
+            </em>
+        </p>
+        <p>
+            Fidno- ja skuvlabagadeapmi
+        </p>
+        <p>
+            10.luohkká
+        </p>
+        <list>
+            <p type="listitem">
+                Don leat dál válljen vuođđokurssa boahtte skuvlajahkái. Dovddat go ahte dus ledje doarvái dieđut /máhttu joatkkaskuvlla birra dalle go válljejit vuođđokurssa?
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                Livččet go hálidan eanet dieđuid juoga man birra (erenoamáš bargguid/skuvlafálaldagaid birra)?
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                Ožžot go dieđuid rievttes áigái?
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                Ságastallet go don ovttainge oahppoválljema birra (omd. váhnemiiguin, oappáiguin/vieljaiguin, luohkkájođiheddjiin, ráđđeaddiin)?
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                Ožžot go don doarvái áiggi ságastallat, jus don hálidit skuvllas soapmásiin humadit oahppoválljema birra (omd. luohkkájođiheddjiin/ráđđeaddiin)?
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                Galggašii go du mielas ráđđeaddi gohččut buot 10.luohkáhasaid oktagaslaš ságastallamii, vai berrejit go oahppit ieža váldit oktavuođa ságastallat/ oažžut diehtojuohkima?
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                Lei go ávkkálaš oahppaladdat joatkkaskuvlla Guovdageainnus ja fidnodiehtojuohkin-čoagganeami Alttas?
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                <span type="quote">
+                    “ Rápmi ja rissi”
+                </span>
+            skuvlii fidno- ja oahppoválljenbagadeami oktavuođas.
+            </p>
+        </list>
+        <p>
+            BARGOBIHTÁT
+        </p>
+        <p>
+            <em type="bold">
+                Oktagaslaš bargobihttá
+            </em>
+        </p>
+        <p type="title">
+            Du boahtteáigi
+        </p>
+        <p>
+            <em type="bold">
+                čuoččuhuvvo ahte eallimis šaddá juohke beaivvi válljet máŋgga vejolašvuođa gaskka.
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Muhtin válljemat, maid don dagat eallimis, váikkuhit mihá eanet go nuppit.
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Máŋgasat oaivvildit ahte dáččaid
+                <span type="quote">
+                    “olmmošvieru mearrin”
+                </span>
+            lea ahte ii galgga ieš válljet.
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Jurddaš mat mahkáš ahte dus jerrojuvvo: Maid don hálidat juhkat – mielkki, sáftá, bruvsa vai deaja? Don veaját vástidit: “Na, munnje gal lea seammá ... “
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Juste dát válljen ii váikkut nu ollu, vaikko it mearrit ieš.
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Soames háve don gárttat almmatge eallimis dakkár
+            </em>
+            <em type="bold">
+                dilálašvuhtii mas lea veahá váddásit válljet. Dá moadde ovdamearkka:
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                -konfirmášuvdna (girkus, boargárlaš vai ii oba konfirmerejuvvot ge)?
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                -amasgiella skuvllas (fránska, duiska, spánska vai ii makkárge amasgiella)?
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                -eará válljenfágat skuvllas?
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                -gárihuhttin?
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                -joatkkaskuvlla oahpposuorgi?
+            </em>
+        </p>
+        <list>
+            <p type="listitem">
+                <em type="bold">
+                    Gávnna ieš ovdamearkkaid dasa maid boahtte áiggis fertet válljet, ja mat sáhttet šaddat veahá váddásat. Manin doaivvut juste dáid válljemiid gárttat váttisin alccesat?
+                </em>
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                <em type="bold">
+                    Makkár váikkuhusaid jáhkát dáid válljemiid daguhit ?
+                </em>
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                <em type="bold">
+                    čále muitalusa bajilčállagiin
+                    <span type="quote">
+                        “Mávnos 25 jagi: dássážii lea eadni álohii válljen mu ovddas”
+                    </span>
+                .
+                </em>
+            </p>
+        </list>
+        <p type="title">
+            Luohkkábargobihttá
+        </p>
+        <list>
+            <p type="listitem">
+                <em type="bold">
+                    Ráhkadehket seaidneáviissa c)bargobihtá muitalusaiguin, vai oaidnibehtet nuppiid ohppiid muitalusaid
+                </em>
+            .
+            </p>
+        </list>
+        <p type="title">
+            Luohte iežat áhpiide!
+        </p>
+        <p type="title">
+            Bárrabargu
+        </p>
+        <p type="title">
+            Luohte iežat áhpiide!
+        </p>
+        <p>
+            Jus sáhtálin addit dutnje
+        </p>
+        <p>
+            ovtta áidna dávvira,
+        </p>
+        <p>
+            De sávalin vare dakkár fámu
+        </p>
+        <p>
+            sáhtálin addit
+        </p>
+        <p>
+            mii veahkeha du luohttit alccesat.
+        </p>
+        <p>
+            Oažžut du jáhkkit ahte ollášuvvet
+        </p>
+        <p>
+            du hálidusat,
+        </p>
+        <p>
+            ja vuoimmi vai don
+        </p>
+        <p>
+            nagodat čađahit dáid.
+        </p>
+        <p>
+            Vare don oainnálit
+        </p>
+        <p>
+            dan maid mun oainnán,
+        </p>
+        <p>
+            mun oainnán dus leat stuora vejolašvuođat,
+        </p>
+        <p>
+            doaivagat ja niegut.
+        </p>
+        <p>
+            Mun luohtán dutnje
+        </p>
+        <p>
+            ja buot dasa maid don sáhtát čađahit.
+        </p>
+        <p>
+            (Karen St. Pierre)
+        </p>
+        <p>
+            * (dás jorgalan sámegillii Rávdná Turi Henriksen)
+        </p>
+        <p>
+            a) Čohkkedehket guovttis ja guovttis. Lohket divtta čuodjalit (čudjosit) guhtet guoibmáseattet. FUOMÁŠ! Loga divtta njozet ja divtte sániid vuodjut millii !
+        </p>
+        <p type="title">
+            Oktagaslaš bargobihtát
+        </p>
+        <p>
+            <em type="bold">
+                a)b) Jáhke ahte son gii logai divtta dutnje, oaivvildii dan oba váimmus! Čális veahá makkár dovdu dus lea maŋŋil go dikta lohkkojuvvui dutnje.
+            </em>
+        </p>
+        <list>
+            <p type="listitem">
+                <em type="bold">
+                    Jurddat čuovvovačča dan seammás go čálistat jurdagiiddát:
+                </em>
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                <em type="bold">
+                    Goas (makkár dáhpáhusain) oaččut don rámi?
+                </em>
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                <em type="bold">
+                    Makkár oktavuođain rámpojit/rámidit du?
+                </em>
+            </p>
+        </list>
+        <list>
+            <p type="listitem">
+                <em type="bold">
+                    Gii addá eanemus rámi dutnje?
+                </em>
+            </p>
+            <p type="listitem">
+                <em type="bold">
+                    Movt don reágeret go du rámpojit/rámidit, ja makkár dovdu lea dus siskkáldasat?
+                </em>
+            </p>
+            <p type="listitem">
+                <em type="bold">
+                    Man dávjá ja makkár dilálašvuođain lávet don earáid rámpot/ rámidit?
+                </em>
+            </p>
+            <p type="listitem">
+                <em type="bold">
+                    Leago du mielas muhtomin váttis rámpot /rámidit earáid? (jus vástidat juo, manin lea nu?)
+                </em>
+            </p>
+            <p type="listitem">
+                <em type="bold">
+                    Berrešit go don dávjjit
+                </em>
+                <em type="bold">
+                    rámpot/rámidit earáid?
+                </em>
+            </p>
+        </list>
+        <p>
+            <em type="bold">
+                (Manin/manin it)
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Joavkobargu
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                d)Ráhkadehket njealje-olbmo joavkku. Ságastallet joavkkus iežadet jurdagiid birra maid čálisteiddet ovddit barggus.
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Dál ráhkadehpet oktasaš joavkobarggu.
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Dii galgabehtet buohkat ovttas čállit báhpirii jurdagiiddádet mat dis ledje go barggaidet dán bargobihtá, sáhttibehtet čálistit jurdagiid ovdamearkka dihte stuora ránesbáhpirii.
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Jus dis ležžet iežadet pássagovat, bidjabehtet daid joavkobargui.
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Dii heŋgebehtet joavkobarggu dan luohkkálatnjii gos dii lehpet dávjjimusat.
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Don ja du boahtteáigi
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Oktagaslaš barggut
+            </em>
+        </p>
+        <p>
+            Don ja du boahtteáigi
+        </p>
+        <list>
+            <p type="listitem">
+                Mis, olbmuin, lea min fidnu/bargu dehe oahppu deaŧalaš, dainna go dat váikkuha nu ollu eará beliid min eallimis.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Dá moadde ovdamearkka:
+            </em>
+        </p>
+        <p>
+            Man bures don ieš liikot dasa maid barggat
+        </p>
+        <p>
+            Man ollu ruđaid diinet
+        </p>
+        <p>
+            Makkár barggut dus leat beaivválaččat – barggažat don reaidduiguin, mášiinnaiguin dehe du bargu lea veahkehit eará olbmuid sin árgabeaivvis.
+        </p>
+        <p>
+            Gos don barggat – olgoriikkas, kantuvrras vai olgun
+        </p>
+        <p>
+            Makkár don leat olggosoaidnit go leat barggus, leatgo dus bargobiktasat, unifoarbma, fiidnabušbiktasat dehe duolva gieđat.
+        </p>
+        <p>
+            Makkár olbmuiguin don barggat ovttas – leatgo sii snihkkárat, hábmejeaddjit, gávpegaskavuođat, buohccedivššárat, vai seammát leat vuoddjit.
+        </p>
+        <p>
+            b) Manin oaivvildat don ahte du fidnu- dehe oahppoválljen šaddá deaŧalažžan dutnje? Čális muhtin ákkaid!
+        </p>
+        <p type="title">
+            Bargu ollesluohkás
+        </p>
+        <p>
+            c)Čohkkedehket jorbodahkii (heastagáma hápmái) luohkkálanjas.
+        </p>
+        <p>
+            Válljejehket čálli ja čoahkkinjođiheaddji. Čálli galgá čállit logga dan birra maid dii ságastallabehtet. Čoahkkinjođiheaddji doalaha skihka ságastallamis.
+        </p>
+        <p>
+            Dii, din luohkká, sáhttá ovttasráđiid luohkkájođiheddjiin mearridit movt dii maŋŋil atnibehtet dán logga.
+        </p>
+        <p>
+            Ollesluohká bargofáddán galgá leat b)-bargobihttá
+        </p>
+        <p>
+            <em type="bold">
+                Mu nana bealit (ressursalieđđi)
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Oahpaheaddjebargu
+            </em>
+        </p>
+        <list>
+            <p type="listitem">
+                <em type="bold">
+                    Dán oasi álggaha oahpaheaddji muitalemiin juoidá iežas nana beliid birra. Oahpaheaddji sáhtálii veahá ohppiide addit ipmárdusa makkár dovdu lea olbmos go čuodjalit /čudjosit muitala iežas birra maid son lea čeahppi bargat ...
+                </em>
+            </p>
+        </list>
+        <p>
+            <em type="bold">
+                Oktagaslaš barggut
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Čális vihtta nana beali alddát. Jus it fuomáš maid galggat čállit, bivdde oahpaheaddjis sátnelisttu. Vállje listtus 5 adjektiiva.
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Das maŋŋil oaččut ođđa listtu oahpaheaddjis ...
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Maid dál fuomášat???
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Sárggo lieđđelastta/lieđi nu movt vuolábealde čájehuvvo, ja čálát dasa iežat nana beliid.
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Heajos bealit??? Nana bealit ???
+            </em>
+        </p>
+        <p>
+            1 Váilu fántásiija
+            <em type="italic">
+                Áššálaš
+            </em>
+        </p>
+        <p>
+            2 Hubmái
+            <em type="italic">
+                Olmmošeaddjái
+            </em>
+        </p>
+        <p>
+            3 Badjelmeare duostil
+            <em type="italic">
+                Jállu
+            </em>
+        </p>
+        <p>
+            4 Guoktálasti
+            <em type="italic">
+                Máŋggabealát
+            </em>
+        </p>
+        <p>
+            5 Dolkadahtti
+            <em type="italic">
+                Duođalaš
+            </em>
+        </p>
+        <p>
+            6 Badjelmeare dárkil
+            <em type="italic">
+                Skihkalaš
+            </em>
+        </p>
+        <p>
+            7 Hearcasaddi
+            <em type="italic">
+                Oskkáldas
+            </em>
+        </p>
+        <p>
+            8 Gážžár
+            <em type="italic">
+                Diehtá maid áigu
+            </em>
+        </p>
+        <p>
+            9 Hánis
+            <em type="italic">
+                Seastevaš
+            </em>
+        </p>
+        <p>
+            10 Eahpereálista
+            <em type="italic">
+                Huŧkái
+            </em>
+        </p>
+        <p>
+            11 Ártet
+            <em type="italic">
+                Earenoamáš
+            </em>
+        </p>
+        <p>
+            12 Iešbuorre
+            <em type="italic">
+                Buorre iešdovdu
+            </em>
+        </p>
+        <p>
+            13 Eahpideaddji
+            <em type="italic">
+                Várrogas
+            </em>
+        </p>
+        <p>
+            14 Beavkkas
+            <em type="italic">
+                Fubmes
+            </em>
+        </p>
+        <p>
+            15 Njálggista earáiguin
+            <em type="italic">
+                Doarju soabalaš
+            </em>
+        </p>
+        <p>
+            <em type="italic">
+                vuođa
+            </em>
+        </p>
+        <p>
+            16 Iešráđálaš
+            <em type="italic">
+                Iešheanalaš
+            </em>
+        </p>
+        <p>
+            17 Sáhkkái/sáhkkii
+            <em type="italic">
+                Diehtoáŋgir
+            </em>
+        </p>
+        <p>
+            18 Dikkár
+            <em type="italic">
+                Ealas
+            </em>
+        </p>
+        <p>
+            19 Ii duostta maidege
+            <em type="italic">
+                Jurddašeaddji
+            </em>
+        </p>
+        <p>
+            20 Liiggás hubmái
+            <em type="italic">
+                Ealas
+            </em>
+        </p>
+        <p>
+            21 Bárisin bargame
+            <em type="italic">
+                Vuollis
+            </em>
+        </p>
+        <p>
+            22 Bargá viidát ja dárkilit
+            <em type="italic">
+                Vuođolaš
+            </em>
+        </p>
+        <p>
+            23 Sojatmeahttun
+            <em type="italic">
+                Boasttuvuođa
+            </em>
+            <em type="italic">
+                haga
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Heajos bealit??? Nana bealit???
+            </em>
+        </p>
+        <p>
+            24 Stajideaddji
+            <em type="italic">
+                Árvvas
+            </em>
+        </p>
+        <p>
+            25 Hoavrras
+            <em type="italic">
+                Lášmmat jorgalit oaivila
+            </em>
+        </p>
+        <p>
+            26 Ii birge iešokto
+            <em type="italic">
+                Ovttaráđálaš
+            </em>
+        </p>
+        <p>
+            27 Dájuhangálvu
+            <em type="italic">
+                Luohttá earáide
+            </em>
+        </p>
+        <p>
+            28 Heaŋgá earáin
+            <em type="italic">
+                Hervii/herveja
+            </em>
+        </p>
+        <p>
+            29 Balaheaddji
+            <em type="italic">
+                Berošteaddji
+            </em>
+        </p>
+        <p>
+            30 Smiehttalas
+            <em type="italic">
+                Teorehtalaš
+            </em>
+        </p>
+        <p>
+            31 Julmmut
+            <em type="italic">
+                Jaskkeslunddot
+            </em>
+        </p>
+        <p>
+            32 Vuorjjan
+            <em type="italic">
+                Doabmil álgit
+            </em>
+        </p>
+        <p>
+            33 Čuoččuha oaiviliiddis
+            <em type="italic">
+                Gievra čađahit
+            </em>
+        </p>
+        <p>
+            34 Álo oahpaheame earáid
+            <em type="italic">
+                Pedagogalaš
+            </em>
+        </p>
+        <p>
+            35 Šuoddálaš
+            <em type="italic">
+                Viššal muitalit
+            </em>
+        </p>
+        <p>
+            36 Badjelmeare hearki
+            <em type="italic">
+                Doahttaleaddji
+            </em>
+        </p>
+        <p>
+            37 Dahkaluddalas
+            <em type="italic">
+                Soabalaš
+            </em>
+        </p>
+        <p>
+            38 Mánnálaš
+            <em type="italic">
+                Lunddolaš
+            </em>
+        </p>
+        <p>
+            39 Guosseráhkisteaddji
+            <em type="italic">
+                Leaikálaš
+            </em>
+        </p>
+        <p>
+            40 Garralunddot
+            <em type="italic">
+                Loŧkat
+            </em>
+        </p>
+        <p>
+            41 Dáidemeahttun
+            <em type="italic">
+                Gierdevaš
+            </em>
+        </p>
+        <p>
+            42 Hohppui
+            <em type="italic">
+                Áŋgir
+            </em>
+        </p>
+        <p>
+            43 Áŋggirdeaddji
+            <em type="italic">
+                Čeavlái
+            </em>
+        </p>
+        <p>
+            44 Summál
+            <em type="italic">
+                Siivui
+            </em>
+        </p>
+        <p>
+            45 Nággár
+            <em type="italic">
+                Gilles/gillil
+            </em>
+        </p>
+        <p>
+            Guovdageainnu nuoraidskuvla
+        </p>
+        <p>
+            Ráđđeaddi bokte
+        </p>
+        <p>
+            Mii geahččat dárkileappot dáid:
+        </p>
+        <p>
+            <em type="bold">
+                FÁDDÁ: Sánit ja dajaldagat
+            </em>
+        </p>
+        <p>
+            (Bargobihttá: gihppaga siidu 2)
+        </p>
+        <p>
+            <em type="bold">
+                Oahppi: ...................................................... Luohkká:............
+            </em>
+        </p>
+        <p>
+            Biera muitala iežas áigut váldit fágaiskosa (fágareivve). Kari dadjá iežas váldime
+        </p>
+        <p>
+            sveannaiskosa (sveannereivve).
+        </p>
+        <p>
+            Makkár geahččaleamit bat dat leat?
+        </p>
+        <p>
+            Leago erohus diein geahččalemiin?
+        </p>
+        <p>
+            Makkár duođaštusa don oaččot go válddát dáid geahččalemiid?
+        </p>
+        <p>
+            Máid dát oanádusat mearkkašit?
+        </p>
+        <p>
+            VK: ...................................................................................
+        </p>
+        <p>
+            JK 1: ...................................................................................
+        </p>
+        <p>
+            JK 2: ...................................................................................
+        </p>
+        <p>
+            Eva lea veahá dolkan skuvlii ja hálida válljet fágaoahpu mas skuvlavázzima gohčodit
+            <em type="italic">
+                sierrageaidnun
+            </em>
+        . Man birra Eva hupmá?
+        </p>
+        <p>
+            Biera lohká dat lea mávssolaš válljet joatkkaskuvlakurssa mas oažžu
+            <em type="italic">
+                lohkangelbbolašvuođa
+            </em>
+        . Maid Biera oaivvilda dainna?
+        </p>
+        <p>
+            <em type="italic">
+                Sisaváldinkantuvra
+            </em>
+        – makkár barggut das leat?
+        </p>
+        <p>
+            Tor lea
+            <em type="italic">
+                privatista
+            </em>
+        . Maid dat mearkkaša?
+        </p>
+        <p>
+            Guovdageainnu nuoraidskuvla
+        </p>
+        <p>
+            Ráđđeaddi bokte
+        </p>
+        <p>
+            Mii geahččat dárkileappot dáid:
+        </p>
+        <p>
+            <em type="bold">
+                FÁDDÁ:
+            </em>
+        Gii
+            <em type="bold">
+                oažžu joatkkaoahpu
+            </em>
+        </p>
+        <p>
+            (Bargobihtát: gihppaga siiddut 5 – 7)
+        </p>
+        <p>
+            <em type="bold">
+                Oahppi: ....................................................... Luohkká: ....................
+            </em>
+        </p>
+        <p>
+            Tor láikkohallá 10:át jagi, iige bargga nu garrasit. Son lohká alddis leat lága bokte vuoigatvuođa/rievtti beassat joatkkaskuvlii. Leago dat duohta? Beasságo Tor dan oahpposuorgái masa hálida?
+        </p>
+        <p>
+            Man guhká sáhttá Tor vuordit ovdalgo geavaha iežas rievtti beassat joatkkaskuvlii?
+        </p>
+        <p>
+            Finn gearggai nuoraidskuvllas 1997:s. Son ii ohcan joatkkaskuvlii. Son lea bargan guollešaddadan-fitnodagas dan rájes go gearggai nuoraidskuvllas. Dál áigu ohcat joatkkaskuvlii. Lea go sus vuoigatvuohta/riekti beassat vuođđokurssiide?
+        </p>
+        <p>
+            Galle jagi lea sus riekti beassat joatkkaskuvlii?
+        </p>
+        <p>
+            Makkár váttisvuođat sáhttet sus čuožžilit go galgá ollašuhttit oahpus?
+        </p>
+        <p>
+            Bieras leat buorit árvosánit matematihkas, luonddufágas, hábmenfága ja lášmmohallamis. Jan lea ožžon buriid árvosániid dárogielas, eŋgelasgielas, servodatfágas ja musihkas.
+        </p>
+        <p>
+            Goappašagat ohcaba elektrofága vuođđokursii.
+        </p>
+        <p>
+            Goappás lea buoret vejolašvuohta beassat sisa?
+        </p>
+        <p>
+            Movt leat sisaváldinnjuolggadusat?
+        </p>
+        <p>
+            Tor ii hálit ohcat joatkkaskuvlii. Tor hálidivččii ovtta
+            <span type="quote">
+                “friddja-jagi”
+            </span>
+        váldit, vuoiŋŋastit ja smiehtadit ovdalgo mearrida maid son áigu bargat.
+        </p>
+        <p>
+            Leago oktage gii čuovvu mielde maid Tor dahká? Gii? Movt?
+        </p>
+        <p>
+            Don ozat mekanalašfága vuođđokursii. Dus lea boarrasit olmmái gii lea geargan viessohuksejeaddji oahpuin, gii maid hálida ohcat seammá vuođđokursii masa don ozat.
+        </p>
+        <p>
+            Goabbá dudnos oažžu skuvlasaji ovdalii nuppi?
+        </p>
+        <p>
+            Guovdageainnu nuoraidskuvla
+        </p>
+        <p>
+            Ráđđeaddi bokte
+        </p>
+        <p>
+            <em type="italic">
+                M ii geahččat dárkileappot dáid:
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                FÁDDÁ:
+            </em>
+        Mii
+            <em type="bold">
+                leajoatkkaoahpu?
+            </em>
+        </p>
+        <p>
+            (Bargobihtát: gihppaga siiddut 10 – 12)
+        </p>
+        <p>
+            <em type="bold">
+                Oahppi: ............................................... Luohkká: ...................
+            </em>
+        </p>
+        <p>
+            Don leat gullan ahte gávdnojit 13 iešguđetlágan oahpposuorggi maid sáhtát válljet go ozat joatkkaskuvlii. Golbma oahpposuorggi gohčoduvvojit
+            <em type="italic">
+                lohkanráhkkaneapmi
+            </em>
+        , ja logi fas leat
+            <em type="italic">
+                fidnofágalaš
+            </em>
+        oahpposuorggi. Mii dain lea erohus?
+        </p>
+        <p>
+            Movt lea oahppovázzináigi jus don válljet duon dehe dán oahpposuorggi?
+        </p>
+        <p>
+            Kristian áiggošii šaddat skuovvadahkkin (gámagoarrun). Harald áiggošii šaddat ruhttejeaddjin. Trond hálida šaddat diibmodahkkin. Sii válljejit iešguđetlágan fidnuid, muhto sin oahpus lea almmatge juoga mii lea oktasaš. Mii lea dáid oahpposurggiid erenoamášvuohta?
+        </p>
+        <p>
+            Nuoraidskuvllas ledje Lines válljenfágat lassin bákkolaš fágaide. Joatkkaskuvllas leat maid fágat juhkkojuvvon sierralagaid. Movt joatkkaskuvlla systema lea?
+        </p>
+        <p>
+            Magne lea leamaš ollu eret nuoraidskuvllas buozanvuođa geažil. Son lea álohii buktán čálalaš dieđu dan birra. Magne loahpalaš duođaštusas ii čuoččo su jávkama birra mihkkege. Son lea gulastan ahte joatkkaskuvllas ii leat seammaládje. Maid son ferte joatkkaskuvllas erenoamážit muittus atnit?
+        </p>
+        <p>
+            Álmá lea duođas mearridan lohkat Troandima universitehtas go geargá joatkkaskuvllas. Makkár oahpposurggiide sáhttá Álmá ohcat vai oažžu lohkangelbbolašvuođa? (Iskka leatgo máŋga vuogi movt olahit lohkangelbbolašvuođa.)
+        </p>
+        <p>
+            (Jus ii leat čállán maidege bajábeallái.) Oaččut go don lohkangelbbolašvuođa jus don leat vázzigoahtán fidnofágalaš oahpu?
+        </p>
+        <p>
+            Guovdageainnu nuoraidskuvla
+        </p>
+        <p>
+            Ráđđeaddi bokte
+        </p>
+        <p>
+            <em type="italic">
+                Mii geahččat dárkileappot dáid:
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                FÁDDÁ: Fidnooahppivuogádat
+            </em>
+        </p>
+        <p>
+            (Bargobihtát: gihppaga siiddut 13 – 16)
+        </p>
+        <p>
+            <em type="bold">
+                Oahppi: .............................................. Luohkká: ........................
+            </em>
+        </p>
+        <p>
+            Ove lea geargan vuođđokurssain ja fidnofágalaš JK 1 oahpuin. Son váldá loahppaoahpu muhtin fitnodagas gos son lea fidnooahppin.
+        </p>
+        <p>
+            Man guhká son galgá leat fidnooahppin?
+        </p>
+        <p>
+            Šiehtadusas, mii sus lea fitnodagain, čuožžu juoga oahpu ja árvobuvttadeami birra.
+        </p>
+        <p>
+            Maid dat mearkkaša?
+        </p>
+        <p>
+            Ove mielas lea heajos bálká ja smiehtada leago son oažžume liiggás unnán bálkká. Movt son sáhttá oažžut vástádusa diesa?
+        </p>
+        <p>
+            Go Ove váccii joatkkaskuvlla, oaččui son stipenda. Galgá go Ove dál oažžut stipenda?
+        </p>
+        <p>
+            Maid dadjet njuolggadusat?
+        </p>
+        <p>
+            Ove válddii ieš oktavuođa dainna fitnodagain mas son lea fidnooahppin. Manin dat lei buorre vuohki?
+        </p>
+        <p>
+            Ahte dahkat šiehtadusa fitnodagain, ii liikká lean doarvái. Maid son fertii vel lassin bargat?
+        </p>
+        <p>
+            Ove lei olmmái seamma luohkás gii ii ožžon fidnooahppi-saji. Vejolašvuohta ii lean almmatge áibbas giddejuvvon. Makkár fálaldaga don jáhkát son oaččui?
+        </p>
+        <p>
+            Movt galgaba Ove ja su olmmái loahpahit oahpu vai oažžuba dan dohkkehuvvot?
+        </p>
+        <p>
+            Oves eai lean nu buorit árvosánit go su olbmás. Liikká oaččui son fidnooahppi-saji. Mii dasa sáhttá leat čilgehussan?
+        </p>
+        <p>
+            Čális deaŧalaš čoavddasániid dan birra movt don sáhtát birget bures virgáibidjan-jearahallamis.
+        </p>
+        <p>
+            Guovdageainnu nuoraidskuvla
+        </p>
+        <p>
+            Ráđđeaddi bokte
+        </p>
+        <p>
+            <em type="italic">
+                Mii geahččat dárkileappot dáid:
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                FÁDDÁ: Gos don sáhtát vázzit skuvlla?
+            </em>
+        </p>
+        <p>
+            (Bargobihtát: gihppaga siiddut 18 – 20)
+        </p>
+        <p>
+            <em type="bold">
+                Oahppi: ............................................... Luohkká: ...................
+            </em>
+        </p>
+        <p>
+            Turid lea guovdageaidnulaš ja lea olahan buriid bohtosiid čuoigamis. Son áigu váldit dábálašfágaid oahpposuorggi joatkkaskuvllas, muhto hálidivččii maid čuoigat muhtin jagi velá. Máid son sáhttá dahkat?
+        </p>
+        <p>
+            Atle liiko hui bures dánset ja teáhteriin bargat. Sus lea measta miella balettdánsárin šaddat. Oza mat sutnje oahpposuorggi mii heive? Gos gávnnat?
+        </p>
+        <p>
+            Tor mielas orošii priváhta skuvllas somá vázzit. Go logai gihppaga
+            <span type="quote">
+                “Du joatkkaoahppu”
+            </span>
+        gávnnai guokte čuvgehusa mii dagahii ahte son rievdadii oaivila.
+        </p>
+        <p>
+            Maid don jáhkát ahte son deattuhii?
+        </p>
+        <p>
+            Guovdageainnu nuoraidskuvla
+        </p>
+        <p>
+            Ráđđeaddi bokte
+        </p>
+        <p>
+            <em type="italic">
+                M ii geahččat dárkileappot dáid:
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                FÁDDÁ: Fágat ja diimmut
+            </em>
+        </p>
+        <p>
+            (Bargobihtát: siiddut 23, 24, 26, 121, 83,70,124 ja 31)
+        </p>
+        <p>
+            <em type="bold">
+                Oahppi: ............................................... Luohkká: ...................
+            </em>
+        </p>
+        <p>
+            Pia, Lene ja Liv leat buohkat ohcan iešguđetlágan fidnofágalaš oahpposurggiide. Go sii geahčadit fágaid ja diibmologuid mat sis galget leat vuođđokurssas, fuomášit sii ahte dat leat ovttaláganat.
+        </p>
+        <p>
+            Man ollu diimmut sis leat unnimusat juohke vahku?
+        </p>
+        <p>
+            Guđet fágat leat nieiddain oktasaččat, ja galle diimmu sis gártet leat guđesge dáin
+            <span type="quote">
+                “oktasašfágain”
+            </span>
+        ?
+        </p>
+        <p>
+            Line ja Siv váldiba dábálaš, ekonomalaš ja hálddatlaš fágaid vuođđokurssa.
+        </p>
+        <p>
+            Movt sudno diibmoplána gártá leat?
+        </p>
+        <p>
+            Biera ja Kjell váldiba valáštallanfága vuođđokurssa. Movt sudno diibmoplána gártá leat?
+        </p>
+        <p>
+            Gro áigu vázzit musihkka, dánsun ja drámá. Movt lea dán vuođđokurssa diibmoplána?
+        </p>
+        <p>
+            Birehis lea miella váldit dearvvašvuođa- ja sosiálfága. Galle diimmu leat sus oahpposuorgefágat, ja makkár fágat?
+        </p>
+        <p>
+            Kato hálidivččii vázzit hotealla- ja biebmogálvofága. Movt su diibmoplána gártá leat oahpposuorgefágain?
+        </p>
+        <p>
+            Sven lea váldime mekánalašfága vuođđokurssa. Movt su oahpposuorgefágaid diibmoplána gártá leat?
+        </p>
+        <p>
+            Guovdageainnu nuoraidskuvla
+        </p>
+        <p>
+            Ráđđeaddi bokte
+        </p>
+        <p>
+            <em type="italic">
+                Mii geahččat dárkileappot dáid:
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                FÁDDÁ: Čuvgehusat ja registtar
+            </em>
+        </p>
+        <p>
+            (Bargobihtát: siiddut 156 - 159)
+        </p>
+        <p>
+            <em type="bold">
+                Oahppi: ............................................... Luohkká: ...................
+            </em>
+        </p>
+        <p>
+            Alf vázzá nuoraidskuvlla 10.luohká. Son geahčadii oahppokataloga ja su mielas orrot leamen čuđiid mielde iešguđetlágan kurssat maid gaskkas sáhttá válljet, go dál ohcá joatkkaskuvlii. Galle vuođđokurssa leat oktiibuot maid gaskkas Alf sáhttá válljet, ja makkár namahusat leat iešguđet oahpposurggiin?
+        </p>
+        <p>
+            Alf fuomášii go geahčadii kursaregisttara ahte muhtin fágat ja kurssat leat ivdnejuvvon fiskadin ja earát leat fas ruoná ivnnis. Maid dát ivnnit muitalit midjiide?
+        </p>
+        <p>
+            Biera áigu vuoktačuohppin šaddat ja jurddaha makkár vuođđokursii son dasto galgá ohcat. Biera geahččá kursaregisttaris ja gávdná
+            <em type="italic">
+                vuoktačuohppifága
+            </em>
+        159. siiddus gihppagis. Ovddabealde
+            <em type="italic">
+                vuoktačuohppifága
+            </em>
+        leat tállat ja bustávat, ja vuoktačuohppifága maŋŋelis čuožžu tálla 68. Maid diet
+            <em type="italic">
+                HÁ -
+            </em>
+        bustávat mákset, mat čužžot ovdalis fága namahusa, ja maid tálla 55 máksá?
+        </p>
+        <p>
+            Geahča kursaregisttaris ja gávnna man vuođđokurssa galggat váldit go áiggut leat:
+        </p>
+        <p>
+            Mihtideaddji:
+        </p>
+        <p>
+            Fidnovuoddji:
+        </p>
+        <p>
+            Bohccebiddji:
+        </p>
+        <p>
+            Goahkka:
+        </p>
+        <p>
+            Diibmodahkki:
+        </p>
+        <p>
+            Bátnedearvvašvuođačálli:
+        </p>
+        <p>
+            Liikedikšu/-divššár:
+        </p>
+        <p>
+            Šaddaniehkki:
+        </p>
+        <p>
+            Biilaláhkkejeaddji:
+        </p>
+        <p>
+            Láibu:
+        </p>
+        <p>
+            Apoteikateknihkkár:
+        </p>
+        <p>
+            Veahkkedikšu/-divššár:
+        </p>
+        <p>
+            Girdivuogádatmekanihkkár:
+        </p>
+        <p>
+            Govvejeaddji:
+        </p>
+        <p>
+            Guovdageainnu nuoraidskuvla
+        </p>
+        <p>
+            Ráđđeaddi bokte
+        </p>
+        <p>
+            <em type="italic">
+                Mii geahččat dárkileappot dáid:
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                FÁDDÁ: Mun hálidan šaddat ..................... ?
+            </em>
+        </p>
+        <p>
+            (Bargobihttá iežat oahppovázzima birra)
+        </p>
+        <p>
+            <em type="bold">
+                Oahppi: .............................................. Luohkká: ........................
+            </em>
+        </p>
+        <p>
+            Mun hálidan šaddat ................................................... Gávnna makkár bargu dán fidnus lea ja čális čoavddasániid dása:
+        </p>
+        <p>
+            Čilge makkár vuođđokurssa galggat vázzit ja movt du oahppováldin lea viidáseappot. (Makkár kurssaid/skuvllaid dehe fitnodagas galggat váldit oahpu, man guhká ádjánat ja makkár eksámeniid dehe geahččalemiid galggat čađahit):
+        </p>
+        <p>
+            Go don leat geargan JK 1, eahpidat don garrasit ahte áiggot go don duođaid šaddat
+        </p>
+        <p>
+            .......................................... Makkár eará fidnuid/fágaid sáhtát válljet JK1-kurssa
+        </p>
+        <p>
+            vuođul maid leat váldán? Maid anát don leat buorren čoavddusin vai beasat viidáseappot?
+        </p>
+        <p>
+            Vállje ovtta dáin fidnuin ja čilge makkár skuvllain galggat joatkkit jus dán oahppogeainnu válljet.
+        </p>
+        <p>
+            Sáhtátgo don sirdit dábálaš oahpposuorgái? Movt dagašit (loga kataloga 23. siiddus dán birra.)
+        </p>
+    </body>
+</document>

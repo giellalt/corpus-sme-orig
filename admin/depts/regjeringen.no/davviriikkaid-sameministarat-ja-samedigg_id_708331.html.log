@@ -1,0 +1,178 @@
+Error at: 119
+<string>:1:0:ERROR:VALID:DTD_CONTENT_MODEL: Element list content does not follow the DTD, expecting (p)*, got (p p p p em)
+<document {http://www.w3.org/XML/1998/namespace}lang="sme" id="no_id">
+    <header>
+        <title>
+            Davviriikkaid sámeministarat ja sámediggepresideanttat deaivvadit Oslos - regjeringen.no
+        </title>
+        <genre code="admin">
+        </genre>
+        <author>
+            <person firstname="" lastname="Fornyings-, administrasjons- og kirkedepartementet" sex="unknown" born="" nationality="">
+            </person>
+        </author>
+        <year>
+            2012
+        </year>
+        <publChannel>
+            <publication>
+                <publisher>
+                    regjeringen.no
+                </publisher>
+            </publication>
+        </publChannel>
+        <wordcount>
+            406
+        </wordcount>
+        <conversion_status type="standard">
+        </conversion_status>
+        <availability>
+            <free>
+            </free>
+        </availability>
+        <submitter name="" email="divvun@samediggi.no">
+        </submitter>
+        <multilingual>
+            <language {http://www.w3.org/XML/1998/namespace}lang="nob">
+            </language>
+        </multilingual>
+        <origFileName>
+            http://regjeringen.no/se/dep/fad/preassaguovdda/preassadieahusat/2012/davviriikkaid-sameministarat-ja-samedigg.html?id=708331
+        </origFileName>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="dan" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="eng" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fin" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fit" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fkv" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="ger" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="isl" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="kal" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="kpv" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="nno" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="nob" location="nordiske-sameministre-og-sametingspresid_id_708331.html">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="rus" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sma" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sme" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="smj" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="smn" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sms" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="swe" location="">
+        </parallel_text>
+        <metadata>
+            <uncomplete>
+            </uncomplete>
+        </metadata>
+        <version>
+            XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$;
+        </version>
+    </header>
+    <body>
+        <p>
+            Váldosisdollui
+        </p>
+        <p>
+            Preassabovdejupmi
+        </p>
+        <p type="title">
+            Davviriikkaid sámeministarat ja sámediggepresideanttat deaivvadit Oslos
+        </p>
+        <p type="title">
+            Historjjálaš arkiiva
+        </p>
+        <p>
+            Almmustahttináigodat Regjeringen Stoltenberg II
+        </p>
+        <p>
+            Almmustahtti: Ođasmahttin-, hálddahus- ja girkodepartemeanta
+        </p>
+        <p>
+            - Gollegiela nammasaš Davviriikkalaš sámi giellabálkkašumi geigen
+        </p>
+        <p>
+            Bearjadaga skábmamánu 23. beaivái lea Ođasmahttin-, hálddahus- ja girkoministtar Rigmor Aasrud bovden davviriikkaid sámeministariid ja sámediggepresideanttaid čoahkkimii Osloi. Čoahkkima oktavuođas galgá Gollegiela nammasaš sámi giellabálkkašupmi geigejuvvot.
+        </p>
+        <p>
+            <em type="italic">
+                Bearjadaga skábmamánu 23. beaivái lea Ođasmahttin-, hálddahus- ja girkoministtar Rigmor Aasrud bovden davviriikkaid sámeministariid ja sámediggepresideanttaid čoahkkimii Osloi. Čoahkkima oktavuođas galgá Gollegiela nammasaš sámi giellabálkkašupmi geigejuvvot.
+            </em>
+        </p>
+        <p>
+            - Iluin vuorddašan, ovttas Norgga sámediggepresideanttain, ahte beasan deaivvadit ja čoahkkimastit Suoma ja Ruoŧa kollegaiguin ja dan guovtti riikka sámediggepresideanttaiguin Oslos. Dehálaš lea ahte mii deaivvadit ja ságastit golmma riikka rájáid rasttideaddji doaibmabijuid ja oktasaš hástalusaid birra, cealká Rigmor Aasrud.
+        </p>
+        <p>
+            Čoahkkima áššelisttus leat čuovvovaš áššit:
+        </p>
+        <list>
+            <p type="listitem">
+                <em type="italic">
+                    Jagi 2012 Davviriikkalaš sámi giellabálkkašupmi – Gollegiella
+                </em>
+            Suoma, Ruoŧa ja Norgga sámeministarat ja sámediggepresideanttat leat ásahan Davviriikkalaš sámi giellabálkkašumi – Gollegiela – mii dárogillii mearkkaša
+                <span type="quote">
+                    "gullspråk"
+                </span>
+            . Bálkkašupmi lea sullii 120 000 Norgga ruvnnu (15 000 euro) ja juhkkojuvvo ovttaskas olbmuide, joavkkuide, organisašuvnnaide dahje ásahusaide mat leat áŋgiruššan sámegielain ja dan ovdáneapmái mávssolaččat váikkuhan. Bálkkašupmi juhkkojuvvo juohke nuppi jagi vuoitái mii lea Suomas, Ruoŧas, Ruoššas ja/dahje Norggas eret. Bálkkašupmi juhkkojuvvui vuosttas gearddi jagi 2004.
+            </p>
+            <p type="listitem">
+                <em type="italic">
+                    Davviriikkalaš sámi fága- ja resursaguovddáš sámegiela várás
+                </em>
+                <em type="italic">
+                    – Giellagáldu
+                </em>
+            Oktasaš davviriikkalaš raportta vuođul mii rávve ođđasit organiseret giellaovttasbarggu, ja vel jagi 2011 čađahuvvon ovdaprošeavtta vuođul, lea Sámi parlamentáralaš ráđđi (SPR) mearridan álggahit Davviriikkalaš fága- ja resursaguovddáža sámegiela várás - Giellagáldu. Prošeaktaáigodat álgá ođđajagemánu 1. b. 2013 ja loahppá geassemánu 30. b. 2014.
+            </p>
+            <p type="listitem">
+                <em type="italic">
+                    Barentsovttasbarggu álgoálbmotperspektiiva
+                </em>
+            Barentsovttasbargu ásahuvvui Girkonjárgga julggaštusain jagi 1993 ja lea davvi guvllolaš ovttasbarggu caggi. Barentsovttasbarggus lea 20-jagi ávvudeapmi jagi 2013 go Norga doaibmá njunušin. Go Norggas lea njunušdoaibma, de lea ulbmil ráhkadit ođđa Girkonjárgga julggaštusa mii speadjalastá nuppástusaid jagi 1993 rájes ja válddahallá joatkevaš jagiid ovttasbarggu váldolinnjáid. Álgoálbmotdimenšuvdna lea dehálaš Barentsovttasbarggus.
+            </p>
+            <p type="listitem">
+                <em type="italic">
+                    Sámiid givssideami ja vealaheami vuostálastin
+                </em>
+            Dehálaš fáddá davviriikkaid ministariid ja sámediggepresideanttaid čoahkkimis šaddá leat sámiid givssideami ja vealaheami vuostálastin. ONa álgoálbmotfora Suoma ovddasteaddji ja Suoma unnitlohkoáittardeaddji, Eva Biaudet, lea bovdejuvvon doallat oanehis sáhkavuoru fáttá birra. Biaudets sáhkavuoru maŋŋá áigot ministarat ja sámediggepresideanttat lonohallat jurdagiid fáttá birra.
+            </p>
+            <em type="bold">
+                ﻿
+            </em>
+        </list>
+        <p>
+            <em type="italic">
+                Čoahkkima prográmma:
+            </em>
+        10.00: Ministariid ja sámediggepresideanttaid čoahkkin 11.00: Jagi 2012 Davviriikkalaš giellabálkkašumi – Gollegiela - geigen 11.30: Mediat besset deaivvadit ja gulahallat čoahkkima oassálastiiguin 12.00: Boradeapmi (čoahkkimastiid várás)
+        </p>
+        <p>
+            Mediat besset leat mielde čoahkkima álggus ja giellabálkkašumi geigema oktavuođas ja dieđusge besset mediat deaivvadit ja gulahallat čoahkkima oassálastiiguin.
+        </p>
+        <p>
+            <em type="italic">
+                Áigi:
+            </em>
+        Bearjadaga skábmamánu 23. beaivi diibmu 10.00
+            <em type="italic">
+                Báiki:
+            </em>
+        Gamle Logen, Grev Wedels plass 2
+        </p>
+    </body>
+</document>

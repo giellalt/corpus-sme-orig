@@ -1,0 +1,193 @@
+Error at: 119
+<string>:1:0:ERROR:VALID:DTD_INVALID_CHILD: Element p is not declared in p list of possible children
+<document {http://www.w3.org/XML/1998/namespace}lang="sme" id="no_id">
+    <header>
+        <title>
+        </title>
+        <genre code="admin">
+        </genre>
+        <author>
+            <unknown>
+            </unknown>
+        </author>
+        <wordcount>
+            874
+        </wordcount>
+        <conversion_status type="standard">
+        </conversion_status>
+        <availability>
+            <license type="standard">
+            </license>
+        </availability>
+        <multilingual>
+        </multilingual>
+        <origFileName>
+            Tekst om FLS til helsedir.no_til_oversetting sme.docx
+        </origFileName>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="dan" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="eng" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fin" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fit" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fkv" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="ger" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="isl" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="kal" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="kpv" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="nno" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="nob" location="tekst_om_fls_til_helsedir.no_til_oversetting_nob.docx">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="rus" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sma" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sme" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="smj" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="smn" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sms" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="swe" location="">
+        </parallel_text>
+        <metadata>
+            <uncomplete>
+            </uncomplete>
+        </metadata>
+        <version>
+            XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$;
+        </version>
+    </header>
+    <body>
+        <p>
+            Tekst om FLS for oversettelse til Nord-, Sør- og Lulesamisk på helsedir.no/folkehelse/frisklivssentraler
+        </p>
+        <p>
+            <em type="bold">
+                Frisklivssentraler
+            </em>
+        </p>
+        <p>
+            <em type="bold">
+                Álšaguovddážat
+            </em>
+        </p>
+        <p>
+            Kommunene er gjennom
+            <em type="italic">
+                helse- og omsorgstjenesteloven
+            </em>
+        pålagt å tilby helsefremmende og forebyggende helsetjenester til befolkningen. Frisklivssentralen er en kommunal helsetjeneste og en anbefalt måte å organisere slike tjenester på og en del av kommunens samlede helsetilbud. Veilederen beskriver kvalitetskrav og anbefalinger for etablering, organisering og tilbud ved kommunale frisklivssentraler. Tilbudet har en helsefremmende, tverrfaglig og brukersentrert tilnærming. Målet er å fremme helse og forebygge sykdom ved å gi tidlig hjelp til å endre levevaner og mestre helseutfordringer og livet med kronisk sykdom.
+        </p>
+        <p>
+            Gielddat leat dearvvašvuođa- ja fuolahusbálvaluslága bokte geatnegahtton fállat dearvvašvuođaovddideaddji ja eastadeaddji bálvalusaid álbmogii. Álšaguovddáš lea gielddalaš dearvvašvuođabálvalus, ja lea ávžžuhuvvon vuohki organiseret iešguđetlágan bálvalusaid ja lea oassin gieldda oppalaš dearvvašvuođafálaldagas. Bagadus čilge kvalitehtagáibádusaid ja ávžžuhusaid ásadettiin ja organiseredettiin gielddalaš álšaguovddážiid ja daid fálaldagaid. Fálaldagas lea dearvvašvuođaovddideaddji, fágaidrasttildeaddji ja geavaheaddji guovdásaš lahkonanvuohki. Ulbmil lea ovddidit dearvvašvuođa ja eastadit dávddaid go árrat jo veahkeha rievdadit eallindábiid ja birgehallat dearvvašvuođahástalusaiguin ja eallima bissovaš dávddaiguin.
+        </p>
+        <p>
+            Målgruppen er personer som har økt risiko for, er i ferd med å utvikle, eller allerede har utviklet sykdom. Det er for eksempel egnet ved sammensatte og langvarige helseutfordringer eller ved risiko for frafall fra skole eller arbeidsliv og som tiltak før eller etter annen behandling. . Personer kan selv ta kontakt eller bli henvist av fastlegen, nav eller annet helsepersonell.
+        </p>
+        <p>
+            Ulbmiljoavku leat olbmot geain lea stuorát riska fáhtehallat dávdii, geat leat buohcagoahtán dávddas dahje geaidda dávda lea jo basttán. Dat heive bures go ovdamearkka dihtii leat seagáš ja guhkilmas dearvvašvuođahástalusat, dahje go lea riska heaitit skuvllas dahje barggus ja dát maid heive doaibmabidjun ovdal dahje maŋŋá eará divššu.
+        </p>
+        <p>
+            Olbmot sáhttet ieža váldit oktavuođa dahje de sáhttet sihke fástadoavttir, NAV dahje eará dearvvašvuođabargit lágidit du dohko.
+        </p>
+        <p>
+            Frisklivssentralens brukere får strukturert, helhetlig oppfølging med individuell og grupperettet veiledning, informasjon og aktiviteter tilpasset den enkeltes behov. Tilbudet gis for 12 uker av gangen og kan omfatte støtte til fysisk aktivitet, sunt kosthold og snus- og røykeslutt, og å mestre psykiske belastninger, søvnvansker og risikofylt alkoholbruk.
+        </p>
+        <p>
+            Álšaguovddáža geavaheaddjit ožžot struktuvrralaš, ollislaš čuovvoleami individuála ja joavkkuin bagadallama, dieđuid ja aktivitehtaid mat leat heivehuvvon ovttaskasolbmo dárbbuide.
+        </p>
+        <p>
+            Fálaldat fállojuvvo 12 vahku háválassii ja sáhttit doarjut earet eará sihke fysalaš aktivitehta ja dearvvašlaš biebmodoaluovddidit,, doarjut snuvssa- ja borgguheami heaitit , ja oahppat birgehallat psyhkalaš nođiiguin, oađđinváttisvuođaiguin ja váralaš
+        </p>
+        <p>
+            alkoholageavahemiin.
+        </p>
+        <p>
+            Det strukturerte oppfølgingstilbudet starter og avsluttes med en helsesamtale. Ved behov kan det gjennomføres flere helsesamtaler i oppfølgingsperioden. Plan for oppfølging tar utgangspunkt i brukerens mål og funksjonsnivå og lages av bruker og veileder i fellesskap. Veileder ved frisklivssentralen er en samarbeidspartner og støttespiller underveis. Videre mål og plan vurderes etter 12 uker, og ved behov gis det tilbud om ytterligere oppfølging. Underveis skal brukeren få informasjon om, og gjerne mulighet til å prøve ut, aktuelle lokale tilbud. Frisklivssentralen skal ha oversikt over, kjennskap til og samarbeide med og lede videre til slike tilbud. Målet er at brukeren blir i stand til å mestre helseutfordringer, opprettholde endringer og fortsette med egen aktivitet etter at oppfølgingen ved frisklivssentralen er avsluttet.
+        </p>
+        <p>
+            Struktuvrralaš čuovvolanfálaldaga álggahat ja loahpahat dearvvašvuođaságastallamiin. Dárbbu mielde sáhttá čađahit máŋga dearvvašvuođaságastallama čuovvolanáigodagas. Čuovvolanplána vuolggasadji lea geavaheaddji mihttu ja doaibmadássi, ja dan ráhkadeaba geavaheaddji ja bagadalli ovttas. Álšaguovddáža bagadalli lea ovttasbargoguoibmi ja doarjja áigodagas. Viidásit mihtut ja plána árvvoštallojuvvojit 12 vahku maŋŋá, ja dađe mielde go lea dárbu, de sáhttá fállat eanet čuovvoleami. Áigodagas galgá geavaheaddji oažžut dieđuid áigeguovdilis báikkálaš fálaldagaid birra ja áinnas oažžut vejolašvuođa geahččalit daid. Álšaguovddážis galgá leat bajilgovva dákkár fálaldagain, dovdat daid ja ovttasbargat daiguin ja láidestit dákkár fálaldagaide. Ulbmil lea ahte geavaheaddji oahppá birgehallat dearvvašvuođahástalusaiguin, bisuhit rievdadusaid ja joatkit iežas aktivitehtain maŋŋá go álšaguovddáža čuovvoleapmi lea loahpahuvvon.
+        </p>
+        <p>
+            Frisklivssentralens tilbud kan både benyttes som tidlig innsats for å forebygge eller begrense utvikling av sykdom, og være tilbud til personer i et behandlings, rehabiliterings eller habiliteringsforløp . Samarbeid på tvers av tjenester og nivå er nødvendig for at brukerne skal oppleve helhetlige og koordinerte tjenester.
+        </p>
+        <p>
+            Álšaguovddáža fálaldagaid sáhttá geavahit sihke árrat jo eastadišgoahtit dávddaid falleheamis dahje bissehit dávdda vearáskeamis jos dávda lea jo bastán fáhtehallamis, ja leahkit fálaldagahkanolbmuide geat divššus, leat veajuidahttimis dahje habiliteremis. Bálvalusaid ja dásiid rasttildeaddji ovttasbargu lea dárbbašlaš vai geavaheaddjit vásihit ollislaš ja ovttastahtton bálvalusaid.
+        </p>
+        <p>
+            Frisklivssentralen bidrar til å løse kommunale oppgaver. Den skal være en samarbeidspartner i det lokale folkehelsearbeidet, blant annet gjennom veiledning og informasjon til befolkningen, og ved å bidra i oversiktsarbeidet som en del av grunnlaget for kommunale planprosesser.
+        </p>
+        <p>
+            Álšaguovddáš veahkeha čoavdit gielddalaš bargguid. Dat galgá leat ovttasbargoguoibmin báikkálaš álbmotdearvvašvuođabarggus, earret eará bagadallat álbmoga ja juohkit dieđuid, ja leat mielde bajilgovvabarggus mii lea oassin gielddalaš plánaproseassaid vuođus.
+        </p>
+        <p>
+            <em type="italic">
+                Film:
+            </em>
+        Norske versjoner av frisklivsfilmen med undertekst på nord-, sør og lulesamisk (youtube.com) (er oversatt)
+        </p>
+        <p>
+            <em type="italic">
+                Filbma:
+            </em>
+        Álšaguovddášfilmma dárogiela veršuvnnat mat leat tekstejuvvon davvi-, mátta- ja julevsámegillii (youtube.com)
+        </p>
+        <p>
+            (leat jorgaluvvon)
+        </p>
+        <p>
+            <em type="italic">
+                Figur:
+            </em>
+        Det strukturerte oppfølgingstilbudet i frisklivssentraler (PDF) – 3 lenker oversatt til nord, sør og lulesamisk (ikke oversatt ennå)
+        </p>
+        <p>
+            <em type="italic">
+                Govus:
+            </em>
+        Álšaguovddážiid struktuvrralaš čuovvolanfálaldat (PDF)
+        </p>
+        <p>
+            – 3 liŋkka jorgaluvvon davvi-, mátta- ja julevsámegillii (eai jorgaluvvon vel)
+        </p>
+        <p>
+            <em type="bold">
+                Brosjyre:
+            </em>
+        Frisklivskortet over satt til nord, sør og lulesamisk (er oversatt)
+        </p>
+        <p>
+            <em type="bold">
+                Gihpa:
+            </em>
+        </p>
+        <p>
+            Álšakoarta jorgaluvvon davvi-, mátta- ja julevsámegillii
+        </p>
+        <p>
+            <p type="title">
+                Finn din frisklivssentral (oversette overskrifter/lenketekst på samisk)
+            </p>
+        </p>
+        <p type="title">
+            Oza iežat álšaguovddáža
+        </p>
+        <p>
+            Oversikt over kommuner med frisklivssentral
+        </p>
+        <p>
+            Bajilgovva gielddain gos lea álšaguovddáš
+        </p>
+    </body>
+</document>
