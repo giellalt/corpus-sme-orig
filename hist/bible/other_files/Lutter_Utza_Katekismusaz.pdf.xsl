@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'1728'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -90,7 +90,7 @@
          letters, the command "ccat -l sme -o names" (etc.) will give the available 
          orthograpies. Example names: bergslandruong, friis, itkonen, leem, ...
     -->
-     <xsl:variable name="orthography" select="'friis'"/> 
+     <xsl:variable name="orthography" select="'leem'"/> 
     
 
     <!-- Free form tags to describe the document -->
