@@ -376,7 +376,6 @@
         other markup, as such markup otherwise will be removed.
     -->
 
-    <!--
     <xsl:template match="p[parent::body][not(./em | ./span)][text()]">
         <xsl:variable name="text" select='current()' />
         <xsl:variable name="type" select='@type' />
@@ -395,12 +394,11 @@
 
             <xsl:call-template name="globalTextReplace">
                 <xsl:with-param name="inputString" select="$text"/>
-                <xsl:with-param name="target" select="'str1/str2/str3/'"/>
-                <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
+                <xsl:with-param name="target" select="'- /\- '"/>
+                <xsl:with-param name="replacement" select="'/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
         </xsl:element>
     </xsl:template>
-    -->
 
 </xsl:stylesheet>
