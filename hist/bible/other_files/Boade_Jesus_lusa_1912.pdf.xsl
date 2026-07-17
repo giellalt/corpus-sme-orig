@@ -11,17 +11,17 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="''"/>
+    <xsl:variable name="filename" select="'Boade_Jesus_lusa_1912.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Boađe Jesus lusa!'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="''"/>
-    <xsl:variable name="author1_ln" select="''"/>
+    <xsl:variable name="author1_fn" select="'Newmann'"/>
+    <xsl:variable name="author1_ln" select="'Hann'"/>
     <!-- m, f or unknown -->
-    <xsl:variable name="author1_gender" select="'unknown'"/>
+    <xsl:variable name="author1_gender" select="'m'"/>
     <!--
         The country where the author is from. It should be written as
         an ISO_3166-1 code.
@@ -103,9 +103,9 @@
     -->
     <xsl:variable name="translated_from" select="''"/>
     <!-- Translator variables have the same format as the author ones -->
-    <xsl:variable name="translator_fn" select="''"/>
-    <xsl:variable name="translator_ln" select="''"/>
-    <xsl:variable name="translator_gender" select="'unknown'"/>
+    <xsl:variable name="translator_fn" select="'Kr'"/>
+    <xsl:variable name="translator_ln" select="'Andreasen'"/>
+    <xsl:variable name="translator_gender" select="'m'"/>
     <xsl:variable name="translator_born" select="''"/>
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
