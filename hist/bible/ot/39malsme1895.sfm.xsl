@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="''"/>
+    <xsl:variable name="filename" select="'39MALSME1895.SFM'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Bibal daihe Basse čala mi sistes doalla boares ja ođđa testamenta kanonalaš girjid'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -70,7 +70,7 @@
     <xsl:variable name="author5_nat" select="''"/>
     <xsl:variable name="author5_born" select="''"/>
 
-    <xsl:variable name="publisher" select="''"/>
+    <xsl:variable name="publisher" select="'Norges Finnemisjon'"/>
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
@@ -80,7 +80,7 @@
     <xsl:variable name="place" select="''"/>
 
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="genre" select="''"/>
+    <xsl:variable name="genre" select="'hist'"/>
 
     <xsl:variable name="collection" select="''"/>
 
@@ -137,14 +137,14 @@
     <xsl:variable name="note" select="''"/>
 
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="mainlang" select="''"/>
+    <xsl:variable name="mainlang" select="'sme'"/>
 
     <!--
         In the case of a multilingual document, we may want to check for
         other languages. Set the variable monolingual to '1' to turn off
         language recognition (treating everything as mainlang)
     -->
-    <xsl:variable name="monolingual" select="''"/>
+    <xsl:variable name="monolingual" select="'1'"/>
 
     <!--
         If monolingual is not set, the document is multilingual.
