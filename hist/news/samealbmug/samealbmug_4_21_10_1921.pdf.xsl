@@ -90,7 +90,7 @@
          letters, the command "ccat -l sme -o names" (etc.) will give the available 
          orthograpies. Example names: bergslandruong, friis, itkonen, leem, ...
     -->
-     <xsl:variable name="orthography" select="''"/> 
+     <xsl:variable name="orthography" select="'friis'"/> 
     
 
     <!-- Free form tags to describe the document -->
