@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="''"/>
+    <xsl:variable name="filename" select="'Sami_usteb_02_1900_2.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Sami Usteb'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
