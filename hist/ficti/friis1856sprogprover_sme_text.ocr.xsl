@@ -11,25 +11,25 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="''"/>
+    <xsl:variable name="filename" select="'friis1856sprogprover_sme_text.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Lappiske Sprogprøver'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="''"/>
-    <xsl:variable name="author1_ln" select="''"/>
+    <xsl:variable name="author1_fn" select="'Jens Andreas'"/>
+    <xsl:variable name="author1_ln" select="'Friis'"/>
     <!-- m, f or unknown -->
-    <xsl:variable name="author1_gender" select="'unknown'"/>
+    <xsl:variable name="author1_gender" select="'m'"/>
     <!--
         The country where the author is from. It should be written as
         an ISO_3166-1 code.
         https://no.wikipedia.org/wiki/ISO_3166-1
     -->
-    <xsl:variable name="author1_nat" select="''"/>
+    <xsl:variable name="author1_nat" select="'NO'"/>
     <!-- Either YYYY or YYYYMMDD. Examples: 1954 or 19451224 -->
-    <xsl:variable name="author1_born" select="''"/>
+    <xsl:variable name="author1_born" select="'18210502'"/>
     <!--
         Information of the second author: first name, last name,
         date or year of birth, nationality.
