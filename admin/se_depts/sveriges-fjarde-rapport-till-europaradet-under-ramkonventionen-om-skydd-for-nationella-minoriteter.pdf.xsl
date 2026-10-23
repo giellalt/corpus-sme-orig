@@ -157,7 +157,7 @@
     <xsl:variable name="mlangs">
         <language xml:lang="swe"/>
         <language xml:lang="fin"/>
-        <language xml:lang="heb"/>
+        <language xml:lang="yid"/>
         <language xml:lang="fit"/>
         <language xml:lang="sme"/>
         <language xml:lang="rom"/>
