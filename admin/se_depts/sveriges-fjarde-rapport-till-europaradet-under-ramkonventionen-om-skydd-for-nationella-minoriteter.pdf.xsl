@@ -160,7 +160,7 @@
         <language xml:lang="yid"/>
         <language xml:lang="fit"/>
         <language xml:lang="sme"/>
-        <language xml:lang="rom"/>
+        <language xml:lang="rmn"/>
         <language xml:lang="sma"/>
     </xsl:variable>
 
